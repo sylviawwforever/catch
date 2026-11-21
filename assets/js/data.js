@@ -1,14 +1,14 @@
 /* CATCH · 自动生成，请勿手工修改 —— 由 tools/build_site.py 装配 */
 window.CATCH_DATA = {
  "meta": {
-  "generatedAt": "2026-11-21T21:00:30.697981+08:00",
+  "generatedAt": "2026-11-21T22:10:38.042745+08:00",
   "issueDate": "2026-11-21",
   "issueNo": "001",
   "dateLabel": "2026 年 11 月 21 日",
   "weekday": "星期六",
-  "mode": "hourly",
+  "mode": "full",
   "lastFullRun": "2026-11-21",
-  "durationSec": 28.3,
+  "durationSec": 1530.8,
   "platformStatus": {
    "weibo": {
     "source": "tophub.today · weibo",
@@ -38,7 +38,7 @@ window.CATCH_DATA = {
    },
    "x": {
     "source": "trends24.in · X 24h 趋势",
-    "items": 22,
+    "items": 50,
     "ok": true,
     "error": null,
     "name": "X",
@@ -54,7 +54,7 @@ window.CATCH_DATA = {
    },
    "news": {
     "source": "tophub.today · news",
-    "items": 146,
+    "items": 149,
     "ok": true,
     "error": null,
     "name": "新闻",
@@ -62,7 +62,7 @@ window.CATCH_DATA = {
    },
    "bili": {
     "source": "B站公开搜索与评论接口",
-    "items": 2855,
+    "items": 2889,
     "ok": true,
     "error": null,
     "name": "哔哩哔哩",
@@ -79,7 +79,7 @@ window.CATCH_DATA = {
    "bili"
   ],
   "freshness": {
-   "generatedAt": "2026-11-21T21:00:30.698067+08:00",
+   "generatedAt": "2026-11-21T22:10:38.042780+08:00",
    "maxExpectedAgeMinutes": 90,
    "note": "页面展示最近一次成功发布的云端快照；单个平台失败会明确标记"
   },
@@ -87,20 +87,20 @@ window.CATCH_DATA = {
    "source": "近 7 天公开热榜逐日归档 · 微博 / 抖音 / 知乎 / 百度 / 今日头条",
    "window": "2026-11-15 ~ 2026-11-21",
    "days": 7,
-   "corpus": 3172,
-   "candidates": 674,
-   "items": 1,
+   "corpus": 3257,
+   "candidates": 686,
+   "items": 3,
    "ok": true,
-   "note": "7 天 × 5 平台，候选 674 词，经可复用句式与百科类别仲裁后收录 5 词"
+   "note": "7 天 × 5 平台，候选 686 词，经可复用句式与百科类别仲裁后收录 3 词"
   },
   "commentTarget": 1000,
   "eventsPerDay": 5,
   "counts": {
-   "hotItems": 57,
-   "events": 5,
-   "comments": 2855,
-   "rawScanned": 364,
-   "slang": 1
+   "hotItems": 60,
+   "events": 4,
+   "comments": 2889,
+   "rawScanned": 395,
+   "slang": 3
   },
   "source": "微博 / 抖音 / 小红书 / X / 知乎 / 新闻 / B站 公开榜单与真实接口"
  },
@@ -127,20 +127,18 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "习近平主席的深圳APEC时间",
+    "title": "看五十年的中国就来深圳",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 7905000,
     "rank": 1,
-    "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%9A%84%E6%B7%B1%E5%9C%B3APEC%E6%97%B6%E9%97%B4",
+    "url": "https://www.baidu.com/s?wd=%E7%9C%8B%E4%BA%94%E5%8D%81%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B0%B1%E6%9D%A5%E6%B7%B1%E5%9C%B3",
     "board": "百度热搜",
     "tokens": [
-     "习近平",
-     "主席",
-     "深圳",
-     "APEC",
-     "时间"
+     "五十年",
+     "中国",
+     "深圳"
     ]
    },
    {
@@ -196,17 +194,16 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "FSD V15",
+    "title": "Lucia",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 2,
-    "url": "https://twitter.com/search?q=FSD%20V15",
+    "rank": 1,
+    "url": "https://twitter.com/search?q=Lucia",
     "board": "X Trending (24h)",
     "tokens": [
-     "FSD",
-     "V15"
+     "Lucia"
     ]
    },
    {
@@ -230,21 +227,19 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "墨西哥总统的中方女保镖在外网火了",
+    "title": "2名日本人在上海发生冲突 1人死亡",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 7809000,
     "rank": 2,
-    "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E7%9A%84%E4%B8%AD%E6%96%B9%E5%A5%B3%E4%BF%9D%E9%95%96%E5%9C%A8%E5%A4%96%E7%BD%91%E7%81%AB%E4%BA%86",
+    "url": "https://www.baidu.com/s?wd=2%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81+1%E4%BA%BA%E6%AD%BB%E4%BA%A1",
     "board": "百度热搜",
     "tokens": [
-     "墨西哥",
-     "总统",
-     "中方",
-     "女保镖",
-     "在外",
-     "网火"
+     "日本",
+     "上海",
+     "发生冲突",
+     "死亡"
     ]
    },
    {
@@ -299,16 +294,16 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "#二十一大",
+    "title": "GTA 6",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 8,
-    "url": "https://twitter.com/search?q=%23%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A7",
+    "rank": 2,
+    "url": "https://twitter.com/search?q=GTA%206",
     "board": "X Trending (24h)",
     "tokens": [
-     "二十一"
+     "GTA"
     ]
    },
    {
@@ -337,7 +332,7 @@ window.CATCH_DATA = {
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 7809000,
-    "rank": 54,
+    "rank": 55,
     "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%A1%A8%E6%80%81%EF%BC%9A%E6%81%AA%E5%AE%88%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD%E5%8E%9F%E5%88%99",
     "board": "百度热搜",
     "tokens": [
@@ -395,16 +390,17 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Kessler",
+    "title": "Good Saturday",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 9,
-    "url": "https://twitter.com/search?q=Kessler",
+    "rank": 3,
+    "url": "https://twitter.com/search?q=Good%20Saturday",
     "board": "X Trending (24h)",
     "tokens": [
-     "Kessler"
+     "Good",
+     "Saturday"
     ]
    },
    {
@@ -428,22 +424,20 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "多地政务窗口提示工作需使用手机",
+    "title": "长安大学通报14日面试13日出结果",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7712000,
+    "heat": 7713000,
     "rank": 3,
-    "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%94%BF%E5%8A%A1%E7%AA%97%E5%8F%A3%E6%8F%90%E7%A4%BA%E5%B7%A5%E4%BD%9C%E9%9C%80%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA",
+    "url": "https://www.baidu.com/s?wd=%E9%95%BF%E5%AE%89%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A514%E6%97%A5%E9%9D%A2%E8%AF%9513%E6%97%A5%E5%87%BA%E7%BB%93%E6%9E%9C",
     "board": "百度热搜",
     "tokens": [
-     "多地",
-     "政务",
-     "窗口",
-     "提示",
-     "工作",
-     "使用",
-     "手机"
+     "长安",
+     "大学",
+     "面试",
+     "日出",
+     "结果"
     ]
    },
    {
@@ -500,17 +494,17 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Kevin Durant",
+    "title": "GTA VI",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 17,
-    "url": "https://twitter.com/search?q=Kevin%20Durant",
+    "rank": 4,
+    "url": "https://twitter.com/search?q=GTA%20VI",
     "board": "X Trending (24h)",
     "tokens": [
-     "Kevin",
-     "Durant"
+     "GTA",
+     "VI"
     ]
    },
    {
@@ -530,20 +524,21 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "深圳展望”为何成APEC新的里程碑",
+    "title": "荔枝冰酒全线员工加班加点加工资",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7619000,
-    "rank": 4,
-    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B7%B1%E5%9C%B3%E5%B1%95%E6%9C%9B%E2%80%9D%E4%B8%BA%E4%BD%95%E6%88%90APEC%E6%96%B0%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91",
+    "heat": 7713000,
+    "rank": 54,
+    "url": "https://www.baidu.com/s?wd=%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E5%85%A8%E7%BA%BF%E5%91%98%E5%B7%A5%E5%8A%A0%E7%8F%AD%E5%8A%A0%E7%82%B9%E5%8A%A0%E5%B7%A5%E8%B5%84",
     "board": "百度热搜",
     "tokens": [
-     "深圳",
-     "展望",
-     "为何",
-     "APEC",
-     "里程碑"
+     "荔枝",
+     "冰酒",
+     "全线",
+     "员工",
+     "加班加点",
+     "加工资"
     ]
    },
    {
@@ -598,16 +593,16 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "#DBLF2026",
+    "title": "Fiona",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 22,
-    "url": "https://twitter.com/search?q=%23DBLF2026",
+    "rank": 5,
+    "url": "https://twitter.com/search?q=Fiona",
     "board": "X Trending (24h)",
     "tokens": [
-     "DBLF2026"
+     "Fiona"
     ]
    },
    {
@@ -631,21 +626,20 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "曝中方女保镖徐瑾曾战胜5名日本冠军",
+    "title": "深圳展望”为何成APEC新的里程碑",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7522000,
-    "rank": 5,
-    "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E4%B8%AD%E6%96%B9%E5%A5%B3%E4%BF%9D%E9%95%96%E5%BE%90%E7%91%BE%E6%9B%BE%E6%88%98%E8%83%9C5%E5%90%8D%E6%97%A5%E6%9C%AC%E5%86%A0%E5%86%9B",
+    "heat": 7618000,
+    "rank": 4,
+    "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B7%B1%E5%9C%B3%E5%B1%95%E6%9C%9B%E2%80%9D%E4%B8%BA%E4%BD%95%E6%88%90APEC%E6%96%B0%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91",
     "board": "百度热搜",
     "tokens": [
-     "中方",
-     "女保镖",
-     "徐瑾",
-     "战胜",
-     "日本",
-     "冠军"
+     "深圳",
+     "展望",
+     "为何",
+     "APEC",
+     "里程碑"
     ]
    },
    {
@@ -704,16 +698,17 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Jacks",
+    "title": "Daniel Jones",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 23,
-    "url": "https://twitter.com/search?q=Jacks",
+    "rank": 6,
+    "url": "https://twitter.com/search?q=Daniel%20Jones",
     "board": "X Trending (24h)",
     "tokens": [
-     "Jacks"
+     "Daniel",
+     "Jones"
     ]
    },
    {
@@ -737,21 +732,20 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "中方女保镖徐瑾曾1人战胜5名日本冠军",
+    "title": "女生刷到“另一个自己”鉴定是亲姐妹",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7425000,
-    "rank": 56,
-    "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%A5%B3%E4%BF%9D%E9%95%96%E5%BE%90%E7%91%BE%E6%9B%BE1%E4%BA%BA%E6%88%98%E8%83%9C5%E5%90%8D%E6%97%A5%E6%9C%AC%E5%86%A0%E5%86%9B",
+    "heat": 7521000,
+    "rank": 5,
+    "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%88%B7%E5%88%B0%E2%80%9C%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E2%80%9D%E9%89%B4%E5%AE%9A%E6%98%AF%E4%BA%B2%E5%A7%90%E5%A6%B9",
     "board": "百度热搜",
     "tokens": [
-     "中方",
-     "女保镖",
-     "徐瑾",
-     "战胜",
-     "日本",
-     "冠军"
+     "女生",
+     "刷到",
+     "自己",
+     "鉴定",
+     "亲姐妹"
     ]
    },
    {
@@ -805,16 +799,16 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Sengun",
+    "title": "Putin",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 24,
-    "url": "https://twitter.com/search?q=Sengun",
+    "rank": 7,
+    "url": "https://twitter.com/search?q=Putin",
     "board": "X Trending (24h)",
     "tokens": [
-     "Sengun"
+     "Putin"
     ]
    },
    {
@@ -838,18 +832,19 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "青海德令哈地震",
+    "title": "花2万存脐带血12年后发现公司已注销",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7424000,
+    "heat": 7425000,
     "rank": 6,
-    "url": "https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%BE%B7%E4%BB%A4%E5%93%88%E5%9C%B0%E9%9C%87",
+    "url": "https://www.baidu.com/s?wd=%E8%8A%B12%E4%B8%87%E5%AD%98%E8%84%90%E5%B8%A6%E8%A1%8012%E5%B9%B4%E5%90%8E%E5%8F%91%E7%8E%B0%E5%85%AC%E5%8F%B8%E5%B7%B2%E6%B3%A8%E9%94%80",
     "board": "百度热搜",
     "tokens": [
-     "青海",
-     "德令哈",
-     "地震"
+     "万存",
+     "脐带血",
+     "公司",
+     "注销"
     ]
    },
    {
@@ -903,17 +898,16 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Mark Pope",
+    "title": "Rikers",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 25,
-    "url": "https://twitter.com/search?q=Mark%20Pope",
+    "rank": 8,
+    "url": "https://twitter.com/search?q=Rikers",
     "board": "X Trending (24h)",
     "tokens": [
-     "Mark",
-     "Pope"
+     "Rikers"
     ]
    },
    {
@@ -937,17 +931,18 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "黄景瑜腿绞泰国拳王",
+    "title": "青海德令哈地震",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7331000,
+    "heat": 7330000,
     "rank": 7,
-    "url": "https://www.baidu.com/s?wd=%E9%BB%84%E6%99%AF%E7%91%9C%E8%85%BF%E7%BB%9E%E6%B3%B0%E5%9B%BD%E6%8B%B3%E7%8E%8B",
+    "url": "https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%BE%B7%E4%BB%A4%E5%93%88%E5%9C%B0%E9%9C%87",
     "board": "百度热搜",
     "tokens": [
-     "黄景",
-     "泰国拳"
+     "青海",
+     "德令哈",
+     "地震"
     ]
    },
    {
@@ -967,102 +962,147 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "小院#小屋#狸花猫捕猎 #记录真实生活 #日常vlog",
+    "title": "这红包是不是给了 #过年 #万宁与晚安",
     "platform": "douyin",
     "platformName": "抖音",
     "emoji": "🎵",
     "heat": 0,
-    "rank": 8,
-    "url": "https://www.douyin.com/video/7607717948257692659",
+    "rank": 9,
+    "url": "https://www.douyin.com/video/7607779702389220218",
     "board": "抖音视频总榜",
     "tokens": [
-     "小院",
-     "小屋",
-     "花猫",
-     "捕猎",
-     "记录",
-     "真实",
-     "生活",
-     "日常"
+     "红包",
+     "是不是",
+     "过年",
+     "万宁",
+     "晚安"
     ]
    },
    {
-    "title": "我的家庭旅行更像是打副本",
+    "title": "原来古诗词里的河南真的存在",
     "platform": "xhs",
     "platformName": "小红书",
     "emoji": "📕",
     "heat": 0,
-    "rank": 8,
-    "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%97%85%E8%A1%8C%E6%9B%B4%E5%83%8F%E6%98%AF%E6%89%93%E5%89%AF%E6%9C%AC&type=51",
+    "rank": 9,
+    "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%8E%9F%E6%9D%A5%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E6%B2%B3%E5%8D%97%E7%9C%9F%E7%9A%84%E5%AD%98%E5%9C%A8&type=51",
     "board": "小红书热榜",
     "tokens": [
-     "家庭",
-     "旅行",
-     "像是",
-     "副本"
+     "原来",
+     "古诗词",
+     "河南",
+     "真的",
+     "存在"
     ]
    },
    {
-    "title": "Mark Pope",
+    "title": "Thanksgiving",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 25,
-    "url": "https://twitter.com/search?q=Mark%20Pope",
+    "rank": 9,
+    "url": "https://twitter.com/search?q=Thanksgiving",
     "board": "X Trending (24h)",
     "tokens": [
-     "Mark",
-     "Pope"
+     "Thanksgiving"
     ]
    },
    {
-    "title": "网友称零跑 A10 装啤酒致后备厢储物盒脱落，客服称未接到反馈，具体是怎么回事？储物盒能如何规避承重隐患？",
+    "title": "为什么肠道会精准排出菌群异常的大便（腹泻）却又能把正常菌群的大便留在肠道内？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 2400000,
-    "rank": 9,
-    "url": "https://www.zhihu.com/question/2107047283686691607",
+    "heat": 2370000,
+    "rank": 10,
+    "url": "https://www.zhihu.com/question/2063277342005391695",
     "board": "知乎热榜",
     "tokens": [
-     "称零跑",
-     "A10",
-     "啤酒",
-     "后备",
-     "厢储物",
-     "脱落",
-     "客服",
-     "称未"
+     "肠道",
+     "精准",
+     "排出",
+     "菌群",
+     "异常",
+     "大便",
+     "腹泻",
+     "正常"
     ]
    },
    {
-    "title": "黄景瑜腿绞泰国拳王",
+    "title": "曝中方女保镖徐瑾曾战胜5名日本冠军",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7331000,
-    "rank": 7,
-    "url": "https://www.baidu.com/s?wd=%E9%BB%84%E6%99%AF%E7%91%9C%E8%85%BF%E7%BB%9E%E6%B3%B0%E5%9B%BD%E6%8B%B3%E7%8E%8B",
+    "heat": 7232000,
+    "rank": 8,
+    "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E4%B8%AD%E6%96%B9%E5%A5%B3%E4%BF%9D%E9%95%96%E5%BE%90%E7%91%BE%E6%9B%BE%E6%88%98%E8%83%9C5%E5%90%8D%E6%97%A5%E6%9C%AC%E5%86%A0%E5%86%9B",
     "board": "百度热搜",
     "tokens": [
-     "黄景",
-     "泰国拳"
+     "中方",
+     "女保镖",
+     "徐瑾",
+     "战胜",
+     "日本",
+     "冠军"
     ]
    },
    {
-    "title": "两京十五日台词",
+    "title": "市场检查高额罚款消息是谣言",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 340000,
-    "rank": 9,
-    "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8F%B0%E8%AF%8D",
+    "heat": 370000,
+    "rank": 7,
+    "url": "https://s.weibo.com/weibo?q=%E5%B8%82%E5%9C%BA%E6%A3%80%E6%9F%A5%E9%AB%98%E9%A2%9D%E7%BD%9A%E6%AC%BE%E6%B6%88%E6%81%AF%E6%98%AF%E8%B0%A3%E8%A8%80",
     "board": "微博热搜榜",
     "tokens": [
-     "两京",
-     "十五日",
-     "台词"
+     "市场",
+     "检查",
+     "高额",
+     "罚款",
+     "谣言"
+    ]
+   },
+   {
+    "title": "光头强",
+    "platform": "douyin",
+    "platformName": "抖音",
+    "emoji": "🎵",
+    "heat": 0,
+    "rank": 10,
+    "url": "https://www.douyin.com/video/7607350591731559860",
+    "board": "抖音视频总榜",
+    "tokens": [
+     "光头"
+    ]
+   },
+   {
+    "title": "蒸出了奶香爆米花馒头",
+    "platform": "xhs",
+    "platformName": "小红书",
+    "emoji": "📕",
+    "heat": 0,
+    "rank": 10,
+    "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%92%B8%E5%87%BA%E4%BA%86%E5%A5%B6%E9%A6%99%E7%88%86%E7%B1%B3%E8%8A%B1%E9%A6%92%E5%A4%B4&type=51",
+    "board": "小红书热榜",
+    "tokens": [
+     "蒸出",
+     "奶香",
+     "爆米花",
+     "馒头"
+    ]
+   },
+   {
+    "title": "Sinaloa",
+    "platform": "x",
+    "platformName": "X",
+    "emoji": "✳️",
+    "heat": 0,
+    "rank": 10,
+    "url": "https://twitter.com/search?q=Sinaloa",
+    "board": "X Trending (24h)",
+    "tokens": [
+     "Sinaloa"
     ]
    }
   ],
@@ -1088,36 +1128,36 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "习近平主席的深圳APEC时间",
+    "title": "看五十年的中国就来深圳",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 7905000,
     "rank": 1,
-    "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%9A%84%E6%B7%B1%E5%9C%B3APEC%E6%97%B6%E9%97%B4",
+    "url": "https://www.baidu.com/s?wd=%E7%9C%8B%E4%BA%94%E5%8D%81%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B0%B1%E6%9D%A5%E6%B7%B1%E5%9C%B3",
     "board": "百度热搜",
     "tokens": [
-     "习近平",
-     "主席",
-     "深圳",
-     "APEC",
-     "时间"
+     "五十年",
+     "中国",
+     "深圳"
     ]
    },
    {
-    "title": "全球PCB供应告急",
+    "title": "两名日本人在上海发生冲突致一人死亡",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 3704000,
+    "heat": 5540000,
     "rank": 1,
-    "url": "https://so.toutiao.com/search?keyword=%23%E5%85%A8%E7%90%83PCB%E4%BE%9B%E5%BA%94%E5%91%8A%E6%80%A5%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E4%B8%A4%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81%E8%87%B4%E4%B8%80%E4%BA%BA%E6%AD%BB%E4%BA%A1%23",
     "board": "今日头条热榜",
     "tokens": [
-     "全球",
-     "PCB",
-     "供应",
-     "告急"
+     "两名",
+     "日本",
+     "上海",
+     "发生冲突",
+     "致一人",
+     "死亡"
     ]
    },
    {
@@ -1193,23 +1233,36 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "沪指终结日线6连阴，估值修复窗口何时开启？头部券商、基金密集发声",
+    "title": "Lucia",
+    "platform": "x",
+    "platformName": "X",
+    "emoji": "✳️",
+    "heat": 0,
+    "rank": 1,
+    "url": "https://twitter.com/search?q=Lucia",
+    "board": "X Trending (24h)",
+    "tokens": [
+     "Lucia"
+    ]
+   },
+   {
+    "title": "言短意长｜“东鹏饮料”被捐进高中校牌，何必这样直白",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 1,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34521359",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34522347",
     "board": "澎湃新闻",
     "tokens": [
-     "终结",
-     "日线",
-     "连阴",
-     "估值",
-     "修复",
-     "窗口",
-     "何时",
-     "开启"
+     "言短",
+     "意长",
+     "东鹏",
+     "饮料",
+     "捐进",
+     "高中",
+     "校牌",
+     "何必"
     ]
    },
    {
@@ -1249,38 +1302,35 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "墨西哥总统的中方女保镖在外网火了",
+    "title": "2名日本人在上海发生冲突 1人死亡",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 7809000,
     "rank": 2,
-    "url": "https://www.baidu.com/s?wd=%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E7%9A%84%E4%B8%AD%E6%96%B9%E5%A5%B3%E4%BF%9D%E9%95%96%E5%9C%A8%E5%A4%96%E7%BD%91%E7%81%AB%E4%BA%86",
+    "url": "https://www.baidu.com/s?wd=2%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81+1%E4%BA%BA%E6%AD%BB%E4%BA%A1",
     "board": "百度热搜",
     "tokens": [
-     "墨西哥",
-     "总统",
-     "中方",
-     "女保镖",
-     "在外",
-     "网火"
+     "日本",
+     "上海",
+     "发生冲突",
+     "死亡"
     ]
    },
    {
-    "title": "余承东纠正“开车可以睡觉”言论",
+    "title": "全球PCB供应告急",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 3352000,
+    "heat": 5013000,
     "rank": 2,
-    "url": "https://so.toutiao.com/search?keyword=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E7%BA%A0%E6%AD%A3%E2%80%9C%E5%BC%80%E8%BD%A6%E5%8F%AF%E4%BB%A5%E7%9D%A1%E8%A7%89%E2%80%9D%E8%A8%80%E8%AE%BA%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E5%85%A8%E7%90%83PCB%E4%BE%9B%E5%BA%94%E5%91%8A%E6%80%A5%23",
     "board": "今日头条热榜",
     "tokens": [
-     "余承东",
-     "纠正",
-     "开车",
-     "睡觉",
-     "言论"
+     "全球",
+     "PCB",
+     "供应",
+     "告急"
     ]
    },
    {
@@ -1355,37 +1405,36 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "FSD V15",
+    "title": "GTA 6",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 2,
-    "url": "https://twitter.com/search?q=FSD%20V15",
+    "url": "https://twitter.com/search?q=GTA%206",
     "board": "X Trending (24h)",
     "tokens": [
-     "FSD",
-     "V15"
+     "GTA"
     ]
    },
    {
-    "title": "言短意长｜“东鹏饮料”被捐进高中校牌，何必这样直白",
+    "title": "倒计时两天！《奔流》第三季从哈德逊河回到苏州河畔",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 2,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34522347",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34510418",
     "board": "澎湃新闻",
     "tokens": [
-     "言短",
-     "意长",
-     "东鹏",
-     "饮料",
-     "捐进",
-     "高中",
-     "校牌",
-     "何必"
+     "倒计时",
+     "两天",
+     "奔流",
+     "第三季",
+     "哈德逊",
+     "回到",
+     "苏州",
+     "河畔"
     ]
    },
    {
@@ -1404,22 +1453,20 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "多地政务窗口提示工作需使用手机",
+    "title": "长安大学通报14日面试13日出结果",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7712000,
+    "heat": 7713000,
     "rank": 3,
-    "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E6%94%BF%E5%8A%A1%E7%AA%97%E5%8F%A3%E6%8F%90%E7%A4%BA%E5%B7%A5%E4%BD%9C%E9%9C%80%E4%BD%BF%E7%94%A8%E6%89%8B%E6%9C%BA",
+    "url": "https://www.baidu.com/s?wd=%E9%95%BF%E5%AE%89%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A514%E6%97%A5%E9%9D%A2%E8%AF%9513%E6%97%A5%E5%87%BA%E7%BB%93%E6%9E%9C",
     "board": "百度热搜",
     "tokens": [
-     "多地",
-     "政务",
-     "窗口",
-     "提示",
-     "工作",
-     "使用",
-     "手机"
+     "长安",
+     "大学",
+     "面试",
+     "日出",
+     "结果"
     ]
    },
    {
@@ -1447,7 +1494,7 @@ window.CATCH_DATA = {
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 4524000,
+    "heat": 4536000,
     "rank": 3,
     "url": "https://so.toutiao.com/search?keyword=%23APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E5%8F%96%E5%BE%97%E5%93%AA%E4%BA%9B%E6%88%90%E6%9E%9C%23",
     "board": "今日头条热榜",
@@ -1525,23 +1572,35 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "倒计时两天！《奔流》第三季从哈德逊河回到苏州河畔",
+    "title": "Good Saturday",
+    "platform": "x",
+    "platformName": "X",
+    "emoji": "✳️",
+    "heat": 0,
+    "rank": 3,
+    "url": "https://twitter.com/search?q=Good%20Saturday",
+    "board": "X Trending (24h)",
+    "tokens": [
+     "Good",
+     "Saturday"
+    ]
+   },
+   {
+    "title": "高铁时代，支线机场如何寻找新定位？",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 3,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34510418",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34453075",
     "board": "澎湃新闻",
     "tokens": [
-     "倒计时",
-     "两天",
-     "奔流",
-     "第三季",
-     "哈德逊",
-     "回到",
-     "苏州",
-     "河畔"
+     "高铁",
+     "时代",
+     "支线",
+     "机场",
+     "寻找",
+     "定位"
     ]
    },
    {
@@ -1569,7 +1628,7 @@ window.CATCH_DATA = {
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7619000,
+    "heat": 7618000,
     "rank": 4,
     "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B7%B1%E5%9C%B3%E5%B1%95%E6%9C%9B%E2%80%9D%E4%B8%BA%E4%BD%95%E6%88%90APEC%E6%96%B0%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91",
     "board": "百度热搜",
@@ -1579,6 +1638,20 @@ window.CATCH_DATA = {
      "为何",
      "APEC",
      "里程碑"
+    ]
+   },
+   {
+    "title": "还40年房贷和租40年房怎么选",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 4104000,
+    "rank": 4,
+    "url": "https://so.toutiao.com/search?keyword=%23%E8%BF%9840%E5%B9%B4%E6%88%BF%E8%B4%B7%E5%92%8C%E7%A7%9F40%E5%B9%B4%E6%88%BF%E6%80%8E%E4%B9%88%E9%80%89%23",
+    "board": "今日头条热榜",
+    "tokens": [
+     "房贷",
+     "年房"
     ]
    },
    {
@@ -1599,24 +1672,6 @@ window.CATCH_DATA = {
      "如果",
      "违反",
      "面临"
-    ]
-   },
-   {
-    "title": "菲总统夸赞中方选曲温暖贴心",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 3033000,
-    "rank": 4,
-    "url": "https://so.toutiao.com/search?keyword=%23%E8%8F%B2%E6%80%BB%E7%BB%9F%E5%A4%B8%E8%B5%9E%E4%B8%AD%E6%96%B9%E9%80%89%E6%9B%B2%E6%B8%A9%E6%9A%96%E8%B4%B4%E5%BF%83%23",
-    "board": "今日头条热榜",
-    "tokens": [
-     "总统",
-     "夸赞",
-     "中方",
-     "选曲",
-     "温暖",
-     "贴心"
     ]
    },
    {
@@ -1693,21 +1748,37 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "高铁时代，支线机场如何寻找新定位？",
+    "title": "GTA VI",
+    "platform": "x",
+    "platformName": "X",
+    "emoji": "✳️",
+    "heat": 0,
+    "rank": 4,
+    "url": "https://twitter.com/search?q=GTA%20VI",
+    "board": "X Trending (24h)",
+    "tokens": [
+     "GTA",
+     "VI"
+    ]
+   },
+   {
+    "title": "中国摄影著作权协会撤销447个首席代表处：不得再以协会名义开展活动",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 4,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34453075",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34522680",
     "board": "澎湃新闻",
     "tokens": [
-     "高铁",
-     "时代",
-     "支线",
-     "机场",
-     "寻找",
-     "定位"
+     "中国",
+     "摄影",
+     "著作权",
+     "协会",
+     "撤销",
+     "首席",
+     "代表处",
+     "不得"
     ]
    },
    {
@@ -1731,21 +1802,37 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "曝中方女保镖徐瑾曾战胜5名日本冠军",
+    "title": "女生刷到“另一个自己”鉴定是亲姐妹",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7522000,
+    "heat": 7521000,
     "rank": 5,
-    "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E4%B8%AD%E6%96%B9%E5%A5%B3%E4%BF%9D%E9%95%96%E5%BE%90%E7%91%BE%E6%9B%BE%E6%88%98%E8%83%9C5%E5%90%8D%E6%97%A5%E6%9C%AC%E5%86%A0%E5%86%9B",
+    "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E7%94%9F%E5%88%B7%E5%88%B0%E2%80%9C%E5%8F%A6%E4%B8%80%E4%B8%AA%E8%87%AA%E5%B7%B1%E2%80%9D%E9%89%B4%E5%AE%9A%E6%98%AF%E4%BA%B2%E5%A7%90%E5%A6%B9",
     "board": "百度热搜",
     "tokens": [
-     "中方",
-     "女保镖",
-     "徐瑾",
-     "战胜",
-     "日本",
-     "冠军"
+     "女生",
+     "刷到",
+     "自己",
+     "鉴定",
+     "亲姐妹"
+    ]
+   },
+   {
+    "title": "余承东纠正“开车可以睡觉”言论",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 3360000,
+    "rank": 5,
+    "url": "https://so.toutiao.com/search?keyword=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E7%BA%A0%E6%AD%A3%E2%80%9C%E5%BC%80%E8%BD%A6%E5%8F%AF%E4%BB%A5%E7%9D%A1%E8%A7%89%E2%80%9D%E8%A8%80%E8%AE%BA%23",
+    "board": "今日头条热榜",
+    "tokens": [
+     "余承东",
+     "纠正",
+     "开车",
+     "睡觉",
+     "言论"
     ]
    },
    {
@@ -1762,21 +1849,6 @@ window.CATCH_DATA = {
      "利润",
      "这么",
      "大家"
-    ]
-   },
-   {
-    "title": "俄乌袭桥战升级",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 2483000,
-    "rank": 5,
-    "url": "https://so.toutiao.com/search?keyword=%23%E4%BF%84%E4%B9%8C%E8%A2%AD%E6%A1%A5%E6%88%98%E5%8D%87%E7%BA%A7%23",
-    "board": "今日头条热榜",
-    "tokens": [
-     "俄乌袭",
-     "桥战",
-     "升级"
     ]
    },
    {
@@ -1847,6 +1919,19 @@ window.CATCH_DATA = {
     ]
    },
    {
+    "title": "Fiona",
+    "platform": "x",
+    "platformName": "X",
+    "emoji": "✳️",
+    "heat": 0,
+    "rank": 5,
+    "url": "https://twitter.com/search?q=Fiona",
+    "board": "X Trending (24h)",
+    "tokens": [
+     "Fiona"
+    ]
+   },
+   {
     "title": "AI检出率”致作者陷自证困局：论文改到“学生作文水平”才达标，却没了学术性",
     "platform": "news",
     "platformName": "新闻",
@@ -1867,18 +1952,19 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "青海德令哈地震",
+    "title": "花2万存脐带血12年后发现公司已注销",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7424000,
+    "heat": 7425000,
     "rank": 6,
-    "url": "https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%BE%B7%E4%BB%A4%E5%93%88%E5%9C%B0%E9%9C%87",
+    "url": "https://www.baidu.com/s?wd=%E8%8A%B12%E4%B8%87%E5%AD%98%E8%84%90%E5%B8%A6%E8%A1%8012%E5%B9%B4%E5%90%8E%E5%8F%91%E7%8E%B0%E5%85%AC%E5%8F%B8%E5%B7%B2%E6%B3%A8%E9%94%80",
     "board": "百度热搜",
     "tokens": [
-     "青海",
-     "德令哈",
-     "地震"
+     "万存",
+     "脐带血",
+     "公司",
+     "注销"
     ]
    },
    {
@@ -1886,7 +1972,7 @@ window.CATCH_DATA = {
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 4094000,
+    "heat": 3040000,
     "rank": 6,
     "url": "https://so.toutiao.com/search?keyword=%23%E5%A4%A7%E5%85%B4%E5%AE%89%E5%B2%AD%E2%80%9C%E7%8C%AB%E5%86%AC%E2%80%9D%E7%94%A8%E6%BC%8F%E7%9B%86%E4%B8%8B%E6%B2%B3%E6%8D%9E%E9%B1%BC%23",
     "board": "今日头条热榜",
@@ -1981,6 +2067,75 @@ window.CATCH_DATA = {
      "赛里木湖",
      "美景"
     ]
+   },
+   {
+    "title": "Daniel Jones",
+    "platform": "x",
+    "platformName": "X",
+    "emoji": "✳️",
+    "heat": 0,
+    "rank": 6,
+    "url": "https://twitter.com/search?q=Daniel%20Jones",
+    "board": "X Trending (24h)",
+    "tokens": [
+     "Daniel",
+     "Jones"
+    ]
+   },
+   {
+    "title": "波兰称两枚俄罗斯导弹击中波领土：在欧洲军演期间“蓄意挑衅”",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 0,
+    "rank": 6,
+    "url": "https://www.thepaper.cn/newsDetail_forward_34528112",
+    "board": "澎湃新闻",
+    "tokens": [
+     "波兰",
+     "两枚",
+     "俄罗斯",
+     "导弹",
+     "击中",
+     "领土",
+     "欧洲",
+     "军演"
+    ]
+   },
+   {
+    "title": "青海德令哈地震",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 7330000,
+    "rank": 7,
+    "url": "https://www.baidu.com/s?wd=%E9%9D%92%E6%B5%B7%E5%BE%B7%E4%BB%A4%E5%93%88%E5%9C%B0%E9%9C%87",
+    "board": "百度热搜",
+    "tokens": [
+     "青海",
+     "德令哈",
+     "地震"
+    ]
+   },
+   {
+    "title": "20 多天婴儿被喂白开水中毒肾损伤，新生儿为何不能像成年人一样正常喝白开水？该如何科学喂养？",
+    "platform": "zhihu",
+    "platformName": "知乎",
+    "emoji": "💡",
+    "heat": 2850000,
+    "rank": 7,
+    "url": "https://www.zhihu.com/question/2106868147718284246",
+    "board": "知乎热榜",
+    "tokens": [
+     "多天",
+     "婴儿",
+     "白开水",
+     "中毒",
+     "损伤",
+     "新生儿",
+     "为何",
+     "不能"
+    ]
    }
   ],
   "resonance": [
@@ -1998,7 +2153,7 @@ window.CATCH_DATA = {
      "news",
      "weibo"
     ],
-    "count": 3
+    "count": 2
    }
   ],
   "slang": [
@@ -2047,6 +2202,71 @@ window.CATCH_DATA = {
      }
     ],
     "url": "http://baike.baidu.com/item/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B/69708457"
+   },
+   {
+    "word": "巅峰挑战赛",
+    "desc": "近 7 天在微博等平台热榜被反复提及，共 2 次，覆盖 2 天、1 个平台；在热榜中以「青稚再获巅峰挑战赛冠军、青稚巅峰挑战赛淘汰榜第五」等不同句式出现，属当下在流通的可套用表达。",
+    "defSource": "本轮据近 7 天热榜语境归纳",
+    "kind": "新词（百科未收录）",
+    "mentions": 2,
+    "days": 2,
+    "dayList": [
+     "2026-11-15",
+     "2026-11-21"
+    ],
+    "platforms": [
+     "微博"
+    ],
+    "platformCount": 1,
+    "variants": 2,
+    "samples": [
+     {
+      "platform": "微博",
+      "day": "2026-11-15",
+      "title": "青稚再获巅峰挑战赛冠军",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%9D%92%E7%A8%9A%E5%86%8D%E8%8E%B7%E5%B7%85%E5%B3%B0%E6%8C%91%E6%88%98%E8%B5%9B%E5%86%A0%E5%86%9B%23&t=31&band_rank=40&Refer=top"
+     },
+     {
+      "platform": "微博",
+      "day": "2026-11-21",
+      "title": "青稚巅峰挑战赛淘汰榜第五",
+      "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%B7%85%E5%B3%B0%E6%8C%91%E6%88%98%E8%B5%9B%E6%B7%98%E6%B1%B0%E6%A6%9C%E7%AC%AC%E4%BA%94&t=31&band_rank=13&Refer=top"
+     }
+    ],
+    "url": "https://baike.baidu.com/item/%E5%B7%85%E5%B3%B0%E6%8C%91%E6%88%98%E8%B5%9B"
+   },
+   {
+    "word": "硬控",
+    "desc": "通过击飞、石化、冰冻等强制性控制效果，使玩家不能操控自己的角色，后延伸为某个东西非常吸引人，看了就停不下来",
+    "defSource": "百度百科",
+    "kind": "网络流行语",
+    "mentions": 2,
+    "days": 2,
+    "dayList": [
+     "2026-11-17",
+     "2026-11-19"
+    ],
+    "platforms": [
+     "今日头条",
+     "抖音"
+    ],
+    "platformCount": 2,
+    "variants": 0,
+    "samples": [
+     {
+      "platform": "今日头条",
+      "day": "2026-11-17",
+      "title": "国产机器人手机APEC现场硬控老外",
+      "url": "https://www.toutiao.com/trending/7708766812275737115/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227708766812275737115%22%2C%22hot_board_impr_id%22%3A%2220261117125129D5381926F743FE70F5F1%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%9B%BD%E4%BA%A7%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BAAPEC%E7%8E%B0%E5%9C%BA%E7%A1%AC%E6%8E%A7%E8%80%81%E5%A4%96%22%7D&rank=&style_id=40132&topic_id=7708766812275737115"
+     },
+     {
+      "platform": "抖音",
+      "day": "2026-11-19",
+      "title": "APEC美食硬控各国来宾",
+      "url": "https://www.douyin.com/search/APEC%E7%BE%8E%E9%A3%9F%E7%A1%AC%E6%8E%A7%E5%90%84%E5%9B%BD%E6%9D%A5%E5%AE%BE"
+     }
+    ],
+    "url": "http://baike.baidu.com/item/%E7%A1%AC%E6%8E%A7"
    }
   ]
  },
@@ -2062,560 +2282,348 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "weibo": 2030000,
     "zhihu": 24670000,
-    "news": 36623000
+    "news": 4546000,
+    "weibo": 1630000
    },
-   "heat": 63323000,
+   "heat": 30846000,
    "members": [
     {
      "platform": "zhihu",
      "rank": 1,
      "title": "特朗普返美后召开新闻发布会，称中俄美元首会晤「史无前例」「意义重大」，哪些信息值得关注？",
      "url": "https://www.zhihu.com/question/2107175088915050633",
-     "heat": 16010000,
+     "heat": 21540000,
      "board": "知乎热榜"
     },
     {
      "platform": "news",
      "rank": 3,
-     "title": "APEC开启经贸合作新空间",
-     "url": "https://so.toutiao.com/search?keyword=%23APEC%E5%BC%80%E5%90%AF%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E6%96%B0%E7%A9%BA%E9%97%B4%23",
-     "heat": 9523000,
-     "board": "今日头条热榜"
-    },
-    {
-     "platform": "news",
-     "rank": 9,
-     "title": "深圳华丽转型生动诠释APEC理念",
-     "url": "https://so.toutiao.com/search?keyword=%23%E6%B7%B1%E5%9C%B3%E5%8D%8E%E4%B8%BD%E8%BD%AC%E5%9E%8B%E7%94%9F%E5%8A%A8%E8%AF%A0%E9%87%8AAPEC%E7%90%86%E5%BF%B5%23",
-     "heat": 5226000,
+     "title": "APEC“中国年”取得哪些成果",
+     "url": "https://so.toutiao.com/search?keyword=%23APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E5%8F%96%E5%BE%97%E5%93%AA%E4%BA%9B%E6%88%90%E6%9E%9C%23",
+     "heat": 4536000,
      "board": "今日头条热榜"
     },
     {
      "platform": "zhihu",
-     "rank": 14,
+     "rank": 4,
      "title": "特朗普称不允许美企海外建数据中心，如果违反将面临「巨额税收」处罚，这会对美国科技公司发展带来哪些影响？",
      "url": "https://www.zhihu.com/question/2107449650592445764",
-     "heat": 2070000,
+     "heat": 3130000,
      "board": "知乎热榜"
-    },
-    {
-     "platform": "news",
-     "rank": 19,
-     "title": "特朗普在深圳跳了YMCA",
-     "url": "https://so.toutiao.com/search?keyword=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E6%B7%B1%E5%9C%B3%E8%B7%B3%E4%BA%86YMCA%23",
-     "heat": 1923000,
-     "board": "今日头条热榜"
-    },
-    {
-     "platform": "news",
-     "rank": 22,
-     "title": "高市搭讪特朗普被无视 日网民：丢人",
-     "url": "https://so.toutiao.com/search?keyword=%23%E9%AB%98%E5%B8%82%E6%90%AD%E8%AE%AA%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%97%A0%E8%A7%86+%E6%97%A5%E7%BD%91%E6%B0%91%EF%BC%9A%E4%B8%A2%E4%BA%BA%23",
-     "heat": 1574000,
-     "board": "今日头条热榜"
-    },
-    {
-     "platform": "news",
-     "rank": 25,
-     "title": "特朗普称不支持“台独”引岛内震动",
-     "url": "https://so.toutiao.com/search?keyword=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%94%AF%E6%8C%81%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E5%BC%95%E5%B2%9B%E5%86%85%E9%9C%87%E5%8A%A8%23",
-     "heat": 1166000,
-     "board": "今日头条热榜"
     },
     {
      "platform": "weibo",
      "rank": 2,
+     "title": "特朗普深圳不拉窗帘原因找到了",
+     "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86",
+     "heat": 900000,
+     "board": "微博热搜榜"
+    },
+    {
+     "platform": "weibo",
+     "rank": 5,
      "title": "特朗普在APEC晚宴跳YMCA",
      "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8APEC%E6%99%9A%E5%AE%B4%E8%B7%B3YMCA",
-     "heat": 980000,
+     "heat": 470000,
      "board": "微博热搜榜"
     },
     {
      "platform": "weibo",
-     "rank": 18,
-     "title": "特朗普说看看深圳再看看我们",
-     "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E7%9C%8B%E7%9C%8B%E6%B7%B1%E5%9C%B3%E5%86%8D%E7%9C%8B%E7%9C%8B%E6%88%91%E4%BB%AC",
-     "heat": 190000,
+     "rank": 35,
+     "title": "特朗普说深圳40年前还是小渔村",
+     "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%B7%B1%E5%9C%B340%E5%B9%B4%E5%89%8D%E8%BF%98%E6%98%AF%E5%B0%8F%E6%B8%94%E6%9D%91",
+     "heat": 150000,
      "board": "微博热搜榜"
     },
     {
      "platform": "weibo",
+     "rank": 46,
+     "title": "APEC外宾被中国山水硬控170秒",
+     "url": "https://s.weibo.com/weibo?q=APEC%E5%A4%96%E5%AE%BE%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%B1%B1%E6%B0%B4%E7%A1%AC%E6%8E%A7170%E7%A7%92",
+     "heat": 110000,
+     "board": "微博热搜榜"
+    },
+    {
+     "platform": "news",
+     "rank": 19,
+     "title": "特朗普在白宫感叹中国行：城市一尘不染，而美国的“又脏又破犯罪率还奇高”",
+     "url": "https://www.thepaper.cn/newsDetail_forward_34526490",
+     "heat": 0,
+     "board": "澎湃新闻"
+    },
+    {
+     "platform": "news",
      "rank": 20,
-     "title": "日网民吐槽高市早苗APEC之行吐舌头",
-     "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E7%BD%91%E6%B0%91%E5%90%90%E6%A7%BD%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97APEC%E4%B9%8B%E8%A1%8C%E5%90%90%E8%88%8C%E5%A4%B4",
-     "heat": 170000,
-     "board": "微博热搜榜"
+     "title": "特朗普：中俄美元首会晤“史无前例”“意义重大”",
+     "url": "https://www.thepaper.cn/newsDetail_forward_34525301",
+     "heat": 0,
+     "board": "澎湃新闻"
     }
    ],
    "comments": [
     {
-     "text": "吃饱喝足玩三天，回去以后就变脸[墨镜]",
-     "likes": 25503,
-     "author": "曲不随韵人不醉",
+     "text": "背景是喜上眉梢图吗",
+     "likes": 23245,
+     "author": "木木的b战名字",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-05-14 22:28",
+     "time": "2026-11-19 09:40",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
+     "sourceUrl": "https://www.bilibili.com/video/BV1rnsb6UEZp",
+     "videoId": "BV1rnsb6UEZp",
      "isSub": false,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
+     "videoTitle": "普京与特朗普在深圳会面，一见面特朗普就打趣“他是谁”",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
-     "recent": false
+     "recent": true
     },
     {
-     "text": "YMCA压轴歌曲，还是军乐团演奏 \n情绪价值这一块给的太足了把老头哄成什么样了？",
-     "likes": 20715,
-     "author": "伙记有空唠唠嗑",
+     "text": "“他是谁，是我朋友”这句话说得还有感觉啊",
+     "likes": 19337,
+     "author": "比比路乔克",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-05-14 22:21",
+     "time": "2026-11-19 14:00",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
+     "sourceUrl": "https://www.bilibili.com/video/BV1rnsb6UEZp",
+     "videoId": "BV1rnsb6UEZp",
      "isSub": false,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
+     "videoTitle": "普京与特朗普在深圳会面，一见面特朗普就打趣“他是谁”",
      "sentiment": "中性",
-     "score": -0.4,
+     "score": 0.0,
      "relevant": true,
-     "recent": false
+     "recent": true
     },
     {
-     "text": "雷总，给马斯克拍照时候，解锁了面部识别，顺便开通了小米贷",
-     "likes": 18186,
-     "author": "梅人比我珍西罗",
+     "text": "弱弱问这个怎么翻译呀，the的含义是啥，可以理解成《美国那叫一个美》吗",
+     "likes": 13681,
+     "author": "蓝白到底能不能发糖",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-05-15 13:45",
+     "time": "2026-11-19 09:48",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
+     "sourceUrl": "https://www.bilibili.com/video/BV1mWsU67EAG",
+     "videoId": "BV1mWsU67EAG",
      "isSub": false,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
+     "videoTitle": "APEC欢迎晚宴现场演奏起美国著名爱国歌曲 特朗普驻足观看并鼓掌",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
-     "recent": false
+     "recent": true
     },
     {
-     "text": "没那么慢[doge]",
-     "likes": 7958,
-     "author": "-举灯人-",
+     "text": "恭喜史政地史政生的同学们",
+     "likes": 8895,
+     "author": "在下不才向东行",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-05-14 22:38",
+     "time": "2026-11-19 15:47",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
-     "isSub": true,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "还有个we are the world呢，这个情绪价值更足[笑哭]",
-     "likes": 6712,
-     "author": "你不会没号了吧",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-05-14 23:27",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
-     "isSub": true,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "正常，让他们不敢动大框架就行，其他方面肯定会不断反复横跳的，出尔反尔的。",
-     "likes": 5433,
-     "author": "银枪效节都指挥",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-05-14 22:47",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
-     "isSub": true,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "眨眨眼，摇摇头",
-     "likes": 5341,
-     "author": "Romain11Rolland",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-05-15 13:50",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
-     "isSub": true,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "下集预告：\n“白次男，快向你的小弟弟说再见吧❤️”\n“对不起，舅父来迟了\n呜吔——不要掂他呀！”\n久违的阳光下，爱人的目光中，这对白次男来说才是真正的终极侮辱。\n“领袖……刚才得罪了”\n“不要紧，疯牛你做的很好啊”\n密林中的对话，一切的阴谋铺展开来。\n “一……一夜夫妻百夜恩。甜……甜心，你也该念念我们度过的快乐时光呀❤️” \n“吔——我度你老👩🏻啊，我轰散你们这些死gay佬，我轰散你们啊！” \n请看下集，终极侮辱（下）",
-     "likes": 3531,
-     "author": "大家的救星们",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2022-03-26 08:18",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1i3411p7QZ",
-     "videoId": "BV1i3411p7QZ",
+     "sourceUrl": "https://www.bilibili.com/video/BV1KHsY6eEi6",
+     "videoId": "BV1KHsY6eEi6",
      "isSub": false,
-     "videoTitle": "佛珠讲海虎27：YMCA",
-     "sentiment": "积极",
-     "score": 2.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "中美携手，世界和平！",
-     "likes": 2965,
-     "author": "sio刚",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-05-14 10:44",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1pG5S6EE7R",
-     "videoId": "BV1pG5S6EE7R",
-     "isSub": false,
-     "videoTitle": "习近平为美国总统特朗普举行欢迎仪式",
+     "videoTitle": "特朗普：今天我们创造了历史",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
-     "recent": false
+     "recent": true
     },
     {
-     "text": "我在想蓝梦会不会私底下用磁场转动把四个基佬整容成海虎的外貌然后让他们来给自己解压呢。不然这路数。。",
-     "likes": 2741,
-     "author": "shenbingmi",
+     "text": "竞选时：我们反对\n当选时：我们赞成\n[doge]",
+     "likes": 7873,
+     "author": "钧宇两老表",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2022-03-26 08:27",
+     "time": "2025-01-20 05:49",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1i3411p7QZ",
-     "videoId": "BV1i3411p7QZ",
+     "sourceUrl": "https://www.bilibili.com/video/BV1GnwmeQEBJ",
+     "videoId": "BV1GnwmeQEBJ",
      "isSub": false,
-     "videoTitle": "佛珠讲海虎27：YMCA",
+     "videoTitle": "特朗普与其战曲《Y.M.C.A》原唱同台合体，现场再现魔性舞姿",
      "sentiment": "中性",
-     "score": 0.0,
+     "score": -0.19999999999999996,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "老中还特地安排了一个分列式阅兵，弥补老特头去年没能来的遗憾，老特头这种好大喜功的肯定高兴坏了[汤圆][汤圆]",
-     "likes": 2611,
-     "author": "jidashi",
+     "text": "2020届考生在此！！！战役胜利！高考加油！冲鸭！",
+     "likes": 7801,
+     "author": "枝枝是枝花花",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-05-15 09:35",
+     "time": "2020-02-25 06:14",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
-     "isSub": true,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
+     "sourceUrl": "https://www.bilibili.com/video/BV1x7411T7Wz",
+     "videoId": "BV1x7411T7Wz",
+     "isSub": false,
+     "videoTitle": "河南新闻发布会的最后，他说了这么一段话…",
      "sentiment": "积极",
      "score": 1.0,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "邻避效应，美国人可能喜欢人工智能，但美国人喜欢一个外观丑陋，造成堵车，不提供就业，增加电费还半夜扰民的东西又不太可能",
-     "likes": 2381,
-     "author": "华实蔽野-黍稷盈畴",
+     "text": "我觉得从语境以及他们喜欢打趣幽默的表达上来看的话，应该是“瞧瞧是谁，是我的朋友”",
+     "likes": 7305,
+     "author": "murphster",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-06 23:16",
+     "time": "2026-11-19 16:17",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV19i4z6NEKv",
-     "videoId": "BV19i4z6NEKv",
-     "isSub": false,
-     "videoTitle": "懂王惨败，纳指暴跌，美国人为什么这么讨厌数据中心？【差评君】",
-     "sentiment": "中性",
-     "score": 0.6,
+     "sourceUrl": "https://www.bilibili.com/video/BV1rnsb6UEZp",
+     "videoId": "BV1rnsb6UEZp",
+     "isSub": true,
+     "videoTitle": "普京与特朗普在深圳会面，一见面特朗普就打趣“他是谁”",
+     "sentiment": "积极",
+     "score": 1.0,
      "relevant": true,
      "recent": true
     },
     {
-     "text": "这回怕是真不敢。上次是谈完觉得自己行了，所以回去打贸易战，这回是先打，打完没占到便宜发现自己不行了，赶紧过来谈[吃瓜]",
-     "likes": 2333,
-     "author": "碧绿的兔子",
+     "text": "左边那哥们左右横移像在跳街舞",
+     "likes": 6768,
+     "author": "营养乖7",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-05-14 23:23",
+     "time": "2025-09-10 02:56",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
-     "isSub": true,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
+     "sourceUrl": "https://www.bilibili.com/video/BV127HUzDExd",
+     "videoId": "BV127HUzDExd",
+     "isSub": false,
+     "videoTitle": "瑞典新任卫生部长在新闻发布会现场突然晕倒，连人带讲台一起摔倒，瑞典首相被吓得不知所措",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "伟大的中国人民万岁！！！\n伟大的中国共产党万岁！！！\n伟大的中国人民解放军万岁！！！",
-     "likes": 2278,
-     "author": "骄阳似火灬灬",
+     "text": "能坐下来谈谈就很好，对话而不对抗[打call]",
+     "likes": 5904,
+     "author": "栉风Eternal",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-05-14 10:53",
+     "time": "2026-11-19 08:20",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1pG5S6EE7R",
-     "videoId": "BV1pG5S6EE7R",
+     "sourceUrl": "https://www.bilibili.com/video/BV1rnsb6UEZp",
+     "videoId": "BV1rnsb6UEZp",
      "isSub": false,
-     "videoTitle": "习近平为美国总统特朗普举行欢迎仪式",
+     "videoTitle": "普京与特朗普在深圳会面，一见面特朗普就打趣“他是谁”",
+     "sentiment": "积极",
+     "score": 1.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "乐队赚翻了",
+     "likes": 5809,
+     "author": "-闷-声-造-大-孽-",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2025-01-20 05:49",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1GnwmeQEBJ",
+     "videoId": "BV1GnwmeQEBJ",
+     "isSub": false,
+     "videoTitle": "特朗普与其战曲《Y.M.C.A》原唱同台合体，现场再现魔性舞姿",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "在郑州上大学的吉林学生路过，表示很想开学很想郑州，衷心祝愿河南乃至全国都早日回归正常，这里是我的第二个家[拥抱]我爱河南，爱河南的人们[抱拳]",
+     "likes": 5787,
+     "author": "漠璃M0Li",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2020-02-25 07:13",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1x7411T7Wz",
+     "videoId": "BV1x7411T7Wz",
+     "isSub": false,
+     "videoTitle": "河南新闻发布会的最后，他说了这么一段话…",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "食雪的首男过不了审核，可次男道却轻易过审，审核都是一群大只佬呀！",
+     "likes": 5693,
+     "author": "龙魂ever",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2022-03-26 00:05",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1i3411p7QZ",
+     "videoId": "BV1i3411p7QZ",
+     "isSub": false,
+     "videoTitle": "佛珠讲海虎27：YMCA",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "只要思想不划坡，方法总比困难多。今天边做饭边听老师讲话糊锅了。但是跟前辈比起来我们已经轻松多了，加油[鸡腿]",
+     "likes": 5665,
+     "author": "让生活充满sun显安",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2020-02-25 05:35",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1x7411T7Wz",
+     "videoId": "BV1x7411T7Wz",
+     "isSub": false,
+     "videoTitle": "河南新闻发布会的最后，他说了这么一段话…",
      "sentiment": "积极",
      "score": 1.0,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "世界很大，容得下中美两国，希望两国能和平发展",
-     "likes": 1834,
-     "author": "曾经的267",
+     "text": "瑞典首相颁布最新行政命令——卫生部改名健康部[doge]",
+     "likes": 5203,
+     "author": "yuelan1",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-05-14 10:52",
+     "time": "2025-09-10 04:48",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1pG5S6EE7R",
-     "videoId": "BV1pG5S6EE7R",
+     "sourceUrl": "https://www.bilibili.com/video/BV127HUzDExd",
+     "videoId": "BV127HUzDExd",
      "isSub": false,
-     "videoTitle": "习近平为美国总统特朗普举行欢迎仪式",
+     "videoTitle": "瑞典新任卫生部长在新闻发布会现场突然晕倒，连人带讲台一起摔倒，瑞典首相被吓得不知所措",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "哈哈哈哈哈哈哈哈哈",
-     "likes": 1775,
-     "author": "必须起个名字",
+     "text": "你不能只在特朗普赢了的时候才为特朗普唱歌[doge]",
+     "likes": 4352,
+     "author": "Joseph夫",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-05-15 13:49",
+     "time": "2025-01-20 09:01",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
-     "isSub": true,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "儿童心理学[doge_金箍]",
-     "likes": 1618,
-     "author": "I-Love-Griezmann",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-05-15 01:17",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
-     "isSub": true,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "最近深圳的天气也很给面子，几乎天天都有晚霞（除了今天是阴天）",
-     "likes": 1602,
-     "author": "Crychic_Soyo",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-18 17:23",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1nVs16tESg",
-     "videoId": "BV1nVs16tESg",
+     "sourceUrl": "https://www.bilibili.com/video/BV1GnwmeQEBJ",
+     "videoId": "BV1GnwmeQEBJ",
      "isSub": false,
-     "videoTitle": "历史性峰会！为什么是APEC？是中国？是深圳？",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "太可惜沒能去[doge_金箍]",
-     "likes": 1497,
-     "author": "历史哥李易修",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-18 15:35",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1nVs16tESg",
-     "videoId": "BV1nVs16tESg",
-     "isSub": false,
-     "videoTitle": "历史性峰会！为什么是APEC？是中国？是深圳？",
-     "sentiment": "中性",
-     "score": -0.4,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "对铜锂的需求是激增的，海外中资矿企也是经受中美博弈冲击的[热]，比如我的ip",
-     "likes": 1477,
-     "author": "樱落丶雪飘",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-18 15:06",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1nVs16tESg",
-     "videoId": "BV1nVs16tESg",
-     "isSub": false,
-     "videoTitle": "历史性峰会！为什么是APEC？是中国？是深圳？",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "这个有视频吗，想听听军乐团版本ymca，应该蛮独特的",
-     "likes": 1150,
-     "author": "小葱伴酱",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-05-15 08:35",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
-     "isSub": true,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
+     "videoTitle": "特朗普与其战曲《Y.M.C.A》原唱同台合体，现场再现魔性舞姿",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "大国风范！",
-     "likes": 1143,
-     "author": "永远陪着你27",
+     "text": "翻译的很贴切[笑哭]",
+     "likes": 4074,
+     "author": "仙贝1129",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-18 19:28",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1sdsS6LEcZ",
-     "videoId": "BV1sdsS6LEcZ",
-     "isSub": false,
-     "videoTitle": "【独家视频】习近平迎接美国总统特朗普",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "当首相后的第一次",
-     "likes": 1089,
-     "author": "文件已损坏BadFile",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-18 18:41",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1pgsm6MEdP",
-     "videoId": "BV1pgsm6MEdP",
-     "isSub": true,
-     "videoTitle": "高市早苗抵达深圳 出席APEC峰会",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "所以懂王来了也得喝酒啊[吃瓜]",
-     "likes": 1054,
-     "author": "随便输了一个昵称",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-05-15 04:03",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
-     "isSub": true,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "跟懂王打交道得顺着毛捋[doge]",
-     "likes": 1019,
-     "author": "根宝菌",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-05-15 00:10",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
-     "isSub": true,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "八千里路明月照，有意思。",
-     "likes": 931,
-     "author": "重型马维卡",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-17 16:39",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1SMsM6KEbP",
-     "videoId": "BV1SMsM6KEbP",
-     "isSub": false,
-     "videoTitle": "现场视频！特朗普登机启程亚洲行，准备参与APEC会议",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "高端的商战.jpg",
-     "likes": 900,
-     "author": "ysbdph",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-05-15 13:51",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
-     "isSub": true,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "这歌真的很美，在美国人心目中的地位确实和我们的《歌唱祖国》在我们心中的分量是一样的",
-     "likes": 877,
-     "author": "Mastertuo",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-19 01:52",
+     "time": "2026-11-19 09:54",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1mWsU67EAG",
      "videoId": "BV1mWsU67EAG",
@@ -2627,29 +2635,318 @@ window.CATCH_DATA = {
      "recent": true
     },
     {
-     "text": "回复 @你不会没号了吧 : 对啊，差点忘了懂王和MJ还是好朋友呢。",
-     "likes": 845,
-     "author": "pevily",
+     "text": "看着还真是",
+     "likes": 3918,
+     "author": "陈粮",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-05-15 04:40",
+     "time": "2026-11-19 10:06",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
+     "sourceUrl": "https://www.bilibili.com/video/BV1rnsb6UEZp",
+     "videoId": "BV1rnsb6UEZp",
      "isSub": true,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
+     "videoTitle": "普京与特朗普在深圳会面，一见面特朗普就打趣“他是谁”",
      "sentiment": "中性",
-     "score": -0.19999999999999996,
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "正确翻译《老美老美》",
+     "likes": 3670,
+     "author": "雷电雷電",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-19 15:28",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1mWsU67EAG",
+     "videoId": "BV1mWsU67EAG",
+     "isSub": false,
+     "videoTitle": "APEC欢迎晚宴现场演奏起美国著名爱国歌曲 特朗普驻足观看并鼓掌",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "下集预告：\n“白次男，快向你的小弟弟说再见吧❤️”\n“对不起，舅父来迟了\n呜吔——不要掂他呀！”\n久违的阳光下，爱人的目光中，这对白次男来说才是真正的终极侮辱。\n“领袖……刚才得罪了”\n“不要紧，疯牛你做的很好啊”\n密林中的对话，一切的阴谋铺展开来。\n “一……一夜夫妻百夜恩。甜……甜心，你也该念念我们度过的快乐时光呀❤️” \n“吔——我度你老👩🏻啊，我轰散你们这些死gay佬，我轰散你们啊！” \n请看下集，终极侮辱（下）",
+     "likes": 3531,
+     "author": "大家的救星们",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2022-03-26 00:18",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1i3411p7QZ",
+     "videoId": "BV1i3411p7QZ",
+     "isSub": false,
+     "videoTitle": "佛珠讲海虎27：YMCA",
+     "sentiment": "积极",
+     "score": 2.0,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "直男特有的同人天赋（畏怖）",
-     "likes": 822,
-     "author": "further666more",
+     "text": "这个澄清视频也有疑点，拿起咖啡的时候杯子倾斜加杯口受力挤压，咖啡没撒，内塔胡喝了一口咖啡之后上嘴唇有泡沫印记，但下一秒说话的时候嘴唇上的泡沫没有了",
+     "likes": 3460,
+     "author": "易大山",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2022-03-26 09:21",
+     "time": "2026-03-16 03:17",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1oqwVzHE7T",
+     "videoId": "BV1oqwVzHE7T",
+     "isSub": false,
+     "videoTitle": "内塔尼亚胡新闻发布会右手现6根手指，被质疑是AI传言其“已死亡”，以色列发视频回应",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "西式早饭无法提供足够的能量和营养导致的",
+     "likes": 3358,
+     "author": "生【过客",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2025-09-10 02:55",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV127HUzDExd",
+     "videoId": "BV127HUzDExd",
+     "isSub": false,
+     "videoTitle": "瑞典新任卫生部长在新闻发布会现场突然晕倒，连人带讲台一起摔倒，瑞典首相被吓得不知所措",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "刚想说怎么这么矫情，结果镜头一转原来就在家门口。。。这谁受的了",
+     "likes": 3325,
+     "author": "回太空玩",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-06-20 00:35",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1LUj66SE6u",
+     "videoId": "BV1LUj66SE6u",
+     "isSub": false,
+     "videoTitle": "为了隔绝弗吉尼亚州这家数据中心的噪音，邻居们在窗户上铺上了床垫和有机玻璃。这是天然气燃气轮机发出的尖锐啸叫声，日夜不停。",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "我在想蓝梦会不会私底下用磁场转动把四个基佬整容成海虎的外貌然后让他们来给自己解压呢。不然这路数。。",
+     "likes": 2742,
+     "author": "shenbingmi",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2022-03-26 00:27",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1i3411p7QZ",
+     "videoId": "BV1i3411p7QZ",
+     "isSub": false,
+     "videoTitle": "佛珠讲海虎27：YMCA",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "还真是[笑哭]",
+     "likes": 2677,
+     "author": "爱情杀手班班",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-19 10:41",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1rnsb6UEZp",
+     "videoId": "BV1rnsb6UEZp",
+     "isSub": true,
+     "videoTitle": "普京与特朗普在深圳会面，一见面特朗普就打趣“他是谁”",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "唐玄宗看上了杨玉环，然后杨玉环就出家修道，算是跟寿王和平离婚了，不多久就被接进了宫里修行[OK]",
+     "likes": 2582,
+     "author": "画师柳衣",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2025-01-12 02:13",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1KsccezEFJ",
+     "videoId": "BV1KsccezEFJ",
+     "isSub": false,
+     "videoTitle": "联合新闻发布会上，格陵兰岛自治政府总理：不想当丹麦人，不想当美国人；丹麦首相：美国对格陵兰的兴趣是“积极的”",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "不知道的还以为这是美国国歌",
+     "likes": 2437,
+     "author": "゚゙゚゚゚御坂美琴",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-07-06 12:42",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1SUT969E66",
+     "videoId": "BV1SUT969E66",
+     "isSub": false,
+     "videoTitle": "YMCA美国250周年庆版：美军现场演唱版",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "之前还觉得美国佬反Ai数据中心神经，结果资本家是真不做人啊",
+     "likes": 2433,
+     "author": "克里斯の钢镚",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-10-15 01:13",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1LUj66SE6u",
+     "videoId": "BV1LUj66SE6u",
+     "isSub": false,
+     "videoTitle": "为了隔绝弗吉尼亚州这家数据中心的噪音，邻居们在窗户上铺上了床垫和有机玻璃。这是天然气燃气轮机发出的尖锐啸叫声，日夜不停。",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "可能以为中枪了，左右闪躲[doge]",
+     "likes": 2431,
+     "author": "云卍落",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2025-09-10 03:51",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV127HUzDExd",
+     "videoId": "BV127HUzDExd",
+     "isSub": true,
+     "videoTitle": "瑞典新任卫生部长在新闻发布会现场突然晕倒，连人带讲台一起摔倒，瑞典首相被吓得不知所措",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "邻避效应，美国人可能喜欢人工智能，但美国人喜欢一个外观丑陋，造成堵车，不提供就业，增加电费还半夜扰民的东西又不太可能",
+     "likes": 2382,
+     "author": "华实蔽野-黍稷盈畴",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-06 15:16",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV19i4z6NEKv",
+     "videoId": "BV19i4z6NEKv",
+     "isSub": false,
+     "videoTitle": "懂王惨败，纳指暴跌，美国人为什么这么讨厌数据中心？【差评君】",
+     "sentiment": "中性",
+     "score": 0.6,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "进来之前以为就是制冷设备吵，结果这直接居民区建了个发电站啊[笑哭]好歹你去工业区建呢",
+     "likes": 2328,
+     "author": "lainlee",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-06-20 00:30",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1LUj66SE6u",
+     "videoId": "BV1LUj66SE6u",
+     "isSub": false,
+     "videoTitle": "为了隔绝弗吉尼亚州这家数据中心的噪音，邻居们在窗户上铺上了床垫和有机玻璃。这是天然气燃气轮机发出的尖锐啸叫声，日夜不停。",
+     "sentiment": "积极",
+     "score": 1.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "这么看，美国副总统确实是个闲职[笑哭]，啥活都能接",
+     "likes": 2293,
+     "author": "雅里奇",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-05-20 13:12",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV15LLm6aEYR",
+     "videoId": "BV15LLm6aEYR",
+     "isSub": false,
+     "videoTitle": "白宫新闻秘书休产假，万斯顶班新闻发布会，笑称曾向她提条件：我太太生产时，你来当副总统",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "肖秀荣给点力 给我狠狠地总结了",
+     "likes": 2253,
+     "author": "珍珠今天吃电弧星",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2021-11-12 08:47",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1834y1d71z",
+     "videoId": "BV1834y1d71z",
+     "isSub": false,
+     "videoTitle": "【全程回顾】中共中央举行新闻发布会 介绍党的十九届六中全会精神",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "表达亲密，可以开玩笑的程度。",
+     "likes": 2082,
+     "author": "不回家的白马仔",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-19 20:21",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1rnsb6UEZp",
+     "videoId": "BV1rnsb6UEZp",
+     "isSub": true,
+     "videoTitle": "普京与特朗普在深圳会面，一见面特朗普就打趣“他是谁”",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "先自治再入籍[doge]",
+     "likes": 1988,
+     "author": "朝贡是结盟的高级形式",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2025-01-11 09:52",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1KsccezEFJ",
+     "videoId": "BV1KsccezEFJ",
+     "isSub": false,
+     "videoTitle": "联合新闻发布会上，格陵兰岛自治政府总理：不想当丹麦人，不想当美国人；丹麦首相：美国对格陵兰的兴趣是“积极的”",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "说实话，要是我审核我也不想看食雪，但是YMCA一响起来我就开始笑了……",
+     "likes": 1801,
+     "author": "徒冠绅士之名",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2022-03-26 01:33",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1i3411p7QZ",
      "videoId": "BV1i3411p7QZ",
@@ -2661,170 +2958,85 @@ window.CATCH_DATA = {
      "recent": false
     },
     {
-     "text": "看来那些人真是玩模拟城市乱盖新设施的",
-     "likes": 810,
-     "author": "Mcoy",
+     "text": "世界只是回到了应有的样子，这次的和平太漫长了，漫长到人们以为国家的主权和独立是与生俱来的",
+     "likes": 1759,
+     "author": "爱人大师",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-06 22:42",
+     "time": "2025-01-11 15:23",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV19i4z6NEKv",
-     "videoId": "BV19i4z6NEKv",
+     "sourceUrl": "https://www.bilibili.com/video/BV1KsccezEFJ",
+     "videoId": "BV1KsccezEFJ",
      "isSub": false,
-     "videoTitle": "懂王惨败，纳指暴跌，美国人为什么这么讨厌数据中心？【差评君】",
+     "videoTitle": "联合新闻发布会上，格陵兰岛自治政府总理：不想当丹麦人，不想当美国人；丹麦首相：美国对格陵兰的兴趣是“积极的”",
      "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "辛苦",
-     "likes": 757,
-     "author": "onodee",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-18 20:05",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1PysC6bEQt",
-     "videoId": "BV1PysC6bEQt",
-     "isSub": false,
-     "videoTitle": "深圳人全妆出街迎APEC，评论区已炸锅！",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "三个关键词：开放、创新、合作\n本次APEC主题：建设亚太共同体，促进共同繁荣。",
-     "likes": 742,
-     "author": "哦好吧上课",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-16 15:41",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1mrsw6JEdb",
-     "videoId": "BV1mrsw6JEdb",
-     "isSub": false,
-     "videoTitle": "2026APEC“中国年”为何聚焦于这三大“关键词”",
-     "sentiment": "中性",
-     "score": 0.6,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "省流：不是市民换新风，而是深圳降温了",
-     "likes": 709,
-     "author": "秦安卓",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-18 21:04",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1PysC6bEQt",
-     "videoId": "BV1PysC6bEQt",
-     "isSub": false,
-     "videoTitle": "深圳人全妆出街迎APEC，评论区已炸锅！",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "高市早苗第一次来中国",
-     "likes": 708,
-     "author": "行者之子",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-18 18:37",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1pgsm6MEdP",
-     "videoId": "BV1pgsm6MEdP",
-     "isSub": false,
-     "videoTitle": "高市早苗抵达深圳 出席APEC峰会",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "必须的[笑哭]保留节目",
-     "likes": 686,
-     "author": "撕猩裂狒996",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-05-14 22:47",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
-     "isSub": true,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
-     "sentiment": "中性",
-     "score": -0.6,
+     "score": -0.4,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "感觉AI还是得搞游戏啊，全智能AI的NPC，开放世界mmo，要是还能加上意识沉浸的全息网游就无敌了，十几年前的网游网文题材才是最具想象力的。人类的第二世界（纯个人幻想[doge]）",
-     "likes": 685,
-     "author": "橘丶丶",
+     "text": "必须统一，至于那些不愿意的、不情愿的，你的反对也没用，大势所趋",
+     "likes": 1653,
+     "author": "满月季照",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-18 00:38",
+     "time": "2026-11-19 10:37",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1tDs66oEWJ",
-     "videoId": "BV1tDs66oEWJ",
+     "sourceUrl": "https://www.bilibili.com/video/BV1jQst6BEf2",
+     "videoId": "BV1jQst6BEf2",
      "isSub": false,
-     "videoTitle": "雷军在APEC峰会发声：AI投入太大，落地难，具身智能想象力要大于汽车",
-     "sentiment": "积极",
-     "score": 1.0,
+     "videoTitle": "美国总统特朗普：美国不支持“台独”",
+     "sentiment": "消极",
+     "score": -1.7999999999999998,
      "relevant": true,
      "recent": true
     },
     {
-     "text": "回复 @pevily :这首歌本身就意义非凡，又是懂王的好朋友MJ参与创作的，放在晚宴里演奏再合适不过了",
-     "likes": 684,
-     "author": "Michael_in_Dark",
+     "text": "压轴曲真的难绷[笑哭]",
+     "likes": 1577,
+     "author": "okkk__o",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-05-15 09:33",
+     "time": "2026-05-14 11:48",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aK5d62EVY",
-     "videoId": "BV1aK5d62EVY",
-     "isSub": true,
-     "videoTitle": "歌单竟然真有懂王进行曲YMCA，其他人满不满意我不知道，我看马斯克和雷军应该是很满意的",
-     "sentiment": "积极",
-     "score": 1.0,
+     "sourceUrl": "https://www.bilibili.com/video/BV1dFsGzMEXA",
+     "videoId": "BV1dFsGzMEXA",
+     "isSub": false,
+     "videoTitle": "特朗普《YMCA》合集",
+     "sentiment": "中性",
+     "score": 0.0,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "[笑哭]大儒来辩经了，夸的有点太狠了。老王都听不好意思了",
-     "likes": 682,
-     "author": "雨飘霖",
+     "text": "我只能说开卡真的是游戏很大的乐趣[doge]，不要总是感觉战损战损的，你看博主最后即使不出大红，也只亏10w，大坝跑个人机局都50w左右吧，但乐趣是只需要10w的，只能说就开呗，是游戏又不是赚哈弗币养家的，游戏都退游了只开过变电站宿舍可还行[吃瓜]",
+     "likes": 1529,
+     "author": "柯柯柯南゚",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-18 13:30",
+     "time": "2025-07-02 16:14",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1s1s16iEiw",
-     "videoId": "BV1s1s16iEiw",
+     "sourceUrl": "https://www.bilibili.com/video/BV1TR3tzzELu",
+     "videoId": "BV1TR3tzzELu",
      "isSub": false,
-     "videoTitle": "萨克斯教授APEC谈比亚迪：技术最先进！",
+     "videoTitle": "在机密开130万的雷达站数据中心！爆率究竟会怎样？",
      "sentiment": "中性",
-     "score": 0.6,
+     "score": 0.0,
      "relevant": true,
-     "recent": true
+     "recent": false
     },
     {
-     "text": "“谁家民主党少爷想换电脑了”，这评论笑死我了🤣",
-     "likes": 671,
-     "author": "無名冒險家",
+     "text": "难怪懂王票仓丢了这么多，换我我也改投民主党",
+     "likes": 1513,
+     "author": "我是草莓战宝",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-08 11:39",
+     "time": "2026-11-07 17:33",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV19i4z6NEKv",
-     "videoId": "BV19i4z6NEKv",
+     "sourceUrl": "https://www.bilibili.com/video/BV1bq456tE4W",
+     "videoId": "BV1bq456tE4W",
      "isSub": false,
-     "videoTitle": "懂王惨败，纳指暴跌，美国人为什么这么讨厌数据中心？【差评君】",
+     "videoTitle": "老美居民区的数据中心",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
@@ -2832,73 +3044,87 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
+    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
+    "videos_scanned": 27,
+    "videos_skipped": 37,
     "collected": 1000,
-    "reused": true,
-    "target": 1000,
-    "complete": true
+    "want": 1000,
+    "queries": [
+     "特朗普",
+     "发布会",
+     "APEC",
+     "数据中心",
+     "YMCA"
+    ],
+    "cached": 0,
+    "fresh": 1000,
+    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
+    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
+    "complete": true,
+    "target": 1000
    },
    "sentiment": {
-    "positive": 13.6,
-    "neutral": 85.3,
-    "negative": 1.1,
+    "positive": 8.6,
+    "neutral": 87.2,
+    "negative": 4.3,
     "anger": 0.0,
-    "samples": 911,
+    "samples": 374,
     "keywords": [
      {
       "word": "好",
-      "count": 92
-     },
-     {
-      "word": "加油",
-      "count": 8
-     },
-     {
-      "word": "支持",
-      "count": 8
-     },
-     {
-      "word": "滚",
-      "count": 7
+      "count": 30
      },
      {
       "word": "差",
-      "count": 7
-     },
-     {
-      "word": "赞",
-      "count": 6
-     },
-     {
-      "word": "喜欢",
-      "count": 5
-     },
-     {
-      "word": "必须",
-      "count": 5
-     },
-     {
-      "word": "感谢",
-      "count": 5
+      "count": 9
      },
      {
       "word": "反对",
+      "count": 7
+     },
+     {
+      "word": "喜欢",
+      "count": 6
+     },
+     {
+      "word": "恶心",
+      "count": 6
+     },
+     {
+      "word": "支持",
       "count": 4
      },
      {
-      "word": "安全",
-      "count": 4
+      "word": "解决",
+      "count": 3
+     },
+     {
+      "word": "生气",
+      "count": 3
+     },
+     {
+      "word": "必须",
+      "count": 2
+     },
+     {
+      "word": "滚",
+      "count": 2
      },
      {
       "word": "开心",
-      "count": 3
+      "count": 2
      },
      {
       "word": "不错",
-      "count": 3
+      "count": 2
      },
      {
-      "word": "实力",
-      "count": 3
+      "word": "垃圾",
+      "count": 2
+     },
+     {
+      "word": "处理",
+      "count": 1
      }
     ],
     "basis": "相关且近 30 天"
@@ -2906,245 +3132,246 @@ window.CATCH_DATA = {
    "wordcloud": [
     {
      "word": "回复",
-     "weight": 254.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "doge",
-     "weight": 114.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "深圳",
-     "weight": 75.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "现在",
-     "weight": 42.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "降温",
-     "weight": 38.0,
+     "weight": 140.0,
      "sentiment": "中性"
     },
     {
      "word": "美国",
-     "weight": 33.0,
+     "weight": 47.0,
      "sentiment": "中性"
     },
     {
-     "word": "call",
-     "weight": 33.0,
+     "word": "doge",
+     "weight": 40.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "数据中心",
+     "weight": 29.0,
      "sentiment": "中性"
     },
     {
      "word": "中国",
-     "weight": 32.0,
+     "weight": 21.0,
      "sentiment": "中性"
-    },
-    {
-     "word": "吃瓜",
-     "weight": 32.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "AI",
-     "weight": 28.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "机器人",
-     "weight": 26.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "问题",
-     "weight": 25.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "今天",
-     "weight": 22.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "时候",
-     "weight": 22.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "国家",
-     "weight": 20.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "广东",
-     "weight": 19.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "应该",
-     "weight": 19.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "世界",
-     "weight": 18.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "特朗普",
-     "weight": 17.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "喜欢",
-     "weight": 17.0,
-     "sentiment": "积极"
     },
     {
      "word": "金箍",
-     "weight": 17.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "真的",
-     "weight": 17.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "知道",
-     "weight": 17.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "支持",
-     "weight": 16.0,
-     "sentiment": "积极"
-    },
-    {
-     "word": "感觉",
-     "weight": 16.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "欢迎",
-     "weight": 16.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "合作",
-     "weight": 15.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "有点",
-     "weight": 15.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "产能",
-     "weight": 15.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "这么",
-     "weight": 15.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "ai",
-     "weight": 15.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "以为",
-     "weight": 15.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "发展",
-     "weight": 14.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "一样",
-     "weight": 14.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "共赢",
-     "weight": 14.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "可能",
-     "weight": 13.0,
+     "weight": 21.0,
      "sentiment": "中性"
     },
     {
      "word": "自己",
+     "weight": 21.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "噪音",
+     "weight": 17.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "问题",
+     "weight": 14.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "现在",
      "weight": 13.0,
      "sentiment": "中性"
     },
     {
-     "word": "这种",
+     "word": "日本",
      "weight": 13.0,
      "sentiment": "中性"
     },
     {
-     "word": "地铁",
-     "weight": 13.0,
+     "word": "电费",
+     "weight": 12.0,
      "sentiment": "中性"
     },
     {
-     "word": "过剩",
-     "weight": 13.0,
+     "word": "声音",
+     "weight": 12.0,
      "sentiment": "中性"
     },
     {
-     "word": "短袖",
-     "weight": 13.0,
+     "word": "分贝",
+     "weight": 12.0,
      "sentiment": "中性"
     },
     {
-     "word": "很多",
-     "weight": 13.0,
+     "word": "地方",
+     "weight": 12.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "直接",
+     "weight": 11.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "居民区",
+     "weight": 11.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "艾尔法",
+     "weight": 11.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "基建",
+     "weight": 11.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "特朗普",
+     "weight": 10.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "居民",
+     "weight": 10.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "吃瓜",
+     "weight": 10.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "其实",
+     "weight": 10.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "觉得",
+     "weight": 9.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "应该",
+     "weight": 9.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "这么",
+     "weight": 9.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "社区",
+     "weight": 9.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "小时",
+     "weight": 9.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "知道",
+     "weight": 9.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "真的",
+     "weight": 9.0,
      "sentiment": "中性"
     },
     {
      "word": "还有",
-     "weight": 13.0,
+     "weight": 8.0,
      "sentiment": "中性"
     },
     {
-     "word": "星星",
-     "weight": 13.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "机械",
-     "weight": 13.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "不过",
-     "weight": 13.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "看看",
-     "weight": 12.0,
-     "sentiment": "中性"
+     "word": "喜欢",
+     "weight": 8.0,
+     "sentiment": "积极"
     },
     {
      "word": "东西",
-     "weight": 12.0,
+     "weight": 8.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "民主党",
+     "weight": 8.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "喜极而泣",
+     "weight": 8.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "AI",
+     "weight": 8.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "不能",
+     "weight": 8.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "这种",
+     "weight": 8.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "制裁",
+     "weight": 8.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "只能",
+     "weight": 8.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "真是",
+     "weight": 7.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "可能",
+     "weight": 7.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "反对",
+     "weight": 7.0,
+     "sentiment": "消极"
+    },
+    {
+     "word": "皮衣",
+     "weight": 7.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "滑稽",
+     "weight": 7.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "国内",
+     "weight": 7.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "国家",
+     "weight": 7.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "时候",
+     "weight": 7.0,
      "sentiment": "中性"
     }
    ],
+   "wordcloudBasis": "真实热评 + 榜单标题",
    "trend": {
     "series": [
      {
@@ -3369,16 +3596,16 @@ window.CATCH_DATA = {
      {
       "t": "2026-11-21T21:00:00+08:00",
       "label": "21:00",
-      "total": 63323000,
+      "total": 30846000,
       "platforms": {
-       "weibo": 2030000,
        "zhihu": 24670000,
-       "news": 36623000
+       "news": 4546000,
+       "weibo": 1630000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T21:00:30.444519+08:00",
+    "updatedAt": "2026-11-21T21:58:06.081994+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -3493,17 +3720,22 @@ window.CATCH_DATA = {
      "source": "CATCH 本轮实测榜单"
     }
    ],
-   "sourceCount": 10,
+   "sourceCount": 9,
    "resonance": 3,
-   "wordcloudBasis": "真实热评 + 榜单标题",
    "commentRelevance": {
     "tokens": [
-     "特朗普称不",
+     "首会晤史无前",
+     "俄美元首会晤",
+     "无前例意义重",
+     "史无前例意义",
+     "中俄美元首会",
+     "晤史无前例意",
+     "美元首会晤史",
+     "会晤史无前例",
+     "元首会晤史无",
+     "前例意义重大",
      "特朗普在",
-     "日网民",
-     "深圳",
-     "高市",
-     "看看"
+     "中国"
     ],
     "total": 1000,
     "relevant": 1000,
@@ -3514,8 +3746,8 @@ window.CATCH_DATA = {
    "commentRecency": {
     "windowDays": 30,
     "total": 1000,
-    "recent": 911,
-    "ratio": 0.911
+    "recent": 374,
+    "ratio": 0.374
    },
    "commentCount": 1000,
    "commentsFile": "assets/data/comments/E01.json"
@@ -3531,18 +3763,18 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "weibo": 150000,
-    "zhihu": 11040000,
-    "news": 3352000
+    "news": 3360000,
+    "zhihu": 680000,
+    "weibo": 150000
    },
-   "heat": 14542000,
+   "heat": 4190000,
    "members": [
     {
      "platform": "news",
-     "rank": 7,
+     "rank": 5,
      "title": "余承东纠正“开车可以睡觉”言论",
      "url": "https://so.toutiao.com/search?keyword=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E7%BA%A0%E6%AD%A3%E2%80%9C%E5%BC%80%E8%BD%A6%E5%8F%AF%E4%BB%A5%E7%9D%A1%E8%A7%89%E2%80%9D%E8%A8%80%E8%AE%BA%23",
-     "heat": 4279000,
+     "heat": 3360000,
      "board": "今日头条热榜"
     },
     {
@@ -3550,24 +3782,16 @@ window.CATCH_DATA = {
      "rank": 26,
      "title": "如何看待余承东再称 L3 自动驾驶来临后可睡觉但不能睡死，随后微博强调现在是 L2 但未明确 L3 能否睡觉？",
      "url": "https://www.zhihu.com/question/2107155066318857895",
-     "heat": 1310000,
+     "heat": 680000,
      "board": "知乎热榜"
     },
     {
      "platform": "weibo",
-     "rank": 38,
+     "rank": 34,
      "title": "余承东称百余万辆车零燃烧",
      "url": "https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A7%B0%E7%99%BE%E4%BD%99%E4%B8%87%E8%BE%86%E8%BD%A6%E9%9B%B6%E7%87%83%E7%83%A7",
-     "heat": 140000,
+     "heat": 150000,
      "board": "微博热搜榜"
-    },
-    {
-     "platform": "news",
-     "rank": 5,
-     "title": "余承东：用L3开车能睡觉，别睡过去就行",
-     "url": "https://www.thepaper.cn/newsDetail_forward_34521221",
-     "heat": 0,
-     "board": "澎湃新闻"
     }
    ],
    "comments": [
@@ -3577,7 +3801,7 @@ window.CATCH_DATA = {
      "author": "芝麻糖果",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-07-31 13:00",
+     "time": "2026-07-31 05:00",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1uCEy64EAm",
      "videoId": "BV1uCEy64EAm",
@@ -3594,7 +3818,7 @@ window.CATCH_DATA = {
      "author": "莫与忆",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-08-01 12:40",
+     "time": "2026-08-01 04:40",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1uCEy64EAm",
      "videoId": "BV1uCEy64EAm",
@@ -3611,7 +3835,7 @@ window.CATCH_DATA = {
      "author": "_DayL1Ght_",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-07-30 01:37",
+     "time": "2026-07-29 17:37",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1uCEy64EAm",
      "videoId": "BV1uCEy64EAm",
@@ -3628,7 +3852,7 @@ window.CATCH_DATA = {
      "author": "BD3QIF-静凇",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-08-01 12:41",
+     "time": "2026-08-01 04:41",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1uCEy64EAm",
      "videoId": "BV1uCEy64EAm",
@@ -3640,29 +3864,12 @@ window.CATCH_DATA = {
      "recent": false
     },
     {
-     "text": "真不明白，余大嘴为什么一直执着于开车睡觉啊[笑哭][笑哭][笑哭]",
-     "likes": 930,
-     "author": "GalaxyQAQ--",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-21 01:14",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1H4ypzFEVd",
-     "videoId": "BV1H4ypzFEVd",
-     "isSub": false,
-     "videoTitle": "余承东：L3自动驾驶来了以后 开车是可以睡觉的，别睡死过去就行",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
      "text": "大嘴就非要和睡觉这么情有独钟吗[星星眼]",
-     "likes": 814,
+     "likes": 824,
      "author": "六道织花233号",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-20 18:55",
+     "time": "2026-11-20 10:55",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1Z9yWzbEGf",
      "videoId": "BV1Z9yWzbEGf",
@@ -3679,7 +3886,7 @@ window.CATCH_DATA = {
      "author": "斯小林",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-07-31 22:42",
+     "time": "2026-07-31 14:42",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1uCEy64EAm",
      "videoId": "BV1uCEy64EAm",
@@ -3696,7 +3903,7 @@ window.CATCH_DATA = {
      "author": "高尼_kk",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-10-28 04:11",
+     "time": "2026-10-27 20:11",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1Yfnx6nEi7",
      "videoId": "BV1Yfnx6nEi7",
@@ -3708,46 +3915,12 @@ window.CATCH_DATA = {
      "recent": true
     },
     {
-     "text": "司机在驾驶位睡觉解乏，老板在后座喝咖啡提神醒脑",
-     "likes": 532,
-     "author": "Lionel_Leo",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-20 19:27",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1Z9yWzbEGf",
-     "videoId": "BV1Z9yWzbEGf",
-     "isSub": true,
-     "videoTitle": "余承东再次宣传智驾能睡觉，吓得导播马上切播演示短片",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "哄蒙大脑爱听这个[doge]",
-     "likes": 508,
-     "author": "拔起树根马上出发1",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-21 06:14",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1H4ypzFEVd",
-     "videoId": "BV1H4ypzFEVd",
-     "isSub": true,
-     "videoTitle": "余承东：L3自动驾驶来了以后 开车是可以睡觉的，别睡死过去就行",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
      "text": "[OK]",
-     "likes": 482,
+     "likes": 623,
      "author": "FuryX",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-21 10:44",
+     "time": "2026-11-21 02:44",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1VJyWzXERf",
      "videoId": "BV1VJyWzXERf",
@@ -3759,46 +3932,46 @@ window.CATCH_DATA = {
      "recent": true
     },
     {
-     "text": "经典up主头像没了",
-     "likes": 459,
-     "author": "爱冒险的Ezel",
+     "text": "司机在驾驶位睡觉解乏，老板在后座喝咖啡提神醒脑",
+     "likes": 537,
+     "author": "Lionel_Leo",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-08-01 03:05",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1uCEy64EAm",
-     "videoId": "BV1uCEy64EAm",
-     "isSub": true,
-     "videoTitle": "华为余承东发布会名场面",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "我还以为断章取义呢，原话就开车可以睡觉这也太逆天了[惊讶]",
-     "likes": 445,
-     "author": "窗外总是下着雪",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-20 23:58",
+     "time": "2026-11-20 11:27",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1Z9yWzbEGf",
      "videoId": "BV1Z9yWzbEGf",
-     "isSub": false,
+     "isSub": true,
      "videoTitle": "余承东再次宣传智驾能睡觉，吓得导播马上切播演示短片",
      "sentiment": "中性",
-     "score": -0.4,
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "这个福为什么对开车睡觉这么执念？[辣眼睛]",
+     "likes": 515,
+     "author": "zhapx",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 03:06",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1aeytzfEty",
+     "videoId": "BV1aeytzfEty",
+     "isSub": false,
+     "videoTitle": "11.21全网炸哭！逆天余承东再次宣传L3智驾能够睡觉！吓得导播赶紧切断！",
+     "sentiment": "中性",
+     "score": 0.0,
      "relevant": true,
      "recent": true
     },
     {
      "text": "大嘴要是有独家的闪冲，可以吹上天了",
-     "likes": 424,
+     "likes": 480,
      "author": "yq4041",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-21 08:53",
+     "time": "2026-11-21 00:53",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1RkyszdEur",
      "videoId": "BV1RkyszdEur",
@@ -3810,12 +3983,46 @@ window.CATCH_DATA = {
      "recent": true
     },
     {
+     "text": "我还以为断章取义呢，原话就开车可以睡觉这也太逆天了[惊讶]",
+     "likes": 468,
+     "author": "窗外总是下着雪",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-20 15:58",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1Z9yWzbEGf",
+     "videoId": "BV1Z9yWzbEGf",
+     "isSub": false,
+     "videoTitle": "余承东再次宣传智驾能睡觉，吓得导播马上切播演示短片",
+     "sentiment": "中性",
+     "score": -0.4,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "经典up主头像没了",
+     "likes": 459,
+     "author": "爱冒险的Ezel",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-07-31 19:05",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1uCEy64EAm",
+     "videoId": "BV1uCEy64EAm",
+     "isSub": true,
+     "videoTitle": "华为余承东发布会名场面",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
      "text": "余承东发布会上说的话，但凡是雷军随便说一句一样的，都得被米粉骂死。",
-     "likes": 398,
+     "likes": 405,
      "author": "进击的哇呀呀",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-20 17:23",
+     "time": "2026-11-20 09:23",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1aVsq6xEky",
      "videoId": "BV1aVsq6xEky",
@@ -3832,7 +4039,7 @@ window.CATCH_DATA = {
      "author": "冰橙格子菌",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-07-31 16:29",
+     "time": "2026-07-31 08:29",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1uCEy64EAm",
      "videoId": "BV1uCEy64EAm",
@@ -3845,11 +4052,11 @@ window.CATCH_DATA = {
     },
     {
      "text": "一个交通法，刑法，广告法都不能选中的公司，这样的公司如果在中国成为第一消费者还能发声吗？",
-     "likes": 279,
+     "likes": 287,
      "author": "show goes on",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-20 20:52",
+     "time": "2026-11-20 12:52",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1aVsq6xEky",
      "videoId": "BV1aVsq6xEky",
@@ -3861,17 +4068,17 @@ window.CATCH_DATA = {
      "recent": true
     },
     {
-     "text": "这个福为什么对开车睡觉这么执念？[辣眼睛]",
-     "likes": 253,
-     "author": "zhapx",
+     "text": "之前就这么逆天[笑哭]反正跟开车睡觉过不去了，一直要睡觉",
+     "likes": 247,
+     "author": "大图图图图啊",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-21 11:06",
+     "time": "2026-11-20 16:10",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aeytzfEty",
-     "videoId": "BV1aeytzfEty",
-     "isSub": false,
-     "videoTitle": "11.21全网炸哭！逆天余承东再次宣传L3智驾能够睡觉！吓得导播赶紧切断！",
+     "sourceUrl": "https://www.bilibili.com/video/BV1Z9yWzbEGf",
+     "videoId": "BV1Z9yWzbEGf",
+     "isSub": true,
+     "videoTitle": "余承东再次宣传智驾能睡觉，吓得导播马上切播演示短片",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
@@ -3883,7 +4090,7 @@ window.CATCH_DATA = {
      "author": "黑糖拌饭ovo",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-08-01 12:41",
+     "time": "2026-08-01 04:41",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1uCEy64EAm",
      "videoId": "BV1uCEy64EAm",
@@ -3895,46 +4102,12 @@ window.CATCH_DATA = {
      "recent": false
     },
     {
-     "text": "之前就这么逆天[笑哭]反正跟开车睡觉过不去了，一直要睡觉",
-     "likes": 236,
-     "author": "大图图图图啊",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-21 00:10",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1Z9yWzbEGf",
-     "videoId": "BV1Z9yWzbEGf",
-     "isSub": true,
-     "videoTitle": "余承东再次宣传智驾能睡觉，吓得导播马上切播演示短片",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "广告法不包括发布会[笑哭]但是新出的文件说从明年2月开始发布会不让吹牛了",
-     "likes": 209,
-     "author": "阿卡空虚",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-10-28 09:33",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1Yfnx6nEi7",
-     "videoId": "BV1Yfnx6nEi7",
-     "isSub": true,
-     "videoTitle": "余承东发布会逆天言论",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
      "text": "这是我第一次看大嘴的发布会视频，感觉他是不是从来不做彩排甚至连稿都不顺一下，跟我2年级的儿子读课外读物差不多。",
-     "likes": 208,
+     "likes": 219,
      "author": "maximumpain",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-20 17:19",
+     "time": "2026-11-20 09:19",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1ACyWzTEkE",
      "videoId": "BV1ACyWzTEkE",
@@ -3946,12 +4119,29 @@ window.CATCH_DATA = {
      "recent": true
     },
     {
+     "text": "广告法不包括发布会[笑哭]但是新出的文件说从明年2月开始发布会不让吹牛了",
+     "likes": 209,
+     "author": "阿卡空虚",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-10-28 01:33",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1Yfnx6nEi7",
+     "videoId": "BV1Yfnx6nEi7",
+     "isSub": true,
+     "videoTitle": "余承东发布会逆天言论",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
      "text": "大嘴太抽象了，再这么搞下去华为的品牌都给大嘴败完了[笑哭]",
-     "likes": 202,
+     "likes": 209,
      "author": "最萌八云蓝",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-21 00:27",
+     "time": "2026-11-20 16:27",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1RkyszdEur",
      "videoId": "BV1RkyszdEur",
@@ -3963,19 +4153,104 @@ window.CATCH_DATA = {
      "recent": true
     },
     {
-     "text": "这个嘴啊，真是搞不懂，不说睡觉就不能宣传吗",
-     "likes": 182,
-     "author": "砥砺前行冲冲冲",
+     "text": "为何那么执着于开车睡觉？真的不能在家睡吗[笑哭]",
+     "likes": 209,
+     "author": "小红很受伤",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-20 15:57",
+     "time": "2026-11-21 06:11",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV15Vsq64ELM",
-     "videoId": "BV15Vsq64ELM",
+     "sourceUrl": "https://www.bilibili.com/video/BV195yhzuEVB",
+     "videoId": "BV195yhzuEVB",
      "isSub": false,
-     "videoTitle": "余总：L3是可以睡觉的，别睡死过去就行了，睡20秒吧",
+     "videoTitle": "刚说完“开车可以睡觉” 余承东当晚就发文回应 享界V8目前仍是L2辅助驾驶 强调：开车不能睡觉",
      "sentiment": "中性",
      "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "依旧家里不睡好了再出门服务区不能睡非得高速120开智驾睡得踏实[吃瓜]",
+     "likes": 206,
+     "author": "沫笙zzz",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 06:00",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1L4ytzeEyr",
+     "videoId": "BV1L4ytzeEyr",
+     "isSub": false,
+     "videoTitle": "余承东上车睡觉坚定支持者",
+     "sentiment": "积极",
+     "score": 1.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "他还是知道国人喜欢什么。红果重生流[吃瓜]",
+     "likes": 205,
+     "author": "bili_31168950928",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 02:08",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1aeytzfEty",
+     "videoId": "BV1aeytzfEty",
+     "isSub": false,
+     "videoTitle": "11.21全网炸哭！逆天余承东再次宣传L3智驾能够睡觉！吓得导播赶紧切断！",
+     "sentiment": "积极",
+     "score": 1.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "余总这辈子跟睡觉过不去了[喜欢]",
+     "likes": 196,
+     "author": "伸治丶",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-20 09:12",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1HSyWzAEMX",
+     "videoId": "BV1HSyWzAEMX",
+     "isSub": false,
+     "videoTitle": "余承东宣传L3能睡觉！现场完整版更逆天！直播都不敢放的片段！",
+     "sentiment": "积极",
+     "score": 1.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "虚头巴脑的数据，不是直接触发aeb的数据也能算上去吗？我还说我开车在路上的每一次打方向盘都避免了一次碰撞呢",
+     "likes": 188,
+     "author": "一只小枪枪",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-20 07:03",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1Kbsq6LEUv",
+     "videoId": "BV1Kbsq6LEUv",
+     "isSub": false,
+     "videoTitle": "余承东宣布华为智驾比人驾还安全6.02倍！已避免碰撞542万次！真的假的太牛了吧",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "01:34 依旧避免的碰撞比全国这几年交通事故总和都要多。不知道是哄蒙驾驶员太拉了还是车身素质太拉，怎么就有这么多要被规避的风险。",
+     "likes": 181,
+     "author": "冖车规级累大删人",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-20 10:05",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1Kbsq6LEUv",
+     "videoId": "BV1Kbsq6LEUv",
+     "isSub": false,
+     "videoTitle": "余承东宣布华为智驾比人驾还安全6.02倍！已避免碰撞542万次！真的假的太牛了吧",
+     "sentiment": "消极",
+     "score": -1.6,
      "relevant": true,
      "recent": true
     },
@@ -3985,12 +4260,29 @@ window.CATCH_DATA = {
      "author": "Re0v0n",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-10-27 22:47",
+     "time": "2026-10-27 14:47",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1Yfnx6nEi7",
      "videoId": "BV1Yfnx6nEi7",
      "isSub": false,
      "videoTitle": "余承东发布会逆天言论",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "广告法最严厉的父亲",
+     "likes": 170,
+     "author": "Holmavik",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 04:33",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1VJyWzXERf",
+     "videoId": "BV1VJyWzXERf",
+     "isSub": false,
+     "videoTitle": "死了还得被冤枉！余承东表示很多事故都是人工干预造成的，",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
@@ -4002,7 +4294,7 @@ window.CATCH_DATA = {
      "author": "杀狗子",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-10-25 10:26",
+     "time": "2026-10-25 02:26",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1Yfnx6nEi7",
      "videoId": "BV1Yfnx6nEi7",
@@ -4014,29 +4306,12 @@ window.CATCH_DATA = {
      "recent": true
     },
     {
-     "text": "发布会上吹牛逼，然后事后发声明说自己发布会说的不准确，既吹了牛还免了责，这种不负责任的营销手段，真的令人作呕。虽然它发了声明，但是在higo记忆里，永远只会记得发布会上的那些遥遥领先的内容并且毫不怀疑。",
-     "likes": 162,
-     "author": "准6级账号",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-20 17:23",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1HSyWzAEMX",
-     "videoId": "BV1HSyWzAEMX",
-     "isSub": false,
-     "videoTitle": "余承东宣传L3能睡觉！现场完整版更逆天！直播都不敢放的片段！",
-     "sentiment": "积极",
-     "score": 2.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
      "text": "鞋胶品牌的小字免责“L3”，\n天天吹上车睡觉，鼓吹各种违法行为，这种垃圾品牌简直拿命当儿戏。[辣眼睛]",
-     "likes": 155,
+     "likes": 160,
      "author": "葵花點穴手",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-20 22:49",
+     "time": "2026-11-20 14:49",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1aVsq6xEky",
      "videoId": "BV1aVsq6xEky",
@@ -4048,68 +4323,17 @@ window.CATCH_DATA = {
      "recent": true
     },
     {
-     "text": "开个车怎么句句不离睡觉，就非得开车睡觉，他是不是被打了思想钢印了[思考]",
-     "likes": 155,
-     "author": "GeArO",
+     "text": "为什么不买个高铁票呢，那样不是更省钱吗，还能睡觉。[doge_金箍]",
+     "likes": 143,
+     "author": "Clearpromise丶",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-20 18:53",
+     "time": "2026-11-21 05:33",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV15Vsq64ELM",
-     "videoId": "BV15Vsq64ELM",
+     "sourceUrl": "https://www.bilibili.com/video/BV1L4ytzeEyr",
+     "videoId": "BV1L4ytzeEyr",
      "isSub": false,
-     "videoTitle": "余总：L3是可以睡觉的，别睡死过去就行了，睡20秒吧",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "华为法可依不👋扶方向盘",
-     "likes": 130,
-     "author": "아이고阿一古",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-20 16:46",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1jPsq6aErY",
-     "videoId": "BV1jPsq6aErY",
-     "isSub": false,
-     "videoTitle": "余承东享界V8发布会直播聊智驾画面被切",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "不然宣传啥？速度没别人快，续航没别人远，通过性没别人广，车身强度没别人硬",
-     "likes": 130,
-     "author": "只是213",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-20 17:03",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV15Vsq64ELM",
-     "videoId": "BV15Vsq64ELM",
-     "isSub": true,
-     "videoTitle": "余总：L3是可以睡觉的，别睡死过去就行了，睡20秒吧",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "大嘴的话就没几次是真的断章取义[笑哭]",
-     "likes": 116,
-     "author": "m416-c",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-21 00:15",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1Z9yWzbEGf",
-     "videoId": "BV1Z9yWzbEGf",
-     "isSub": true,
-     "videoTitle": "余承东再次宣传智驾能睡觉，吓得导播马上切播演示短片",
+     "videoTitle": "余承东上车睡觉坚定支持者",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
@@ -4117,11 +4341,11 @@ window.CATCH_DATA = {
     },
     {
      "text": "能开十场发布会，能从设计师讲到充电桩外壳设计再讲到遥遥领先",
-     "likes": 113,
+     "likes": 134,
      "author": "旧己丶",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-21 09:07",
+     "time": "2026-11-21 01:07",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1RkyszdEur",
      "videoId": "BV1RkyszdEur",
@@ -4133,85 +4357,34 @@ window.CATCH_DATA = {
      "recent": true
     },
     {
-     "text": "太令人发指了，以前是擦边广告法、夸大宣传、违规宣传，现在这样无视亡者家属，公开贬损受害者，人性已经一点点都看不到了",
-     "likes": 110,
-     "author": "爱喝饮料的小灰熊",
+     "text": "华为法可依不👋扶方向盘",
+     "likes": 130,
+     "author": "아이고阿一古",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-21 16:32",
+     "time": "2026-11-20 08:46",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1VJyWzXERf",
-     "videoId": "BV1VJyWzXERf",
+     "sourceUrl": "https://www.bilibili.com/video/BV1jPsq6aErY",
+     "videoId": "BV1jPsq6aErY",
      "isSub": false,
-     "videoTitle": "死了还得被冤枉！余承东表示很多事故都是人工干预造成的，",
-     "sentiment": "消极",
-     "score": -1.6,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "三年之后你连配件都买不到[doge]",
-     "likes": 105,
-     "author": "抵制答辩哇味",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-20 16:24",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1x6yWzuEDh",
-     "videoId": "BV1x6yWzuEDh",
-     "isSub": false,
-     "videoTitle": "余承东发布享界V8！31.98万元起！享界能否起量在此一举！",
+     "videoTitle": "余承东享界V8发布会直播聊智驾画面被切",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
      "recent": true
     },
     {
-     "text": "回复 @阿斯顿法国红酒快乐2 :我看过缓存版的，好像也是拼接起来，他本身的口吃没到连续7、8个啊的程度",
-     "likes": 101,
-     "author": "冰橙格子菌",
+     "text": "大嘴的话就没几次是真的断章取义[笑哭]",
+     "likes": 126,
+     "author": "m416-c",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-07-31 18:19",
+     "time": "2026-11-20 16:15",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1uCEy64EAm",
-     "videoId": "BV1uCEy64EAm",
+     "sourceUrl": "https://www.bilibili.com/video/BV1Z9yWzbEGf",
+     "videoId": "BV1Z9yWzbEGf",
      "isSub": true,
-     "videoTitle": "华为余承东发布会名场面",
-     "sentiment": "积极",
-     "score": 2.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "[doge]",
-     "likes": 101,
-     "author": "枫殇夜雨",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-21 14:55",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1aeytzfEty",
-     "videoId": "BV1aeytzfEty",
-     "isSub": false,
-     "videoTitle": "11.21全网炸哭！逆天余承东再次宣传L3智驾能够睡觉！吓得导播赶紧切断！",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "核心科技不周山刹车踏板不说",
-     "likes": 100,
-     "author": "橘子先生xxx",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-20 16:12",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1x6yWzuEDh",
-     "videoId": "BV1x6yWzuEDh",
-     "isSub": false,
-     "videoTitle": "余承东发布享界V8！31.98万元起！享界能否起量在此一举！",
+     "videoTitle": "余承东再次宣传智驾能睡觉，吓得导播马上切播演示短片",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
@@ -4219,11 +4392,11 @@ window.CATCH_DATA = {
     },
     {
      "text": "回复 @龙野铃鹿 :“富人”“省个司机费用”",
-     "likes": 90,
+     "likes": 119,
      "author": "V3eY5uR1cB6jH0fW",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-21 12:02",
+     "time": "2026-11-21 04:02",
      "ip": "",
      "sourceUrl": "https://www.bilibili.com/video/BV1aeytzfEty",
      "videoId": "BV1aeytzfEty",
@@ -4235,62 +4408,124 @@ window.CATCH_DATA = {
      "recent": true
     },
     {
-     "text": "还是太危险了，我试驾过他们家车，踩刹车就会接管，他这样睡迷糊了不小心碰到刹车就退出智驾了。建议取消刹车踏板",
-     "likes": 88,
-     "author": "2-BAD",
+     "text": "[笑哭]豹8死在ADs上了，估计等ADS合同到期才会更新了",
+     "likes": 111,
+     "author": "提醒喝奶小助手喵",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-21 16:29",
+     "time": "2026-11-21 04:49",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1L4ytzeEyr",
-     "videoId": "BV1L4ytzeEyr",
+     "sourceUrl": "https://www.bilibili.com/video/BV1wUyxzrEjt",
+     "videoId": "BV1wUyxzrEjt",
      "isSub": false,
-     "videoTitle": "余承东上车睡觉坚定支持者",
+     "videoTitle": "Der哥：比亚迪钛9能卖好吗？余承东受这车刺激了",
      "sentiment": "中性",
-     "score": -0.4,
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "三年之后你连配件都买不到[doge]",
+     "likes": 109,
+     "author": "抵制答辩哇味",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-20 08:24",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1x6yWzuEDh",
+     "videoId": "BV1x6yWzuEDh",
+     "isSub": false,
+     "videoTitle": "余承东发布享界V8！31.98万元起！享界能否起量在此一举！",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "依旧广告法最严厉的父亲",
+     "likes": 103,
+     "author": "艾丝蒂尔君",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-20 07:26",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1Kbsq6LEUv",
+     "videoId": "BV1Kbsq6LEUv",
+     "isSub": false,
+     "videoTitle": "余承东宣布华为智驾比人驾还安全6.02倍！已避免碰撞542万次！真的假的太牛了吧",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "核心科技不周山刹车踏板不说",
+     "likes": 103,
+     "author": "橘子先生xxx",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-20 08:12",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1x6yWzuEDh",
+     "videoId": "BV1x6yWzuEDh",
+     "isSub": false,
+     "videoTitle": "余承东发布享界V8！31.98万元起！享界能否起量在此一举！",
+     "sentiment": "中性",
+     "score": 0.0,
      "relevant": true,
      "recent": true
     }
    ],
    "commentStats": {
-    "collected": 714,
-    "reused": true,
-    "target": 1000,
-    "complete": false
+    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
+    "videos_scanned": 66,
+    "videos_skipped": 85,
+    "collected": 731,
+    "want": 1000,
+    "queries": [
+     "余承东",
+     "百余万"
+    ],
+    "cached": 0,
+    "fresh": 731,
+    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
+    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
+    "complete": false,
+    "target": 1000
    },
    "sentiment": {
     "positive": 12.7,
-    "neutral": 82.5,
-    "negative": 4.8,
+    "neutral": 82.8,
+    "negative": 4.5,
     "anger": 0.0,
-    "samples": 652,
+    "samples": 669,
     "keywords": [
      {
       "word": "好",
-      "count": 60
+      "count": 61
      },
      {
       "word": "安全",
-      "count": 17
-     },
-     {
-      "word": "差",
-      "count": 13
-     },
-     {
-      "word": "喜欢",
-      "count": 9
-     },
-     {
-      "word": "领先",
-      "count": 8
+      "count": 16
      },
      {
       "word": "事故",
+      "count": 15
+     },
+     {
+      "word": "差",
+      "count": 11
+     },
+     {
+      "word": "喜欢",
+      "count": 11
+     },
+     {
+      "word": "领先",
       "count": 7
      },
      {
-      "word": "负责",
+      "word": "支持",
       "count": 6
      },
      {
@@ -4298,16 +4533,12 @@ window.CATCH_DATA = {
       "count": 5
      },
      {
-      "word": "支持",
+      "word": "负责",
       "count": 5
      },
      {
       "word": "处理",
       "count": 5
-     },
-     {
-      "word": "离谱",
-      "count": 4
      },
      {
       "word": "无语",
@@ -4320,6 +4551,10 @@ window.CATCH_DATA = {
      {
       "word": "必须",
       "count": 3
+     },
+     {
+      "word": "受伤",
+      "count": 3
      }
     ],
     "basis": "相关且近 30 天"
@@ -4327,97 +4562,87 @@ window.CATCH_DATA = {
    "wordcloud": [
     {
      "word": "回复",
-     "weight": 188.0,
+     "weight": 205.0,
      "sentiment": "中性"
     },
     {
      "word": "睡觉",
-     "weight": 146.0,
+     "weight": 141.0,
      "sentiment": "中性"
     },
     {
      "word": "doge",
-     "weight": 108.0,
+     "weight": 99.0,
      "sentiment": "中性"
     },
     {
      "word": "开车",
-     "weight": 72.0,
+     "weight": 67.0,
      "sentiment": "中性"
     },
     {
      "word": "华为",
-     "weight": 57.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "发布会",
-     "weight": 45.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "吃瓜",
-     "weight": 44.0,
+     "weight": 54.0,
      "sentiment": "中性"
     },
     {
      "word": "自己",
+     "weight": 49.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "吃瓜",
+     "weight": 48.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "不能",
+     "weight": 41.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "发布会",
      "weight": 41.0,
      "sentiment": "中性"
     },
     {
      "word": "L3",
-     "weight": 37.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "不能",
-     "weight": 35.0,
+     "weight": 38.0,
      "sentiment": "中性"
     },
     {
      "word": "智驾",
-     "weight": 33.0,
+     "weight": 37.0,
      "sentiment": "中性"
     },
     {
      "word": "驾驶",
-     "weight": 30.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "宣传",
-     "weight": 30.0,
+     "weight": 33.0,
      "sentiment": "中性"
     },
     {
      "word": "这么",
-     "weight": 28.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "现在",
-     "weight": 26.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "真的",
-     "weight": 25.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "这样",
-     "weight": 23.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "这种",
-     "weight": 22.0,
+     "weight": 29.0,
      "sentiment": "中性"
     },
     {
      "word": "l3",
-     "weight": 22.0,
+     "weight": 26.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "现在",
+     "weight": 24.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "宣传",
+     "weight": 23.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "人家",
+     "weight": 21.0,
      "sentiment": "中性"
     },
     {
@@ -4426,8 +4651,23 @@ window.CATCH_DATA = {
      "sentiment": "中性"
     },
     {
+     "word": "真的",
+     "weight": 20.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "这种",
+     "weight": 20.0,
+     "sentiment": "中性"
+    },
+    {
      "word": "接管",
      "weight": 20.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "这样",
+     "weight": 19.0,
      "sentiment": "中性"
     },
     {
@@ -4436,12 +4676,22 @@ window.CATCH_DATA = {
      "sentiment": "中性"
     },
     {
-     "word": "人家",
+     "word": "问题",
      "weight": 19.0,
      "sentiment": "中性"
     },
     {
-     "word": "大嘴",
+     "word": "的话",
+     "weight": 18.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "事故",
+     "weight": 18.0,
+     "sentiment": "消极"
+    },
+    {
+     "word": "法规",
      "weight": 18.0,
      "sentiment": "中性"
     },
@@ -4451,72 +4701,57 @@ window.CATCH_DATA = {
      "sentiment": "中性"
     },
     {
-     "word": "的话",
+     "word": "直接",
      "weight": 17.0,
      "sentiment": "中性"
     },
     {
-     "word": "吹牛",
-     "weight": 17.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "法规",
-     "weight": 17.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "特斯拉",
+     "word": "还有",
      "weight": 16.0,
      "sentiment": "中性"
     },
     {
-     "word": "不会",
+     "word": "吹牛",
      "weight": 15.0,
      "sentiment": "中性"
     },
     {
-     "word": "金箍",
-     "weight": 14.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "车上",
-     "weight": 14.0,
+     "word": "知道",
+     "weight": 15.0,
      "sentiment": "中性"
     },
     {
      "word": "落地",
+     "weight": 15.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "需要",
+     "weight": 15.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "价格",
      "weight": 14.0,
      "sentiment": "中性"
     },
     {
-     "word": "星星",
+     "word": "手机",
+     "weight": 14.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "大嘴",
      "weight": 13.0,
      "sentiment": "中性"
     },
     {
-     "word": "司机",
+     "word": "那么",
      "weight": 13.0,
      "sentiment": "中性"
     },
     {
-     "word": "如果",
-     "weight": 13.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "第一",
-     "weight": 13.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "别人",
-     "weight": 13.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "问题",
+     "word": "国家",
      "weight": 13.0,
      "sentiment": "中性"
     },
@@ -4526,46 +4761,47 @@ window.CATCH_DATA = {
      "sentiment": "中性"
     },
     {
+     "word": "余承东",
+     "weight": 12.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "如果",
+     "weight": 12.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "第一",
+     "weight": 12.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "特斯拉",
+     "weight": 12.0,
+     "sentiment": "中性"
+    },
+    {
      "word": "确实",
-     "weight": 13.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "还有",
-     "weight": 13.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "企业",
      "weight": 12.0,
      "sentiment": "中性"
     },
     {
-     "word": "用户",
+     "word": "别人",
      "weight": 12.0,
      "sentiment": "中性"
     },
     {
-     "word": "那么",
+     "word": "觉得",
      "weight": 12.0,
      "sentiment": "中性"
     },
     {
-     "word": "车主",
+     "word": "不会",
      "weight": 12.0,
      "sentiment": "中性"
-    },
-    {
-     "word": "责任",
-     "weight": 12.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "安全",
-     "weight": 12.0,
-     "sentiment": "积极"
     }
    ],
+   "wordcloudBasis": "真实热评 + 榜单标题",
    "trend": {
     "series": [
      {
@@ -4788,20 +5024,20 @@ window.CATCH_DATA = {
      {
       "t": "2026-11-21T21:00:00+08:00",
       "label": "21:00",
-      "total": 14542000,
+      "total": 4190000,
       "platforms": {
-       "weibo": 150000,
-       "zhihu": 11040000,
-       "news": 3352000
+       "news": 3360000,
+       "zhihu": 680000,
+       "weibo": 150000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T21:00:30.531640+08:00",
+    "updatedAt": "2026-11-21T21:58:06.251723+08:00",
     "measuredPoints": 24
    },
    "risk": {
-    "score": 29,
+    "score": 28,
     "level": "低"
    },
    "summary": "本轮事件由新闻、知乎、微博三平台共振，综合热度约 573 万（新闻 428 万 + 知乎 131 万 + 微博 14 万）。事实链条经多方核实：11 月 20 日，鸿蒙智行享界 V8 及星芒品牌发布会在北京举行，享界 V8 正式上市，指导价 31.98 万至 42.98 万元；华为常务董事、终端 BG 董事长余承东在介绍享界 V8 率先开启时速 120 公里 L3 跨城高速路测时说「L3 自动驾驶来了以后，开车就不用摸方向盘了，开车是可以睡觉的，别睡死过去就行了，20 秒还是多少秒给你唤醒就可以了」（澎湃新闻）。该表述引发争议后，他在发布会结束约一小时后于微博更正：「今天发布会上，有几句话讲得不准确……享界 V8 现在给大家用的是 L2 辅助驾驶，L3 的硬件能力已具备，但还没有开放。大家用辅助驾驶要专心开车、按要求握好方向盘。现在还是 L2 时代，大家一定要注意安全，开车不能睡觉。」（新京报 11 月 20 日 18:22）。舆论同时翻出了 2025 年 5 月的旧账——当时有网友发布其驾驶问界 M8 时头部低垂近 20 秒且未握方向盘的视频，他直到同年 7 月才回应称「当时是在低头看手机」，并称事后已主动前往公安局自首、接受罚款。知乎侧的提问框架未停在「是否说错」，而是追问「L3 时代究竟能否睡觉」，把一次失言转写成了一个尚未有法律与技术答案的监管空白议题。CATCH 抓取的 714 条热评（全部为本轮新抓，扫描 65 个源视频、跳过 155 个）中，「安全」出现 17 次、「事故」7 次、「违法」5 次、「负责」6 次、「离谱」4 次，情绪为中性 82.8% / 积极 12.9% / 消极 4.3% / 愤怒 2.1%。",
@@ -4912,1059 +5148,1089 @@ window.CATCH_DATA = {
      "source": "CATCH 本轮实测榜单"
     }
    ],
-   "sourceCount": 4,
+   "sourceCount": 3,
    "resonance": 3,
-   "wordcloudBasis": "真实热评 + 榜单标题",
    "commentRelevance": {
     "tokens": [
      "余承东",
-     "睡觉",
-     "能睡",
-     "开车"
+     "睡觉"
     ],
-    "total": 714,
-    "relevant": 714,
+    "total": 731,
+    "relevant": 731,
     "ratio": 1.0,
     "basis": "源视频标题",
-    "withVideoTitle": 714
+    "withVideoTitle": 731
    },
    "commentRecency": {
     "windowDays": 30,
-    "total": 714,
-    "recent": 652,
-    "ratio": 0.9132
+    "total": 731,
+    "recent": 669,
+    "ratio": 0.9152
    },
-   "commentCount": 714,
+   "commentCount": 731,
    "commentsFile": "assets/data/comments/E02.json"
   },
   {
    "id": "E03",
-   "keyword": "顺丰速运",
-   "title": "顺丰速运被暂停全军采购资格：公告未披露事由，舆论空间由此敞开",
-   "subtitle": "本轮仅两条同题触发条目（新闻 1163 万 + 微博 199 万），平台多样性最弱；热评样本仅 141 条，是本轮最薄弱的样本。",
+   "keyword": "Anthropic",
+   "title": "数学家宣称 Claude 证明黎曼猜想，为啥 Anthropic 股价仍在暴跌？市场不买账，核心原因是啥？：3 平台共振的当轮热点",
+   "subtitle": "本事件的事实要素由本轮采集数据自动生成；传播阶段、时间线与研判要点尚待撰写，未做任何推断。",
    "platforms": [
     "news",
-    "weibo"
+    "x",
+    "zhihu"
    ],
    "platformHeat": {
-    "weibo": 1560000,
-    "news": 6840000
+    "zhihu": 2890000,
+    "x": 5000,
+    "news": 5000
    },
-   "heat": 8400000,
+   "heat": 2900000,
    "members": [
     {
-     "platform": "news",
-     "rank": 1,
-     "title": "顺丰速运被暂停参加全军采购活动",
-     "url": "https://so.toutiao.com/search?keyword=%23%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8%23",
-     "heat": 11632000,
-     "board": "今日头条热榜"
+     "platform": "zhihu",
+     "rank": 12,
+     "title": "数学家宣称 Claude 证明黎曼猜想，为啥 Anthropic 股价仍在暴跌？市场不买账，核心原因是啥？",
+     "url": "https://www.zhihu.com/question/2107267149399947120",
+     "heat": 2030000,
+     "board": "知乎热榜"
     },
     {
-     "platform": "weibo",
-     "rank": 1,
-     "title": "顺丰速运被暂停参加全军采购活动",
-     "url": "https://s.weibo.com/weibo?q=%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8",
-     "heat": 1990000,
-     "board": "微博热搜榜"
+     "platform": "zhihu",
+     "rank": 16,
+     "title": "Anthropic 上市第二天，数学家就宣称 Claude 解决数学猜想，这是为了强行振奋股价吗？",
+     "url": "https://www.zhihu.com/question/2107273816321650941",
+     "heat": 860000,
+     "board": "知乎热榜"
+    },
+    {
+     "platform": "x",
+     "rank": 31,
+     "title": "Anthropic",
+     "url": "https://twitter.com/search?q=Anthropic",
+     "heat": 0,
+     "board": "X Trending (24h)",
+     "snapshot": "few minutes ago"
+    },
+    {
+     "platform": "news",
+     "rank": 8,
+     "title": "马上评｜AI证明黎曼猜想，数学家该恐慌吗？",
+     "url": "https://www.thepaper.cn/newsDetail_forward_34527175",
+     "heat": 0,
+     "board": "澎湃新闻"
     }
    ],
    "comments": [
     {
-     "text": "明明是邮政[吃瓜]",
-     "likes": 435,
-     "author": "御坂黑子233",
+     "text": "这个音乐配上科普视频，巨有劲，反正我挺喜欢看的，感觉通透了，记没记住，看没看懂不多说，反正当时看的很爽[喜极而泣]",
+     "likes": 4536,
+     "author": "冬阳WinterSun",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2021-03-22 08:28",
+     "time": "2026-10-15 03:27",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
+     "sourceUrl": "https://www.bilibili.com/video/BV1ySaf69EAp",
+     "videoId": "BV1ySaf69EAp",
      "isSub": false,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "京东物流快的是自建仓储物流，第三方物流确实不如顺丰",
-     "likes": 292,
-     "author": "CK摸鱼专业户",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2021-03-22 00:31",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": false,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "京东快是快 但是暴力运输  去年买的cpu 内存条 主板 头天下午买的 隔天早上就到了 但包装盒没一件完整的 单件没有低于3000的电子产品 直接原厂包装给你塞快递纸壳里就送过来 一点填充不放 你说你看这着快递盒子破破烂烂的 你退是不退 你要退就半个月打底 而且别的配件都到了你也不能等半个月啊 还不如试试坏没坏 但你只要打开包装 京东就不给退了 只给换或修 当时京东自营的那几家店 差评率就没有低于20%的 而且差评基本全是因为暴力运输到手坏的只给换不给退 也是运气好 都没坏 正好当时显卡京东没货了 没买到 等京东把东西送到一看包装 就跑去天猫买的显卡 发的顺丰 慢是慢了一点 但包的里三层外三层 快递盒子到了一看愣是包到了一米出头 看着真安心 如果着急到手 那肯定选京东自营 因为快 如果买电子产品或者易碎物品 那我肯定选顺丰 虽然慢了点",
-     "likes": 154,
-     "author": "干饭香灵根",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2021-03-22 23:36",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": false,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
-     "sentiment": "消极",
-     "score": -0.84,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "要寄顺丰就永远别寄标快，标快比邮政还慢",
-     "likes": 122,
-     "author": "henry--_---_",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2023-05-18 03:00",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
-     "videoId": "BV1x84y147bx",
-     "isSub": false,
-     "videoTitle": "顺丰“速运”，速度真快",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "赶走刘强东的京东已经失去了最后的良心，不出5年京东就会没落，京东快递的服务已经快完蛋了其原因就是快递员的收入变更合同只签派遣合同，我以前的同事告诉我京东我老家的市站点3个站长都不干了，数据全部稀烂，营业部经理助理也不愿意接手经理业务，不给钱还想要人服务你可心真大。",
-     "likes": 86,
-     "author": "飘逸大树",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2021-03-23 13:03",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "videoTitle": "《Claude Opus 5.5の小曲》《克劳德の小曲》《文明の小曲》",
      "sentiment": "积极",
      "score": 1.0,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "卡整整一天了[笑哭]搁车上睡死了是吧？",
-     "likes": 60,
-     "author": "闯大祸喽",
+     "text": "各位，没想到claudecode在最后的安装阶段仍然留了一手验证。。。我又优化了一波脚本，只要你能够完成下载完毕就可以正常安装了。视频中提到的地址是https://daheiai.com/cc-install.html 可以不用再私信了，因为貌似有人收不到我就放到这里自取吧。    防杠PS：脚本没有在中间转发或缓存任何数据，只是把“发现最新版本 + 自动化安装”这个步骤做了优化，实际的下载安装全部由用户个人直连官方渠道。",
+     "likes": 2978,
+     "author": "人工大黑",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2023-08-12 22:05",
+     "time": "2026-04-23 07:29",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
-     "videoId": "BV1x84y147bx",
+     "sourceUrl": "https://www.bilibili.com/video/BV1KjoxBoEQJ",
+     "videoId": "BV1KjoxBoEQJ",
      "isSub": false,
-     "videoTitle": "顺丰“速运”，速度真快",
+     "videoTitle": "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）",
      "sentiment": "中性",
-     "score": 0.0,
+     "score": 0.6,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "我的顺丰预计四天后到",
-     "likes": 59,
-     "author": "Godofno",
+     "text": "我猜在此之前你肯定刷到了这俩视频  [doge]",
+     "likes": 2562,
+     "author": "阮玉瑶不摇",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2023-01-27 17:27",
+     "time": "2026-10-17 15:14",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
-     "videoId": "BV1x84y147bx",
+     "sourceUrl": "https://www.bilibili.com/video/BV1ySaf69EAp",
+     "videoId": "BV1ySaf69EAp",
      "isSub": false,
-     "videoTitle": "顺丰“速运”，速度真快",
+     "videoTitle": "《Claude Opus 5.5の小曲》《克劳德の小曲》《文明の小曲》",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "这应该是四车上了[星星眼]，我快递是那b圆通送的，今天早上7点就一直卡在哪不动，我在菜鸟上看就离我几公里，真跟死了一样，就是不动",
-     "likes": 49,
-     "author": "KFC_汉堡",
+     "text": "我觉得那种ai科普小视频还行啊，为什么每次看评论区还有骂的\n总比a劣质猎奇恶俗ai视频好多了，那种我看得浑身犯恶心想吐，然后热度还那么高那么多人看…回想起来就难受……[灵魂出窍][灵魂出窍][灵魂出窍]",
+     "likes": 2420,
+     "author": "开心の水母",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2023-08-27 13:45",
+     "time": "2026-10-17 09:09",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
-     "videoId": "BV1x84y147bx",
-     "isSub": true,
-     "videoTitle": "顺丰“速运”，速度真快",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "邮政就是个开银行的[doge]",
-     "likes": 32,
-     "author": "外面没有人",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2021-03-22 08:57",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "他妈的我买个电脑从苏州迂回到上海中转站，从中午两点到下午十点还在中转站  现在还在",
-     "likes": 30,
-     "author": "我觉得我变聪明了",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2024-06-21 21:50",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1psg1eSECn",
-     "videoId": "BV1psg1eSECn",
+     "sourceUrl": "https://www.bilibili.com/video/BV1ySaf69EAp",
+     "videoId": "BV1ySaf69EAp",
      "isSub": false,
-     "videoTitle": "顺丰“速运”真是太快了！！！",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "这个属不属于字少事大的范围？",
-     "likes": 26,
-     "author": "伊苏兰",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-21 17:13",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1FKyYzWEfy",
-     "videoId": "BV1FKyYzWEfy",
-     "isSub": false,
-     "videoTitle": "涉嫌存在违规问题 顺丰速运被暂停参加全军物资采购活动",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "回复 @一只柠檬路过 :当特快飞机没满时会将标快的塞上特快去，然后收标快的费用",
-     "likes": 25,
-     "author": "野牛不是牛",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2024-04-14 19:44",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
-     "videoId": "BV1x84y147bx",
-     "isSub": true,
-     "videoTitle": "顺丰“速运”，速度真快",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "我是个资深的京东用户，大到电视家电，手机电脑，小到牙膏牙签，都在京东买，呆过三个城市，没有经历过暴力运输，包装盒和简约，很少碰到残次品，如果有换货，第二天快递员会带着新的快件过来换，你那应该是地区管理不善，可以试试去投诉",
-     "likes": 24,
-     "author": "我要升到LV6",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2021-04-09 19:23",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "videoTitle": "《Claude Opus 5.5の小曲》《克劳德の小曲》《文明の小曲》",
      "sentiment": "消极",
-     "score": -1.44,
+     "score": -1.4,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "感觉应该不算大事，中国邮政速递物流股份有限公司25年和26年已经两次被禁止参加全军采购一年了[doge]",
-     "likes": 21,
-     "author": "NorianQ",
+     "text": "四个大企花了5k多亿砸出来一直在学习的超级AI，算是AI巅峰吧",
+     "likes": 1814,
+     "author": "小汤圆吃元宵",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-21 17:44",
+     "time": "2026-10-22 06:19",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1FKyYzWEfy",
-     "videoId": "BV1FKyYzWEfy",
+     "sourceUrl": "https://www.bilibili.com/video/BV1BDnA6tE9j",
+     "videoId": "BV1BDnA6tE9j",
      "isSub": true,
-     "videoTitle": "涉嫌存在违规问题 顺丰速运被暂停参加全军物资采购活动",
+     "videoTitle": "为了封禁国内用户，Claude有多逆天？",
      "sentiment": "中性",
      "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "顺丰速运太慢了，河北发山东，4天才到。",
-     "likes": 16,
-     "author": "椰汁海",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2025-03-30 07:51",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1psg1eSECn",
-     "videoId": "BV1psg1eSECn",
-     "isSub": false,
-     "videoTitle": "顺丰“速运”真是太快了！！！",
-     "sentiment": "中性",
-     "score": -0.4,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "我猜是审计倒查历史项目时发现存在围标情况[笑哭]",
-     "likes": 16,
-     "author": "世界之神60",
+     "text": "我那因为原生家庭父母反对，被家里逼分手的外国前女友[doge]",
+     "likes": 1663,
+     "author": "预言梦龙",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2026-11-21 17:35",
+     "time": "2026-09-18 11:54",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1FKyYzWEfy",
-     "videoId": "BV1FKyYzWEfy",
+     "sourceUrl": "https://www.bilibili.com/video/BV159eJ6qE2P",
+     "videoId": "BV159eJ6qE2P",
      "isSub": false,
-     "videoTitle": "涉嫌存在违规问题 顺丰速运被暂停参加全军物资采购活动",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "得罪人了？",
-     "likes": 15,
-     "author": "joy斑斑猪",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-21 17:31",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1FKyYzWEfy",
-     "videoId": "BV1FKyYzWEfy",
-     "isSub": false,
-     "videoTitle": "涉嫌存在违规问题 顺丰速运被暂停参加全军物资采购活动",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "商家早上发的货，顺丰晚上才揽收，然后在东莞从这个仓库运到那个仓库又一天，两天都过去了，中通都到了顺丰都不到[生气]",
-     "likes": 13,
-     "author": "柒白离",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2024-12-27 01:57",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1psg1eSECn",
-     "videoId": "BV1psg1eSECn",
-     "isSub": false,
-     "videoTitle": "顺丰“速运”真是太快了！！！",
+     "videoTitle": "伦敦未必有Claude忧郁",
      "sentiment": "消极",
-     "score": -2.4,
+     "score": -1.2,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "邮政就是收保护费的",
-     "likes": 12,
-     "author": "我布吉岛该取啥名字",
+     "text": "不懂就问，这个ai这么抛弃国内市场为什么还有许多人往上贴，这个ai什么优点导致必须用",
+     "likes": 1527,
+     "author": "猜猜事实",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2021-03-31 08:16",
+     "time": "2026-10-22 04:54",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "[doge]京东买个小零食，泡沫塞满，手机啥的就套个盒子，里面的东西倒是没碰坏过",
-     "likes": 11,
-     "author": "A引吭高歌",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2021-04-04 20:47",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "回复 @一只柠檬路过 :我发这个评论的时候刚等了四天的顺丰标快[呲牙]",
-     "likes": 11,
-     "author": "henry--_---_",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2024-01-31 18:59",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
-     "videoId": "BV1x84y147bx",
-     "isSub": true,
-     "videoTitle": "顺丰“速运”，速度真快",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "回复 @Asura-sf :武汉疫情最严重的时候，顺丰放假了，我表弟在顺丰。只有京东一直坚持运营，后来顺丰才跟上来的。京东和顺丰应该是互相学习和借鉴的，我从果园寄水果给省城上大学的孩子，果园老板说给你寄京东吧，京东八块钱，顺丰也有助农活动（可能不如京东优惠力度大，因自己支付邮费，果园给寄的京东），他说四通一达要15块钱",
-     "likes": 10,
-     "author": "流年似水顺风顺水",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2021-10-15 16:41",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
-     "sentiment": "消极",
-     "score": -1.6,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "邮政是用来兜底的，注意区分EMS和邮政包裹其实是两个不同的业务。。邮政包裹省内件5块起步必须去邮局寄 EMS是12可以上门。.。而且两者时效也不同。。",
-     "likes": 8,
-     "author": "中小kk",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2021-11-03 02:53",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sourceUrl": "https://www.bilibili.com/video/BV1BDnA6tE9j",
+     "videoId": "BV1BDnA6tE9j",
+     "isSub": false,
+     "videoTitle": "为了封禁国内用户，Claude有多逆天？",
      "sentiment": "中性",
      "score": -0.6,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "回复 @shil4040 :按照常规理解就是第三方寄件服务，因为京东快递一开始就是自建物流，后续开通第三方入驻商家寄件服务，最后才开通私人跟其他平台的寄件服务，统称第三方物流不行吗？",
-     "likes": 8,
-     "author": "CK摸鱼专业户",
+     "text": "来点Claude笑话[doge][doge]",
+     "likes": 1342,
+     "author": "下官钉雷",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2021-04-07 13:37",
+     "time": "2026-10-21 01:55",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "回复 @飘逸大树 :赶走？话语权还是刘强东的",
-     "likes": 8,
-     "author": "碳水卡",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2021-04-09 23:26",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "为啥我发标快第二天早上客户就收到了[笑哭]",
-     "likes": 6,
-     "author": "一只柠檬路过",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2024-01-31 18:25",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
-     "videoId": "BV1x84y147bx",
-     "isSub": true,
-     "videoTitle": "顺丰“速运”，速度真快",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "一模一样的情况，兄弟\n所以这是为什么，之前没遇到过啊。顺丰在我这里印象一直都挺好的，头一次遇到这种卡一天",
-     "likes": 6,
-     "author": "爱钱的灵梦",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2023-09-08 17:39",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
-     "videoId": "BV1x84y147bx",
-     "isSub": true,
-     "videoTitle": "顺丰“速运”，速度真快",
-     "sentiment": "积极",
-     "score": 1.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "回复 @爱钱的灵梦 :哎，有的时候就是挺莫名其妙的，咱也不知道他在干啥，还是这个圆通，我24号下午下的单，你猜怎么着，25号揽货揽了一天，到26号才开始给我送[辣眼睛]",
-     "likes": 6,
-     "author": "KFC_汉堡",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2023-09-08 18:57",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
-     "videoId": "BV1x84y147bx",
-     "isSub": true,
-     "videoTitle": "顺丰“速运”，速度真快",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "让快递员提供揽件照片证明揽件前就损坏",
-     "likes": 6,
-     "author": "xiaowu61",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2024-02-08 12:27",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1ZY4y1Z7nS",
-     "videoId": "BV1ZY4y1Z7nS",
+     "sourceUrl": "https://www.bilibili.com/video/BV1BDnA6tE9j",
+     "videoId": "BV1BDnA6tE9j",
      "isSub": false,
-     "videoTitle": "避雷顺丰速运",
+     "videoTitle": "为了封禁国内用户，Claude有多逆天？",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "玩数码的路过。很多快递都用过 邮政给我的感觉很差 甚至不如其他四通一达 最好还是京东顺丰 以后再也没在用过邮政了 速度最慢",
-     "likes": 5,
-     "author": "很苦的苦_",
+     "text": "按照A/的逻辑，达里奥这是出卖了claude的灵魂了吧",
+     "likes": 1322,
+     "author": "乌纱WUSA",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2022-03-13 23:38",
+     "time": "2026-11-20 09:32",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
-     "sentiment": "中性",
-     "score": -0.19999999999999996,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "第三方物流不就是中通圆通韵达这些玩意儿[笑哭]",
-     "likes": 5,
-     "author": "三年廿班",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2021-03-31 23:33",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sourceUrl": "https://www.bilibili.com/video/BV1U9sY6rEQT",
+     "videoId": "BV1U9sY6rEQT",
+     "isSub": false,
+     "videoTitle": "世界上最诡异的视频：Anthropic上市",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
-     "recent": false
+     "recent": true
     },
     {
-     "text": "回复 @shil4040 :大爷，你有没有用过京东啊？京东里面商家也可以用京东物流的好吗？",
-     "likes": 5,
-     "author": "漠轩叶",
+     "text": "下载太慢，我问deepseek的方案,以下都是deepseek说的:\n使用 WinGet 安装（强烈推荐）\n\n这是目前国内成功率最高的官方安装方式。WinGet 是 Windows 官方的包管理器，它不直接从 claude.ai 拉取脚本，而是通过微软商店的 CDN 网络下载，在国内通常可以直连。powershell\n\nwinget install Anthropic.ClaudeCode\n\n如果提示 winget 不存在，先去 Microsoft Store 安装\"应用安装程序\"。",
+     "likes": 1308,
+     "author": "libra6666",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2021-04-09 15:42",
+     "time": "2026-05-15 12:31",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sourceUrl": "https://www.bilibili.com/video/BV1KjoxBoEQJ",
+     "videoId": "BV1KjoxBoEQJ",
+     "isSub": false,
+     "videoTitle": "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）",
      "sentiment": "中性",
      "score": 0.6,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "顺丰现在花二十多元，还得去菜鸟物流去取你说哪个好？",
-     "likes": 5,
-     "author": "大学生活真不错",
+     "text": "在海外的华人：哦不不不一觉醒来用个中文被封了",
+     "likes": 1264,
+     "author": "开门の爆炸",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2021-04-05 15:25",
+     "time": "2026-10-21 06:06",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sourceUrl": "https://www.bilibili.com/video/BV1BDnA6tE9j",
+     "videoId": "BV1BDnA6tE9j",
+     "isSub": false,
+     "videoTitle": "为了封禁国内用户，Claude有多逆天？",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "Claude感觉是ai娘最漂亮的一个，gemini感觉能排名第二",
+     "likes": 1110,
+     "author": "ghghjjb",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-09-20 06:01",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV159eJ6qE2P",
+     "videoId": "BV159eJ6qE2P",
+     "isSub": false,
+     "videoTitle": "伦敦未必有Claude忧郁",
      "sentiment": "积极",
      "score": 1.0,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "回复 @A引吭高歌 :对对对，我在京东买部手机就这个袋子装着，零食的防护比手机好太多了[笑哭]",
-     "likes": 5,
-     "author": "莴苣依稀",
+     "text": "知识过脑而不留的感觉太爽了",
+     "likes": 1102,
+     "author": "嗨怕",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2021-04-09 16:10",
+     "time": "2026-10-15 13:17",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
+     "sourceUrl": "https://www.bilibili.com/video/BV1ySaf69EAp",
+     "videoId": "BV1ySaf69EAp",
      "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "videoTitle": "《Claude Opus 5.5の小曲》《克劳德の小曲》《文明の小曲》",
      "sentiment": "中性",
-     "score": 0.6,
+     "score": -0.4,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "6，极兔快递都比这块",
-     "likes": 5,
-     "author": "NgEe-",
+     "text": "我有一个美妙的证法，但是至少需要二十五万页才能写下。",
+     "likes": 1080,
+     "author": "Tony-Sky",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2023-09-10 19:04",
+     "time": "2026-11-20 15:03",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
-     "videoId": "BV1x84y147bx",
+     "sourceUrl": "https://www.bilibili.com/video/BV1xAyxzGEjU",
+     "videoId": "BV1xAyxzGEjU",
+     "isSub": false,
+     "videoTitle": "这一天真的来了？Claude声称证明了黎曼猜想！",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "区完了a出，给整个大盘都带崩了",
+     "likes": 1009,
+     "author": "烤栲㘼铐㘼考古鼠",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-20 00:14",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1Hysa6fEqj",
+     "videoId": "BV1Hysa6fEqj",
+     "isSub": false,
+     "videoTitle": "见证历史！Anthropic开盘第一秒，目前最大市值的纯AI公司（不是金融up不要因为这个视频关注我，祝所有观众财富自由梦想成真）",
+     "sentiment": "消极",
+     "score": -1.2,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "Claude娘简直就是牧濑红莉栖啊，理科战神，还有个出生老爹，发色改成暗红色就完美了[汤圆][汤圆][汤圆]",
+     "likes": 906,
+     "author": "月右心",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-09-22 17:33",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV159eJ6qE2P",
+     "videoId": "BV159eJ6qE2P",
+     "isSub": false,
+     "videoTitle": "伦敦未必有Claude忧郁",
+     "sentiment": "中性",
+     "score": -0.4,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "封个号给你说的这么深情[doge]",
+     "likes": 807,
+     "author": "黍宝今天要插秧",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-09-21 14:32",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV159eJ6qE2P",
+     "videoId": "BV159eJ6qE2P",
      "isSub": true,
-     "videoTitle": "顺丰“速运”，速度真快",
+     "videoTitle": "伦敦未必有Claude忧郁",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "顺丰航空自1月24日启动驰援运输任务以来，已连续35天组织航班运力集中服务武汉医疗防疫物资的快速补给，截至2月27日，顺丰航空已执行驰援航班137架次，累计运输防疫物资3508吨。",
-     "likes": 4,
-     "author": "Asura-sf",
+     "text": "gpt只有证明p=np才能拿回做题王的称号了[笑哭]",
+     "likes": 795,
+     "author": "无码无码耶",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2021-04-09 00:31",
+     "time": "2026-11-21 03:09",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
+     "sourceUrl": "https://www.bilibili.com/video/BV1A1yxzCE15",
+     "videoId": "BV1A1yxzCE15",
+     "isSub": false,
+     "videoTitle": "最后一颗明珠 Claude × 黎曼猜想",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "兄弟，这么说吧，国内的ai（除ds）跟他根本就不是一个梯队的，你去用过才知道什么叫真正的vibe coding",
+     "likes": 764,
+     "author": "YuHimura",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-10-22 07:08",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1BDnA6tE9j",
+     "videoId": "BV1BDnA6tE9j",
      "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "videoTitle": "为了封禁国内用户，Claude有多逆天？",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "回复 @飘逸大树 :22年过来的，腾讯退出京东了。京东估计又要回到刘强东手上了。。。",
-     "likes": 4,
-     "author": "陈猪睿",
+     "text": "光速砸盘，这帮人连半天都不想等",
+     "likes": 739,
+     "author": "柠檬真不好吃",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2022-01-04 06:57",
+     "time": "2026-11-19 23:42",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
+     "sourceUrl": "https://www.bilibili.com/video/BV1Hysa6fEqj",
+     "videoId": "BV1Hysa6fEqj",
+     "isSub": false,
+     "videoTitle": "见证历史！Anthropic开盘第一秒，目前最大市值的纯AI公司（不是金融up不要因为这个视频关注我，祝所有观众财富自由梦想成真）",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "各大模型纷纷今夜更新[doge]",
+     "likes": 709,
+     "author": "双葉アオイ",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-19 15:31",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1J9sa6XEEm",
+     "videoId": "BV1J9sa6XEEm",
+     "isSub": false,
+     "videoTitle": "Anthropic今夜上市！全球AI叙事格局将变？",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "谁懂凌晨刷手机突然被推一条黎曼猜想被ai证明了的救赎感[笑哭]",
+     "likes": 700,
+     "author": "内个杀手2",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 00:54",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1A1yxzCE15",
+     "videoId": "BV1A1yxzCE15",
+     "isSub": false,
+     "videoTitle": "最后一颗明珠 Claude × 黎曼猜想",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "烽火台这个真的是震惊到我了，设计得太巧妙了",
+     "likes": 691,
+     "author": "1_lg5",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-10-17 15:35",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1ySaf69EAp",
+     "videoId": "BV1ySaf69EAp",
      "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "videoTitle": "《Claude Opus 5.5の小曲》《克劳德の小曲》《文明の小曲》",
+     "sentiment": "中性",
+     "score": -0.4,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "主要是气质加大分了",
+     "likes": 668,
+     "author": "安有舟",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-09-20 13:29",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV159eJ6qE2P",
+     "videoId": "BV159eJ6qE2P",
+     "isSub": true,
+     "videoTitle": "伦敦未必有Claude忧郁",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "回复 @包点一个麦克雷 :对比起来，还是申通给我的印象最深，就是已经在我旁边了，都要卡一天才送来\n有时候就是莫名其妙",
-     "likes": 4,
-     "author": "爱钱的灵梦",
+     "text": "可恶！这条视频做了一半就被a/封号了！",
+     "likes": 661,
+     "author": "陈陈陈Clara",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2023-09-08 19:05",
+     "time": "2026-11-18 04:08",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
-     "videoId": "BV1x84y147bx",
+     "sourceUrl": "https://www.bilibili.com/video/BV1Pbs26TEb5",
+     "videoId": "BV1Pbs26TEb5",
+     "isSub": false,
+     "videoTitle": "Anthropic为什么急着上市？一口气透析Anthropic IPO!",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "你只是在幻想自己在升级，就像爽文电流一般，实际上爽完之后啥也不剩。[滑稽]",
+     "likes": 620,
+     "author": "此帐号已注销bibi",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-10-15 16:24",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1ySaf69EAp",
+     "videoId": "BV1ySaf69EAp",
      "isSub": true,
-     "videoTitle": "顺丰“速运”，速度真快",
+     "videoTitle": "《Claude Opus 5.5の小曲》《克劳德の小曲》《文明の小曲》",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
      "recent": false
     },
     {
-     "text": "电脑吗？如果给你摔了，那就是很长的扯皮。在中转站一直不动，可以打电话给在线客服，没有用的话再去微信小程序投诉他，一般很快就解决。",
-     "likes": 4,
-     "author": "我的就只有我的",
+     "text": "他是觉醒了什么反派系统吗，为什么每一步都那么精准的符合反派的刻板印象",
+     "likes": 569,
+     "author": "天风环珮",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2024-06-22 09:28",
+     "time": "2026-11-20 02:56",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1psg1eSECn",
-     "videoId": "BV1psg1eSECn",
-     "isSub": true,
-     "videoTitle": "顺丰“速运”真是太快了！！！",
+     "sourceUrl": "https://www.bilibili.com/video/BV1qpsi68E7b",
+     "videoId": "BV1qpsi68E7b",
+     "isSub": false,
+     "videoTitle": "速报！ Anthropic的首席执行官达里奥·阿莫代，上市时诡异的笑脸，吓坏了美国人！",
      "sentiment": "中性",
-     "score": -0.11999999999999997,
+     "score": 0.0,
      "relevant": true,
-     "recent": false
+     "recent": true
     },
     {
-     "text": "回复 @外面没有人 :还有保险和证券[吃瓜]",
-     "likes": 3,
-     "author": "㗊络铁",
+     "text": "说什么为了全人类操碎了心，结果还不是生怕别人抢了自己救世主的饭碗，真是一群端着核弹当传教士的活宝。🐋",
+     "likes": 529,
+     "author": "mortis才不是大肥鱼",
      "platform": "bili",
      "emoji": "📺",
-     "time": "2021-04-06 12:59",
+     "time": "2026-10-29 11:43",
      "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
-     "videoId": "BV1hX4y137fK",
-     "isSub": true,
-     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sourceUrl": "https://www.bilibili.com/video/BV1Nyx764EMy",
+     "videoId": "BV1Nyx764EMy",
+     "isSub": false,
+     "videoTitle": "Claude背后的Anthropic：掌握核心科技的邪教",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "用Claude code接最新的deepseek v4，美滋滋[呲牙]",
+     "likes": 513,
+     "author": "Elainaの沙耶",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-04-25 16:15",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1KjoxBoEQJ",
+     "videoId": "BV1KjoxBoEQJ",
+     "isSub": false,
+     "videoTitle": "8分钟搞定！Claude Code 保姆级安装+原理+真实用法（国内直连）",
      "sentiment": "中性",
      "score": 0.0,
      "relevant": true,
      "recent": false
+    },
+    {
+     "text": "经典",
+     "likes": 511,
+     "author": "腾云之火",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-10-20 05:29",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1EzJf6JE9U",
+     "videoId": "BV1EzJf6JE9U",
+     "isSub": false,
+     "videoTitle": "如何长期稳定使用Claude订阅，原理+实操教学",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "我的天啊，claude大小姐",
+     "likes": 499,
+     "author": "十一区的福利",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 00:57",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1TkytzWE3Z",
+     "videoId": "BV1TkytzWE3Z",
+     "isSub": false,
+     "videoTitle": "卧槽？167年的黎曼猜想被我证了？？我本人都是刷到才知道",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "回复 @安有舟 :Claude是感觉最像传统贵族而且是书香门第的大小姐的模样，gemini就比较像不谙世事的大小姐的状态了，GPT就比较普通异世界兽娘贵族大小姐的状态了\n\n大肥鱼简直就是女仆情人",
+     "likes": 472,
+     "author": "ghghjjb",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-09-20 13:43",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV159eJ6qE2P",
+     "videoId": "BV159eJ6qE2P",
+     "isSub": true,
+     "videoTitle": "伦敦未必有Claude忧郁",
+     "sentiment": "中性",
+     "score": -0.4,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "我也觉得可以，而且给我一种很靠谱的感觉，我还关注了一个",
+     "likes": 449,
+     "author": "幸福平安777",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-10-17 09:17",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1ySaf69EAp",
+     "videoId": "BV1ySaf69EAp",
+     "isSub": true,
+     "videoTitle": "《Claude Opus 5.5の小曲》《克劳德の小曲》《文明の小曲》",
+     "sentiment": "积极",
+     "score": 1.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "大家不要怕，这个AI证明出的稿子过不了AIGC检测[星星眼]",
+     "likes": 431,
+     "author": "萝狮虎",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 03:18",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV154ytzeEQd",
+     "videoId": "BV154ytzeEQd",
+     "isSub": false,
+     "videoTitle": "人类数学家古法证明黎曼猜想，随即被AI挑出错误",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "他们设计股权可精了，怎么融资都不会丢掉控制权",
+     "likes": 427,
+     "author": "给我一杯望情水",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-20 09:59",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1U9sY6rEQT",
+     "videoId": "BV1U9sY6rEQT",
+     "isSub": true,
+     "videoTitle": "世界上最诡异的视频：Anthropic上市",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "那个一天涨粉10w，内容只要够优质，是不是ai其实无所谓的",
+     "likes": 426,
+     "author": "小面条美汁汁er",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-10-17 10:16",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1ySaf69EAp",
+     "videoId": "BV1ySaf69EAp",
+     "isSub": true,
+     "videoTitle": "《Claude Opus 5.5の小曲》《克劳德の小曲》《文明の小曲》",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "他要真能整出来PNP我觉得人类要完蛋了[笑哭]",
+     "likes": 415,
+     "author": "Albert_爱因斯坦",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 03:35",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1A1yxzCE15",
+     "videoId": "BV1A1yxzCE15",
+     "isSub": true,
+     "videoTitle": "最后一颗明珠 Claude × 黎曼猜想",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "社保只有中国有吗[笑哭]",
+     "likes": 407,
+     "author": "回归LV0",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-10-21 06:09",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1BDnA6tE9j",
+     "videoId": "BV1BDnA6tE9j",
+     "isSub": true,
+     "videoTitle": "为了封禁国内用户，Claude有多逆天？",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "我是想认识她，可是她原生家庭有问题，不接受我啊[呆][呆][呆]",
+     "likes": 398,
+     "author": "Damon_dada",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-08 09:16",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1h3W76wEem",
+     "videoId": "BV1h3W76wEem",
+     "isSub": false,
+     "videoTitle": "Claude(Code)桌面APP，保姆级全攻略，一期视频精通，顶级Agent软件长什么样？",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "我都不敢想这位研究了十二年黎猜的数学家有多绝望，他不敢赌claude的证明对不对，他只是知道如果claude的证明正确的话，自己的证明无论正确与否都没有意义了，所以只能硬着头皮发出来[笑哭]",
+     "likes": 382,
+     "author": "枝垂萤啊",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 10:52",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV15aytzcENP",
+     "videoId": "BV15aytzcENP",
+     "isSub": false,
+     "videoTitle": "Claude 证明了黎曼猜想？11分钟讲清它到底证明了什么、还差哪几步",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
     }
    ],
    "commentStats": {
-    "collected": 141,
-    "reused": true,
-    "target": 1000,
-    "complete": false
+    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
+    "videos_scanned": 38,
+    "videos_skipped": 46,
+    "collected": 1000,
+    "want": 1000,
+    "queries": [
+     "Anthropic",
+     "数学家",
+     "Claude",
+     "第二天"
+    ],
+    "cached": 0,
+    "fresh": 1000,
+    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
+    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
+    "complete": true,
+    "target": 1000
    },
    "sentiment": {
-    "positive": 11.3,
-    "neutral": 82.3,
-    "negative": 6.4,
+    "positive": 9.3,
+    "neutral": 86.2,
+    "negative": 4.5,
     "anger": 0.0,
-    "samples": 141,
+    "samples": 762,
     "keywords": [
      {
       "word": "好",
-      "count": 15
+      "count": 66
+     },
+     {
+      "word": "崩了",
+      "count": 10
      },
      {
       "word": "差",
-      "count": 4
-     },
-     {
-      "word": "暴力",
-      "count": 4
-     },
-     {
-      "word": "投诉",
-      "count": 3
+      "count": 9
      },
      {
       "word": "生气",
-      "count": 3
-     },
-     {
-      "word": "不错",
-      "count": 3
-     },
-     {
-      "word": "赞",
-      "count": 2
-     },
-     {
-      "word": "喜欢",
-      "count": 2
-     },
-     {
-      "word": "良心",
-      "count": 1
-     },
-     {
-      "word": "疫情",
-      "count": 1
-     },
-     {
-      "word": "必须",
-      "count": 1
+      "count": 9
      },
      {
       "word": "解决",
-      "count": 1
+      "count": 8
      },
      {
-      "word": "垃圾",
-      "count": 1
+      "word": "安全",
+      "count": 7
      },
      {
-      "word": "谢谢",
-      "count": 1
+      "word": "支持",
+      "count": 6
+     },
+     {
+      "word": "恶心",
+      "count": 6
+     },
+     {
+      "word": "成功",
+      "count": 5
+     },
+     {
+      "word": "必须",
+      "count": 5
+     },
+     {
+      "word": "喜欢",
+      "count": 4
+     },
+     {
+      "word": "突破",
+      "count": 3
+     },
+     {
+      "word": "封禁",
+      "count": 3
+     },
+     {
+      "word": "炸了",
+      "count": 3
      }
     ],
-    "basis": "相关评论"
+    "basis": "相关且近 30 天"
    },
    "wordcloud": [
     {
      "word": "回复",
-     "weight": 56.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "京东",
-     "weight": 39.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "快递",
-     "weight": 25.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "顺丰",
-     "weight": 23.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "邮政",
-     "weight": 19.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "物流",
-     "weight": 11.0,
+     "weight": 281.0,
      "sentiment": "中性"
     },
     {
      "word": "doge",
-     "weight": 11.0,
+     "weight": 72.0,
      "sentiment": "中性"
     },
     {
-     "word": "如果",
-     "weight": 10.0,
+     "word": "AI",
+     "weight": 65.0,
      "sentiment": "中性"
     },
     {
-     "word": "一天",
-     "weight": 8.0,
+     "word": "证明",
+     "weight": 59.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "ai",
+     "weight": 50.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "自己",
+     "weight": 47.0,
      "sentiment": "中性"
     },
     {
      "word": "现在",
-     "weight": 8.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "手机",
-     "weight": 8.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "第三方",
-     "weight": 7.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "运输",
-     "weight": 7.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "包装",
-     "weight": 7.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "商家",
-     "weight": 7.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "顺丰速运",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "不如",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "服务",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "四天",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "圆通",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "电脑",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "吃瓜",
-     "weight": 5.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "暴力",
-     "weight": 5.0,
-     "sentiment": "消极"
-    },
-    {
-     "word": "东西",
-     "weight": 5.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "应该",
-     "weight": 5.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "可能",
-     "weight": 5.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "shil4040",
-     "weight": 5.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "寄件",
-     "weight": 5.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "飘逸",
-     "weight": 5.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "大树",
-     "weight": 5.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "的话",
-     "weight": 5.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "参加",
-     "weight": 4.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "确实",
-     "weight": 4.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "早上",
-     "weight": 4.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "不能",
-     "weight": 4.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "肯定",
-     "weight": 4.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "刘强",
-     "weight": 4.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "一直",
-     "weight": 4.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "上海",
-     "weight": 4.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "路过",
-     "weight": 4.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "时候",
-     "weight": 4.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "武汉",
-     "weight": 4.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "只有",
-     "weight": 4.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "其他",
-     "weight": 4.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "这种",
-     "weight": 4.0,
+     "weight": 43.0,
      "sentiment": "中性"
     },
     {
      "word": "知道",
-     "weight": 4.0,
+     "weight": 34.0,
      "sentiment": "中性"
     },
     {
-     "word": "揽件",
-     "weight": 4.0,
+     "word": "公司",
+     "weight": 32.0,
      "sentiment": "中性"
     },
     {
-     "word": "速度",
-     "weight": 4.0,
+     "word": "数学家",
+     "weight": 31.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "出来",
+     "weight": 30.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "这么",
+     "weight": 30.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "人类",
+     "weight": 29.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "模型",
+     "weight": 27.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "金箍",
+     "weight": 27.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "Claude",
+     "weight": 26.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "确实",
+     "weight": 24.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "如果",
+     "weight": 23.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "百度",
+     "weight": 23.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "验证",
+     "weight": 22.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "可能",
+     "weight": 21.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "直接",
+     "weight": 21.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "真的",
+     "weight": 21.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "小姐",
+     "weight": 20.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "不会",
+     "weight": 20.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "只是",
+     "weight": 20.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "中国",
+     "weight": 20.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "黎曼",
+     "weight": 19.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "claude",
+     "weight": 19.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "一样",
+     "weight": 19.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "结果",
+     "weight": 18.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "问题",
+     "weight": 18.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "一下",
+     "weight": 18.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "不过",
+     "weight": 18.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "时候",
+     "weight": 18.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "猜想",
+     "weight": 17.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "数学",
+     "weight": 17.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "觉得",
+     "weight": 17.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "还有",
+     "weight": 17.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "lean",
+     "weight": 17.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "万页",
+     "weight": 17.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "不能",
+     "weight": 17.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "美国",
+     "weight": 17.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "kyc",
+     "weight": 17.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "封号",
+     "weight": 16.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "一定",
+     "weight": 16.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "检测",
+     "weight": 15.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "大肥鱼",
+     "weight": 15.0,
      "sentiment": "中性"
     }
    ],
+   "wordcloudBasis": "真实热评 + 榜单标题",
    "trend": {
     "series": [
      {
@@ -6190,215 +6456,1129 @@ window.CATCH_DATA = {
      {
       "t": "2026-11-21T21:00:00+08:00",
       "label": "21:00",
-      "total": 8400000,
+      "total": 2900000,
       "platforms": {
-       "weibo": 1560000,
-       "news": 6840000
+       "zhihu": 2890000,
+       "x": 5000,
+       "news": 5000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T21:00:30.554049+08:00",
+    "updatedAt": "2026-11-21T21:58:06.512518+08:00",
     "measuredPoints": 24
    },
    "risk": {
-    "score": 31,
+    "score": 28,
     "level": "低"
    },
-   "summary": "本轮事件由新闻、微博两平台共振，综合热度约 1362 万（新闻 1163 万 + 微博 199 万）。事实经多方核实：11 月 19 日，军队采购网连发《知情告知书公告（顺丰速运有限公司）》《知情告知书公告（八马茶业股份有限公司）》，称根据有关部门通报，两家公司因涉嫌存在违规问题，被暂停参加全军物资、工程及服务采购活动，处理部门为军委后勤保障部采购服务中心，处理日期 11 月 19 日，范围为全军。同批被处理的还有紫光软件系统有限公司、中国交通建设集团。**公告未披露具体违规事项，亦未说明暂停期限。** 八马茶业一案的处理范围进一步延伸到其自然人控股股东吴小宁：其控股或管理的其他企业一并受限，公司授权代表不得再以任何形式代理其他供应商参与军采项目（联合早报 11 月 21 日）。将顺丰速运置于历史序列中可见这不是孤例——2026 年 3 月，海澜之家同样被暂停全军采购资格，事由为「中标后无正当理由拒不签订合约」。企业体量方面，顺丰速运为顺丰控股间接全资子公司，注册资本 10 亿元，2026 年上半年营业收入 115.27 亿元、净利润 53.81 亿元；顺丰控股 2026 年前三季度营业收入 2377.27 亿元，同比增长 5.53%，归母净利润 82.15 亿元，同比下降 1.12%。CATCH 抓取的 141 条热评中，消极情绪占 6.4%、「暴力」一词出现 4 次、「投诉」3 次、「生气」3 次，是本轮唯一在热评中显性出现体制性质疑词的事件。",
+   "summary": "本事件由 3 个平台共振（news / x / zhihu），综合热度约 2,900,000，各平台分项为 zhihu 2890000 + x 5000 + news 5000。本轮触发条目共 4 条，热度居前的是「数学家宣称 Claude 证明黎曼猜想，为啥 Anthropic 股价仍在暴跌？市场不买账，核心原因是啥？」等。系统抓取的真实热评样本 1000 条，其中 1000 条与本事件相关，近 30 天内发布的有 762 条；情绪分布为积极 9.3%、中性 86.2%、消极 4.5%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
-     "value": "企业合规处置 · 军队采购资格暂停 · 信息不完整下的舆论生成"
+     "value": "跨平台共振话题（3 平台）"
     },
     {
      "label": "共振平台",
-     "value": "新闻 / 微博（2 平台）"
+     "value": "news / x / zhihu"
     },
     {
      "label": "综合热度",
-     "value": "约 1362 万（新闻 1163 万 + 微博 199 万）"
+     "value": "约 2,900,000（zhihu 2890000 + x 5000 + news 5000）"
     },
     {
      "label": "触发条目",
-     "value": "「顺丰速运被暂停参加全军采购活动」1163.2 万（今日头条新闻榜第 1 位）；同题条目 199 万（微博热搜第 1 位）"
+     "value": "「数学家宣称 Claude 证明黎曼猜想，为啥 Anthropic 股价仍在暴跌？市场不买账，核心原因是啥？」；「Anthropic 上市第二天，数学家就宣称 Claude 解决数学猜想，这是为了强行振奋股价吗？」；「Anthropic」；「马上评｜AI证明黎曼猜想，数学家该恐慌吗？」"
     },
     {
-     "label": "时间锚点",
-     "value": "11-19 军队采购网发布公告，处置自 11-19 生效，范围全军；11-21 港台与内地媒体集中报道"
-    },
-    {
-     "label": "处置主体",
-     "value": "军委后勤保障部采购服务中心；依据为「有关部门通报」的违规问题"
-    },
-    {
-     "label": "同批处理对象",
-     "value": "八马茶业（自然人控股股东吴小宁同批处理，其控股或管理企业一并受限，授权代表不得代理其他供应商）、紫光软件系统、中国交通建设集团"
-    },
-    {
-     "label": "信息缺口",
-     "value": "公告未披露具体违规事项与暂停期限，项目编号均为「无」"
-    },
-    {
-     "label": "历史对照",
-     "value": "2026 年 3 月海澜之家同样被暂停全军采购资格，事由为「中标后无正当理由拒不签订合约」"
+     "label": "情绪基调",
+     "value": "积极 9.3% / 中性 86.2% / 消极 4.5% / 愤怒 0.0%"
     },
     {
      "label": "热评样本与相关性",
-     "value": "141 条真实热评（本轮全部新抓，扫描 15 个源视频、跳过 55 个，远未达 1000 条目标）；情绪中性 82.3% / 积极 11.3% / 消极 6.4% / 愤怒 1.4%；「暴力」4 次、「投诉」3 次、「生气」3 次"
+     "value": "1000 条真实热评中 1000 条相关（相关率 100.0%）；近 30 天样本 762 条"
+    },
+    {
+     "label": "风险等级",
+     "value": "低（风险指数 28）"
+    },
+    {
+     "label": "研判状态",
+     "value": "要素由本轮采集数据自动生成；传播阶段、时间线与研判要点待撰写（未作推断）"
     }
    ],
-   "phases": [
-    {
-     "name": "公告",
-     "desc": "11-19 军队采购网连发两份《知情告知书公告》，暂停顺丰速运与八马茶业参加全军物资、工程及服务采购活动资格，处理日期同为 11-19，范围全军。",
-     "time": "11-19"
-    },
-    {
-     "name": "港台首发",
-     "desc": "11-21 港台媒体（联合早报、星岛日报、联合报）率先报道，核心信息点集中在「未披露具体事由与期限」，以及八马茶业自然人股东吴小宁被一并处理。",
-     "time": "11-21 上午"
-    },
-    {
-     "name": "内地扩散",
-     "desc": "澎湃、凤凰财经等内地财经媒体跟进，标题统一采用「涉嫌违规被暂停」表述。微博热搜第 1 位与新闻榜第 1 位为同题条目，标题完全一致。",
-     "time": "11-21 上午至下午"
-    },
-    {
-     "name": "空白期",
-     "desc": "公告未给出具体违规事项，舆论在事实缺口处自行填充；热评中出现「暴力」「投诉」等词，显示公众已从合规事实转向动机猜测。",
-     "time": "11-21 至今"
-    }
-   ],
+   "phases": [],
    "analysis": {
     "points": [
-     "本事件的全部传播动力来自一个信息缺口：公告明确写出了「涉嫌存在违规问题」与处置结果，却未写明违规事项与暂停期限，项目编号均为「无」。在事实不完整的情况下，舆情必然向解释成本最低的方向流动——把「未说明的原因」读作「不便说明的原因」。热评中出现 4 次「暴力」与 3 次「投诉」，正是在这一缺口处的想象性填充。",
-     "这是本轮五个事件里平台多样性最弱的一个：两条触发条目来自新闻与微博，且标题完全一致（「顺丰速运被暂停参加全军采购活动」），说明两平台的曝光几乎由同一波通稿分发驱动，而非各自独立发酵。综合热度 1362 万虽居当日第二，但在方法论上必须标注为「单一源分发」而非「多平台自发觉醒」——把这类热度与 E01 的三平台共振并列比较是不成立的。",
-     "把处置放进历史序列后可以看到一个被忽略的参照系：2026 年 3 月海澜之家因「中标后无正当理由拒不签订合约」被暂停军采资格，事由是明确的；而本次顺丰与八马茶业的事由未公开。同一家系统、同一类处置、两种信息密度，本身就构成一个值得研究的披露实践问题——同一类程序在何时充分说明、何时以「通报」二字带过，取决于被处置方而非处置方的判断权时，构成了一个具体的、可核查的分析切口。",
-     "关联处理的连带范围是本轮事件中最值得追踪的机制性特征：八马茶业一案不仅暂停公司本身，还将其自然人控股股东吴小宁控股或管理的其他企业一并挡在门外，并禁止其授权代表代理其他供应商参与。这意味着处置的传导路径从「法人」扩展到「实际控制人」与「商业代理关系」。当这一机制被公众理解并复制到「某个人出事→其关联公司受牵连」的想象时，舆情风险会显著高于单一企业的处罚事件。",
-     "取样边界与置信度：本期热评仅 141 条，扫描 15 个源视频、跳过 55 个，只完成目标的三成不到，原因是该主题在 B 站的视频供给极稀疏。也就是说，样本量不足本身就是本事件的一个发现——它反映的不是「公众讨论热烈」，而是「该议题在视频平台上几乎没有讨论」。消极情绪占比 6.4% 虽为本轮最高，但建立在 141 条的基数上，且高比例部分来自少量极端评论，因此只能作为方向性信号，不能作为比例结论。"
+     "本事件尚未撰写研判要点。页面现有内容全部来自本轮采集的可核验数据（榜单条目、热度、情绪分布、热评样本与相关率），不含任何对传播机制的推断。"
     ],
-    "angles": [
-     "公告的信息密度：统计军队采购网近期暂停类公告中「事由披露率」与「期限披露率」，建立披露实践的基线。",
-     "关联处置的连带半径：以「自然人控股股东连带受限」为线索，梳理处置从法人向实际控制人传导的制度路径。",
-     "通稿分发与真实共振的区分：对比同题条目在多平台的热度排序与时间戳，量化「单一分发」与「多平台自发觉醒」的热度差异。",
-     "事实缺口与舆情填补：把事件时间线按「已知—未知」标注，追踪每一次未知点被何种解释覆盖的速度。"
-    ],
-    "methods": [
-     "内容分析：对军队采购网公告做「事由 / 期限 / 项目编号 / 关联范围」四字段的结构化编码与披露率统计。",
-     "框架分析：比较「合规处罚」框架与「信息不透明」框架在热评中的分布与强度。",
-     "案例比较：把本次顺丰、八马茶业与 3 月海澜之家三案并列，比较处置理由的披露差异及其后果。",
-     "传播测量：以「触发条目标题相同率」与「平台来源数」作为区分通稿分发与自发共振的操作化指标。"
-    ]
+    "angles": [],
+    "methods": []
    },
-   "timeline": [
-    {
-     "time": "11-19",
-     "event": "军队采购网发布《知情告知书公告（顺丰速运有限公司）》《知情告知书公告（八马茶业股份有限公司）》，暂停两企参加全军采购活动资格",
-     "source": "军队采购网 / 凤凰财经"
-    },
-    {
-     "time": "11-21 上午",
-     "event": "联合早报报道八马茶业自然人控股股东吴小宁同批处理，其控股或管理企业一并受限",
-     "source": "联合早报"
-    },
-    {
-     "time": "11-21",
-     "event": "内地财经媒体跟进，微博热搜与新闻榜首位均为同题条目",
-     "source": "CATCH 本轮实测榜单"
-    },
-    {
-     "time": "待观察",
-     "event": "公告未披露具体违规事项与暂停期限，处置结论仍处信息空白期",
-     "source": "军队采购网公告"
-    }
-   ],
-   "sourceCount": 2,
-   "resonance": 2,
-   "wordcloudBasis": "真实热评 + 榜单标题",
+   "timeline": [],
+   "sourceCount": 4,
+   "resonance": 3,
    "commentRelevance": {
     "tokens": [
-     "运被暂停参加",
-     "停参加全军采",
-     "全军采购活动",
-     "顺丰速运被暂",
-     "加全军采购活",
-     "暂停参加全军",
-     "被暂停参加全",
-     "参加全军采购",
-     "丰速运被暂停",
-     "速运被暂停参"
+     "证明黎曼猜想",
+     "数学家",
+     "股价",
+     "宣称"
     ],
-    "total": 141,
-    "relevant": 141,
+    "total": 1000,
+    "relevant": 1000,
     "ratio": 1.0,
     "basis": "源视频标题",
-    "withVideoTitle": 141
+    "withVideoTitle": 1000
    },
    "commentRecency": {
     "windowDays": 30,
-    "total": 141,
-    "recent": 10,
-    "ratio": 0.0709
+    "total": 1000,
+    "recent": 762,
+    "ratio": 0.762
    },
-   "commentCount": 141,
+   "commentCount": 1000,
    "commentsFile": "assets/data/comments/E03.json"
   },
   {
    "id": "E04",
-   "keyword": "泰国拳",
-   "title": "黄景瑜腿绞泰国拳王：一场综艺切磋如何被讲述成「实力认证」",
-   "subtitle": "本轮热评样本为 0 条——B 站未找到相关源视频，词云与情感分布均无数据，事件仅能作条目层面的分析。",
+   "keyword": "顺丰速运",
+   "title": "顺丰速运被暂停全军采购资格：公告未披露事由，舆论空间由此敞开",
+   "subtitle": "本轮仅两条同题触发条目（新闻 1163 万 + 微博 199 万），平台多样性最弱；热评样本仅 141 条，是本轮最薄弱的样本。",
    "platforms": [
     "news",
     "weibo"
    ],
    "platformHeat": {
-    "news": 10075000
+    "news": 2038000,
+    "weibo": 1280000
    },
-   "heat": 10075000,
+   "heat": 3318000,
    "members": [
     {
      "platform": "news",
-     "rank": 11,
-     "title": "黄景瑜腿绞泰国拳王",
-     "url": "https://so.toutiao.com/search?keyword=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%85%BF%E7%BB%9E%E6%B3%B0%E5%9B%BD%E6%8B%B3%E7%8E%8B%23",
-     "heat": 10525000,
+     "rank": 14,
+     "title": "顺丰速运被暂停参加全军采购活动",
+     "url": "https://so.toutiao.com/search?keyword=%23%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8%23",
+     "heat": 2038000,
      "board": "今日头条热榜"
     },
     {
      "platform": "weibo",
-     "rank": 43,
-     "title": "黄景瑜腿绞泰国拳王",
-     "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E6%99%AF%E7%91%9C%E8%85%BF%E7%BB%9E%E6%B3%B0%E5%9B%BD%E6%8B%B3%E7%8E%8B",
-     "heat": 120000,
+     "rank": 1,
+     "title": "顺丰速运被暂停参加全军采购活动",
+     "url": "https://s.weibo.com/weibo?q=%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8",
+     "heat": 1280000,
      "board": "微博热搜榜"
     }
    ],
-   "comments": [],
+   "comments": [
+    {
+     "text": "明明是邮政[吃瓜]",
+     "likes": 435,
+     "author": "御坂黑子233",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2021-03-22 00:28",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
+     "videoId": "BV1hX4y137fK",
+     "isSub": false,
+     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "京东物流快的是自建仓储物流，第三方物流确实不如顺丰",
+     "likes": 292,
+     "author": "CK摸鱼专业户",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2021-03-21 16:31",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
+     "videoId": "BV1hX4y137fK",
+     "isSub": false,
+     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "这个属不属于字少事大的范围？",
+     "likes": 283,
+     "author": "伊苏兰",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 09:13",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1FKyYzWEfy",
+     "videoId": "BV1FKyYzWEfy",
+     "isSub": false,
+     "videoTitle": "涉嫌存在违规问题 顺丰速运被暂停参加全军物资采购活动",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "小问题不会停止采购，大问题不会只停止采购，大概率是财务和商务行动上的问题[doge]",
+     "likes": 223,
+     "author": "0XC0000007B",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 11:09",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1FKyYzWEfy",
+     "videoId": "BV1FKyYzWEfy",
+     "isSub": false,
+     "videoTitle": "涉嫌存在违规问题 顺丰速运被暂停参加全军物资采购活动",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "京东快是快 但是暴力运输  去年买的cpu 内存条 主板 头天下午买的 隔天早上就到了 但包装盒没一件完整的 单件没有低于3000的电子产品 直接原厂包装给你塞快递纸壳里就送过来 一点填充不放 你说你看这着快递盒子破破烂烂的 你退是不退 你要退就半个月打底 而且别的配件都到了你也不能等半个月啊 还不如试试坏没坏 但你只要打开包装 京东就不给退了 只给换或修 当时京东自营的那几家店 差评率就没有低于20%的 而且差评基本全是因为暴力运输到手坏的只给换不给退 也是运气好 都没坏 正好当时显卡京东没货了 没买到 等京东把东西送到一看包装 就跑去天猫买的显卡 发的顺丰 慢是慢了一点 但包的里三层外三层 快递盒子到了一看愣是包到了一米出头 看着真安心 如果着急到手 那肯定选京东自营 因为快 如果买电子产品或者易碎物品 那我肯定选顺丰 虽然慢了点",
+     "likes": 154,
+     "author": "干饭香灵根",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2021-03-22 15:36",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
+     "videoId": "BV1hX4y137fK",
+     "isSub": false,
+     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sentiment": "消极",
+     "score": -0.84,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "我猜是审计倒查历史项目时发现存在围标情况[笑哭]",
+     "likes": 138,
+     "author": "世界之神60",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 09:35",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1FKyYzWEfy",
+     "videoId": "BV1FKyYzWEfy",
+     "isSub": false,
+     "videoTitle": "涉嫌存在违规问题 顺丰速运被暂停参加全军物资采购活动",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "要寄顺丰就永远别寄标快，标快比邮政还慢",
+     "likes": 122,
+     "author": "henry--_---_",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2023-05-17 19:00",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
+     "videoId": "BV1x84y147bx",
+     "isSub": false,
+     "videoTitle": "顺丰“速运”，速度真快",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "只是不能参加这个而已",
+     "likes": 105,
+     "author": "潇湘-落忆",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 09:50",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1FKyYzWEfy",
+     "videoId": "BV1FKyYzWEfy",
+     "isSub": true,
+     "videoTitle": "涉嫌存在违规问题 顺丰速运被暂停参加全军物资采购活动",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "赶走刘强东的京东已经失去了最后的良心，不出5年京东就会没落，京东快递的服务已经快完蛋了其原因就是快递员的收入变更合同只签派遣合同，我以前的同事告诉我京东我老家的市站点3个站长都不干了，数据全部稀烂，营业部经理助理也不愿意接手经理业务，不给钱还想要人服务你可心真大。",
+     "likes": 86,
+     "author": "飘逸大树",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2021-03-23 05:03",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
+     "videoId": "BV1hX4y137fK",
+     "isSub": true,
+     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sentiment": "积极",
+     "score": 1.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "很多都被暂停过的",
+     "likes": 67,
+     "author": "无言的长颈鹿",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 10:12",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1FKyYzWEfy",
+     "videoId": "BV1FKyYzWEfy",
+     "isSub": true,
+     "videoTitle": "涉嫌存在违规问题 顺丰速运被暂停参加全军物资采购活动",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "卡整整一天了[笑哭]搁车上睡死了是吧？",
+     "likes": 60,
+     "author": "闯大祸喽",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2023-08-12 14:05",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
+     "videoId": "BV1x84y147bx",
+     "isSub": false,
+     "videoTitle": "顺丰“速运”，速度真快",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "我的顺丰预计四天后到",
+     "likes": 59,
+     "author": "Godofno",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2023-01-27 09:27",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
+     "videoId": "BV1x84y147bx",
+     "isSub": false,
+     "videoTitle": "顺丰“速运”，速度真快",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "这应该是四车上了[星星眼]，我快递是那b圆通送的，今天早上7点就一直卡在哪不动，我在菜鸟上看就离我几公里，真跟死了一样，就是不动",
+     "likes": 49,
+     "author": "KFC_汉堡",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2023-08-27 05:45",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
+     "videoId": "BV1x84y147bx",
+     "isSub": true,
+     "videoTitle": "顺丰“速运”，速度真快",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "算不上什么大事，海澜之家不也一样嘛，被禁止军队政府合作。",
+     "likes": 36,
+     "author": "古云梦龙",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 10:12",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1FKyYzWEfy",
+     "videoId": "BV1FKyYzWEfy",
+     "isSub": true,
+     "videoTitle": "涉嫌存在违规问题 顺丰速运被暂停参加全军物资采购活动",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "邮政就是个开银行的[doge]",
+     "likes": 32,
+     "author": "外面没有人",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2021-03-22 00:57",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
+     "videoId": "BV1hX4y137fK",
+     "isSub": true,
+     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "[doge]看一下中字头企查查，感觉没抓人没封都算小事",
+     "likes": 30,
+     "author": "夏日下の星光",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 10:16",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1FKyYzWEfy",
+     "videoId": "BV1FKyYzWEfy",
+     "isSub": true,
+     "videoTitle": "涉嫌存在违规问题 顺丰速运被暂停参加全军物资采购活动",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "他妈的我买个电脑从苏州迂回到上海中转站，从中午两点到下午十点还在中转站  现在还在",
+     "likes": 30,
+     "author": "我觉得我变聪明了",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2024-06-21 13:50",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1psg1eSECn",
+     "videoId": "BV1psg1eSECn",
+     "isSub": false,
+     "videoTitle": "顺丰“速运”真是太快了！！！",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "回复 @一只柠檬路过 :当特快飞机没满时会将标快的塞上特快去，然后收标快的费用",
+     "likes": 25,
+     "author": "野牛不是牛",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2024-04-14 11:44",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
+     "videoId": "BV1x84y147bx",
+     "isSub": true,
+     "videoTitle": "顺丰“速运”，速度真快",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "我是个资深的京东用户，大到电视家电，手机电脑，小到牙膏牙签，都在京东买，呆过三个城市，没有经历过暴力运输，包装盒和简约，很少碰到残次品，如果有换货，第二天快递员会带着新的快件过来换，你那应该是地区管理不善，可以试试去投诉",
+     "likes": 24,
+     "author": "我要升到LV6",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2021-04-09 11:23",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
+     "videoId": "BV1hX4y137fK",
+     "isSub": true,
+     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sentiment": "消极",
+     "score": -1.44,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "多大个事似的",
+     "likes": 19,
+     "author": "逆海行舟注册第N次",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 10:08",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1FKyYzWEfy",
+     "videoId": "BV1FKyYzWEfy",
+     "isSub": true,
+     "videoTitle": "涉嫌存在违规问题 顺丰速运被暂停参加全军物资采购活动",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "顺丰速运太慢了，河北发山东，4天才到。",
+     "likes": 16,
+     "author": "椰汁海",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2025-03-29 23:51",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1psg1eSECn",
+     "videoId": "BV1psg1eSECn",
+     "isSub": false,
+     "videoTitle": "顺丰“速运”真是太快了！！！",
+     "sentiment": "中性",
+     "score": -0.4,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "回复 @NorianQ :央企都出问题[doge]",
+     "likes": 15,
+     "author": "大明永乐年施",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 10:10",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1FKyYzWEfy",
+     "videoId": "BV1FKyYzWEfy",
+     "isSub": true,
+     "videoTitle": "涉嫌存在违规问题 顺丰速运被暂停参加全军物资采购活动",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "商家早上发的货，顺丰晚上才揽收，然后在东莞从这个仓库运到那个仓库又一天，两天都过去了，中通都到了顺丰都不到[生气]",
+     "likes": 13,
+     "author": "柒白离",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2024-12-26 17:57",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1psg1eSECn",
+     "videoId": "BV1psg1eSECn",
+     "isSub": false,
+     "videoTitle": "顺丰“速运”真是太快了！！！",
+     "sentiment": "消极",
+     "score": -2.4,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "邮政就是收保护费的",
+     "likes": 12,
+     "author": "我布吉岛该取啥名字",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2021-03-31 00:16",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
+     "videoId": "BV1hX4y137fK",
+     "isSub": true,
+     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "[doge]京东买个小零食，泡沫塞满，手机啥的就套个盒子，里面的东西倒是没碰坏过",
+     "likes": 11,
+     "author": "A引吭高歌",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2021-04-04 12:47",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
+     "videoId": "BV1hX4y137fK",
+     "isSub": true,
+     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "回复 @一只柠檬路过 :我发这个评论的时候刚等了四天的顺丰标快[呲牙]",
+     "likes": 11,
+     "author": "henry--_---_",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2024-01-31 10:59",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
+     "videoId": "BV1x84y147bx",
+     "isSub": true,
+     "videoTitle": "顺丰“速运”，速度真快",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "回复 @Asura-sf :武汉疫情最严重的时候，顺丰放假了，我表弟在顺丰。只有京东一直坚持运营，后来顺丰才跟上来的。京东和顺丰应该是互相学习和借鉴的，我从果园寄水果给省城上大学的孩子，果园老板说给你寄京东吧，京东八块钱，顺丰也有助农活动（可能不如京东优惠力度大，因自己支付邮费，果园给寄的京东），他说四通一达要15块钱",
+     "likes": 10,
+     "author": "流年似水顺风顺水",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2021-10-15 08:41",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
+     "videoId": "BV1hX4y137fK",
+     "isSub": true,
+     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sentiment": "消极",
+     "score": -1.6,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "回复 @NorianQ :最牛的邮政也这样[笑哭]",
+     "likes": 9,
+     "author": "吳鉤霜雪明",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 10:38",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1FKyYzWEfy",
+     "videoId": "BV1FKyYzWEfy",
+     "isSub": true,
+     "videoTitle": "涉嫌存在违规问题 顺丰速运被暂停参加全军物资采购活动",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "邮政是用来兜底的，注意区分EMS和邮政包裹其实是两个不同的业务。。邮政包裹省内件5块起步必须去邮局寄 EMS是12可以上门。.。而且两者时效也不同。。",
+     "likes": 8,
+     "author": "中小kk",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2021-11-02 18:53",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
+     "videoId": "BV1hX4y137fK",
+     "isSub": true,
+     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sentiment": "中性",
+     "score": -0.6,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "回复 @shil4040 :按照常规理解就是第三方寄件服务，因为京东快递一开始就是自建物流，后续开通第三方入驻商家寄件服务，最后才开通私人跟其他平台的寄件服务，统称第三方物流不行吗？",
+     "likes": 8,
+     "author": "CK摸鱼专业户",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2021-04-07 05:37",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
+     "videoId": "BV1hX4y137fK",
+     "isSub": true,
+     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "回复 @飘逸大树 :赶走？话语权还是刘强东的",
+     "likes": 8,
+     "author": "碳水卡",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2021-04-09 15:26",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
+     "videoId": "BV1hX4y137fK",
+     "isSub": true,
+     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "算小事，可能顺丰自己都不愿意接",
+     "likes": 7,
+     "author": "嘉措z",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 11:26",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1FKyYzWEfy",
+     "videoId": "BV1FKyYzWEfy",
+     "isSub": true,
+     "videoTitle": "涉嫌存在违规问题 顺丰速运被暂停参加全军物资采购活动",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "为啥我发标快第二天早上客户就收到了[笑哭]",
+     "likes": 6,
+     "author": "一只柠檬路过",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2024-01-31 10:25",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
+     "videoId": "BV1x84y147bx",
+     "isSub": true,
+     "videoTitle": "顺丰“速运”，速度真快",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "一模一样的情况，兄弟\n所以这是为什么，之前没遇到过啊。顺丰在我这里印象一直都挺好的，头一次遇到这种卡一天",
+     "likes": 6,
+     "author": "爱钱的灵梦",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2023-09-08 09:39",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
+     "videoId": "BV1x84y147bx",
+     "isSub": true,
+     "videoTitle": "顺丰“速运”，速度真快",
+     "sentiment": "积极",
+     "score": 1.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "回复 @爱钱的灵梦 :哎，有的时候就是挺莫名其妙的，咱也不知道他在干啥，还是这个圆通，我24号下午下的单，你猜怎么着，25号揽货揽了一天，到26号才开始给我送[辣眼睛]",
+     "likes": 6,
+     "author": "KFC_汉堡",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2023-09-08 10:57",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1x84y147bx",
+     "videoId": "BV1x84y147bx",
+     "isSub": true,
+     "videoTitle": "顺丰“速运”，速度真快",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "让快递员提供揽件照片证明揽件前就损坏",
+     "likes": 6,
+     "author": "xiaowu61",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2024-02-08 04:27",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1ZY4y1Z7nS",
+     "videoId": "BV1ZY4y1Z7nS",
+     "isSub": false,
+     "videoTitle": "避雷顺丰速运",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "某丰的内部可以说是最乱的，特别是你从新手做起就知道了，还有它的骑手端app，简直就是广告播放器，",
+     "likes": 6,
+     "author": "久溺深海v",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2026-11-21 06:22",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV19Yy8zME95",
+     "videoId": "BV19Yy8zME95",
+     "isSub": false,
+     "videoTitle": "顺丰速运被暂停参加全军采购活动，涉嫌存在违规问题",
+     "sentiment": "中性",
+     "score": -0.48,
+     "relevant": true,
+     "recent": true
+    },
+    {
+     "text": "玩数码的路过。很多快递都用过 邮政给我的感觉很差 甚至不如其他四通一达 最好还是京东顺丰 以后再也没在用过邮政了 速度最慢",
+     "likes": 5,
+     "author": "很苦的苦_",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2022-03-13 15:38",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
+     "videoId": "BV1hX4y137fK",
+     "isSub": true,
+     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sentiment": "中性",
+     "score": -0.19999999999999996,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "第三方物流不就是中通圆通韵达这些玩意儿[笑哭]",
+     "likes": 5,
+     "author": "三年廿班",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2021-03-31 15:33",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
+     "videoId": "BV1hX4y137fK",
+     "isSub": true,
+     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sentiment": "中性",
+     "score": 0.0,
+     "relevant": true,
+     "recent": false
+    },
+    {
+     "text": "回复 @shil4040 :大爷，你有没有用过京东啊？京东里面商家也可以用京东物流的好吗？",
+     "likes": 5,
+     "author": "漠轩叶",
+     "platform": "bili",
+     "emoji": "📺",
+     "time": "2021-04-09 07:42",
+     "ip": "",
+     "sourceUrl": "https://www.bilibili.com/video/BV1hX4y137fK",
+     "videoId": "BV1hX4y137fK",
+     "isSub": true,
+     "videoTitle": "京东物流VS顺丰速运，谁才是中国的物流一哥？【直击IPO系列NO2：京东物流】",
+     "sentiment": "中性",
+     "score": 0.6,
+     "relevant": true,
+     "recent": false
+    }
+   ],
    "commentStats": {
-    "collected": 0
+    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
+    "videos_scanned": 17,
+    "videos_skipped": 51,
+    "collected": 158,
+    "want": 1000,
+    "queries": [
+     "顺丰速运"
+    ],
+    "cached": 0,
+    "fresh": 158,
+    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
+    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
+    "complete": false,
+    "target": 1000
    },
    "sentiment": {
-    "positive": 0.0,
-    "neutral": 0.0,
-    "negative": 0.0,
+    "positive": 10.8,
+    "neutral": 83.5,
+    "negative": 5.7,
     "anger": 0.0,
-    "samples": 0,
-    "keywords": []
+    "samples": 158,
+    "keywords": [
+     {
+      "word": "好",
+      "count": 16
+     },
+     {
+      "word": "差",
+      "count": 4
+     },
+     {
+      "word": "暴力",
+      "count": 4
+     },
+     {
+      "word": "投诉",
+      "count": 3
+     },
+     {
+      "word": "生气",
+      "count": 3
+     },
+     {
+      "word": "不错",
+      "count": 3
+     },
+     {
+      "word": "赞",
+      "count": 2
+     },
+     {
+      "word": "喜欢",
+      "count": 2
+     },
+     {
+      "word": "良心",
+      "count": 1
+     },
+     {
+      "word": "疫情",
+      "count": 1
+     },
+     {
+      "word": "必须",
+      "count": 1
+     },
+     {
+      "word": "解决",
+      "count": 1
+     },
+     {
+      "word": "垃圾",
+      "count": 1
+     },
+     {
+      "word": "谢谢",
+      "count": 1
+     }
+    ],
+    "basis": "相关评论"
    },
    "wordcloud": [
     {
-     "word": "黄景",
-     "weight": 2.0,
+     "word": "回复",
+     "weight": 61.0,
      "sentiment": "中性"
     },
     {
-     "word": "泰国拳",
-     "weight": 2.0,
+     "word": "京东",
+     "weight": 39.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "顺丰",
+     "weight": 27.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "快递",
+     "weight": 25.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "邮政",
+     "weight": 22.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "doge",
+     "weight": 12.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "物流",
+     "weight": 10.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "如果",
+     "weight": 10.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "一天",
+     "weight": 8.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "现在",
+     "weight": 8.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "手机",
+     "weight": 8.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "第三方",
+     "weight": 7.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "运输",
+     "weight": 7.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "包装",
+     "weight": 7.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "商家",
+     "weight": 7.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "顺丰速运",
+     "weight": 6.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "吃瓜",
+     "weight": 6.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "不如",
+     "weight": 6.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "服务",
+     "weight": 6.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "四天",
+     "weight": 6.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "圆通",
+     "weight": 6.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "电脑",
+     "weight": 6.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "可能",
+     "weight": 6.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "寄件",
+     "weight": 6.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "问题",
+     "weight": 5.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "暴力",
+     "weight": 5.0,
+     "sentiment": "消极"
+    },
+    {
+     "word": "不能",
+     "weight": 5.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "东西",
+     "weight": 5.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "这样",
+     "weight": 5.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "shil4040",
+     "weight": 5.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "其他",
+     "weight": 5.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "飘逸",
+     "weight": 5.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "大树",
+     "weight": 5.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "这种",
+     "weight": 5.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "的话",
+     "weight": 5.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "采购",
+     "weight": 4.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "确实",
+     "weight": 4.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "早上",
+     "weight": 4.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "当时",
+     "weight": 4.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "肯定",
+     "weight": 4.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "刘强",
+     "weight": 4.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "应该",
+     "weight": 4.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "一直",
+     "weight": 4.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "上海",
+     "weight": 4.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "路过",
+     "weight": 4.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "NorianQ",
+     "weight": 4.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "时候",
+     "weight": 4.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "武汉",
+     "weight": 4.0,
      "sentiment": "中性"
     }
    ],
+   "wordcloudBasis": "真实热评 + 榜单标题",
    "trend": {
     "series": [
      {
@@ -6615,25 +7795,26 @@ window.CATCH_DATA = {
      {
       "t": "2026-11-21T21:00:00+08:00",
       "label": "21:00",
-      "total": 10075000,
+      "total": 3318000,
       "platforms": {
-       "news": 10075000
+       "news": 2038000,
+       "weibo": 1280000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T21:00:30.559905+08:00",
+    "updatedAt": "2026-11-21T21:58:06.556041+08:00",
     "measuredPoints": 24
    },
    "risk": {
-    "score": 18,
+    "score": 29,
     "level": "低"
    },
-   "summary": "本轮事件由新闻、微博两平台共振，综合热度约 1065 万（新闻 1052 万 + 微博 12 万）。事实经核实：片段出自腾讯视频综艺《现在就出发》第四季清迈站录制的 1V1 切磋环节，对手为泰国泰拳传奇拳王播求。黄景瑜没有在泰拳擅长的站立距离硬拼，而是主动把对抗带入地面，以巴西柔术腿绞完成压制；播求事后认可其表现，并建议加强踢打方面的训练。节目画面多次出现「注意安全」提醒，双方定位为友好交流切磋而非正式比赛。节目每周六、周日中午 12 点在腾讯视频上线。播求另发起面向大众的挑战赛，参与者有机会获得总价值超过 50 万泰铢的奖品。需要明确标注的是：**本事件 CATCH 未抓到任何真实热评样本**——B 站按「泰国拳」检索扫描 0 个相关视频、跳过 75 个，评论样本为 0 条，因此本事件的情感倾向、词云与注意力结构均无实测数据支撑，页面上该事件的词云与情感面板为空态。条目层面的舆论特征是明确的：各媒体在标题与正文中都主动加入「是友好切磋，不是实战」「也要分清综艺切磋和职业赛事之间的差距，不必过度渲染「战胜拳王」这类夸张说法」这类限定语，说明「对战结果」的框架在传播中已被识别为需要纠正的对象。",
+   "summary": "本轮事件由新闻、微博两平台共振，综合热度约 1362 万（新闻 1163 万 + 微博 199 万）。事实经多方核实：11 月 19 日，军队采购网连发《知情告知书公告（顺丰速运有限公司）》《知情告知书公告（八马茶业股份有限公司）》，称根据有关部门通报，两家公司因涉嫌存在违规问题，被暂停参加全军物资、工程及服务采购活动，处理部门为军委后勤保障部采购服务中心，处理日期 11 月 19 日，范围为全军。同批被处理的还有紫光软件系统有限公司、中国交通建设集团。**公告未披露具体违规事项，亦未说明暂停期限。** 八马茶业一案的处理范围进一步延伸到其自然人控股股东吴小宁：其控股或管理的其他企业一并受限，公司授权代表不得再以任何形式代理其他供应商参与军采项目（联合早报 11 月 21 日）。将顺丰速运置于历史序列中可见这不是孤例——2026 年 3 月，海澜之家同样被暂停全军采购资格，事由为「中标后无正当理由拒不签订合约」。企业体量方面，顺丰速运为顺丰控股间接全资子公司，注册资本 10 亿元，2026 年上半年营业收入 115.27 亿元、净利润 53.81 亿元；顺丰控股 2026 年前三季度营业收入 2377.27 亿元，同比增长 5.53%，归母净利润 82.15 亿元，同比下降 1.12%。CATCH 抓取的 141 条热评中，消极情绪占 6.4%、「暴力」一词出现 4 次、「投诉」3 次、「生气」3 次，是本轮唯一在热评中显性出现体制性质疑词的事件。",
    "facts": [
     {
      "label": "事件类型",
-     "value": "综艺内容 · 跨格斗体系切磋 · 仪式性对抗的符号消费"
+     "value": "企业合规处置 · 军队采购资格暂停 · 信息不完整下的舆论生成"
     },
     {
      "label": "共振平台",
@@ -6641,1524 +7822,132 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 1065 万（新闻 1052 万 + 微博 12 万）"
+     "value": "约 1362 万（新闻 1163 万 + 微博 199 万）"
     },
     {
      "label": "触发条目",
-     "value": "「黄景瑜腿绞泰国拳王」1052.5 万（今日头条新闻榜第 11 位）；同题条目 12 万（微博榜第 43 位）"
+     "value": "「顺丰速运被暂停参加全军采购活动」1163.2 万（今日头条新闻榜第 1 位）；同题条目 199 万（微博热搜第 1 位）"
     },
     {
      "label": "时间锚点",
-     "value": "节目于 11-21 播出并随即在榜单形成条目；每周六、周日 12:00 腾讯视频上线"
+     "value": "11-19 军队采购网发布公告，处置自 11-19 生效，范围全军；11-21 港台与内地媒体集中报道"
     },
     {
-     "label": "事实确认",
-     "value": "《现在就出发》第四季清迈站录制环节，1V1 友好切磋；画面多次出现「注意安全」提醒；播求赛后点头认可并建议加强踢打训练"
+     "label": "处置主体",
+     "value": "军委后勤保障部采购服务中心；依据为「有关部门通报」的违规问题"
     },
     {
-     "label": "技法对照",
-     "value": "泰拳以拳腿肘膝的站立打击为核心；黄景瑜以巴西柔术地面缠斗取胜，未硬拼站立距离"
+     "label": "同批处理对象",
+     "value": "八马茶业（自然人控股股东吴小宁同批处理，其控股或管理企业一并受限，授权代表不得代理其他供应商）、紫光软件系统、中国交通建设集团"
     },
     {
-     "label": "传播特征",
-     "value": "各媒体正文普遍主动加入限定语——「是友好切磋，不是实战」「不必过度渲染「战胜拳王」这类夸张说法」，说明争议性框架已被识别"
+     "label": "信息缺口",
+     "value": "公告未披露具体违规事项与暂停期限，项目编号均为「无」"
     },
     {
-     "label": "风险等级",
-     "value": "低（风险指数 18）"
+     "label": "历史对照",
+     "value": "2026 年 3 月海澜之家同样被暂停全军采购资格，事由为「中标后无正当理由拒不签订合约」"
     },
     {
      "label": "热评样本与相关性",
-     "value": "0 条——B 站按「泰国拳」检索扫描 0 个相关源视频、跳过 75 个，未能采集到任何评论；本事件情感与词云面板为空态"
+     "value": "141 条真实热评（本轮全部新抓，扫描 15 个源视频、跳过 55 个，远未达 1000 条目标）；情绪中性 82.3% / 积极 11.3% / 消极 6.4% / 愤怒 1.4%；「暴力」4 次、「投诉」3 次、「生气」3 次"
     }
    ],
    "phases": [
     {
-     "name": "节目播出",
-     "desc": "《现在就出发》第四季清迈站播出，节目组安排黄景瑜与泰国拳王播求 1V1 切磋环节，画面多次出现「注意安全」提示。",
-     "time": "11-21"
+     "name": "公告",
+     "desc": "11-19 军队采购网连发两份《知情告知书公告》，暂停顺丰速运与八马茶业参加全军物资、工程及服务采购活动资格，处理日期同为 11-19，范围全军。",
+     "time": "11-19"
     },
     {
-     "name": "片段出圈",
-     "desc": "腿绞压制片段在微博与短视频账号扩散，「#黄景瑜腿绞泰国拳王#」「#泰拳冠军认证黄景瑜很强#」形成话题组合。",
-     "time": "11-21 白天"
+     "name": "港台首发",
+     "desc": "11-21 港台媒体（联合早报、星岛日报、联合报）率先报道，核心信息点集中在「未披露具体事由与期限」，以及八马茶业自然人股东吴小宁被一并处理。",
+     "time": "11-21 上午"
     },
     {
-     "name": "框架校正",
-     "desc": "媒体正文普遍加入「友好切磋非实战」「不必过度渲染战胜拳王」的限定语，主动与「胜负」叙事切割。",
-     "time": "11-21 下午"
+     "name": "内地扩散",
+     "desc": "澎湃、凤凰财经等内地财经媒体跟进，标题统一采用「涉嫌违规被暂停」表述。微博热搜第 1 位与新闻榜第 1 位为同题条目，标题完全一致。",
+     "time": "11-21 上午至下午"
     },
     {
-     "name": "技术讨论",
-     "desc": "讨论焦点转向格斗体系差异本身——泰拳站立打击与巴西柔术地面缠斗各有所长，切磋的意义被表述为相互借鉴而非分胜负；播求另行发起泰拳挑战赛（奖品总值逾 50 万泰铢）。",
+     "name": "空白期",
+     "desc": "公告未给出具体违规事项，舆论在事实缺口处自行填充；热评中出现「暴力」「投诉」等词，显示公众已从合规事实转向动机猜测。",
      "time": "11-21 至今"
     }
    ],
    "analysis": {
     "points": [
-     "本事件最值得注意的现象，是没有任何一条触发条目的标题包含「对手是谁」或「发生了什么规则」——「黄景瑜腿绞泰国拳王」这一标题本身已经完成了叙事：主语是明星、动作是腿绞、对手身份是「泰国拳王」这一身份标签而非人名。对手的具体姓名（播求）与规则设定（友好切磋、泰拳 vs 巴西柔术）在传播中被系统性省略，因为省略之后标题的信息密度更高、冲突感更强，而事实校正的成本被推给了点开链接的人。",
-     "与此对照的是媒体正文的态度：几乎所有报道都主动补充了「是友好切磋，不是实战」「双方点到为止」「不必过度渲染『战胜拳王』这类夸张说法」这类限定语。这是典型的**议程反转式修正**——批评的对象不是原视频，而是原视频被流通的那套标题框架。媒体用「主动降级冲突」的方式把事件拉回综艺语境，但修正只发生在正文，而传播量由标题承担，两者的落差正是「框架先于事实」的具体机制。",
-     "格斗体系差异被提到了论证层面：「泰拳擅长站立打击，柔术精于地面缠斗，切磋的意义是感受不同武术的魅力，互相借鉴，而不是分出孰优孰劣」。这种把胜负问题转化为体系比较的表述，配合播求本人的「下次再防我就好了」式回应与「加强踢打方面训练」的专业建议，共同完成了一次对结果的再定性：对手的认可是专业性的，因此不是输而是认可。把「赢」重新编码为「被专业人士认可」，是当事人一方的标准危机处理动作。",
-     "必须明确说明本事件的研究限制：**热评样本为 0 条**。B 站以「泰国拳」为检索词扫描 0 个相关源视频、跳过 75 个，评论采集为空。因此本事件的公众情绪分布、词云与注意力结构均无实测数据，页面中该面板显示为空态而非零值。这本身构成一条关于「舆情监测覆盖面」的事实：短视频主导的娱乐事件在长视频评论平台上几乎没有可采集的样本，而这类事件在热榜上的量级（新闻榜第 11 位、1052 万热度）远超许多有完整评论样本的事件。热榜热度与可分析样本量之间的错配，是本系统当前最显著的结构性盲区。",
-     "取样边界与置信度：本事件的全部结论仅基于两条触发条目的标题与公开报道文本，属条目层面的定性分析，**不含任何评论样本支撑**，不能用于推断公众态度、争议强度或意见分布。作为对照，同轮 E03（141 条）与 E01（1000 条但 87.7% 为缓存）事件的热评证据强度远高于本事件，三者在研究设计中不应被等同对待。"
+     "本事件的全部传播动力来自一个信息缺口：公告明确写出了「涉嫌存在违规问题」与处置结果，却未写明违规事项与暂停期限，项目编号均为「无」。在事实不完整的情况下，舆情必然向解释成本最低的方向流动——把「未说明的原因」读作「不便说明的原因」。热评中出现 4 次「暴力」与 3 次「投诉」，正是在这一缺口处的想象性填充。",
+     "这是本轮五个事件里平台多样性最弱的一个：两条触发条目来自新闻与微博，且标题完全一致（「顺丰速运被暂停参加全军采购活动」），说明两平台的曝光几乎由同一波通稿分发驱动，而非各自独立发酵。综合热度 1362 万虽居当日第二，但在方法论上必须标注为「单一源分发」而非「多平台自发觉醒」——把这类热度与 E01 的三平台共振并列比较是不成立的。",
+     "把处置放进历史序列后可以看到一个被忽略的参照系：2026 年 3 月海澜之家因「中标后无正当理由拒不签订合约」被暂停军采资格，事由是明确的；而本次顺丰与八马茶业的事由未公开。同一家系统、同一类处置、两种信息密度，本身就构成一个值得研究的披露实践问题——同一类程序在何时充分说明、何时以「通报」二字带过，取决于被处置方而非处置方的判断权时，构成了一个具体的、可核查的分析切口。",
+     "关联处理的连带范围是本轮事件中最值得追踪的机制性特征：八马茶业一案不仅暂停公司本身，还将其自然人控股股东吴小宁控股或管理的其他企业一并挡在门外，并禁止其授权代表代理其他供应商参与。这意味着处置的传导路径从「法人」扩展到「实际控制人」与「商业代理关系」。当这一机制被公众理解并复制到「某个人出事→其关联公司受牵连」的想象时，舆情风险会显著高于单一企业的处罚事件。",
+     "取样边界与置信度：本期热评仅 141 条，扫描 15 个源视频、跳过 55 个，只完成目标的三成不到，原因是该主题在 B 站的视频供给极稀疏。也就是说，样本量不足本身就是本事件的一个发现——它反映的不是「公众讨论热烈」，而是「该议题在视频平台上几乎没有讨论」。消极情绪占比 6.4% 虽为本轮最高，但建立在 141 条的基数上，且高比例部分来自少量极端评论，因此只能作为方向性信号，不能作为比例结论。"
     ],
     "angles": [
-     "标题的事实密度：统计娱乐类热搜标题中省略对手姓名与规则设定条目的比例，量化「可传播性」对「信息完整性」的替代。",
-     "危机传播中的再定性：追踪「被专业人士认可」这一表述替代「获胜」的完整过程，分析主体一方的标准危机处理模板。",
-     "热榜量级与分析样本量的错配：以本轮五个事件为样本，检验「榜单热度」能否作为「舆情可研究程度」的代理变量，预期结论为不能。",
-     "短视频事件在长视频平台上的评论缺席：测量娱乐类话题在评论型平台上的供给塌陷幅度，评估舆情监测平台选择的代表性。"
+     "公告的信息密度：统计军队采购网近期暂停类公告中「事由披露率」与「期限披露率」，建立披露实践的基线。",
+     "关联处置的连带半径：以「自然人控股股东连带受限」为线索，梳理处置从法人向实际控制人传导的制度路径。",
+     "通稿分发与真实共振的区分：对比同题条目在多平台的热度排序与时间戳，量化「单一分发」与「多平台自发觉醒」的热度差异。",
+     "事实缺口与舆情填补：把事件时间线按「已知—未知」标注，追踪每一次未知点被何种解释覆盖的速度。"
     ],
     "methods": [
-     "内容分析：把触发条目标题与正文分别编码为「包含 / 省略」两类事实要素，比较两者的信息差。",
-     "框架分析：追踪「胜负框架」与「体系比较框架」在同一事件传播周期中的此消彼长。",
-     "话语分析：分析当事人「被认可」表述的重定性机制及其与危机沟通模板的对应关系。",
-     "方法论检验：用「可用评论样本量 / 榜单热度」作为指标，比较可研究程度与事件量级的相关性。"
+     "内容分析：对军队采购网公告做「事由 / 期限 / 项目编号 / 关联范围」四字段的结构化编码与披露率统计。",
+     "框架分析：比较「合规处罚」框架与「信息不透明」框架在热评中的分布与强度。",
+     "案例比较：把本次顺丰、八马茶业与 3 月海澜之家三案并列，比较处置理由的披露差异及其后果。",
+     "传播测量：以「触发条目标题相同率」与「平台来源数」作为区分通稿分发与自发共振的操作化指标。"
     ]
    },
    "timeline": [
     {
-     "time": "11-21",
-     "event": "《现在就出发》第四季清迈站播出，黄景瑜与泰国拳王播求 1V1 切磋，巴西柔术腿绞完成压制",
-     "source": "新浪娱乐 / 腾讯视频"
+     "time": "11-19",
+     "event": "军队采购网发布《知情告知书公告（顺丰速运有限公司）》《知情告知书公告（八马茶业股份有限公司）》，暂停两企参加全军采购活动资格",
+     "source": "军队采购网 / 凤凰财经"
     },
     {
-     "time": "11-21 14:52",
-     "event": "微博认证娱乐博主发布切片，「#黄景瑜腿绞泰国拳王#」进入热搜",
-     "source": "新浪新闻转载的微博原帖"
-    },
-    {
-     "time": "11-21",
-     "event": "媒体正文加入限定语，切割「战胜拳王」框架，强调友好切磋属性",
-     "source": "新浪娱乐 / 百家号"
-    },
-    {
-     "time": "11-21 11:56",
-     "event": "相关话题帖持续更新，技术讨论与节目宣传并行",
-     "source": "微博话题页"
-    }
-   ],
-   "sourceCount": 2,
-   "resonance": 2,
-   "wordcloudBasis": "仅榜单标题（本轮无相关热评）",
-   "commentRelevance": {
-    "tokens": [
-     "瑜腿绞泰国拳",
-     "黄景瑜腿绞泰",
-     "腿绞泰国拳王",
-     "景瑜腿绞泰国"
-    ],
-    "total": 0,
-    "relevant": 0,
-    "ratio": 0.0,
-    "basis": "无样本",
-    "withVideoTitle": 0
-   },
-   "commentRecency": {
-    "windowDays": 30,
-    "total": 0,
-    "recent": 0,
-    "ratio": 0.0
-   },
-   "commentCount": 0,
-   "commentsFile": "assets/data/comments/E04.json"
-  },
-  {
-   "id": "E05",
-   "keyword": "意味着",
-   "title": "「美股一天内遭血洗意味着什么」：一个被泛词污染的跨议题事件",
-   "subtitle": "知乎侧触发条目实际是「超强厄尔尼诺已经形成…这意味着什么？」，与美股无关——两条事件因「意味着什么」这一泛词被并入同一聚类。",
-   "platforms": [
-    "news",
-    "zhihu"
-   ],
-   "platformHeat": {
-    "zhihu": 1430000
-   },
-   "heat": 1430000,
-   "members": [
-    {
-     "platform": "news",
-     "rank": 16,
-     "title": "美股一天内遭血洗意味着什么",
-     "url": "https://so.toutiao.com/search?keyword=%23%E7%BE%8E%E8%82%A1%E4%B8%80%E5%A4%A9%E5%86%85%E9%81%AD%E8%A1%80%E6%B4%97%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23",
-     "heat": 2595000,
-     "board": "今日头条热榜"
-    },
-    {
-     "platform": "zhihu",
-     "rank": 18,
-     "title": "超强厄尔尼诺已经形成，已成为有记录以来最强，这意味着什么？产生的气候影响大吗？",
-     "url": "https://www.zhihu.com/question/2106305744966530909",
-     "heat": 1640000,
-     "board": "知乎热榜"
-    }
-   ],
-   "comments": [
-    {
-     "text": "大家好，我是作者，来画个重点：\n历史不容篡改\n七三一，是反人类的代名词\n任何对其滔天罪行死难者的嘲弄，都绝不能被容忍——这不仅事关民族尊严\n不论是文艺创作者，还是读者、观众，首先都是人\n生而为人，就绝对不能突破人类社会的基本底线",
-     "likes": 48395,
-     "author": "幻想浅绿",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2020-02-06 21:01",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1b7411h755",
-     "videoId": "BV1b7411h755",
-     "isSub": false,
-     "videoTitle": "【史图馆】731、“马路大”意味着什么？人类历史上的罪恶一页",
-     "sentiment": "积极",
-     "score": 1.4,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "虽然我很想舒舒服服的在家追番，但我知道我为什么能够躺在家里舒舒服服的在家追番，是国家给了我安定的生活。[爱心][爱心][爱心]",
-     "likes": 21851,
-     "author": "周美灵是我大姐头",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2020-02-06 21:02",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1b7411h755",
-     "videoId": "BV1b7411h755",
-     "isSub": false,
-     "videoTitle": "【史图馆】731、“马路大”意味着什么？人类历史上的罪恶一页",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "一、不能拿战争或是灾难的牺牲者开玩笑。\n一、不能对某些特定的职业表现出轻蔑。\n一、不能拿民族、国民或大众开玩笑。\n\n以上三点，是你无论处于什么场合、创作什么样的作品，都必须遵循的三个准则。不管你是职业漫画家还是业余画手，又或者你是初次接触漫画的新人，都必须遵守。 倘若有触犯这三条准则的漫画出现，无论是漫画家身边的人，抑或是读者，我希望有人能够站出来提醒他注意，请别这么做。\n\n——手塚治虫《漫画的作法》                                         日本有多少漫画家没有在意过这三点呢？",
-     "likes": 7669,
-     "author": "诺言丶幻",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2020-02-06 21:04",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1b7411h755",
-     "videoId": "BV1b7411h755",
-     "isSub": false,
-     "videoTitle": "【史图馆】731、“马路大”意味着什么？人类历史上的罪恶一页",
-     "sentiment": "中性",
-     "score": -0.6,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "我算过一笔账，假设一人每天上班通勤打车来回20块钱，一天40，一年14600，10年14600，一辆好一点车大概也就这个价格叭，还不算油费，保险，违章罚款，停车费，还有磕磕碰碰的维修费，算下来不少钱了吧，而且没人工作365天叭，大城市车也不好停，有些商场停车费都10块1小时，小区一个车位比车还贵。综上所述，所以我认为打车比买车划算，还自由。当然某些情况有一辆车还是方便的，例如自驾游，或者有家庭的人，有一辆车会好点，在亲戚朋友面前或许有面子之类的，但我觉得男生年轻的时候，有没有车没那么重要叭，也不见得多好，养一台车很贵",
-     "likes": 4544,
-     "author": "冬寂男刀y",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2023-07-22 07:35",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1q14y1Q7xH",
-     "videoId": "BV1q14y1Q7xH",
-     "isSub": false,
-     "videoTitle": "车对男生来说意味着什么",
-     "sentiment": "中性",
-     "score": -0.11999999999999997,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "虽然会有些扫兴，但我还是想说，买车也请思考再三，不是你交了钱买了就完事了，后面每年还有保养费保险费，不要一时头热就买了，想想自己是否真的需要还有是否真的负担得起，再做决定。",
-     "likes": 4208,
-     "author": "哇喔啊咯",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2023-07-22 13:54",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1q14y1Q7xH",
-     "videoId": "BV1q14y1Q7xH",
-     "isSub": false,
-     "videoTitle": "车对男生来说意味着什么",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "如果你独自一人离开家乡在外打拼，先买车吧，车子和钱是你在异乡漂泊最重要的的底气，因为只有这两个是完全属于你的东西，如果突然辞职或者被辞，车子可以帮你搬走所有的物件，万一碰上无良房东违约突然让你搬家，你可以把重要物品搬到自己车上，不用担心被快递或者货拉拉损坏，在你打车困难，只有它会安静的在外面一直等你不管多晚，它是你在外地打拼的伙伴，尤其是第一辆车，肯定承载了你最苦最难的回忆[微笑][微笑][微笑]，虽然它不会说话，但是它一直为你服务。",
-     "likes": 3432,
-     "author": "不学无术的溥童鞋",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2023-07-22 11:13",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1q14y1Q7xH",
-     "videoId": "BV1q14y1Q7xH",
-     "isSub": false,
-     "videoTitle": "车对男生来说意味着什么",
-     "sentiment": "消极",
-     "score": -1.2,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "被吵醒的邻居：虽然看起来有危险",
-     "likes": 3156,
-     "author": "圻毋米粥",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-10-01 08:05",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1Bqav62EFo",
-     "videoId": "BV1Bqav62EFo",
-     "isSub": false,
-     "videoTitle": "呼唤不再意味着安全",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "我想了一个很好的记忆方法在不理解的情况下:\n厄（饿）尔尼诺，它很饿，所以它很弱👎🏻，所以夏季风冬季风都弱。\n拉拉尼娜相反。而且，我的名字末尾是娜，我就想我挺高冷的，我很强，我走路带风，那冬季风夏季风都强。",
-     "likes": 2252,
-     "author": "星池君",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2024-01-21 23:11",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1Dd4y14761",
-     "videoId": "BV1Dd4y14761",
-     "isSub": false,
-     "videoTitle": "一次性搞懂“厄尔尼诺”和“拉尼娜”【羊羊地理|手绘动画23】",
-     "sentiment": "积极",
-     "score": 1.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "以前的我总是根据视频的播放量去定义它是否做的好 可今天我知道这并不是准确的评判 它可能并不完美 但是它却是每个制作者投入的时间和心血 所以我认为这段剪辑好 这段配乐和台词 完美 只是它现在没火而已 但有的时候 火不火并不能代表它的成功或失败",
-     "likes": 1456,
-     "author": "aice_two",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2021-07-30 20:17",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1Cf4y157p7",
-     "videoId": "BV1Cf4y157p7",
-     "isSub": false,
-     "videoTitle": "“这副盔甲，到底对你意味着什么”",
-     "sentiment": "积极",
-     "score": 1.2,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "骗你们呢，怪物的碎块已经粘在bmpt的履带上了，妈妈被来自塔科夫的医生救好了，本视频内没有任何人类受到伤害😎😎",
-     "likes": 1260,
-     "author": "殷墨淼淼淼",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-10-01 01:01",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1Bqav62EFo",
-     "videoId": "BV1Bqav62EFo",
-     "isSub": false,
-     "videoTitle": "呼唤不再意味着安全",
-     "sentiment": "中性",
-     "score": 0.6,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "怪物已经被我解决了，她母亲也在那里被反转术式治好了",
-     "likes": 1241,
-     "author": "百变のAqua",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-10-01 20:15",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1Bqav62EFo",
-     "videoId": "BV1Bqav62EFo",
-     "isSub": false,
-     "videoTitle": "呼唤不再意味着安全",
-     "sentiment": "积极",
-     "score": 2.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "祖国必将统一，也必然统一\n台湾必将解放，也必然解放",
-     "likes": 1217,
-     "author": "群玉山头瑶台月下逢",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2024-05-28 20:45",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1bZ421W7GJ",
-     "videoId": "BV1bZ421W7GJ",
-     "isSub": false,
-     "videoTitle": "【中国】“台独”意味着战争！",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "广东昨天局部39度给我宿舍玻璃热爆了",
-     "likes": 1192,
-     "author": "poles-",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-10-01 07:56",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1rgao6yEAF",
-     "videoId": "BV1rgao6yEAF",
-     "isSub": false,
-     "videoTitle": "这次真是最强厄尔尼诺了！它有多非比寻常？",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "赚钱是件很不耻的事吗？为什么这么厌恶呢？不赚钱怎么活下去。",
-     "likes": 1162,
-     "author": "爱怎咋地",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-09 09:02",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1iM4B6vEPv",
-     "videoId": "BV1iM4B6vEPv",
-     "isSub": false,
-     "videoTitle": "弹幕问，电竞对你到底意味着什么。野桃：赚钱。但风雪一年又一年，现在坐在训练椅子上的依旧是那个血里沸腾着冠军梦的少年，很荣幸认识这样的你，4am野桃。",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "年年都说是最热的一年[笑哭]",
-     "likes": 1044,
-     "author": "伊斯塔傻灵",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-05-29 20:32",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1CWGX6DE3p",
-     "videoId": "BV1CWGX6DE3p",
-     "isSub": false,
-     "videoTitle": "厄尔尼诺已亮红灯 哥哥姐姐们，该减肥了。 因为2026年的夏天，可能不是你能扛得住的夏天。 就在此刻，太平洋水下，有个东西正在醒过来",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "[囧]还有一百多天中考了，害怕考不上重高",
-     "likes": 1021,
-     "author": "冬郁-",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2022-02-18 18:56",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1wm4y1o7Ta",
-     "videoId": "BV1wm4y1o7Ta",
-     "isSub": false,
-     "videoTitle": "中考失败意味着什么？初三的同学们，努力一次吧！",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "中考失败=半个人生没了[doge]",
-     "likes": 1004,
-     "author": "义门陈的橙子吖",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2022-02-19 02:00",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1wm4y1o7Ta",
-     "videoId": "BV1wm4y1o7Ta",
-     "isSub": false,
-     "videoTitle": "中考失败意味着什么？初三的同学们，努力一次吧！",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "【厄尔尼诺 拉尼娜】\n\n一.概念\n海洋表面温度出现异常，继而通过海洋对大气的作用导致全球气候也出现异常的现象。\n?注意：这两种现象起因很复杂，后果具有不...",
-     "likes": 958,
-     "author": "香薷a",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2022-11-18 22:54",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1Dd4y14761",
-     "videoId": "BV1Dd4y14761",
-     "isSub": false,
-     "videoTitle": "一次性搞懂“厄尔尼诺”和“拉尼娜”【羊羊地理|手绘动画23】",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "还有题目会考拉尼娜和厄尔尼诺对我国南旱北涝，南涝北旱的影响这种之类的问题诶 一直搞不懂",
-     "likes": 945,
-     "author": "o不想晒太阳o",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2022-11-20 12:46",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1Dd4y14761",
-     "videoId": "BV1Dd4y14761",
-     "isSub": false,
-     "videoTitle": "一次性搞懂“厄尔尼诺”和“拉尼娜”【羊羊地理|手绘动画23】",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "自从网络发达了我怎么觉得每年都是百年难遇的一年各种史上最强有记录有史以来历史最高巴拉巴拉层出不穷[笑哭]",
-     "likes": 913,
-     "author": "这个昵称好吗",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-04 15:37",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1gGxD6tEhJ",
-     "videoId": "BV1gGxD6tEhJ",
-     "isSub": false,
-     "videoTitle": "有监测记录以来“最强厄尔尼诺事件”来了，我国天气将受到哪些影响？",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "强降温+强升温，这是淬火来了？",
-     "likes": 837,
-     "author": "蕾米莉亚·斯卡雷特",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-04 10:33",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1gGxD6tEhJ",
-     "videoId": "BV1gGxD6tEhJ",
-     "isSub": false,
-     "videoTitle": "有监测记录以来“最强厄尔尼诺事件”来了，我国天气将受到哪些影响？",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "意味着晚自习开始上课，周日下午自愿返校上课",
-     "likes": 813,
-     "author": "鲁圣孔老二",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2024-03-11 01:26",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1vj421Z7Es",
-     "videoId": "BV1vj421Z7Es",
-     "isSub": false,
-     "videoTitle": "【江苏高中生/doomer】他们都在庆祝双休 只有你知道这意味着什么",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "命运惩罚，秒就秒在“惩罚”这个字上。\n惩罚首先得有罪，而他做错了什么呢。",
-     "likes": 739,
-     "author": "恭玉",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-19 00:03",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1ZCs26dEJE",
-     "videoId": "BV1ZCs26dEJE",
-     "isSub": false,
-     "videoTitle": "当人道主义债务重组和命运惩罚同时出现，意味着这个人实在太苦了😭",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "队长凭什么说托尼   没了血清队长又是什么呢？ 血清注射斯塔克来帮忙  盾牌也是斯塔克家的  ，，，，，有人说队长精神  如果说队长精神需要站在道德制高点漠视个人情感   =。=  那么  我告辞       更别说还有护着冬兵那一段   哪怕队长对得起全人类他唯独对不起斯塔克 ！",
-     "likes": 738,
-     "author": "鬼祟的南部",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2021-07-31 09:06",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1Cf4y157p7",
-     "videoId": "BV1Cf4y157p7",
-     "isSub": false,
-     "videoTitle": "“这副盔甲，到底对你意味着什么”",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "以后可以多做15-25分钟左右的视频，睡前可以听一集，睡得特别香，最好是人多说，别夹杂太多画面的，分析局势讲解科技，分析政策，法律来源，社会现象，国内外人文地理，时事新闻都能助眠，还能帮助人放下手机，稳定的信息源，确保播放量",
-     "likes": 734,
-     "author": "过九州",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-10-10 12:28",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1cQph6EEDz",
-     "videoId": "BV1cQph6EEDz",
-     "isSub": false,
-     "videoTitle": "新闻1+1 | 超强厄尔尼诺：已经形成，如何应对？",
-     "sentiment": "中性",
-     "score": 0.11999999999999997,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "待会看到这怪物的虎仗：真人的无为转变是吧？😡",
-     "likes": 713,
-     "author": "小时候在旱厕旁边",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-10-01 08:10",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1Bqav62EFo",
-     "videoId": "BV1Bqav62EFo",
-     "isSub": true,
-     "videoTitle": "呼唤不再意味着安全",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "曾经去过台湾，当地的教材被删减的太多了，导致当地年轻人对于中国史了解并未全面，没有民族的认同感，只有老一辈人与台湾共产党依旧为统一而呐喊，但统一依旧会完成，仅仅只是时间问题，有没有正在看这条视频的台湾朋友？希望我可以在2035年之前坐跨海大桥去见你们[打call]",
-     "likes": 671,
-     "author": "多的二次方",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2024-05-30 19:54",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1bZ421W7GJ",
-     "videoId": "BV1bZ421W7GJ",
-     "isSub": false,
-     "videoTitle": "【中国】“台独”意味着战争！",
-     "sentiment": "中性",
-     "score": -0.24,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "老母：你干啥去？\n我：跑路了，兄弟今晚去烈士陵园睡",
-     "likes": 643,
-     "author": "名字不不知道怎么取",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-11-14 18:53",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1anWd6zEoo",
-     "videoId": "BV1anWd6zEoo",
-     "isSub": false,
-     "videoTitle": "同志，你知道这意味着什么吗？",
-     "sentiment": "消极",
-     "score": -1.2,
-     "relevant": true,
-     "recent": true
-    },
-    {
-     "text": "我也是怎么想的，哪怕我买个十万的车，用十年，可我不如直接花十万打车，这样十年每年就有一万打车费，每个月就有833，一周就有208，上下班已经有班车了，我住的又很近，通勤基本不会用自己的车，也就一两周去街上玩一玩，打个车怎么能花到400呢？根本花不到，而且这已经是总包了，还不用考虑停车，也不用给停车费，保养费，保险费，油电费，维修费等等等等，风险也很低，因为出租车师傅技术肯定比我好。这么多加起来，不买车是非常划算的选择。可我爸妈一方面希望我买车，近距离可以用用，一方面又看我两公里打个车花十几块受不了[无语]我一个月有833打车费呀。换句话，10w块，我去买股票这十年打车费都能被收益cover。我十年只要增长100%就是零成本了。可是这也就10个10%，20个5%，33个3%，就行了。一年几十个3%还是不难的。他们就是想不通。无所谓，反正我不买。",
-     "likes": 588,
-     "author": "吃花椒的喵酱的真男友",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2023-07-22 08:47",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1q14y1Q7xH",
-     "videoId": "BV1q14y1Q7xH",
-     "isSub": true,
-     "videoTitle": "车对男生来说意味着什么",
-     "sentiment": "积极",
-     "score": 1.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "自信点，往后每推一年都是最高峰",
-     "likes": 563,
-     "author": "花甜曦Official",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2023-05-07 09:44",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1yM411g74G",
-     "videoId": "BV1yM411g74G",
-     "isSub": false,
-     "videoTitle": "什么是厄尔尼诺现象？地球会越来越热！",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "回复 @街头迷路的汪星人 :可这b拿过手冢奖就nm离谱",
-     "likes": 544,
-     "author": "geminicats",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2020-02-06 21:43",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1b7411h755",
-     "videoId": "BV1b7411h755",
-     "isSub": true,
-     "videoTitle": "【史图馆】731、“马路大”意味着什么？人类历史上的罪恶一页",
-     "sentiment": "消极",
-     "score": -1.7999999999999998,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "漂泊在外打拼的，能买得起一台二手车，其实二手车作为扩大活动范围，作为一个隔音的可独处放空大脑的可肆无忌惮释放压力的场所，它是性价比最高的选择，它也是你碰到无良房东老板之后周转的底气",
-     "likes": 504,
-     "author": "恒河水贼",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2023-07-22 21:20",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1q14y1Q7xH",
-     "videoId": "BV1q14y1Q7xH",
-     "isSub": true,
-     "videoTitle": "车对男生来说意味着什么",
-     "sentiment": "消极",
-     "score": -1.2,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "不燃，但很燃",
-     "likes": 504,
-     "author": "何子伦",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2021-07-29 14:38",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1Cf4y157p7",
-     "videoId": "BV1Cf4y157p7",
-     "isSub": false,
-     "videoTitle": "“这副盔甲，到底对你意味着什么”",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "我，活的不长，见识挺广[呆]",
-     "likes": 492,
-     "author": "Q苹果肉桂拿铁Q",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-10-11 10:22",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1cQph6EEDz",
-     "videoId": "BV1cQph6EEDz",
-     "isSub": false,
-     "videoTitle": "新闻1+1 | 超强厄尔尼诺：已经形成，如何应对？",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "回复 @BAKA君YO :确实左右不讨好，人右翼拼死拼活各种手段让日本普通民众忘记，他给整这么一出，让外国人跑来个给日本民众讲历史，右翼不给气死",
-     "likes": 487,
-     "author": "geminicats",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2020-02-06 22:13",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1b7411h755",
-     "videoId": "BV1b7411h755",
-     "isSub": true,
-     "videoTitle": "【史图馆】731、“马路大”意味着什么？人类历史上的罪恶一页",
-     "sentiment": "中性",
-     "score": 0.4,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "这是头一个我觉得歌词闹腾的视频[笑哭]",
-     "likes": 461,
-     "author": "米缸里的东北大米",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2024-05-31 12:41",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1bZ421W7GJ",
-     "videoId": "BV1bZ421W7GJ",
-     "isSub": false,
-     "videoTitle": "【中国】“台独”意味着战争！",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "当你看到我时，请踹我一脚，让我再看一遍",
-     "likes": 452,
-     "author": "但愿你能天天开心",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-10-10 19:13",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV153aq6VEzm",
-     "videoId": "BV153aq6VEzm",
-     "isSub": false,
-     "videoTitle": "每一次的克制都意味着比以前更加强大！",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "一、厄尔尼诺和拉尼娜现象的考点，强调了其实这个考点相对比较简单，只要掌握几个结论和过程，就能应对考试。\n二、沃克环流的原理和对太平洋的影响，包括西太平洋沿岸的湿润气候和秘鲁渔场，以及拉尼娜现象对太平洋的影响。\n06:21 - 沃克环流原理及影响\n09:42 - 厄尔尼诺和拉尼娜现象形成过程\n11:54 - 沃克环流异常会导致西岸高温，东岸变冷\n三、拉尼娜和厄尔尼诺现象对太平洋东西两岸的影响，包括气候、渔业和农业等方面，提醒人们要尊重自然规律。\n12:42 - 下沉气流增强，导致气候干旱，影响农业生产\n14:43 - 厄尔尼诺现象影响太平洋东西两岸，导致东澳大利亚地区发生旱灾\n18:27 - 厄尔尼诺现象引发西部的暴雨，导致农业生产减产，鸟类大量死亡\n四、两道高考题，其中包括了关于天气和鱼类的话题，以及一道关于智利竹荚鱼洄游路线和生活习性的题目。\n19:01 - 高考题:暴雨引发洪水与厄尔尼诺事件相关性\n19:37 - 暴雨和厄尔尼诺事件成正相关\n21:31 - 智利竹荚鱼是南美洲西海岸的海洋经济鱼之一\n22:45 - 智利竹荚鱼洄游路线受盛行西风带影响，主要因素是温度\n24:27 - 南半球鱼类产卵区主要分布于低纬度和高纬度海域，冬季到南半球低纬度海域\n五、鱼类在游动时的逆流回流、成鱼和幼鱼对水温的适应、以及沃克环流异常对我国的影响等内容。\n25:21 - 鱼类游时逆风，逆流回流是错误的\n26:15 - 成鱼更倾向于在海洋西侧，幼鱼更倾向于在海洋东侧\n28:22 - 沃克环流异常对我国的影响，拉尼娜年容易产生旱灾和台风\n--以上内容由模型基于视频内容生成，仅供参考",
-     "likes": 438,
-     "author": "AI视频小助理",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2023-10-22 17:13",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV17C4y137Ht",
-     "videoId": "BV17C4y137Ht",
-     "isSub": false,
-     "videoTitle": "新高考难点！厄尔尼诺与拉尼娜！这是解药【选必一 + 一轮复习】",
-     "sentiment": "消极",
-     "score": -1.6,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "我是高中生，中考是考上了市重点，但我从来不觉得中高考都是决定人生的东西，如果你没有成功，不代表你就失败，祝愿今年各位中考生金榜题名！",
-     "likes": 435,
-     "author": "真想重来一天",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2022-02-19 16:12",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1wm4y1o7Ta",
-     "videoId": "BV1wm4y1o7Ta",
-     "isSub": false,
-     "videoTitle": "中考失败意味着什么？初三的同学们，努力一次吧！",
-     "sentiment": "中性",
-     "score": 0.6,
-     "relevant": true,
-     "recent": false
-    },
-    {
-     "text": "这文案明年还能用[doge]",
-     "likes": 426,
-     "author": "旷野知途",
-     "platform": "bili",
-     "emoji": "📺",
-     "time": "2026-05-30 15:50",
-     "ip": "",
-     "sourceUrl": "https://www.bilibili.com/video/BV1CWGX6DE3p",
-     "videoId": "BV1CWGX6DE3p",
-     "isSub": false,
-     "videoTitle": "厄尔尼诺已亮红灯 哥哥姐姐们，该减肥了。 因为2026年的夏天，可能不是你能扛得住的夏天。 就在此刻，太平洋水下，有个东西正在醒过来",
-     "sentiment": "中性",
-     "score": 0.0,
-     "relevant": true,
-     "recent": false
-    }
-   ],
-   "commentStats": {
-    "collected": 1000,
-    "reused": true,
-    "target": 1000,
-    "complete": true
-   },
-   "sentiment": {
-    "positive": 8.2,
-    "neutral": 87.7,
-    "negative": 4.1,
-    "anger": 0.0,
-    "samples": 195,
-    "keywords": [
-     {
-      "word": "好",
-      "count": 16
-     },
-     {
-      "word": "差",
-      "count": 6
-     },
-     {
-      "word": "炸了",
-      "count": 6
-     },
-     {
-      "word": "喜欢",
-      "count": 5
-     },
-     {
-      "word": "努力",
-      "count": 5
-     },
-     {
-      "word": "提升",
-      "count": 3
-     },
-     {
-      "word": "灾害",
-      "count": 2
-     },
-     {
-      "word": "离谱",
-      "count": 2
-     },
-     {
-      "word": "公平",
-      "count": 2
-     },
-     {
-      "word": "负责",
-      "count": 2
-     },
-     {
-      "word": "讨厌",
-      "count": 2
-     },
-     {
-      "word": "跑路",
-      "count": 1
-     },
-     {
-      "word": "地震",
-      "count": 1
-     },
-     {
-      "word": "温暖",
-      "count": 1
-     }
-    ],
-    "basis": "相关且近 30 天"
-   },
-   "wordcloud": [
-    {
-     "word": "回复",
-     "weight": 57.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "赚钱",
-     "weight": 20.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "doge",
-     "weight": 17.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "自己",
-     "weight": 15.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "知道",
-     "weight": 13.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "觉得",
-     "weight": 12.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "为了",
-     "weight": 12.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "贷款",
-     "weight": 12.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "风险",
-     "weight": 11.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "真的",
-     "weight": 11.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "如果",
-     "weight": 10.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "天气",
-     "weight": 10.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "这么",
-     "weight": 9.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "现在",
-     "weight": 9.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "这种",
-     "weight": 9.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "不会",
-     "weight": 9.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "一年",
-     "weight": 8.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "开始",
-     "weight": 8.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "不能",
-     "weight": 8.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "确实",
-     "weight": 8.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "名字",
-     "weight": 8.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "奶奶",
-     "weight": 8.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "三角",
-     "weight": 8.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "Low",
-     "weight": 8.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "气候",
-     "weight": 7.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "工作",
-     "weight": 7.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "时候",
-     "weight": 7.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "还有",
-     "weight": 7.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "80w",
-     "weight": 7.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "创业",
-     "weight": 7.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "每年",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "热爱",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "喜欢",
-     "weight": 6.0,
-     "sentiment": "积极"
-    },
-    {
-     "word": "感觉",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "蚊子",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "只能",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "风控",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "发生",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "东西",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "一直",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "不行",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "广东",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "一天",
-     "weight": 5.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "降温",
-     "weight": 5.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "赌输",
-     "weight": 5.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "有人",
-     "weight": 5.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "努力",
-     "weight": 5.0,
-     "sentiment": "积极"
-    },
-    {
-     "word": "成绩",
-     "weight": 5.0,
-     "sentiment": "中性"
-    }
-   ],
-   "trend": {
-    "series": [
-     {
-      "t": "2026-11-18T11:00:00+08:00",
-      "label": "11:00",
-      "total": 890000,
-      "platforms": {
-       "zhihu": 740000,
-       "weibo": 150000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-18T15:00:00+08:00",
-      "label": "15:00",
-      "total": 1270000,
-      "platforms": {
-       "zhihu": 960000,
-       "weibo": 310000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-18T16:00:00+08:00",
-      "label": "16:00",
-      "total": 2770000,
-      "platforms": {
-       "zhihu": 2230000,
-       "weibo": 540000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-18T17:00:00+08:00",
-      "label": "17:00",
-      "total": 1720000,
-      "platforms": {
-       "zhihu": 1410000,
-       "weibo": 310000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-18T18:00:00+08:00",
-      "label": "18:00",
-      "total": 1430000,
-      "platforms": {
-       "zhihu": 1230000,
-       "weibo": 200000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-18T19:00:00+08:00",
-      "label": "19:00",
-      "total": 1740000,
-      "platforms": {
-       "zhihu": 1540000,
-       "weibo": 200000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-18T22:00:00+08:00",
-      "label": "22:00",
-      "total": 36000,
-      "platforms": {
-       "news": 5000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-18T23:00:00+08:00",
-      "label": "23:00",
-      "total": 635000,
-      "platforms": {
-       "zhihu": 630000,
-       "douyin": 5000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-19T00:00:00+08:00",
-      "label": "00:00",
-      "total": 1070000,
-      "platforms": {
-       "zhihu": 890000,
-       "weibo": 180000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-19T01:00:00+08:00",
-      "label": "01:00",
-      "total": 1660000,
-      "platforms": {
-       "zhihu": 1480000,
-       "weibo": 180000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-19T02:00:00+08:00",
-      "label": "02:00",
-      "total": 17263000,
-      "platforms": {
-       "news": 16043000,
-       "zhihu": 1220000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-19T10:00:00+08:00",
-      "label": "10:00",
-      "total": 760000,
-      "platforms": {
-       "zhihu": 590000,
-       "weibo": 170000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-19T12:00:00+08:00",
-      "label": "12:00",
-      "total": 325000,
-      "platforms": {
-       "weibo": 320000,
-       "douyin": 5000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-19T13:00:00+08:00",
-      "label": "13:00",
-      "total": 7797000,
-      "platforms": {
-       "news": 7307000,
-       "weibo": 490000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-19T15:00:00+08:00",
-      "label": "15:00",
-      "total": 385000,
-      "platforms": {
-       "weibo": 380000,
-       "news": 5000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-20T13:00:00+08:00",
-      "label": "13:00",
-      "total": 1252000,
-      "platforms": {
-       "news": 872000,
-       "weibo": 380000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-20T14:00:00+08:00",
-      "label": "14:00",
-      "total": 736000,
-      "platforms": {
-       "weibo": 140000,
-       "news": 596000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-20T17:00:00+08:00",
-      "label": "17:00",
-      "total": 0,
-      "platforms": {},
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-20T18:00:00+08:00",
-      "label": "18:00",
-      "total": 0,
-      "platforms": {},
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-20T20:00:00+08:00",
-      "label": "20:00",
-      "total": 0,
-      "platforms": {},
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-20T23:00:00+08:00",
-      "label": "23:00",
-      "total": 0,
-      "platforms": {},
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-21T18:00:00+08:00",
-      "label": "18:00",
-      "total": 3965000,
-      "platforms": {
-       "zhihu": 1370000,
-       "news": 2595000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-21T19:00:00+08:00",
-      "label": "19:00",
-      "total": 1477000,
-      "platforms": {
-       "zhihu": 1390000,
-       "news": 87000
-      },
-      "type": "measured"
-     },
-     {
-      "t": "2026-11-21T21:00:00+08:00",
-      "label": "21:00",
-      "total": 1430000,
-      "platforms": {
-       "zhihu": 1430000
-      },
-      "type": "measured"
-     }
-    ],
-    "updatedAt": "2026-11-21T21:00:30.673866+08:00",
-    "measuredPoints": 24
-   },
-   "risk": {
-    "score": 28,
-    "level": "低"
-   },
-   "summary": "本轮事件由新闻、知乎两平台共振，综合热度约 424 万（新闻 259.5 万 + 知乎 164 万）。**本事件存在明确的聚类污染，须首先声明**：知乎侧触发条目为「超强厄尔尼诺已经形成，已成为有记录以来最强，这意味着什么？产生的气候影响大吗？」（164 万热度），与美股下跌无任何实质关联，二者被并入同一事件的原因是共享「意味着什么」这一泛化提问句式。这是当前相关性判据（标题含关键词，或与触发条目共享 ≥4 字连续片段）在泛词上的系统性失效。剥离该误配条目后，本事件的真实热度约 259.5 万，仅由一条新闻条目支撑。美股部分的事实经多方核实：11 月 20 日美股大跌，标普 500 指数跌 3.7%（265.44 点）收于 6910.39 点，自 10 月 6 日历史高点回落逾 10%，进入修正区间，为 2025 年 3 月关税冲击以来首次；纳斯达克综合指数跌 5.3%（1261.47 点）收于 22617.73 点，单日点数跌幅为历史第二大，当日转跌，年内涨幅尽失；道琼斯工业指数跌 1.9%（949.73 点）收于 48147.33 点。纳斯达克 100 指数较 10 月 6 日高点下跌 20%，进入熊市。当周纳指跌 10.02%，为 2020 年 3 月以来最差单周表现；标普 500 周跌 8.61%，道指周跌 8.02%，为 2020 年 3 月以来最大单周跌幅。VIX 恐慌指数当日涨 26% 至近 36，盘中一度触及 40，为 2025 年 4 月以来新高。科技板块重挫 7.11%，英伟达跌 14.01%（10 天内 9 跌，为 2008 年以来最长连跌）、安谋跌 14.09%、美光跌 13.89%、博通跌 12.19%、超微跌 13.25%、应用材料跌 10.71%，AI 实验室 Anthropic 在创纪录 IPO 后首个完整交易日跌 8.5% 至 88.91 美元（发行价 83 美元），台积电 ADR 跌 9.48%。卖压成因被归纳为多重叠加：AI 资本开支放缓担忧、共和党在中期选举中胜选导致数据中心放缓主张获支持、英伟达前 CEO 黄仁勋因丑闻下台、传闻 SEC 调查英伟达会计问题、超微遭做空机构 Hunterbrook 指违反对华出口管制。彭博测算纳斯达克 100 单日市值蒸发 2.1 万亿美元。",
-   "facts": [
-    {
-     "label": "事件类型",
-     "value": "国际金融冲击 · AI 叙事重估 · 跨语种财经舆论"
-    },
-    {
-     "label": "共振平台",
-     "value": "新闻 / 知乎（2 平台，其中知乎侧为泛词误配）"
-    },
-    {
-     "label": "综合热度",
-     "value": "约 424 万（新闻 259.5 万 + 知乎 164 万）；剔除误配条目后真实热度约 259.5 万"
-    },
-    {
-     "label": "聚类污染（须注意）",
-     "value": "知乎触发条目「超强厄尔尼诺已经形成，已成为有记录以来最强，这意味着什么？」164 万与美股下跌无关，仅共享「意味着什么」泛化句式被并入；本事件的采样关键词亦因此被污染为「意味着」「厄尔尼诺」"
-    },
-    {
-     "label": "触发条目",
-     "value": "「美股一天内遭血洗意味着什么」259.5 万（今日头条新闻榜第 16 位）"
-    },
-    {
-     "label": "时间锚点",
-     "value": "11-20 美股收盘（美东时间）；11-21 中文舆论场跟进，亚洲市场同步承压"
-    },
-    {
-     "label": "指数表现",
-     "value": "标普 500 -3.7% 至 6910.39，自 10-6 高点回落逾 10% 进入修正；纳指 -5.3% 至 22617.73，单日点数跌幅史上第二大；道指 -1.9% 至 48147.33；纳斯达克 100 较高点 -20% 进入熊市"
-    },
-    {
-     "label": "周度与波动率",
-     "value": "纳指周跌 10.02%（2020 年 3 月以来最差）；标普周跌 8.61%；道指周跌 8.02%（2020 年 3 月以来最大单周跌幅）；VIX 涨 26% 至近 36，盘中触及 40（2025 年 4 月以来新高）"
-    },
-    {
-     "label": "个股与板块",
-     "value": "科技板块 -7.11%；英伟达 -14.01%、安谋 -14.09%、美光 -13.89%、博通 -12.19%、超微 -13.25%、Anthropic -8.5% 至 88.91 美元（IPO 价 83）、台积电 ADR -9.48%；彭博测算纳斯达克 100 单日市值蒸发 2.1 万亿美元"
-    },
-    {
-     "label": "风险等级",
-     "value": "低（风险指数 28）"
-    },
-    {
-     "label": "热评样本与相关性",
-     "value": "1000 条真实热评（本轮全部新抓，扫描 25 个源视频、跳过 21 个）；但采样关键词为「意味着」「厄尔尼诺」，样本混合美股与气候两类内容；情绪中性 83.1% / 积极 13.5% / 消极 3.4% / 愤怒 2.5%"
-    }
-   ],
-   "phases": [
-    {
-     "name": "盘中",
-     "desc": "11-20 卖压自芯片股起蔓延并向全市场扩散，VIX 盘中一度触及 40；科技七雄全数下跌，纳指 100 与标普 500 先后跌破关键位。",
-     "time": "11-20 美东"
-    },
-    {
-     "name": "收盘",
-     "desc": "标普 500 跌 3.7% 进入修正区间、纳指单日跌 5.3% 创史上第二大点数跌幅、纳指 100 确认进入熊市；周度表现为 2020 年 3 月以来最差。",
-     "time": "11-20 收盘"
-    },
-    {
-     "name": "亚太传导",
-     "desc": "日经与韩国 KOSPI 隔夜各跌超 5%，欧洲主要指数同步大跌；台指期夜盘跌 1881 点或 5.25% 收 33919 点，费城半导体指数单日跌近 11%。",
-     "time": "11-21 亚洲时段"
-    },
-    {
-     "name": "中文舆论",
-     "desc": "今日头条以「美股一天内遭血洗意味着什么」进入新闻榜第 16 位（259.5 万），采用疑问式框架，把一次市场事件转写为解释性议题而非行情播报。",
-     "time": "11-21"
-    }
-   ],
-   "analysis": {
-    "points": [
-     "本事件首先是系统自身的一次可观测失误，必须写在最前面：知乎侧 164 万热度的触发条目是「超强厄尔尼诺已经形成，已成为有记录以来最强，这意味着什么？产生的气候影响大吗？」，与美股下跌毫无实质关联。两条条目被并入同一事件，仅因为共享「意味着什么」这一泛化提问句式——本系统当前的相关性判据（标题含关键词，或与触发条目共享 ≥4 字连续片段）在遇到「意味着」「回应」「最新」这类高频泛词时必然失效。这一污染向下传导了两层：一是事件的综合热度被高估 65%（424 万 vs 真实 259.5 万）；二是热评采样关键词被定为「意味着」「厄尔尼诺」，导致 1000 条样本实际混合了美股与厄尔尼诺两类内容。",
-     "剔除污染后，本事件仍然成立，但性质随之改变：它不再是「跨平台共振事件」，而是一条**单条目事件**——真实热度 259.5 万，仅由今日头条新闻榜第 16 位一条条目支撑。事件的价值不在于平台共振程度，而在于它示范了财经类条目的一种典型框架：疑问式标题（「意味着什么」）把一次可测量的事实事件转写为一个解释性议题，邀请公众参与归因，而非播报结果。这一框架转换在中文财经舆论中有强烈的独立生命力，与第 01 号事件知乎的「哪些信息值得关注？」构成同一周内的两个样本。",
-     "事实层面的归因是复合的，不宜简化为单一叙事：AI 资本开支放缓的质疑、共和党在中期选举中胜选使「放缓数据中心建设」的主张获得支持、英伟达前 CEO 黄仁勋因丑闻下台、传闻 SEC 调查英伟达会计问题、超微遭做空机构 Hunterbrook 指违反对华出口管制——五重因素叠加。中国舆论场的特点是倾向于把其中的「政治因素」（选举、监管调查）单独抽出放大，而弱化「估值过高」这一市场内部解释；「唱空中国经济者终会落空」同日高居微博热搜第 3 位（77 万热度），正说明中文舆论场对美股下跌的解读被预先锚定在「唱空者必败」的框架里，异质的市场信息在进入中文平台前已被本土议程过滤。",
-     "「意味着什么」的提问结构具有双向性：一方面它确实把专业事件转化为公众可参与的解释任务，使财经知识得以进入公共讨论；另一方面它用一个开放问句替代了事实陈述，把「发生了什么」的责任转移给回答者。在本事件中，问句的答案高度依赖提问者预设——若预设是「美股下跌意味着 AI 泡沫破裂」，则答案会自动向该结论收敛。这也是为何同一份 1000 条样本里，情绪分布仍呈现中性 83.1% 为主、积极 13.5% 的结构：热评大多是「好」「加油」「努力」「炸了」这类弱表态词，而非实质归因。",
-     "取样边界与置信度：本事件热评满额 1000 条（全部新抓，扫描 25 个视频、跳过 21 个），但因事件关键词为泛词「意味着」，采样式扩散到了气候议题的视频评论区，样本与事件的对应关系被削弱约一半。因此本事件的情感分布（中性 83.1% / 积极 13.5% / 消极 3.4% / 愤怒 2.5%）只能作为「中文财经舆情整体情绪基线」的粗略参照，不能用于描述公众对本次美股下跌的具体态度；词频中「差」20 次、「离谱」8 次、「炸了」7 次，也主要来自混合样本。结论：本事件可支撑对「疑问式框架」的文本分析，不可支撑对公众态度的测量。"
-    ],
-    "angles": [
-     "泛词失效的算法诊断：以「意味着」为案例系统测试相关性判据在高频疑问句式上的假阳性率，并提出停用词表或 IDF 阈值修正方案。",
-     "疑问式框架的传播机制：连续采集同周「…意味着什么」类条目，比较其榜位、热度与后续议题演化，论证问句标题的解释权效应。",
-     "外部冲击的本土化过滤：以本事件「唱空中国经济者终会落空」在微博第 3 位的同期出现为对照，写议程预设在跨语种信息流中的筛选作用。",
-     "热榜量级与事件真实性的分离：把「误配条目导致的热度高估」作为测量误差的案例，估算泛词在系统整体热度统计中的误差量级。"
-    ],
-    "methods": [
-     "算法评估：构造含「意味着 / 回应 / 最新 / 怎么办」等泛词的对照集，测量现有相关性判据的假阳性率与误并率。",
-     "框架分析：对同周财经类疑问句标题做编码（是什么 / 为什么 / 怎么办 / 意味着什么），比较其热度与评论量级。",
-     "内容分析：对美股下跌的中英文报道做归因编码（估值 / 政策 / 政治 / 技术），比较两地归因结构差异。",
-     "误差传播分析：以本事件为案例，量化单条误配条目对事件热度、共振平台数与采样关键词的连锁影响。"
-    ]
-   },
-   "timeline": [
-    {
-     "time": "11-20 美东盘中",
-     "event": "AI 板块抛售扩散，VIX 盘中触及 40，创 2025 年 4 月以来新高",
-     "source": "Bloomberg 实时"
-    },
-    {
-     "time": "11-20 收盘",
-     "event": "标普 500 跌 3.7% 进入修正区间，纳指跌 5.3%，纳指 100 较高点跌 20% 进入熊市",
-     "source": "AP / Investopedia"
-    },
-    {
-     "time": "11-20 收盘后",
-     "event": "Anthropic 首个完整交易日跌 8.5% 至 88.91 美元，接近 83 美元发行价；纳指周跌 10.02%",
-     "source": "经济日报 / nStock"
+     "time": "11-21 上午",
+     "event": "联合早报报道八马茶业自然人控股股东吴小宁同批处理，其控股或管理企业一并受限",
+     "source": "联合早报"
     },
     {
      "time": "11-21",
-     "event": "中文舆论以「美股一天内遭血洗意味着什么」进入新闻榜第 16 位；亚洲市场隔夜承压",
+     "event": "内地财经媒体跟进，微博热搜与新闻榜首位均为同题条目",
      "source": "CATCH 本轮实测榜单"
+    },
+    {
+     "time": "待观察",
+     "event": "公告未披露具体违规事项与暂停期限，处置结论仍处信息空白期",
+     "source": "军队采购网公告"
     }
    ],
    "sourceCount": 2,
    "resonance": 2,
-   "wordcloudBasis": "真实热评 + 榜单标题",
    "commentRelevance": {
     "tokens": [
-     "意味着什么"
+     "被暂停参加全",
+     "加全军采购活",
+     "顺丰速运被暂",
+     "速运被暂停参",
+     "全军采购活动",
+     "运被暂停参加",
+     "暂停参加全军",
+     "丰速运被暂停",
+     "参加全军采购",
+     "停参加全军采"
     ],
-    "total": 1000,
-    "relevant": 1000,
+    "total": 158,
+    "relevant": 158,
     "ratio": 1.0,
     "basis": "源视频标题",
-    "withVideoTitle": 1000
+    "withVideoTitle": 158
    },
    "commentRecency": {
     "windowDays": 30,
-    "total": 1000,
-    "recent": 195,
-    "ratio": 0.195
+    "total": 158,
+    "recent": 24,
+    "ratio": 0.1519
    },
-   "commentCount": 1000,
-   "commentsFile": "assets/data/comments/E05.json"
+   "commentCount": 158,
+   "commentsFile": "assets/data/comments/E04.json"
   }
  ],
- "builtAt": "2026-11-21T21:29:46.534123+08:00"
+ "builtAt": "2026-11-21T22:10:40.265073+08:00"
 };
