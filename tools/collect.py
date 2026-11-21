@@ -9,7 +9,6 @@ CATCH · 跨平台热点与舆情采集管线
   抖音       douyin.com/hot 热点视频 + tophub 抖音视频总榜
   小红书     tophub.today 小红书热榜；已登录时叠加 xhs CLI（笔记 + 评论）
   X          trends24.in 24 小时趋势时间线
-  微信公众号  tophub.today 微信热词 / 各垂类 24h 热文榜（搜狗微信热词源）
   知乎       tophub.today 知乎热榜（交叉验证）
   B 站       bilibili 搜索 + 公开评论接口（真实高赞热评，用于舆情事件热评样本）
 
@@ -2011,7 +2010,7 @@ def main() -> int:
             "rawScanned": sum(len(v) for k, v in platform_items.items() if not k.startswith("_")),
             "slang": len(slang_rows),
         },
-        "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / B站 公开榜单与真实接口",
+        "source": "微博 / 抖音 / 小红书 / X / 知乎 / 新闻 / B站 公开榜单与真实接口",
     }
 
     with open(os.path.join(DATA, "hotspots.json"), "w", encoding="utf-8") as f:
