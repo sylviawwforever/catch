@@ -44,14 +44,6 @@ window.CATCH_DATA = {
     "name": "X",
     "emoji": "✳️"
    },
-   "wechat": {
-    "source": "tophub.today · wechat",
-    "items": 13,
-    "ok": true,
-    "error": null,
-    "name": "微信公众号",
-    "emoji": "💬"
-   },
    "zhihu": {
     "source": "tophub.today · zhihu",
     "items": 50,
@@ -104,13 +96,13 @@ window.CATCH_DATA = {
   "commentTarget": 1000,
   "eventsPerDay": 5,
   "counts": {
-   "hotItems": 60,
+   "hotItems": 57,
    "events": 5,
    "comments": 2855,
-   "rawScanned": 377,
+   "rawScanned": 364,
    "slang": 1
   },
-  "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / B站 公开榜单与真实接口"
+  "source": "微博 / 抖音 / 小红书 / X / 知乎 / 新闻 / B站 公开榜单与真实接口"
  },
  "hotspots": {
   "text": [
@@ -167,23 +159,6 @@ window.CATCH_DATA = {
      "全军",
      "采购",
      "活动"
-    ]
-   },
-   {
-    "title": "光明日报刊文谈毛泽东十大气质",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 31000,
-    "rank": 1,
-    "url": "https://mp.weixin.qq.com/s?__biz=MzA4OTAzNjMzMQ==&mid=2654684416&idx=1&sn=e95dbe7a11688916504864cb4b1e9e76#rd",
-    "board": "微信·生活",
-    "tokens": [
-     "光明日报",
-     "刊文",
-     "毛泽东",
-     "十大",
-     "气质"
     ]
    },
    {
@@ -291,26 +266,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "老公：给我转2000块钱，我明天还你😐 我：明天确定还？🤨 老公：嗯。🙂 我：行，过去了。📱 老公：记得提醒我啊，我记性不好😅 我：嗯。有多不好？🤔 老公：什么不好？我：记性🙄 老公：记什么？😑 我：借钱呐。😏 老公：不借。😌 我：你滚……🤯",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 2588,
-    "rank": 1,
-    "url": "https://mp.weixin.qq.com/s/GZjBiZCdK-g98p_a_kXoCg",
-    "board": "微信·社会",
-    "tokens": [
-     "老公",
-     "块钱",
-     "明天",
-     "明天",
-     "确定",
-     "老公",
-     "过去",
-     "老公"
-    ]
-   },
-   {
     "title": "一种很新的内燃机的魅力 昭女培🥣@织蒽 无森音要求",
     "platform": "douyin",
     "platformName": "抖音",
@@ -411,25 +366,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "武冰调研督导地下水超采治理工作",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 701,
-    "rank": 1,
-    "url": "https://mp.weixin.qq.com/s/miSFLNzSop3rHRwUY2CveA",
-    "board": "微信·娱乐",
-    "tokens": [
-     "武冰",
-     "调研",
-     "督导",
-     "地下水",
-     "超采",
-     "治理",
-     "工作"
-    ]
-   },
-   {
     "title": "最后差点没认出来我妈…",
     "platform": "douyin",
     "platformName": "抖音",
@@ -524,21 +460,6 @@ window.CATCH_DATA = {
      "摔倒",
      "现发",
      "所有人"
-    ]
-   },
-   {
-    "title": "传递中国声音",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 1,
-    "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E4%BC%A0%E9%80%92%E4%B8%AD%E5%9B%BD%E5%A3%B0%E9%9F%B3",
-    "board": "微信热词",
-    "tokens": [
-     "传递",
-     "中国",
-     "声音"
     ]
    },
    {
@@ -641,25 +562,6 @@ window.CATCH_DATA = {
      "直接",
      "数落",
      "伊能静"
-    ]
-   },
-   {
-    "title": "时刻保持解决大党独有难题的清醒和坚定",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 2,
-    "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E6%97%B6%E5%88%BB%E4%BF%9D%E6%8C%81%E8%A7%A3%E5%86%B3%E5%A4%A7%E5%85%9A%E7%8B%AC%E6%9C%89%E9%9A%BE%E9%A2%98%E7%9A%84%E6%B8%85%E9%86%92%E5%92%8C%E5%9D%9A%E5%AE%9A",
-    "board": "微信热词",
-    "tokens": [
-     "时刻",
-     "保持",
-     "解决",
-     "独有",
-     "难题",
-     "清醒",
-     "坚定"
     ]
    },
    {
@@ -766,24 +668,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "坚持改革创新发扬斗争精神",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 3,
-    "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E5%9D%9A%E6%8C%81%E6%94%B9%E9%9D%A9%E5%88%9B%E6%96%B0%E5%8F%91%E6%89%AC%E6%96%97%E4%BA%89%E7%B2%BE%E7%A5%9E",
-    "board": "微信热词",
-    "tokens": [
-     "坚持",
-     "改革",
-     "创新",
-     "发扬",
-     "斗争",
-     "精神"
-    ]
-   },
-   {
     "title": "说出你拉肚子的经历，让我心里好受点 #西梅汁 #社死 #看到最后",
     "platform": "douyin",
     "platformName": "抖音",
@@ -887,22 +771,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "全力以赴端牢端稳中国饭碗",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 4,
-    "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E7%AB%AF%E7%89%A2%E7%AB%AF%E7%A8%B3%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97",
-    "board": "微信热词",
-    "tokens": [
-     "全力以赴",
-     "牢端",
-     "中国",
-     "饭碗"
-    ]
-   },
-   {
     "title": "家庭憋笑挑战#搞笑#憋住不准笑 #猎奇 #万万没想到 #家庭憋笑挑战",
     "platform": "douyin",
     "platformName": "抖音",
@@ -996,26 +864,6 @@ window.CATCH_DATA = {
     "tokens": [
      "白小纯",
      "青稚"
-    ]
-   },
-   {
-    "title": "更好统筹当前和长远 ——形成共促高质量发展的合力",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 5,
-    "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E6%9B%B4%E5%A5%BD%E7%BB%9F%E7%AD%B9%E5%BD%93%E5%89%8D%E5%92%8C%E9%95%BF%E8%BF%9C+%E2%80%94%E2%80%94%E5%BD%A2%E6%88%90%E5%85%B1%E4%BF%83%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E7%9A%84%E5%90%88%E5%8A%9B",
-    "board": "微信热词",
-    "tokens": [
-     "更好",
-     "统筹",
-     "当前",
-     "长远",
-     "形成",
-     "共促",
-     "高质量",
-     "发展"
     ]
    },
    {
@@ -1119,45 +967,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "奋力推进新时代语言文字事业高质量发展",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 6,
-    "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E5%A5%8B%E5%8A%9B%E6%8E%A8%E8%BF%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E8%AF%AD%E8%A8%80%E6%96%87%E5%AD%97%E4%BA%8B%E4%B8%9A%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95",
-    "board": "微信热词",
-    "tokens": [
-     "奋力",
-     "推进",
-     "时代",
-     "语言文字",
-     "事业",
-     "高质量",
-     "发展"
-    ]
-   },
-   {
-    "title": "更好统筹当前和长远 ——形成共促高质量发展的合力",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 5,
-    "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E6%9B%B4%E5%A5%BD%E7%BB%9F%E7%AD%B9%E5%BD%93%E5%89%8D%E5%92%8C%E9%95%BF%E8%BF%9C+%E2%80%94%E2%80%94%E5%BD%A2%E6%88%90%E5%85%B1%E4%BF%83%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E7%9A%84%E5%90%88%E5%8A%9B",
-    "board": "微信热词",
-    "tokens": [
-     "更好",
-     "统筹",
-     "当前",
-     "长远",
-     "形成",
-     "共促",
-     "高质量",
-     "发展"
-    ]
-   },
-   {
     "title": "小院#小屋#狸花猫捕猎 #记录真实生活 #日常vlog",
     "platform": "douyin",
     "platformName": "抖音",
@@ -1255,25 +1064,6 @@ window.CATCH_DATA = {
      "十五日",
      "台词"
     ]
-   },
-   {
-    "title": "奋力推进新时代语言文字事业高质量发展",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 6,
-    "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E5%A5%8B%E5%8A%9B%E6%8E%A8%E8%BF%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E8%AF%AD%E8%A8%80%E6%96%87%E5%AD%97%E4%BA%8B%E4%B8%9A%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95",
-    "board": "微信热词",
-    "tokens": [
-     "奋力",
-     "推进",
-     "时代",
-     "语言文字",
-     "事业",
-     "高质量",
-     "发展"
-    ]
    }
   ],
   "ranking": [
@@ -1349,62 +1139,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "光明日报刊文谈毛泽东十大气质",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 31000,
-    "rank": 1,
-    "url": "https://mp.weixin.qq.com/s?__biz=MzA4OTAzNjMzMQ==&mid=2654684416&idx=1&sn=e95dbe7a11688916504864cb4b1e9e76#rd",
-    "board": "微信·生活",
-    "tokens": [
-     "光明日报",
-     "刊文",
-     "毛泽东",
-     "十大",
-     "气质"
-    ]
-   },
-   {
-    "title": "老公：给我转2000块钱，我明天还你😐 我：明天确定还？🤨 老公：嗯。🙂 我：行，过去了。📱 老公：记得提醒我啊，我记性不好😅 我：嗯。有多不好？🤔 老公：什么不好？我：记性🙄 老公：记什么？😑 我：借钱呐。😏 老公：不借。😌 我：你滚……🤯",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 2588,
-    "rank": 1,
-    "url": "https://mp.weixin.qq.com/s/GZjBiZCdK-g98p_a_kXoCg",
-    "board": "微信·社会",
-    "tokens": [
-     "老公",
-     "块钱",
-     "明天",
-     "明天",
-     "确定",
-     "老公",
-     "过去",
-     "老公"
-    ]
-   },
-   {
-    "title": "武冰调研督导地下水超采治理工作",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 701,
-    "rank": 1,
-    "url": "https://mp.weixin.qq.com/s/miSFLNzSop3rHRwUY2CveA",
-    "board": "微信·娱乐",
-    "tokens": [
-     "武冰",
-     "调研",
-     "督导",
-     "地下水",
-     "超采",
-     "治理",
-     "工作"
-    ]
-   },
-   {
     "title": "扛下所有的炮火@%%",
     "platform": "douyin",
     "platformName": "抖音",
@@ -1456,21 +1190,6 @@ window.CATCH_DATA = {
      "姿势",
      "美美",
      "出片"
-    ]
-   },
-   {
-    "title": "传递中国声音",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 1,
-    "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E4%BC%A0%E9%80%92%E4%B8%AD%E5%9B%BD%E5%A3%B0%E9%9F%B3",
-    "board": "微信热词",
-    "tokens": [
-     "传递",
-     "中国",
-     "声音"
     ]
    },
    {
@@ -1650,25 +1369,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "时刻保持解决大党独有难题的清醒和坚定",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 2,
-    "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E6%97%B6%E5%88%BB%E4%BF%9D%E6%8C%81%E8%A7%A3%E5%86%B3%E5%A4%A7%E5%85%9A%E7%8B%AC%E6%9C%89%E9%9A%BE%E9%A2%98%E7%9A%84%E6%B8%85%E9%86%92%E5%92%8C%E5%9D%9A%E5%AE%9A",
-    "board": "微信热词",
-    "tokens": [
-     "时刻",
-     "保持",
-     "解决",
-     "独有",
-     "难题",
-     "清醒",
-     "坚定"
-    ]
-   },
-   {
     "title": "言短意长｜“东鹏饮料”被捐进高中校牌，何必这样直白",
     "platform": "news",
     "platformName": "新闻",
@@ -1822,24 +1522,6 @@ window.CATCH_DATA = {
     "board": "小红书热榜",
     "tokens": [
      "海鸥"
-    ]
-   },
-   {
-    "title": "坚持改革创新发扬斗争精神",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 3,
-    "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E5%9D%9A%E6%8C%81%E6%94%B9%E9%9D%A9%E5%88%9B%E6%96%B0%E5%8F%91%E6%89%AC%E6%96%97%E4%BA%89%E7%B2%BE%E7%A5%9E",
-    "board": "微信热词",
-    "tokens": [
-     "坚持",
-     "改革",
-     "创新",
-     "发扬",
-     "斗争",
-     "精神"
     ]
    },
    {
@@ -2011,22 +1693,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "全力以赴端牢端稳中国饭碗",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 4,
-    "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E7%AB%AF%E7%89%A2%E7%AB%AF%E7%A8%B3%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97",
-    "board": "微信热词",
-    "tokens": [
-     "全力以赴",
-     "牢端",
-     "中国",
-     "饭碗"
-    ]
-   },
-   {
     "title": "高铁时代，支线机场如何寻找新定位？",
     "platform": "news",
     "platformName": "新闻",
@@ -2178,26 +1844,6 @@ window.CATCH_DATA = {
      "一刻",
      "日照",
      "金山"
-    ]
-   },
-   {
-    "title": "更好统筹当前和长远 ——形成共促高质量发展的合力",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 5,
-    "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E6%9B%B4%E5%A5%BD%E7%BB%9F%E7%AD%B9%E5%BD%93%E5%89%8D%E5%92%8C%E9%95%BF%E8%BF%9C+%E2%80%94%E2%80%94%E5%BD%A2%E6%88%90%E5%85%B1%E4%BF%83%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E7%9A%84%E5%90%88%E5%8A%9B",
-    "board": "微信热词",
-    "tokens": [
-     "更好",
-     "统筹",
-     "当前",
-     "长远",
-     "形成",
-     "共促",
-     "高质量",
-     "发展"
     ]
    },
    {
@@ -3856,8 +3502,8 @@ window.CATCH_DATA = {
      "特朗普在",
      "日网民",
      "深圳",
-     "看看",
-     "高市"
+     "高市",
+     "看看"
     ],
     "total": 1000,
     "relevant": 1000,
@@ -6672,16 +6318,16 @@ window.CATCH_DATA = {
    "wordcloudBasis": "真实热评 + 榜单标题",
    "commentRelevance": {
     "tokens": [
-     "加全军采购活",
-     "顺丰速运被暂",
-     "速运被暂停参",
-     "参加全军采购",
-     "暂停参加全军",
      "运被暂停参加",
+     "停参加全军采",
      "全军采购活动",
-     "丰速运被暂停",
+     "顺丰速运被暂",
+     "加全军采购活",
+     "暂停参加全军",
      "被暂停参加全",
-     "停参加全军采"
+     "参加全军采购",
+     "丰速运被暂停",
+     "速运被暂停参"
     ],
     "total": 141,
     "relevant": 141,
@@ -6790,8 +6436,7 @@ window.CATCH_DATA = {
       "label": "10:00",
       "total": 1075000,
       "platforms": {
-       "zhihu": 1070000,
-       "wechat": 5000
+       "zhihu": 1070000
       },
       "type": "measured"
      },
@@ -7097,9 +6742,9 @@ window.CATCH_DATA = {
    "wordcloudBasis": "仅榜单标题（本轮无相关热评）",
    "commentRelevance": {
     "tokens": [
-     "腿绞泰国拳王",
      "瑜腿绞泰国拳",
      "黄景瑜腿绞泰",
+     "腿绞泰国拳王",
      "景瑜腿绞泰国"
     ],
     "total": 0,
@@ -8211,7 +7856,6 @@ window.CATCH_DATA = {
       "label": "22:00",
       "total": 36000,
       "platforms": {
-       "wechat": 31000,
        "news": 5000
       },
       "type": "measured"
@@ -8516,5 +8160,5 @@ window.CATCH_DATA = {
    "commentsFile": "assets/data/comments/E05.json"
   }
  ],
- "builtAt": "2026-11-21T21:10:28.409766+08:00"
+ "builtAt": "2026-11-21T21:29:46.534123+08:00"
 };

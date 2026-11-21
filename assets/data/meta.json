@@ -42,14 +42,6 @@
    "name": "X",
    "emoji": "✳️"
   },
-  "wechat": {
-   "source": "tophub.today · wechat",
-   "items": 13,
-   "ok": true,
-   "error": null,
-   "name": "微信公众号",
-   "emoji": "💬"
-  },
   "zhihu": {
    "source": "tophub.today · zhihu",
    "items": 50,
@@ -102,11 +94,11 @@
  "commentTarget": 1000,
  "eventsPerDay": 5,
  "counts": {
-  "hotItems": 60,
+  "hotItems": 57,
   "events": 5,
   "comments": 2855,
-  "rawScanned": 377,
+  "rawScanned": 364,
   "slang": 1
  },
- "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / B站 公开榜单与真实接口"
+ "source": "微博 / 抖音 / 小红书 / X / 知乎 / 新闻 / B站 公开榜单与真实接口"
 }

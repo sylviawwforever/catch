@@ -52,7 +52,6 @@ PLATFORMS = {
     "douyin":  {"name": "抖音",      "emoji": "🎵"},
     "xhs":     {"name": "小红书",    "emoji": "📕"},
     "x":       {"name": "X",         "emoji": "✳️"},
-    "wechat":  {"name": "微信公众号", "emoji": "💬"},
     "zhihu":   {"name": "知乎",      "emoji": "💡"},
     "bili":    {"name": "哔哩哔哩",  "emoji": "📺"},
     "news":    {"name": "新闻",      "emoji": "📰"},
@@ -87,8 +86,6 @@ TOPHUB_BOARDS = {
     "weibo":  [("微博热搜榜", "KqndgxeLl9")],
     "douyin": [("抖音视频总榜", "yjvQ9wDvbg"), ("抖音热点榜", "Dgey31RvZq")],
     "xhs":    [("小红书热榜", "L4MdA5ldxD")],
-    "wechat": [("微信热词", "j8Rv21noLw"), ("微信·社会", "KGoRGRDvl6"),
-               ("微信·娱乐", "6YoVqqGeZa"), ("微信·生活", "nBe0xxje37")],
     "zhihu":  [("知乎热榜", "mproPpoq6O")],
     # 新闻：tophub 新闻分类页实测可用的榜单 id
     "news":   [("澎湃新闻", "wWmoO5Rd4E"), ("今日头条热榜", "x9ozB4KoXb"),
@@ -275,7 +272,7 @@ def _clean_title(t: str) -> str:
     return t.strip()
 
 
-TREND24_RE = re.compile(r"^\s*(\d+)\.\s+\[([^\]]{1,80})\]\((https?://[^)]+)\)\s*$")
+TREND24_RE = re.compile(r"^\s*(\d+)[.)]\s+\[([^\]]{1,100})\]\((https?://[^)]+)\)")
 TREND24_TIME_RE = re.compile(r"^###\s+(.+?)\s*$")
 
 
@@ -294,6 +291,19 @@ def parse_trends24(md: str) -> list[dict]:
             cur.append((int(m.group(1)), m.group(2), m.group(3)))
     if cur:
         blocks.append((cur_time, cur))
+    if not blocks:
+        fallback = []
+        for line in md.splitlines():
+            rank_match = re.match(r"^\s*(\d+)[.)]\s+", line.strip())
+            if not rank_match:
+                continue
+            for link_match in LINK_RE.finditer(line):
+                title, url = link_match.group(1).strip(), link_match.group(2)
+                if len(title) >= 2 and "trends24.in" not in url:
+                    fallback.append((int(rank_match.group(1)), title, url))
+                    break
+        if fallback:
+            blocks = [("latest", fallback)]
     if not blocks:
         return []
     # 页面按时间倒序：第一个区块是最新
@@ -1658,9 +1668,6 @@ def main() -> int:
     r = safe("x", collect_x)
     if r:
         platform_items["x"], status["x"] = r
-    r = safe("wechat", lambda: collect_boards("wechat"))
-    if r:
-        platform_items["wechat"], status["wechat"] = r
     r = safe("zhihu", lambda: collect_boards("zhihu"))
     if r:
         platform_items["zhihu"], status["zhihu"] = r

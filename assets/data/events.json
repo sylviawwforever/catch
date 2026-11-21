@@ -29787,8 +29787,7 @@
       "label": "10:00",
       "total": 1075000,
       "platforms": {
-       "zhihu": 1070000,
-       "wechat": 5000
+       "zhihu": 1070000
       },
       "type": "measured"
      },
@@ -45403,7 +45402,6 @@
       "label": "22:00",
       "total": 36000,
       "platforms": {
-       "wechat": 31000,
        "news": 5000
       },
       "type": "measured"

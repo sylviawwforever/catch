@@ -16,7 +16,6 @@
     douyin: { name: "抖音",       emoji: "🎵" },
     xhs:    { name: "小红书",     emoji: "📕" },
     x:      { name: "X",          emoji: "✳️" },
-    wechat: { name: "微信公众号", emoji: "💬" },
     zhihu:  { name: "知乎",       emoji: "💡" },
     bili:   { name: "哔哩哔哩",   emoji: "📺" },
     news:   { name: "新闻",       emoji: "📰" },
@@ -224,11 +223,6 @@
         `X 的国际舆论场如何改写中文平台的报道框架`,
         `跨语种传播中的翻译损耗：同一事实的不同措辞如何制造分歧`,
         `用「${it.title.slice(0, 10)}」追踪英文舆论对中文事件的重述`,
-      ],
-      wechat: [
-        `公众号的「深度叙事」如何在同一议题上与短视频舆论形成落差`,
-        `以「${it.title.slice(0, 10)}」为样本，比较深度稿与热搜词的框架差异`,
-        `订阅号推送的信任机制：为什么同一事实在不同公号下结论相反`,
       ],
       zhihu: [
         `知乎式提问如何把社会情绪转译为「值得讨论」的知识议题`,
@@ -556,7 +550,10 @@
     `;
 
     drawTrend(e);
-    drawWordCloud(e.wordcloud || []);
+    // 即使平台没有返回评论，也从真实榜单标题生成“条目词云”，
+    // 避免页面空白；页面同时标注该词云不是评论区舆情。
+    drawWordCloud((e.wordcloud && e.wordcloud.length)
+      ? e.wordcloud : titleWordCloud(e));
     renderComments(e);
     wireCommentTools(e);   // 事件切换后立即重新绑定筛选/分页/导出
     // 异步补齐该事件的完整热评样本（每事件 1000 条）
@@ -577,7 +574,7 @@
       { label: "信源条目", value: `${e.sourceCount || 0} 条原始榜单条目` },
       { label: "热评样本", value: `${e.commentCount || (e.comments || []).length} 条真实评论` },
       { label: "代表条目", value: top.length ? top[0].title.slice(0, 40) : "—" },
-      { label: "监测平台", value: "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / B站" },
+      { label: "监测平台", value: "微博 / 抖音 / 小红书 / X / 知乎 / 新闻 / B站" },
     ];
   }
 
@@ -651,7 +648,7 @@
 
     // 平台分线（仅实测点）
     const platKeys = Object.keys(e.platformHeat || {});
-    const platColors = { weibo: "#0f1ea1", douyin: "#8fbaff", xhs: "#b3261e", x: "#1a1a1a", wechat: "#cfd2ec", zhihu: "#5a5e62", bili: "#8b8d92" };
+    const platColors = { weibo: "#0f1ea1", douyin: "#8fbaff", xhs: "#b3261e", x: "#1a1a1a", zhihu: "#5a5e62", bili: "#8b8d92" };
     let platPaths = "";
     platKeys.forEach((pk) => {
       const pts = [];
@@ -816,6 +813,21 @@
         : "悬停查看词频";
     };
     cv.onmouseleave = () => { if (tip) tip.textContent = "悬停查看词频"; };
+  }
+
+  function titleWordCloud(e) {
+    const stop = new Set(["黄景瑜", "泰国", "一个", "为什么", "如何", "什么", "网友"]);
+    const counts = {};
+    for (const member of (e.members || [])) {
+      const text = String(member.title || "");
+      for (const word of (text.match(/[\u4e00-\u9fff]{2,6}/g) || [])) {
+        if (!stop.has(word)) counts[word] = (counts[word] || 0) + 1;
+      }
+    }
+    return Object.entries(counts)
+      .sort((a, b) => b[1] - a[1])
+      .slice(0, 24)
+      .map(([word, weight]) => ({word, weight, sentiment: "中性"}));
   }
 
   /* ── 评论 ────────────────────────────────────────────────────────────── */
@@ -1092,7 +1104,7 @@
           <div class="cap" style="margin-bottom:10px">引用格式</div>
           <p class="lede">CATCH 舆情监测系统. ${esc(META.dateLabel || "")}，
             采集时间 ${esc((META.generatedAt || "").replace("T", " ").slice(0, 19))}（UTC+8）。
-            数据来自微博、抖音、小红书、X、微信公众号、知乎、新闻与哔哩哔哩公开榜单。</p>
+            数据来自微博、抖音、小红书、X、知乎、新闻与哔哩哔哩公开榜单。</p>
           <p class="lede">建议在论文附录中同时提供原始榜单快照与本系统导出的热评 CSV，
             以满足可重复性（reproducibility）要求。</p>
         </div>

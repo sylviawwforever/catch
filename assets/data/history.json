@@ -1237,8 +1237,7 @@
     "label": "22:00",
     "total": 715000,
     "platforms": {
-     "zhihu": 710000,
-     "wechat": 5000
+     "zhihu": 710000
     },
     "type": "measured"
    },
@@ -1247,8 +1246,7 @@
     "label": "23:00",
     "total": 735000,
     "platforms": {
-     "zhihu": 730000,
-     "wechat": 5000
+     "zhihu": 730000
     },
     "type": "measured"
    },
@@ -1287,8 +1285,7 @@
     "label": "10:00",
     "total": 1075000,
     "platforms": {
-     "zhihu": 1070000,
-     "wechat": 5000
+     "zhihu": 1070000
     },
     "type": "measured"
    },
@@ -1540,7 +1537,6 @@
     "label": "22:00",
     "total": 36000,
     "platforms": {
-     "wechat": 31000,
      "news": 5000
     },
     "type": "measured"
