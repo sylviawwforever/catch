@@ -1,0 +1,2254 @@
+{
+ "text": [
+  {
+   "title": "sailormoon",
+   "platform": "instagram",
+   "platformName": "Instagram",
+   "emoji": "📷",
+   "heat": 31400000,
+   "rank": 18,
+   "url": "https://www.instagram.com/popular/sailormoon/",
+   "board": "Instagram Trending Topics（US · Nov 20）",
+   "tokens": [
+    "sailormoon"
+   ]
+  },
+  {
+   "title": "特朗普返美后召开新闻发布会，称中俄美元首会晤「史无前例」「意义重大」，哪些信息值得关注？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 16010000,
+   "rank": 1,
+   "url": "https://www.zhihu.com/question/2107175088915050633",
+   "board": "知乎热榜",
+   "tokens": [
+    "特朗普",
+    "返美",
+    "召开",
+    "新闻",
+    "发布会",
+    "称中",
+    "美元",
+    "会晤"
+   ]
+  },
+  {
+   "title": "顺丰速运被暂停参加全军采购活动",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 11632000,
+   "rank": 1,
+   "url": "https://so.toutiao.com/search?keyword=%23%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8%23",
+   "board": "今日头条热榜",
+   "tokens": [
+    "顺丰速运",
+    "暂停",
+    "参加",
+    "全军",
+    "采购",
+    "活动"
+   ]
+  },
+  {
+   "title": "顺丰速运被暂停参加全军采购活动",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 1990000,
+   "rank": 1,
+   "url": "https://s.weibo.com/weibo?q=%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8",
+   "board": "微博热搜榜",
+   "tokens": [
+    "顺丰速运",
+    "暂停",
+    "参加",
+    "全军",
+    "采购",
+    "活动"
+   ]
+  },
+  {
+   "title": "光明日报刊文谈毛泽东十大气质",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 31000,
+   "rank": 1,
+   "url": "https://mp.weixin.qq.com/s?__biz=MzA4OTAzNjMzMQ==&mid=2654684416&idx=1&sn=e95dbe7a11688916504864cb4b1e9e76#rd",
+   "board": "微信·生活",
+   "tokens": [
+    "光明日报",
+    "刊文",
+    "毛泽东",
+    "十大",
+    "气质"
+   ]
+  },
+  {
+   "title": "扛下所有的炮火@%%",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 1,
+   "url": "https://www.douyin.com/video/7607760108080396645",
+   "board": "抖音视频总榜",
+   "tokens": [
+    "扛下",
+    "所有",
+    "炮火",
+    "%%"
+   ]
+  },
+  {
+   "title": "用万能旅行拍照姿势美美出片",
+   "platform": "xhs",
+   "platformName": "小红书",
+   "emoji": "📕",
+   "heat": 0,
+   "rank": 1,
+   "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%A8%E4%B8%87%E8%83%BD%E6%97%85%E8%A1%8C%E6%8B%8D%E7%85%A7%E5%A7%BF%E5%8A%BF%E7%BE%8E%E7%BE%8E%E5%87%BA%E7%89%87&type=51",
+   "board": "小红书热榜",
+   "tokens": [
+    "万能",
+    "旅行",
+    "拍照",
+    "姿势",
+    "美美",
+    "出片"
+   ]
+  },
+  {
+   "title": "FSD V15",
+   "platform": "x",
+   "platformName": "X",
+   "emoji": "✳️",
+   "heat": 0,
+   "rank": 1,
+   "url": "https://twitter.com/search?q=FSD%20V15",
+   "board": "X Trending (24h)",
+   "tokens": [
+    "FSD",
+    "V15"
+   ]
+  },
+  {
+   "title": "shenzhen",
+   "platform": "instagram",
+   "platformName": "Instagram",
+   "emoji": "📷",
+   "heat": 9300000,
+   "rank": 6,
+   "url": "https://www.instagram.com/popular/shenzhen/",
+   "board": "Instagram Trending Topics（US · Nov 20）",
+   "tokens": [
+    "shenzhen"
+   ]
+  },
+  {
+   "title": "黎曼猜想数学证明长达 25 万页是什么概念？人类还有可能完整读懂吗？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 9310000,
+   "rank": 2,
+   "url": "https://www.zhihu.com/question/2107262299765306294",
+   "board": "知乎热榜",
+   "tokens": [
+    "黎曼",
+    "猜想",
+    "数学",
+    "证明",
+    "万页",
+    "概念",
+    "人类",
+    "还有"
+   ]
+  },
+  {
+   "title": "黄景瑜腿绞泰国拳王",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 10525000,
+   "rank": 11,
+   "url": "https://so.toutiao.com/search?keyword=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%85%BF%E7%BB%9E%E6%B3%B0%E5%9B%BD%E6%8B%B3%E7%8E%8B%23",
+   "board": "今日头条热榜",
+   "tokens": [
+    "黄景",
+    "泰国拳"
+   ]
+  },
+  {
+   "title": "特朗普在APEC晚宴跳YMCA",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 980000,
+   "rank": 2,
+   "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8APEC%E6%99%9A%E5%AE%B4%E8%B7%B3YMCA",
+   "board": "微博热搜榜",
+   "tokens": [
+    "特朗普",
+    "APEC",
+    "晚宴",
+    "YMCA"
+   ]
+  },
+  {
+   "title": "老公：给我转2000块钱，我明天还你😐 我：明天确定还？🤨 老公：嗯。🙂 我：行，过去了。📱 老公：记得提醒我啊，我记性不好😅 我：嗯。有多不好？🤔 老公：什么不好？我：记性🙄 老公：记什么？😑 我：借钱呐。😏 老公：不借。😌 我：你滚……🤯",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 2588,
+   "rank": 1,
+   "url": "https://mp.weixin.qq.com/s/GZjBiZCdK-g98p_a_kXoCg",
+   "board": "微信·社会",
+   "tokens": [
+    "老公",
+    "块钱",
+    "明天",
+    "明天",
+    "确定",
+    "老公",
+    "过去",
+    "老公"
+   ]
+  },
+  {
+   "title": "一种很新的内燃机的魅力 昭女培🥣@织蒽 无森音要求",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 2,
+   "url": "https://www.douyin.com/video/7607739291339463488",
+   "board": "抖音视频总榜",
+   "tokens": [
+    "内燃机",
+    "魅力",
+    "女培",
+    "无森音",
+    "要求"
+   ]
+  },
+  {
+   "title": "耗时三年拍下古诗词里的中国",
+   "platform": "xhs",
+   "platformName": "小红书",
+   "emoji": "📕",
+   "heat": 0,
+   "rank": 2,
+   "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%80%97%E6%97%B6%E4%B8%89%E5%B9%B4%E6%8B%8D%E4%B8%8B%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD&type=51",
+   "board": "小红书热榜",
+   "tokens": [
+    "耗时",
+    "三年",
+    "古诗词",
+    "中国"
+   ]
+  },
+  {
+   "title": "Kessler",
+   "platform": "x",
+   "platformName": "X",
+   "emoji": "✳️",
+   "heat": 0,
+   "rank": 4,
+   "url": "https://twitter.com/search?q=Kessler",
+   "board": "X Trending (24h)",
+   "tokens": [
+    "Kessler"
+   ]
+  },
+  {
+   "title": "ipo",
+   "platform": "instagram",
+   "platformName": "Instagram",
+   "emoji": "📷",
+   "heat": 6300000,
+   "rank": 7,
+   "url": "https://www.instagram.com/popular/ipo/",
+   "board": "Instagram Trending Topics（US · Nov 20）",
+   "tokens": [
+    "ipo"
+   ]
+  },
+  {
+   "title": "胖东来生活广场闭店后周围商户陆续搬走，曝租金降至 400 万后仍无人接盘，现在来看房东涨租算不算决策失误？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 8640000,
+   "rank": 3,
+   "url": "https://www.zhihu.com/question/2106756998976857637",
+   "board": "知乎热榜",
+   "tokens": [
+    "东来",
+    "生活",
+    "广场",
+    "闭店",
+    "周围",
+    "商户",
+    "陆续",
+    "搬走"
+   ]
+  },
+  {
+   "title": "APEC开启经贸合作新空间",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 9523000,
+   "rank": 3,
+   "url": "https://so.toutiao.com/search?keyword=%23APEC%E5%BC%80%E5%90%AF%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E6%96%B0%E7%A9%BA%E9%97%B4%23",
+   "board": "今日头条热榜",
+   "tokens": [
+    "APEC",
+    "开启",
+    "经贸合作",
+    "空间"
+   ]
+  },
+  {
+   "title": "唱空中国经济者终会落空",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 770000,
+   "rank": 3,
+   "url": "https://s.weibo.com/weibo?q=%E5%94%B1%E7%A9%BA%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%80%85%E7%BB%88%E4%BC%9A%E8%90%BD%E7%A9%BA",
+   "board": "微博热搜榜",
+   "tokens": [
+    "唱空",
+    "中国",
+    "经济",
+    "终会",
+    "落空"
+   ]
+  },
+  {
+   "title": "武冰调研督导地下水超采治理工作",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 701,
+   "rank": 1,
+   "url": "https://mp.weixin.qq.com/s/miSFLNzSop3rHRwUY2CveA",
+   "board": "微信·娱乐",
+   "tokens": [
+    "武冰",
+    "调研",
+    "督导",
+    "地下水",
+    "超采",
+    "治理",
+    "工作"
+   ]
+  },
+  {
+   "title": "最后差点没认出来我妈…",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 3,
+   "url": "https://www.douyin.com/video/7607767865047275113",
+   "board": "抖音视频总榜",
+   "tokens": [
+    "最后",
+    "差点",
+    "认出来",
+    "我妈"
+   ]
+  },
+  {
+   "title": "我拍到了海鸥雨",
+   "platform": "xhs",
+   "platformName": "小红书",
+   "emoji": "📕",
+   "heat": 0,
+   "rank": 3,
+   "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E6%8B%8D%E5%88%B0%E4%BA%86%E6%B5%B7%E9%B8%A5%E9%9B%A8&type=51",
+   "board": "小红书热榜",
+   "tokens": [
+    "海鸥"
+   ]
+  },
+  {
+   "title": "#中共选举",
+   "platform": "x",
+   "platformName": "X",
+   "emoji": "✳️",
+   "heat": 0,
+   "rank": 6,
+   "url": "https://twitter.com/search?q=%23%E4%B8%AD%E5%85%B1%E9%80%89%E4%B8%BE",
+   "board": "X Trending (24h)",
+   "tokens": [
+    "中共",
+    "选举"
+   ]
+  },
+  {
+   "title": "lucia",
+   "platform": "instagram",
+   "platformName": "Instagram",
+   "emoji": "📷",
+   "heat": 4800000,
+   "rank": 4,
+   "url": "https://www.instagram.com/popular/lucia/",
+   "board": "Instagram Trending Topics（US · Nov 20）",
+   "tokens": [
+    "lucia"
+   ]
+  },
+  {
+   "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 7800000,
+   "rank": 4,
+   "url": "https://www.zhihu.com/question/2106706684672471150",
+   "board": "知乎热榜",
+   "tokens": [
+    "韩国",
+    "首次",
+    "紧急",
+    "灾难",
+    "通知",
+    "全国",
+    "手机",
+    "响铃"
+   ]
+  },
+  {
+   "title": "高市见完普京就宣布对乌援助有何意图",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 8617000,
+   "rank": 12,
+   "url": "https://so.toutiao.com/search?keyword=%23%E9%AB%98%E5%B8%82%E8%A7%81%E5%AE%8C%E6%99%AE%E4%BA%AC%E5%B0%B1%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%B9%8C%E6%8F%B4%E5%8A%A9%E6%9C%89%E4%BD%95%E6%84%8F%E5%9B%BE%23",
+   "board": "今日头条热榜",
+   "tokens": [
+    "高市",
+    "普京",
+    "援助",
+    "有何",
+    "意图"
+   ]
+  },
+  {
+   "title": "享界V8开启全国交付",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 730000,
+   "rank": 4,
+   "url": "https://s.weibo.com/weibo?q=%E4%BA%AB%E7%95%8CV8%E5%BC%80%E5%90%AF%E5%85%A8%E5%9B%BD%E4%BA%A4%E4%BB%98",
+   "board": "微博热搜榜",
+   "tokens": [
+    "享界",
+    "V8",
+    "开启",
+    "全国",
+    "交付"
+   ]
+  },
+  {
+   "title": "传递中国声音",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 0,
+   "rank": 1,
+   "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E4%BC%A0%E9%80%92%E4%B8%AD%E5%9B%BD%E5%A3%B0%E9%9F%B3",
+   "board": "微信热词",
+   "tokens": [
+    "传递",
+    "中国",
+    "声音"
+   ]
+  },
+  {
+   "title": "新春潮搭👟👔找他👉@乐家的葡田（实在🉐基地） 来自160盒水母的震感#新年快乐",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 4,
+   "url": "https://www.douyin.com/video/7607477962234000826",
+   "board": "抖音视频总榜",
+   "tokens": [
+    "春潮",
+    "乐家",
+    "葡田",
+    "实在",
+    "基地",
+    "来自",
+    "水母",
+    "震感"
+   ]
+  },
+  {
+   "title": "超日常美食教程速来get",
+   "platform": "xhs",
+   "platformName": "小红书",
+   "emoji": "📕",
+   "heat": 0,
+   "rank": 4,
+   "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B6%85%E6%97%A5%E5%B8%B8%E7%BE%8E%E9%A3%9F%E6%95%99%E7%A8%8B%E9%80%9F%E6%9D%A5get&type=51",
+   "board": "小红书热榜",
+   "tokens": [
+    "日常",
+    "美食",
+    "教程",
+    "速来",
+    "get"
+   ]
+  },
+  {
+   "title": "#二十一大",
+   "platform": "x",
+   "platformName": "X",
+   "emoji": "✳️",
+   "heat": 0,
+   "rank": 8,
+   "url": "https://twitter.com/search?q=%23%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A7",
+   "board": "X Trending (24h)",
+   "tokens": [
+    "二十一"
+   ]
+  },
+  {
+   "title": "cma",
+   "platform": "instagram",
+   "platformName": "Instagram",
+   "emoji": "📷",
+   "heat": 4800000,
+   "rank": 8,
+   "url": "https://www.instagram.com/popular/cma/",
+   "board": "Instagram Trending Topics（US · Nov 20）",
+   "tokens": [
+    "cma"
+   ]
+  },
+  {
+   "title": "娃哈哈集团董事长许思敏被曝已辞职，宗馥莉 48 小时内调整 247 人职务，此轮调整会给娃哈哈带来怎样的影响？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 4660000,
+   "rank": 5,
+   "url": "https://www.zhihu.com/question/2107411950162240601",
+   "board": "知乎热榜",
+   "tokens": [
+    "娃哈哈",
+    "集团",
+    "董事长",
+    "许思敏",
+    "曝已",
+    "辞职",
+    "宗馥莉",
+    "小时"
+   ]
+  },
+  {
+   "title": "习近平主席的深圳APEC时间",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7905000,
+   "rank": 1,
+   "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%9A%84%E6%B7%B1%E5%9C%B3APEC%E6%97%B6%E9%97%B4",
+   "board": "百度热搜",
+   "tokens": [
+    "习近平",
+    "主席",
+    "深圳",
+    "APEC",
+    "时间"
+   ]
+  },
+  {
+   "title": "猫的树今天是太阳雨收官长文",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 540000,
+   "rank": 5,
+   "url": "https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E6%94%B6%E5%AE%98%E9%95%BF%E6%96%87",
+   "board": "微博热搜榜",
+   "tokens": [
+    "今天",
+    "太阳雨",
+    "收官",
+    "长文"
+   ]
+  },
+  {
+   "title": "时刻保持解决大党独有难题的清醒和坚定",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 0,
+   "rank": 2,
+   "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E6%97%B6%E5%88%BB%E4%BF%9D%E6%8C%81%E8%A7%A3%E5%86%B3%E5%A4%A7%E5%85%9A%E7%8B%AC%E6%9C%89%E9%9A%BE%E9%A2%98%E7%9A%84%E6%B8%85%E9%86%92%E5%92%8C%E5%9D%9A%E5%AE%9A",
+   "board": "微信热词",
+   "tokens": [
+    "时刻",
+    "保持",
+    "解决",
+    "独有",
+    "难题",
+    "清醒",
+    "坚定"
+   ]
+  },
+  {
+   "title": "天！啊！#过年放炮 #遇见彩虹烟花",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 5,
+   "url": "https://www.douyin.com/video/7607418183675171493",
+   "board": "抖音视频总榜",
+   "tokens": [
+    "过年",
+    "放炮",
+    "遇见",
+    "彩虹",
+    "烟花"
+   ]
+  },
+  {
+   "title": "定格这一刻的日照金山",
+   "platform": "xhs",
+   "platformName": "小红书",
+   "emoji": "📕",
+   "heat": 0,
+   "rank": 5,
+   "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%AE%9A%E6%A0%BC%E8%BF%99%E4%B8%80%E5%88%BB%E7%9A%84%E6%97%A5%E7%85%A7%E9%87%91%E5%B1%B1&type=51",
+   "board": "小红书热榜",
+   "tokens": [
+    "定格",
+    "一刻",
+    "日照",
+    "金山"
+   ]
+  },
+  {
+   "title": "Jokic",
+   "platform": "x",
+   "platformName": "X",
+   "emoji": "✳️",
+   "heat": 0,
+   "rank": 11,
+   "url": "https://twitter.com/search?q=Jokic",
+   "board": "X Trending (24h)",
+   "tokens": [
+    "Jokic"
+   ]
+  },
+  {
+   "title": "fiona",
+   "platform": "instagram",
+   "platformName": "Instagram",
+   "emoji": "📷",
+   "heat": 4700000,
+   "rank": 2,
+   "url": "https://www.instagram.com/popular/fiona/",
+   "board": "Instagram Trending Topics（US · Nov 20）",
+   "tokens": [
+    "fiona"
+   ]
+  },
+  {
+   "title": "Gta6》M 站用户开分仅 3.7 分，现已 5.4 分，如何看待用户评分与媒体评分两极分化？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 3790000,
+   "rank": 6,
+   "url": "https://www.zhihu.com/question/2107390437933707560",
+   "board": "知乎热榜",
+   "tokens": [
+    "Gta6",
+    "用户",
+    "开分",
+    "3.7",
+    "现已",
+    "5.4",
+    "看待",
+    "用户"
+   ]
+  },
+  {
+   "title": "普京核手提箱成大新闻 俄方发声",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7809000,
+   "rank": 2,
+   "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%A0%B8%E6%89%8B%E6%8F%90%E7%AE%B1%E6%88%90%E5%A4%A7%E6%96%B0%E9%97%BB+%E4%BF%84%E6%96%B9%E5%8F%91%E5%A3%B0",
+   "board": "百度热搜",
+   "tokens": [
+    "普京",
+    "手提箱",
+    "新闻",
+    "俄方",
+    "发声"
+   ]
+  },
+  {
+   "title": "八马茶业被暂停参加全军采购活动",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 430000,
+   "rank": 6,
+   "url": "https://s.weibo.com/weibo?q=%E5%85%AB%E9%A9%AC%E8%8C%B6%E4%B8%9A%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8",
+   "board": "微博热搜榜",
+   "tokens": [
+    "八马",
+    "茶业",
+    "暂停",
+    "参加",
+    "全军",
+    "采购",
+    "活动"
+   ]
+  },
+  {
+   "title": "坚持改革创新发扬斗争精神",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 0,
+   "rank": 3,
+   "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E5%9D%9A%E6%8C%81%E6%94%B9%E9%9D%A9%E5%88%9B%E6%96%B0%E5%8F%91%E6%89%AC%E6%96%97%E4%BA%89%E7%B2%BE%E7%A5%9E",
+   "board": "微信热词",
+   "tokens": [
+    "坚持",
+    "改革",
+    "创新",
+    "发扬",
+    "斗争",
+    "精神"
+   ]
+  },
+  {
+   "title": "说出你拉肚子的经历，让我心里好受点 #西梅汁 #社死 #看到最后",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 6,
+   "url": "https://www.douyin.com/video/7608077669242064163",
+   "board": "抖音视频总榜",
+   "tokens": [
+    "说出",
+    "拉肚子",
+    "经历",
+    "心里",
+    "好受",
+    "西梅汁",
+    "社死",
+    "最后"
+   ]
+  },
+  {
+   "title": "你可以永远相信赛里木湖的美景",
+   "platform": "xhs",
+   "platformName": "小红书",
+   "emoji": "📕",
+   "heat": 0,
+   "rank": 6,
+   "url": "https://www.xiaohongshu.com/search_result?keyword=%E4%BD%A0%E5%8F%AF%E4%BB%A5%E6%B0%B8%E8%BF%9C%E7%9B%B8%E4%BF%A1%E8%B5%9B%E9%87%8C%E6%9C%A8%E6%B9%96%E7%9A%84%E7%BE%8E%E6%99%AF&type=51",
+   "board": "小红书热榜",
+   "tokens": [
+    "永远",
+    "相信",
+    "赛里木湖",
+    "美景"
+   ]
+  },
+  {
+   "title": "El Chapo Isidro",
+   "platform": "x",
+   "platformName": "X",
+   "emoji": "✳️",
+   "heat": 0,
+   "rank": 14,
+   "url": "https://twitter.com/search?q=El%20Chapo%20Isidro",
+   "board": "X Trending (24h)",
+   "tokens": [
+    "El",
+    "Chapo",
+    "Isidro"
+   ]
+  },
+  {
+   "title": "indieband",
+   "platform": "instagram",
+   "platformName": "Instagram",
+   "emoji": "📷",
+   "heat": 4099999,
+   "rank": 20,
+   "url": "https://www.instagram.com/popular/indieband/",
+   "board": "Instagram Trending Topics（US · Nov 20）",
+   "tokens": [
+    "indieband"
+   ]
+  },
+  {
+   "title": "BLG 夺冠，能唤回多少国内玩家的热情重回《英雄联盟》？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 2840000,
+   "rank": 7,
+   "url": "https://www.zhihu.com/question/2105255823601619027",
+   "board": "知乎热榜",
+   "tokens": [
+    "BLG",
+    "夺冠",
+    "唤回",
+    "多少",
+    "国内",
+    "玩家",
+    "热情",
+    "重回"
+   ]
+  },
+  {
+   "title": "深圳全妆惊艳全网",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7797000,
+   "rank": 2,
+   "url": "https://so.toutiao.com/search?keyword=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%A6%86%E6%83%8A%E8%89%B3%E5%85%A8%E7%BD%91%23",
+   "board": "今日头条热榜",
+   "tokens": [
+    "深圳",
+    "全妆",
+    "惊艳",
+    "全网"
+   ]
+  },
+  {
+   "title": "两京十五日台词",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 330000,
+   "rank": 7,
+   "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8F%B0%E8%AF%8D",
+   "board": "微博热搜榜",
+   "tokens": [
+    "两京",
+    "十五日",
+    "台词"
+   ]
+  },
+  {
+   "title": "全力以赴端牢端稳中国饭碗",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 0,
+   "rank": 4,
+   "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E7%AB%AF%E7%89%A2%E7%AB%AF%E7%A8%B3%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97",
+   "board": "微信热词",
+   "tokens": [
+    "全力以赴",
+    "牢端",
+    "中国",
+    "饭碗"
+   ]
+  },
+  {
+   "title": "家庭憋笑挑战#搞笑#憋住不准笑 #猎奇 #万万没想到 #家庭憋笑挑战",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 7,
+   "url": "https://www.douyin.com/video/7608033422233990011",
+   "board": "抖音视频总榜",
+   "tokens": [
+    "家庭",
+    "挑战",
+    "搞笑",
+    "憋住",
+    "不准",
+    "猎奇",
+    "万万",
+    "没想到"
+   ]
+  },
+  {
+   "title": "拼豆上也可以作画了",
+   "platform": "xhs",
+   "platformName": "小红书",
+   "emoji": "📕",
+   "heat": 0,
+   "rank": 7,
+   "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%8B%BC%E8%B1%86%E4%B8%8A%E4%B9%9F%E5%8F%AF%E4%BB%A5%E4%BD%9C%E7%94%BB%E4%BA%86&type=51",
+   "board": "小红书热榜",
+   "tokens": [
+    "拼豆",
+    "作画"
+   ]
+  },
+  {
+   "title": "Wyoming",
+   "platform": "x",
+   "platformName": "X",
+   "emoji": "✳️",
+   "heat": 0,
+   "rank": 15,
+   "url": "https://twitter.com/search?q=Wyoming",
+   "board": "X Trending (24h)",
+   "tokens": [
+    "Wyoming"
+   ]
+  },
+  {
+   "title": "mandy",
+   "platform": "instagram",
+   "platformName": "Instagram",
+   "emoji": "📷",
+   "heat": 2300000,
+   "rank": 3,
+   "url": "https://www.instagram.com/popular/mandy/",
+   "board": "Instagram Trending Topics（US · Nov 20）",
+   "tokens": [
+    "mandy"
+   ]
+  },
+  {
+   "title": "11 月 20 日美股三大指数集体重挫，AI 交易遭猛烈拋售，Anthropic 上市次日跌 8.5%，怎样解读？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 2520000,
+   "rank": 8,
+   "url": "https://www.zhihu.com/question/2107375172101432168",
+   "board": "知乎热榜",
+   "tokens": [
+    "日美股",
+    "三大",
+    "指数",
+    "集体",
+    "重挫",
+    "AI",
+    "交易",
+    "猛烈"
+   ]
+  },
+  {
+   "title": "原来特朗普拉开窗帘 是在看深圳的路",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7713000,
+   "rank": 3,
+   "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%BC%80%E7%AA%97%E5%B8%98+%E6%98%AF%E5%9C%A8%E7%9C%8B%E6%B7%B1%E5%9C%B3%E7%9A%84%E8%B7%AF",
+   "board": "百度热搜",
+   "tokens": [
+    "原来",
+    "特朗普",
+    "拉开",
+    "窗帘",
+    "深圳"
+   ]
+  },
+  {
+   "title": "恨明月高悬独不照我 拆迁没拆到自己家",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 310000,
+   "rank": 8,
+   "url": "https://s.weibo.com/weibo?q=%E6%81%A8%E6%98%8E%E6%9C%88%E9%AB%98%E6%82%AC%E7%8B%AC%E4%B8%8D%E7%85%A7%E6%88%91+%E6%8B%86%E8%BF%81%E6%B2%A1%E6%8B%86%E5%88%B0%E8%87%AA%E5%B7%B1%E5%AE%B6",
+   "board": "微博热搜榜",
+   "tokens": [
+    "明月",
+    "高悬",
+    "独不照",
+    "拆迁",
+    "拆到",
+    "自己"
+   ]
+  }
+ ],
+ "ranking": [
+  {
+   "title": "特朗普返美后召开新闻发布会，称中俄美元首会晤「史无前例」「意义重大」，哪些信息值得关注？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 16010000,
+   "rank": 1,
+   "url": "https://www.zhihu.com/question/2107175088915050633",
+   "board": "知乎热榜",
+   "tokens": [
+    "特朗普",
+    "返美",
+    "召开",
+    "新闻",
+    "发布会",
+    "称中",
+    "美元",
+    "会晤"
+   ]
+  },
+  {
+   "title": "顺丰速运被暂停参加全军采购活动",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 11632000,
+   "rank": 1,
+   "url": "https://so.toutiao.com/search?keyword=%23%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8%23",
+   "board": "今日头条热榜",
+   "tokens": [
+    "顺丰速运",
+    "暂停",
+    "参加",
+    "全军",
+    "采购",
+    "活动"
+   ]
+  },
+  {
+   "title": "习近平主席的深圳APEC时间",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7905000,
+   "rank": 1,
+   "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E7%9A%84%E6%B7%B1%E5%9C%B3APEC%E6%97%B6%E9%97%B4",
+   "board": "百度热搜",
+   "tokens": [
+    "习近平",
+    "主席",
+    "深圳",
+    "APEC",
+    "时间"
+   ]
+  },
+  {
+   "title": "顺丰速运被暂停参加全军采购活动",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 1990000,
+   "rank": 1,
+   "url": "https://s.weibo.com/weibo?q=%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8",
+   "board": "微博热搜榜",
+   "tokens": [
+    "顺丰速运",
+    "暂停",
+    "参加",
+    "全军",
+    "采购",
+    "活动"
+   ]
+  },
+  {
+   "title": "internationalmensday",
+   "platform": "instagram",
+   "platformName": "Instagram",
+   "emoji": "📷",
+   "heat": 1000000,
+   "rank": 1,
+   "url": "https://www.instagram.com/popular/internationalmensday/",
+   "board": "Instagram Trending Topics（US · Nov 20）",
+   "tokens": [
+    "internationalmensday"
+   ]
+  },
+  {
+   "title": "光明日报刊文谈毛泽东十大气质",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 31000,
+   "rank": 1,
+   "url": "https://mp.weixin.qq.com/s?__biz=MzA4OTAzNjMzMQ==&mid=2654684416&idx=1&sn=e95dbe7a11688916504864cb4b1e9e76#rd",
+   "board": "微信·生活",
+   "tokens": [
+    "光明日报",
+    "刊文",
+    "毛泽东",
+    "十大",
+    "气质"
+   ]
+  },
+  {
+   "title": "老公：给我转2000块钱，我明天还你😐 我：明天确定还？🤨 老公：嗯。🙂 我：行，过去了。📱 老公：记得提醒我啊，我记性不好😅 我：嗯。有多不好？🤔 老公：什么不好？我：记性🙄 老公：记什么？😑 我：借钱呐。😏 老公：不借。😌 我：你滚……🤯",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 2588,
+   "rank": 1,
+   "url": "https://mp.weixin.qq.com/s/GZjBiZCdK-g98p_a_kXoCg",
+   "board": "微信·社会",
+   "tokens": [
+    "老公",
+    "块钱",
+    "明天",
+    "明天",
+    "确定",
+    "老公",
+    "过去",
+    "老公"
+   ]
+  },
+  {
+   "title": "武冰调研督导地下水超采治理工作",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 701,
+   "rank": 1,
+   "url": "https://mp.weixin.qq.com/s/miSFLNzSop3rHRwUY2CveA",
+   "board": "微信·娱乐",
+   "tokens": [
+    "武冰",
+    "调研",
+    "督导",
+    "地下水",
+    "超采",
+    "治理",
+    "工作"
+   ]
+  },
+  {
+   "title": "扛下所有的炮火@%%",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 1,
+   "url": "https://www.douyin.com/video/7607760108080396645",
+   "board": "抖音视频总榜",
+   "tokens": [
+    "扛下",
+    "所有",
+    "炮火",
+    "%%"
+   ]
+  },
+  {
+   "title": "依然记得从你口中说出再见坚决如铁～#黄昏 #mc陆比",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 1,
+   "url": "https://www.douyin.com/video/7709902995224289146",
+   "board": "抖音热点榜",
+   "tokens": [
+    "依然",
+    "记得",
+    "口中",
+    "说出",
+    "再见",
+    "坚决",
+    "如铁",
+    "黄昏"
+   ]
+  },
+  {
+   "title": "用万能旅行拍照姿势美美出片",
+   "platform": "xhs",
+   "platformName": "小红书",
+   "emoji": "📕",
+   "heat": 0,
+   "rank": 1,
+   "url": "https://www.xiaohongshu.com/search_result?keyword=%E7%94%A8%E4%B8%87%E8%83%BD%E6%97%85%E8%A1%8C%E6%8B%8D%E7%85%A7%E5%A7%BF%E5%8A%BF%E7%BE%8E%E7%BE%8E%E5%87%BA%E7%89%87&type=51",
+   "board": "小红书热榜",
+   "tokens": [
+    "万能",
+    "旅行",
+    "拍照",
+    "姿势",
+    "美美",
+    "出片"
+   ]
+  },
+  {
+   "title": "FSD V15",
+   "platform": "x",
+   "platformName": "X",
+   "emoji": "✳️",
+   "heat": 0,
+   "rank": 1,
+   "url": "https://twitter.com/search?q=FSD%20V15",
+   "board": "X Trending (24h)",
+   "tokens": [
+    "FSD",
+    "V15"
+   ]
+  },
+  {
+   "title": "传递中国声音",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 0,
+   "rank": 1,
+   "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E4%BC%A0%E9%80%92%E4%B8%AD%E5%9B%BD%E5%A3%B0%E9%9F%B3",
+   "board": "微信热词",
+   "tokens": [
+    "传递",
+    "中国",
+    "声音"
+   ]
+  },
+  {
+   "title": "首页",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 0,
+   "rank": 1,
+   "url": "https://tophub.today/",
+   "board": "微信·社会",
+   "tokens": [
+    "首页"
+   ]
+  },
+  {
+   "title": "见微知沪丨两项停车新举措，是对民生难题的探索性解法",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 0,
+   "rank": 1,
+   "url": "https://www.thepaper.cn/newsDetail_forward_34520908",
+   "board": "澎湃新闻",
+   "tokens": [
+    "微知",
+    "两项",
+    "停车",
+    "新举措",
+    "民生",
+    "难题",
+    "探索性",
+    "解法"
+   ]
+  },
+  {
+   "title": "世界各国都有哪些奇葩的法律法规？",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 0,
+   "rank": 1,
+   "url": "https://daily.zhihu.com/story/9794139",
+   "board": "知乎日报",
+   "tokens": [
+    "世界",
+    "各国",
+    "奇葩",
+    "法律法规"
+   ]
+  },
+  {
+   "title": "黎曼猜想数学证明长达 25 万页是什么概念？人类还有可能完整读懂吗？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 9310000,
+   "rank": 2,
+   "url": "https://www.zhihu.com/question/2107262299765306294",
+   "board": "知乎热榜",
+   "tokens": [
+    "黎曼",
+    "猜想",
+    "数学",
+    "证明",
+    "万页",
+    "概念",
+    "人类",
+    "还有"
+   ]
+  },
+  {
+   "title": "普京核手提箱成大新闻 俄方发声",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7809000,
+   "rank": 2,
+   "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%A0%B8%E6%89%8B%E6%8F%90%E7%AE%B1%E6%88%90%E5%A4%A7%E6%96%B0%E9%97%BB+%E4%BF%84%E6%96%B9%E5%8F%91%E5%A3%B0",
+   "board": "百度热搜",
+   "tokens": [
+    "普京",
+    "手提箱",
+    "新闻",
+    "俄方",
+    "发声"
+   ]
+  },
+  {
+   "title": "深圳全妆惊艳全网",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7797000,
+   "rank": 2,
+   "url": "https://so.toutiao.com/search?keyword=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%A6%86%E6%83%8A%E8%89%B3%E5%85%A8%E7%BD%91%23",
+   "board": "今日头条热榜",
+   "tokens": [
+    "深圳",
+    "全妆",
+    "惊艳",
+    "全网"
+   ]
+  },
+  {
+   "title": "fiona",
+   "platform": "instagram",
+   "platformName": "Instagram",
+   "emoji": "📷",
+   "heat": 4700000,
+   "rank": 2,
+   "url": "https://www.instagram.com/popular/fiona/",
+   "board": "Instagram Trending Topics（US · Nov 20）",
+   "tokens": [
+    "fiona"
+   ]
+  },
+  {
+   "title": "特朗普在APEC晚宴跳YMCA",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 980000,
+   "rank": 2,
+   "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8APEC%E6%99%9A%E5%AE%B4%E8%B7%B3YMCA",
+   "board": "微博热搜榜",
+   "tokens": [
+    "特朗普",
+    "APEC",
+    "晚宴",
+    "YMCA"
+   ]
+  },
+  {
+   "title": "一种很新的内燃机的魅力 昭女培🥣@织蒽 无森音要求",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 2,
+   "url": "https://www.douyin.com/video/7607739291339463488",
+   "board": "抖音视频总榜",
+   "tokens": [
+    "内燃机",
+    "魅力",
+    "女培",
+    "无森音",
+    "要求"
+   ]
+  },
+  {
+   "title": "新娘子摸小孩子的牙齿是为什么呢#婚礼现场记录 #结婚就是要喜庆 #结婚习俗 @DOU+小助手",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 2,
+   "url": "https://www.douyin.com/video/7709912714747712689",
+   "board": "抖音热点榜",
+   "tokens": [
+    "新娘子",
+    "小孩子",
+    "牙齿",
+    "婚礼",
+    "记录",
+    "结婚",
+    "喜庆",
+    "结婚"
+   ]
+  },
+  {
+   "title": "耗时三年拍下古诗词里的中国",
+   "platform": "xhs",
+   "platformName": "小红书",
+   "emoji": "📕",
+   "heat": 0,
+   "rank": 2,
+   "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%80%97%E6%97%B6%E4%B8%89%E5%B9%B4%E6%8B%8D%E4%B8%8B%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E5%9B%BD&type=51",
+   "board": "小红书热榜",
+   "tokens": [
+    "耗时",
+    "三年",
+    "古诗词",
+    "中国"
+   ]
+  },
+  {
+   "title": "时刻保持解决大党独有难题的清醒和坚定",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 0,
+   "rank": 2,
+   "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E6%97%B6%E5%88%BB%E4%BF%9D%E6%8C%81%E8%A7%A3%E5%86%B3%E5%A4%A7%E5%85%9A%E7%8B%AC%E6%9C%89%E9%9A%BE%E9%A2%98%E7%9A%84%E6%B8%85%E9%86%92%E5%92%8C%E5%9D%9A%E5%AE%9A",
+   "board": "微信热词",
+   "tokens": [
+    "时刻",
+    "保持",
+    "解决",
+    "独有",
+    "难题",
+    "清醒",
+    "坚定"
+   ]
+  },
+  {
+   "title": "报刊",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 0,
+   "rank": 2,
+   "url": "https://tophub.today/c/epaper",
+   "board": "微信·社会",
+   "tokens": [
+    "报刊"
+   ]
+  },
+  {
+   "title": "沪指终结日线6连阴，估值修复窗口何时开启？头部券商、基金密集发声",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 0,
+   "rank": 2,
+   "url": "https://www.thepaper.cn/newsDetail_forward_34521359",
+   "board": "澎湃新闻",
+   "tokens": [
+    "终结",
+    "日线",
+    "连阴",
+    "估值",
+    "修复",
+    "窗口",
+    "何时",
+    "开启"
+   ]
+  },
+  {
+   "title": "为什么草原只长草不长树呢？",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 0,
+   "rank": 2,
+   "url": "https://daily.zhihu.com/story/9794149",
+   "board": "知乎日报",
+   "tokens": [
+    "草原",
+    "只长",
+    "草不长"
+   ]
+  },
+  {
+   "title": "APEC开启经贸合作新空间",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 9523000,
+   "rank": 3,
+   "url": "https://so.toutiao.com/search?keyword=%23APEC%E5%BC%80%E5%90%AF%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E6%96%B0%E7%A9%BA%E9%97%B4%23",
+   "board": "今日头条热榜",
+   "tokens": [
+    "APEC",
+    "开启",
+    "经贸合作",
+    "空间"
+   ]
+  },
+  {
+   "title": "胖东来生活广场闭店后周围商户陆续搬走，曝租金降至 400 万后仍无人接盘，现在来看房东涨租算不算决策失误？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 8640000,
+   "rank": 3,
+   "url": "https://www.zhihu.com/question/2106756998976857637",
+   "board": "知乎热榜",
+   "tokens": [
+    "东来",
+    "生活",
+    "广场",
+    "闭店",
+    "周围",
+    "商户",
+    "陆续",
+    "搬走"
+   ]
+  },
+  {
+   "title": "原来特朗普拉开窗帘 是在看深圳的路",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7713000,
+   "rank": 3,
+   "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%BC%80%E7%AA%97%E5%B8%98+%E6%98%AF%E5%9C%A8%E7%9C%8B%E6%B7%B1%E5%9C%B3%E7%9A%84%E8%B7%AF",
+   "board": "百度热搜",
+   "tokens": [
+    "原来",
+    "特朗普",
+    "拉开",
+    "窗帘",
+    "深圳"
+   ]
+  },
+  {
+   "title": "mandy",
+   "platform": "instagram",
+   "platformName": "Instagram",
+   "emoji": "📷",
+   "heat": 2300000,
+   "rank": 3,
+   "url": "https://www.instagram.com/popular/mandy/",
+   "board": "Instagram Trending Topics（US · Nov 20）",
+   "tokens": [
+    "mandy"
+   ]
+  },
+  {
+   "title": "唱空中国经济者终会落空",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 770000,
+   "rank": 3,
+   "url": "https://s.weibo.com/weibo?q=%E5%94%B1%E7%A9%BA%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%80%85%E7%BB%88%E4%BC%9A%E8%90%BD%E7%A9%BA",
+   "board": "微博热搜榜",
+   "tokens": [
+    "唱空",
+    "中国",
+    "经济",
+    "终会",
+    "落空"
+   ]
+  },
+  {
+   "title": "最后差点没认出来我妈…",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 3,
+   "url": "https://www.douyin.com/video/7607767865047275113",
+   "board": "抖音视频总榜",
+   "tokens": [
+    "最后",
+    "差点",
+    "认出来",
+    "我妈"
+   ]
+  },
+  {
+   "title": "改口敬茶环节 新娘妈妈讲话祝福儿女 感动全场#改口敬茶 #妈妈 #女儿出嫁 #主持人王斌 #王斌婚礼服务",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 3,
+   "url": "https://www.douyin.com/video/7708960638798523897",
+   "board": "抖音热点榜",
+   "tokens": [
+    "改口",
+    "敬茶",
+    "环节",
+    "新娘",
+    "妈妈",
+    "讲话",
+    "祝福",
+    "儿女"
+   ]
+  },
+  {
+   "title": "我拍到了海鸥雨",
+   "platform": "xhs",
+   "platformName": "小红书",
+   "emoji": "📕",
+   "heat": 0,
+   "rank": 3,
+   "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E6%8B%8D%E5%88%B0%E4%BA%86%E6%B5%B7%E9%B8%A5%E9%9B%A8&type=51",
+   "board": "小红书热榜",
+   "tokens": [
+    "海鸥"
+   ]
+  },
+  {
+   "title": "坚持改革创新发扬斗争精神",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 0,
+   "rank": 3,
+   "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E5%9D%9A%E6%8C%81%E6%94%B9%E9%9D%A9%E5%88%9B%E6%96%B0%E5%8F%91%E6%89%AC%E6%96%97%E4%BA%89%E7%B2%BE%E7%A5%9E",
+   "board": "微信热词",
+   "tokens": [
+    "坚持",
+    "改革",
+    "创新",
+    "发扬",
+    "斗争",
+    "精神"
+   ]
+  },
+  {
+   "title": "关于我们",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 0,
+   "rank": 3,
+   "url": "https://tophub.today/about",
+   "board": "微信·社会",
+   "tokens": [
+    "关于"
+   ]
+  },
+  {
+   "title": "言短意长｜“东鹏饮料”被捐进高中校牌，何必这样直白",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 0,
+   "rank": 3,
+   "url": "https://www.thepaper.cn/newsDetail_forward_34522347",
+   "board": "澎湃新闻",
+   "tokens": [
+    "言短",
+    "意长",
+    "东鹏",
+    "饮料",
+    "捐进",
+    "高中",
+    "校牌",
+    "何必"
+   ]
+  },
+  {
+   "title": "我国战国秦汉的盾牌为什么要设计成这么奇怪的形状？",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 0,
+   "rank": 3,
+   "url": "https://daily.zhihu.com/story/9794153",
+   "board": "知乎日报",
+   "tokens": [
+    "我国",
+    "战国",
+    "秦汉",
+    "盾牌",
+    "设计",
+    "这么",
+    "奇怪",
+    "形状"
+   ]
+  },
+  {
+   "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 7800000,
+   "rank": 4,
+   "url": "https://www.zhihu.com/question/2106706684672471150",
+   "board": "知乎热榜",
+   "tokens": [
+    "韩国",
+    "首次",
+    "紧急",
+    "灾难",
+    "通知",
+    "全国",
+    "手机",
+    "响铃"
+   ]
+  },
+  {
+   "title": "321场活动75项成果 回顾APEC成绩单",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7619000,
+   "rank": 4,
+   "url": "https://www.baidu.com/s?wd=321%E5%9C%BA%E6%B4%BB%E5%8A%A875%E9%A1%B9%E6%88%90%E6%9E%9C+%E5%9B%9E%E9%A1%BEAPEC%E6%88%90%E7%BB%A9%E5%8D%95",
+   "board": "百度热搜",
+   "tokens": [
+    "活动",
+    "成果",
+    "回顾",
+    "APEC",
+    "成绩单"
+   ]
+  },
+  {
+   "title": "胖东来原址开的新商场几乎倒闭",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7055000,
+   "rank": 4,
+   "url": "https://so.toutiao.com/search?keyword=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%8E%9F%E5%9D%80%E5%BC%80%E7%9A%84%E6%96%B0%E5%95%86%E5%9C%BA%E5%87%A0%E4%B9%8E%E5%80%92%E9%97%AD%23",
+   "board": "今日头条热榜",
+   "tokens": [
+    "东来",
+    "原址",
+    "商场",
+    "几乎",
+    "倒闭"
+   ]
+  },
+  {
+   "title": "lucia",
+   "platform": "instagram",
+   "platformName": "Instagram",
+   "emoji": "📷",
+   "heat": 4800000,
+   "rank": 4,
+   "url": "https://www.instagram.com/popular/lucia/",
+   "board": "Instagram Trending Topics（US · Nov 20）",
+   "tokens": [
+    "lucia"
+   ]
+  },
+  {
+   "title": "享界V8开启全国交付",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 730000,
+   "rank": 4,
+   "url": "https://s.weibo.com/weibo?q=%E4%BA%AB%E7%95%8CV8%E5%BC%80%E5%90%AF%E5%85%A8%E5%9B%BD%E4%BA%A4%E4%BB%98",
+   "board": "微博热搜榜",
+   "tokens": [
+    "享界",
+    "V8",
+    "开启",
+    "全国",
+    "交付"
+   ]
+  },
+  {
+   "title": "新春潮搭👟👔找他👉@乐家的葡田（实在🉐基地） 来自160盒水母的震感#新年快乐",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 4,
+   "url": "https://www.douyin.com/video/7607477962234000826",
+   "board": "抖音视频总榜",
+   "tokens": [
+    "春潮",
+    "乐家",
+    "葡田",
+    "实在",
+    "基地",
+    "来自",
+    "水母",
+    "震感"
+   ]
+  },
+  {
+   "title": "实实在在的一家人，以后家庭氛围指定好#司仪培训@静姐(栋仔助理) #司仪栋仔",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 4,
+   "url": "https://www.douyin.com/video/7710048930977475945",
+   "board": "抖音热点榜",
+   "tokens": [
+    "实实在在",
+    "一家人",
+    "以后",
+    "家庭",
+    "氛围",
+    "指定",
+    "司仪",
+    "培训"
+   ]
+  },
+  {
+   "title": "超日常美食教程速来get",
+   "platform": "xhs",
+   "platformName": "小红书",
+   "emoji": "📕",
+   "heat": 0,
+   "rank": 4,
+   "url": "https://www.xiaohongshu.com/search_result?keyword=%E8%B6%85%E6%97%A5%E5%B8%B8%E7%BE%8E%E9%A3%9F%E6%95%99%E7%A8%8B%E9%80%9F%E6%9D%A5get&type=51",
+   "board": "小红书热榜",
+   "tokens": [
+    "日常",
+    "美食",
+    "教程",
+    "速来",
+    "get"
+   ]
+  },
+  {
+   "title": "Kessler",
+   "platform": "x",
+   "platformName": "X",
+   "emoji": "✳️",
+   "heat": 0,
+   "rank": 4,
+   "url": "https://twitter.com/search?q=Kessler",
+   "board": "X Trending (24h)",
+   "tokens": [
+    "Kessler"
+   ]
+  },
+  {
+   "title": "全力以赴端牢端稳中国饭碗",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 0,
+   "rank": 4,
+   "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E7%AB%AF%E7%89%A2%E7%AB%AF%E7%A8%B3%E4%B8%AD%E5%9B%BD%E9%A5%AD%E7%A2%97",
+   "board": "微信热词",
+   "tokens": [
+    "全力以赴",
+    "牢端",
+    "中国",
+    "饭碗"
+   ]
+  },
+  {
+   "title": "App 下载",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 0,
+   "rank": 4,
+   "url": "https://tophub.today/app",
+   "board": "微信·社会",
+   "tokens": [
+    "App",
+    "下载"
+   ]
+  },
+  {
+   "title": "高铁时代，支线机场如何寻找新定位？",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 0,
+   "rank": 4,
+   "url": "https://www.thepaper.cn/newsDetail_forward_34453075",
+   "board": "澎湃新闻",
+   "tokens": [
+    "高铁",
+    "时代",
+    "支线",
+    "机场",
+    "寻找",
+    "定位"
+   ]
+  },
+  {
+   "title": "有机化学中，反应容器的形状是否会影响反应产物的种类？",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 0,
+   "rank": 4,
+   "url": "https://daily.zhihu.com/story/9794159",
+   "board": "知乎日报",
+   "tokens": [
+    "有机化学",
+    "反应",
+    "容器",
+    "形状",
+    "是否",
+    "影响",
+    "反应",
+    "产物"
+   ]
+  },
+  {
+   "title": "八马茶业被暂停全军采购资格",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7524000,
+   "rank": 5,
+   "url": "https://www.baidu.com/s?wd=%E5%85%AB%E9%A9%AC%E8%8C%B6%E4%B8%9A%E8%A2%AB%E6%9A%82%E5%81%9C%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E8%B5%84%E6%A0%BC",
+   "board": "百度热搜",
+   "tokens": [
+    "八马",
+    "茶业",
+    "暂停",
+    "全军",
+    "采购",
+    "资格"
+   ]
+  },
+  {
+   "title": "黄金为啥突然不香了",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 6384000,
+   "rank": 5,
+   "url": "https://so.toutiao.com/search?keyword=%23%E9%BB%84%E9%87%91%E4%B8%BA%E5%95%A5%E7%AA%81%E7%84%B6%E4%B8%8D%E9%A6%99%E4%BA%86%23",
+   "board": "今日头条热榜",
+   "tokens": [
+    "黄金",
+    "为啥",
+    "突然",
+    "不香"
+   ]
+  },
+  {
+   "title": "娃哈哈集团董事长许思敏被曝已辞职，宗馥莉 48 小时内调整 247 人职务，此轮调整会给娃哈哈带来怎样的影响？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 4660000,
+   "rank": 5,
+   "url": "https://www.zhihu.com/question/2107411950162240601",
+   "board": "知乎热榜",
+   "tokens": [
+    "娃哈哈",
+    "集团",
+    "董事长",
+    "许思敏",
+    "曝已",
+    "辞职",
+    "宗馥莉",
+    "小时"
+   ]
+  },
+  {
+   "title": "猫的树今天是太阳雨收官长文",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 540000,
+   "rank": 5,
+   "url": "https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E6%94%B6%E5%AE%98%E9%95%BF%E6%96%87",
+   "board": "微博热搜榜",
+   "tokens": [
+    "今天",
+    "太阳雨",
+    "收官",
+    "长文"
+   ]
+  },
+  {
+   "title": "mensday",
+   "platform": "instagram",
+   "platformName": "Instagram",
+   "emoji": "📷",
+   "heat": 193000,
+   "rank": 5,
+   "url": "https://www.instagram.com/popular/mensday/",
+   "board": "Instagram Trending Topics（US · Nov 20）",
+   "tokens": [
+    "mensday"
+   ]
+  },
+  {
+   "title": "天！啊！#过年放炮 #遇见彩虹烟花",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 5,
+   "url": "https://www.douyin.com/video/7607418183675171493",
+   "board": "抖音视频总榜",
+   "tokens": [
+    "过年",
+    "放炮",
+    "遇见",
+    "彩虹",
+    "烟花"
+   ]
+  },
+  {
+   "title": "热门 #传递正能量#精彩片段#情感#上热门",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 5,
+   "url": "https://www.douyin.com/video/7709448762154832754",
+   "board": "抖音热点榜",
+   "tokens": [
+    "热门",
+    "传递",
+    "能量",
+    "精彩",
+    "情感",
+    "热门"
+   ]
+  }
+ ],
+ "resonance": [
+  {
+   "token": "特朗普",
+   "platforms": [
+    "news",
+    "weibo",
+    "zhihu"
+   ],
+   "count": 3
+  },
+  {
+   "token": "APEC",
+   "platforms": [
+    "news",
+    "weibo"
+   ],
+   "count": 3
+  },
+  {
+   "token": "顺丰速运",
+   "platforms": [
+    "news",
+    "weibo"
+   ],
+   "count": 2
+  }
+ ],
+ "slang": [
+  {
+   "word": "慌啥子嘛",
+   "desc": "《慌啥子嘛（赵本山版）》是赵本山演唱的歌曲，2026年11月13日发行，收录于同名专辑，为网剧《走马上任》推广曲；歌词以“慌啥子嘛，慢慢来”为核心句，传递从容豁达的生活态度",
+   "defSource": "百度百科",
+   "kind": "2026年赵本山演唱的歌曲",
+   "mentions": 24,
+   "days": 7,
+   "dayList": [
+    "2026-11-15",
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20",
+    "2026-11-21"
+   ],
+   "platforms": [
+    "今日头条",
+    "微博",
+    "抖音",
+    "百度"
+   ],
+   "platformCount": 4,
+   "variants": 16,
+   "samples": [
+    {
+     "platform": "抖音",
+     "day": "2026-11-15",
+     "title": "慌啥子嘛配什么都好治愈",
+     "url": "https://www.douyin.com/search/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E9%85%8D%E4%BB%80%E4%B9%88%E9%83%BD%E5%A5%BD%E6%B2%BB%E6%84%88"
+    },
+    {
+     "platform": "百度",
+     "day": "2026-11-15",
+     "title": "赵本山唱《慌啥子嘛》",
+     "url": "https://www.baidu.com/s?wd=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%94%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B"
+    },
+    {
+     "platform": "今日头条",
+     "day": "2026-11-15",
+     "title": "赵本山《慌啥子嘛》上线",
+     "url": "https://www.toutiao.com/trending/7707543672941740582/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707543672941740582%22%2C%22hot_board_impr_id%22%3A%222026111503342787445A817FB0BFC13E21%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B5%B5%E6%9C%AC%E5%B1%B1%E3%80%8A%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E3%80%8B%E4%B8%8A%E7%BA%BF%22%7D&rank=&style_id=40132&topic_id=7707543672941740582"
+    }
+   ],
+   "url": "http://baike.baidu.com/item/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B/69708457"
+  },
+  {
+   "word": "官宣",
+   "desc": "某个人或某机构宣布的某消息",
+   "defSource": "百度百科",
+   "kind": "网络流行语",
+   "mentions": 14,
+   "days": 5,
+   "dayList": [
+    "2026-11-15",
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19"
+   ],
+   "platforms": [
+    "今日头条",
+    "微博",
+    "抖音",
+    "百度"
+   ],
+   "platformCount": 4,
+   "variants": 0,
+   "samples": [
+    {
+     "platform": "百度",
+     "day": "2026-11-15",
+     "title": "连休5天！多地官宣新假期",
+     "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E4%BC%915%E5%A4%A9%EF%BC%81%E5%A4%9A%E5%9C%B0%E5%AE%98%E5%AE%A3%E6%96%B0%E5%81%87%E6%9C%9F"
+    },
+    {
+     "platform": "微博",
+     "day": "2026-11-16",
+     "title": "范丞丞一天官宣一部剧一档综艺",
+     "url": "https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B8%80%E5%A4%A9%E5%AE%98%E5%AE%A3%E4%B8%80%E9%83%A8%E5%89%A7%E4%B8%80%E6%A1%A3%E7%BB%BC%E8%89%BA%23&t=31&band_rank=31&Refer=top"
+    },
+    {
+     "platform": "抖音",
+     "day": "2026-11-16",
+     "title": "复联5官宣唐尼桃总海总来华",
+     "url": "https://www.douyin.com/search/%E5%A4%8D%E8%81%945%E5%AE%98%E5%AE%A3%E5%94%90%E5%B0%BC%E6%A1%83%E6%80%BB%E6%B5%B7%E6%80%BB%E6%9D%A5%E5%8D%8E"
+    }
+   ],
+   "url": "http://baike.baidu.com/item/%E5%AE%98%E5%AE%A3/22933264"
+  },
+  {
+   "word": "手势舞",
+   "desc": "手势舞是起源于抖音平台的一种以手部动作为主的网络流行舞蹈形式，节奏感强且简单易学",
+   "defSource": "百度百科",
+   "kind": "以手部动作为主的网络流行舞蹈形式",
+   "mentions": 11,
+   "days": 7,
+   "dayList": [
+    "2026-11-15",
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20",
+    "2026-11-21"
+   ],
+   "platforms": [
+    "抖音"
+   ],
+   "platformCount": 1,
+   "variants": 9,
+   "samples": [
+    {
+     "platform": "抖音",
+     "day": "2026-11-15",
+     "title": "和赵露思一起跳茉茉手势舞",
+     "url": "https://www.douyin.com/search/%E5%92%8C%E8%B5%B5%E9%9C%B2%E6%80%9D%E4%B8%80%E8%B5%B7%E8%B7%B3%E8%8C%89%E8%8C%89%E6%89%8B%E5%8A%BF%E8%88%9E"
+    },
+    {
+     "platform": "抖音",
+     "day": "2026-11-16",
+     "title": "盼来了鞠婧祎茉茉手势舞",
+     "url": "https://www.douyin.com/search/%E7%9B%BC%E6%9D%A5%E4%BA%86%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%8C%89%E8%8C%89%E6%89%8B%E5%8A%BF%E8%88%9E"
+    },
+    {
+     "platform": "抖音",
+     "day": "2026-11-16",
+     "title": "茉茉手势舞",
+     "url": "https://www.douyin.com/search/%E8%8C%89%E8%8C%89%E6%89%8B%E5%8A%BF%E8%88%9E"
+    }
+   ],
+   "url": "http://baike.baidu.com/item/%E6%89%8B%E5%8A%BF%E8%88%9E"
+  },
+  {
+   "word": "同款",
+   "desc": "指与他人拥有相同款式的物品",
+   "defSource": "百度百科",
+   "kind": "网络用语",
+   "mentions": 6,
+   "days": 4,
+   "dayList": [
+    "2026-11-17",
+    "2026-11-19",
+    "2026-11-20",
+    "2026-11-21"
+   ],
+   "platforms": [
+    "微博",
+    "抖音"
+   ],
+   "platformCount": 2,
+   "variants": 2,
+   "samples": [
+    {
+     "platform": "微博",
+     "day": "2026-11-17",
+     "title": "王力宏同款波司登羽绒服仅售16件",
+     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%90%8C%E6%AC%BE%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BB%85%E5%94%AE16%E4%BB%B6%23&t=31&band_rank=34&Refer=top"
+    },
+    {
+     "platform": "抖音",
+     "day": "2026-11-19",
+     "title": "我的明星同款脸藏不住了",
+     "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E6%98%8E%E6%98%9F%E5%90%8C%E6%AC%BE%E8%84%B8%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86"
+    },
+    {
+     "platform": "微博",
+     "day": "2026-11-20",
+     "title": "APEC同款荔枝冰酒原果汁含量100%",
+     "url": "https://s.weibo.com/weibo?q=%23APEC%E5%90%8C%E6%AC%BE%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E5%8E%9F%E6%9E%9C%E6%B1%81%E5%90%AB%E9%87%8F100%25%23&t=31&band_rank=43&Refer=top"
+    }
+   ],
+   "url": "http://baike.baidu.com/item/%E5%90%8C%E6%AC%BE/60494176"
+  },
+  {
+   "word": "硬核",
+   "desc": "原指说唱音乐有力量感或游戏有难度，后用来形容强悍、彪悍",
+   "defSource": "百度百科",
+   "kind": "网络流行语",
+   "mentions": 4,
+   "days": 2,
+   "dayList": [
+    "2026-11-15",
+    "2026-11-16"
+   ],
+   "platforms": [
+    "今日头条",
+    "百度"
+   ],
+   "platformCount": 2,
+   "variants": 3,
+   "samples": [
+    {
+     "platform": "百度",
+     "day": "2026-11-15",
+     "title": "本周多领域硬核成果刷屏",
+     "url": "https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E5%A4%9A%E9%A2%86%E5%9F%9F%E7%A1%AC%E6%A0%B8%E6%88%90%E6%9E%9C%E5%88%B7%E5%B1%8F"
+    },
+    {
+     "platform": "今日头条",
+     "day": "2026-11-15",
+     "title": "本周我国多领域硬核成果刷屏",
+     "url": "https://www.toutiao.com/article/7708143159535993359"
+    },
+    {
+     "platform": "今日头条",
+     "day": "2026-11-15",
+     "title": "南昌公安在马拉松现场展示硬核装备",
+     "url": "https://www.toutiao.com/trending/7707910150484721702/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707910150484721702%22%2C%22hot_board_impr_id%22%3A%22202611151145423C29EA4BDD3984380DF8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%97%E6%98%8C%E5%85%AC%E5%AE%89%E5%9C%A8%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%8E%B0%E5%9C%BA%E5%B1%95%E7%A4%BA%E7%A1%AC%E6%A0%B8%E8%A3%85%E5%A4%87%22%7D&rank=&style_id=40132&topic_id=7707910150484721702"
+    }
+   ],
+   "url": "http://baike.baidu.com/item/%E7%A1%AC%E6%A0%B8/22543671"
+  }
+ ]
+}

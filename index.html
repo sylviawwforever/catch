@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CATCH · 跨平台热点与舆情监测</title>
+<meta name="description" content="CATCH · 面向新闻与传播研究者的每日热点与舆情事件监测系统：跨平台热榜、舆情事件概括梳理、每小时走势、每日词云、情感倾向与 100 条真实热评样本。">
+<meta name="author" content="CATCH 舆情监测实验室">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Noto+Sans+SC:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/catch.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%230f1ea1'/><text y='72' x='50' font-size='62' font-family='Helvetica' font-weight='700' fill='white' text-anchor='middle'>C</text></svg>">
+</head>
+<body>
+
+<!-- ── 顶部状态条 ───────────────────────────────────────────── -->
+<div class="utility">
+  <div class="wrap utility-in">
+    <span class="brand">CATCH</span>
+    <span id="utilityStatus" class="row" style="gap:14px"></span>
+    <span class="utility-nav">
+      <a href="#overview">总览</a>
+      <a href="#board">热榜</a>
+      <a href="#hotspots">热点</a>
+      <a href="#slang">流行语</a>
+      <a href="#events">舆情事件</a>
+      <a href="#radar">选题雷达</a>
+      <a href="#method">方法论</a>
+    </span>
+    <span class="mono" id="clock"></span>
+  </div>
+</div>
+
+<!-- ── 报头 ─────────────────────────────────────────────────── -->
+<header class="masthead wrap">
+  <div class="masthead-top">
+    <div class="nameplate">
+      <h1 class="wordmark">C<em>ATCH</em></h1>
+      <div class="cap" style="max-width:15ch;line-height:1.7">
+        Cross-Platform<br>Attention &amp; Tracking<br>for Chinese Hot Issues
+      </div>
+    </div>
+    <div class="issue" id="issueDate"></div>
+  </div>
+
+  <div class="mast-lede">
+    <div>
+      <h2 class="display" style="font-size:clamp(34px,4.6vw,58px)">每日热点 · 舆情事件 · 选题雷达</h2>
+    </div>
+    <div>
+      <p class="lede">
+        CATCH 每天 09:00 自动巡检微博、抖音、小红书、X、微信公众号、新闻、Instagram 等公开榜单，
+        抓取真实条目并完成跨平台共振聚类，输出可写、可查、可引用的舆情事件档案。
+      </p>
+      <p class="lede">
+        每个事件附：事件概括梳理、每小时更新走势、每日词云、情感倾向分布与真实高赞热评样本，
+        全部条目保留原始链接，供论文附录与信源复核使用。
+      </p>
+      <div class="row" style="margin-top:16px">
+        <button class="btn btn-primary" id="printBtn">打印 / 导出研报版</button>
+        <button class="btn" id="topBtn">回到顶部</button>
+        <button class="btn" id="refreshBtn" aria-busy="false">刷新数据</button>
+        <span class="cap" id="refreshState" style="align-self:center"></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="hr"></div>
+  <div class="metrics" id="metrics"></div>
+  <p class="cap" id="cumStats" style="margin-top:12px"></p>
+</header>
+
+<main class="wrap">
+
+  <!-- ── 01 跨平台热榜 ──────────────────────────────────────── -->
+  <section class="section" id="board">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">01 / Cross-Platform Board</p>
+        <h2 class="display">跨平台<br>热榜总览</h2>
+      </div>
+      <div class="section-note">
+        <p>同一时点抓取各平台公开热榜，按<b>各平台原榜序位</b>综合排序——因为微博的搜索热度、
+          知乎的讨论热度与抖音的点赞量口径不同，绝对值不可直接比较，只作展示，不参与排序。
+          左侧可按平台切换。</p>
+        <p class="cap" id="issueGen"></p>
+      </div>
+    </div>
+    <div class="event-layout" style="grid-template-columns:300px minmax(0,1fr)">
+      <div class="event-nav" id="boardTabs" role="tablist" aria-label="平台筛选"></div>
+      <div>
+        <div class="rank-list" id="boardList"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── 02 热点 ────────────────────────────────────────────── -->
+  <section class="section" id="hotspots">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">02 / Trending Now</p>
+        <h2 class="display">热点</h2>
+      </div>
+      <div class="section-note">
+        <p>正在流通的话题与梗，含平台归属、共振词与可选采写角度。</p>
+      </div>
+    </div>
+    <div id="hotBody"></div>
+  </section>
+
+  <!-- ── 03 网络流行语 ────────────────────────────────────────── -->
+  <section class="section" id="slang">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">03 / Internet Slang</p>
+        <h2 class="display">网络流行语</h2>
+      </div>
+      <div class="section-note">
+        <p>不引用任何年度榜单。以近 7 天各平台公开热榜逐日归档为语料（微博 / 抖音 / 知乎 / 百度 / 今日头条），
+          枚举标题中的中文片段，保留同时满足「跨 ≥2 天复现」「跨 ≥2 个不同句式或平台」
+          「非硬新闻语境」「与教学 / 挑战 / 转场 / 穿搭 / 治愈 / 翻唱等可复用句式共现」四条结构判据的词；
+          再由百度百科开放 API 逐词仲裁类别——判为网络流行语 / 网络用语的直接采纳并引用百科释义，
+          判为人物、机构、地名或普通词义的剔除，无词条的新词则依据其真实热榜语境归纳。
+          最终按近 7 天热榜实际出现次数排序。</p>
+        <p class="cap" id="slangSource"></p>
+      </div>
+    </div>
+    <div class="slang-grid" id="slangGrid"></div>
+  </section>
+
+  <!-- ── 04 舆情事件 ──────────────────────────────────────────── -->
+  <section class="section" id="events">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">04 / Public Opinion Events</p>
+        <h2 class="display">舆情事件</h2>
+      </div>
+      <div class="section-note">
+        <p>只有当同一实义实体在两个及以上平台同时出现时，系统才将其判定为舆情事件，
+          并围绕它组装完整档案：概括梳理、每小时走势、每日词云、情感倾向与热评样本。</p>
+        <p class="cap">键盘 ↑ / ↓ 可切换事件。</p>
+      </div>
+    </div>
+    <div class="event-layout">
+      <div class="event-nav" id="eventNav" role="tablist" aria-label="舆情事件列表"></div>
+      <div class="event-panel" id="eventDetail"></div>
+    </div>
+  </section>
+
+  <!-- ── 04 选题雷达 ────────────────────────────────────────── -->
+  <section class="section" id="radar">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">04 / Story Radar</p>
+        <h2 class="display">选题雷达</h2>
+      </div>
+      <div class="section-note">
+        <p>评分 = 热度 ×0.30 + 争议度 ×0.28 + 跨平台共振 ×0.24 + 样本充分度 ×0.18。
+          争议度由消极与愤怒占比合成，样本充分度由热评条数折算。</p>
+        <p class="cap">每张卡片附可选角度与研究方法建议。</p>
+      </div>
+    </div>
+    <div class="radar-grid" id="radarGrid"></div>
+  </section>
+
+  <!-- ── 05 方法论 ──────────────────────────────────────────── -->
+  <section class="section" id="method">
+    <div class="section-head">
+      <div>
+        <p class="eyebrow">05 / Methodology</p>
+        <h2 class="display">方法论<br>与数据源</h2>
+      </div>
+      <div class="section-note">
+        <p>一套监测系统最容易被质疑的是口径。因此这里公开采集链路、指标定义与局限，
+          让每一次引用都可以回到原始榜单。</p>
+      </div>
+    </div>
+    <div class="panel" id="methodBody"></div>
+  </section>
+
+</main>
+
+<!-- ── 页脚 ─────────────────────────────────────────────────── -->
+<footer class="footer">
+  <!-- 顶部：巨型导航（Linear Festivals 式） -->
+  <div class="footer-hero" id="footerHero">
+    <div class="wrap">
+      <nav class="fhero-nav" aria-label="主导航">
+        <a href="#board"><span>热榜</span><em>Board</em></a>
+        <a href="#hotspots"><span>热点</span><em>Hotspots</em></a>
+        <a href="#slang"><span>流行语</span><em>Slang</em></a>
+        <a href="#events"><span>舆情事件</span><em>Events</em></a>
+        <a href="#radar"><span>选题雷达</span><em>Radar</em></a>
+      </nav>
+
+      <div class="fhero-mid">
+        <div class="fhero-note">
+          <b>跨平台热点与舆情监测，落到可复核的底稿。</b>
+          <p>每天 09:00 自动巡检 8 个公开信源，抓取真实条目、聚类跨平台共振事件，
+            并为每个事件装配走势、词云、情感与真实热评样本。</p>
+        </div>
+        <a class="fhero-social" href="#board">INSTAGRAM ↗</a>
+      </div>
+    </div>
+
+    <!-- 几何站台线 -->
+    <div class="fstage" aria-hidden="true">
+      <i class="bar bar-1"></i>
+      <i class="dot dot-1"></i>
+      <i class="poly poly-1"></i>
+      <i class="poly poly-2"></i>
+      <i class="sq sq-1"></i>
+      <i class="bar bar-2"></i>
+    </div>
+
+    <!-- 巨型裁切字标 -->
+    <div class="fmark" aria-label="CATCH">
+      <span>C</span><span>A</span><span>T</span><span>C</span><span>H</span>
+    </div>
+  </div>
+</footer>
+
+<script src="assets/js/data.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>
