@@ -124,9 +124,12 @@
     }
     const cum = $("#cumStats");
     if (cum) {
-      cum.innerHTML = `本机累计监测：<b>${(st.items || c.rawScanned || 0)}</b> 条原始条目 · ` +
-        `<b>${(st.comments || c.comments || 0)}</b> 条热评样本 · ` +
-        `<b>${(st.runs || 1)}</b> 电采集轮次`;
+      // 「本期」用系统实测值；「累计」来自浏览器本地存储，只计访问者自己的浏览记录，
+      // 不能与系统层面的累计量混淆（公网版每个访客的计数器都是独立的）。
+      cum.innerHTML = `本期采集：<b>${(c.rawScanned || 0)}</b> 条原始条目 · ` +
+        `<b>${(c.comments || 0)}</b> 条热评样本 · ` +
+        `本浏览器已累计 <b>${(st.items || c.rawScanned || 0)}</b> 条 / ` +
+        `<b>${(st.runs || 1)}</b> 轮打开`;
     }
   }
 

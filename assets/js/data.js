@@ -1,12 +1,12 @@
 /* CATCH · 自动生成，请勿手工修改 —— 由 tools/build_site.py 装配 */
 window.CATCH_DATA = {
  "meta": {
-  "generatedAt": "2026-11-21T18:17:56.427973+08:00",
+  "generatedAt": "2026-11-21T19:01:06.649124+08:00",
   "dateLabel": "2026 年 11 月 21 日",
   "weekday": "星期六",
-  "mode": "full",
+  "mode": "hourly",
   "lastFullRun": "2026-11-21",
-  "durationSec": 599.0,
+  "durationSec": 61.3,
   "platformStatus": {
    "weibo": {
     "source": "tophub.today · weibo",
@@ -44,7 +44,7 @@ window.CATCH_DATA = {
    },
    "wechat": {
     "source": "tophub.today · wechat",
-    "items": 25,
+    "items": 14,
     "ok": true,
     "error": null,
     "name": "微信公众号",
@@ -60,7 +60,7 @@ window.CATCH_DATA = {
    },
    "news": {
     "source": "tophub.today · news",
-    "items": 141,
+    "items": 140,
     "ok": true,
     "error": null,
     "name": "新闻",
@@ -91,7 +91,7 @@ window.CATCH_DATA = {
    "hotItems": 60,
    "events": 5,
    "comments": 2855,
-   "rawScanned": 373,
+   "rawScanned": 361,
    "slang": 5
   },
   "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / Instagram / B站 公开榜单与真实接口"
@@ -116,7 +116,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 16010000,
+    "heat": 18690000,
     "rank": 1,
     "url": "https://www.zhihu.com/question/2107175088915050633",
     "board": "知乎热榜",
@@ -132,21 +132,22 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "顺丰速运被暂停参加全军采购活动",
+    "title": "特朗普为何在访华结束后出手限制美企",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 11632000,
-    "rank": 1,
-    "url": "https://so.toutiao.com/search?keyword=%23%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8%23",
+    "heat": 11658000,
+    "rank": 4,
+    "url": "https://so.toutiao.com/search?keyword=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%9C%A8%E8%AE%BF%E5%8D%8E%E7%BB%93%E6%9D%9F%E5%90%8E%E5%87%BA%E6%89%8B%E9%99%90%E5%88%B6%E7%BE%8E%E4%BC%81%23",
     "board": "今日头条热榜",
     "tokens": [
-     "顺丰速运",
-     "暂停",
-     "参加",
-     "全军",
-     "采购",
-     "活动"
+     "特朗普",
+     "为何",
+     "访华",
+     "结束",
+     "出手",
+     "限制",
+     "美企"
     ]
    },
    {
@@ -250,7 +251,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 9310000,
+    "heat": 12450000,
     "rank": 2,
     "url": "https://www.zhihu.com/question/2107262299765306294",
     "board": "知乎热榜",
@@ -266,17 +267,19 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "黄景瑜腿绞泰国拳王",
+    "title": "深圳全妆惊艳全网",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 10525000,
-    "rank": 11,
-    "url": "https://so.toutiao.com/search?keyword=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%85%BF%E7%BB%9E%E6%B3%B0%E5%9B%BD%E6%8B%B3%E7%8E%8B%23",
+    "heat": 10549000,
+    "rank": 1,
+    "url": "https://so.toutiao.com/search?keyword=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%A6%86%E6%83%8A%E8%89%B3%E5%85%A8%E7%BD%91%23",
     "board": "今日头条热榜",
     "tokens": [
-     "黄景",
-     "泰国拳"
+     "深圳",
+     "全妆",
+     "惊艳",
+     "全网"
     ]
    },
    {
@@ -379,7 +382,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 8640000,
+    "heat": 9020000,
     "rank": 3,
     "url": "https://www.zhihu.com/question/2106756998976857637",
     "board": "知乎热榜",
@@ -399,7 +402,7 @@ window.CATCH_DATA = {
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 9523000,
+    "heat": 9545000,
     "rank": 3,
     "url": "https://so.toutiao.com/search?keyword=%23APEC%E5%BC%80%E5%90%AF%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E6%96%B0%E7%A9%BA%E9%97%B4%23",
     "board": "今日头条热榜",
@@ -503,40 +506,37 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
+    "title": "Gta6》M 站用户开分仅 3.7 分，现已 5.4 分，如何看待用户评分与媒体评分两极分化？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 7800000,
+    "heat": 5130000,
     "rank": 4,
-    "url": "https://www.zhihu.com/question/2106706684672471150",
+    "url": "https://www.zhihu.com/question/2107390437933707560",
     "board": "知乎热榜",
     "tokens": [
-     "韩国",
-     "首次",
-     "紧急",
-     "灾难",
-     "通知",
-     "全国",
-     "手机",
-     "响铃"
+     "Gta6",
+     "用户",
+     "开分",
+     "3.7",
+     "现已",
+     "5.4",
+     "看待",
+     "用户"
     ]
    },
    {
-    "title": "高市见完普京就宣布对乌援助有何意图",
+    "title": "黄景瑜腿绞泰国拳王",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 8617000,
-    "rank": 12,
-    "url": "https://so.toutiao.com/search?keyword=%23%E9%AB%98%E5%B8%82%E8%A7%81%E5%AE%8C%E6%99%AE%E4%BA%AC%E5%B0%B1%E5%AE%A3%E5%B8%83%E5%AF%B9%E4%B9%8C%E6%8F%B4%E5%8A%A9%E6%9C%89%E4%BD%95%E6%84%8F%E5%9B%BE%23",
+    "heat": 8637000,
+    "rank": 11,
+    "url": "https://so.toutiao.com/search?keyword=%23%E9%BB%84%E6%99%AF%E7%91%9C%E8%85%BF%E7%BB%9E%E6%B3%B0%E5%9B%BD%E6%8B%B3%E7%8E%8B%23",
     "board": "今日头条热榜",
     "tokens": [
-     "高市",
-     "普京",
-     "援助",
-     "有何",
-     "意图"
+     "黄景",
+     "泰国拳"
     ]
    },
    {
@@ -635,23 +635,19 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "娃哈哈集团董事长许思敏被曝已辞职，宗馥莉 48 小时内调整 247 人职务，此轮调整会给娃哈哈带来怎样的影响？",
+    "title": "为什么早餐利润这么高大家都不去做呢？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 4660000,
+    "heat": 5100000,
     "rank": 5,
-    "url": "https://www.zhihu.com/question/2107411950162240601",
+    "url": "https://www.zhihu.com/question/621050716",
     "board": "知乎热榜",
     "tokens": [
-     "娃哈哈",
-     "集团",
-     "董事长",
-     "许思敏",
-     "曝已",
-     "辞职",
-     "宗馥莉",
-     "小时"
+     "早餐",
+     "利润",
+     "这么",
+     "大家"
     ]
    },
    {
@@ -766,40 +762,41 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Gta6》M 站用户开分仅 3.7 分，现已 5.4 分，如何看待用户评分与媒体评分两极分化？",
+    "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 3790000,
+    "heat": 5060000,
     "rank": 6,
-    "url": "https://www.zhihu.com/question/2107390437933707560",
+    "url": "https://www.zhihu.com/question/2106706684672471150",
     "board": "知乎热榜",
     "tokens": [
-     "Gta6",
-     "用户",
-     "开分",
-     "3.7",
-     "现已",
-     "5.4",
-     "看待",
-     "用户"
+     "韩国",
+     "首次",
+     "紧急",
+     "灾难",
+     "通知",
+     "全国",
+     "手机",
+     "响铃"
     ]
    },
    {
-    "title": "普京核手提箱成大新闻 俄方发声",
+    "title": "顺丰速运被暂停参加全军采购活动",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7809000,
-    "rank": 2,
-    "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%A0%B8%E6%89%8B%E6%8F%90%E7%AE%B1%E6%88%90%E5%A4%A7%E6%96%B0%E9%97%BB+%E4%BF%84%E6%96%B9%E5%8F%91%E5%A3%B0",
-    "board": "百度热搜",
+    "heat": 7815000,
+    "rank": 12,
+    "url": "https://so.toutiao.com/search?keyword=%23%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8%23",
+    "board": "今日头条热榜",
     "tokens": [
-     "普京",
-     "手提箱",
-     "新闻",
-     "俄方",
-     "发声"
+     "顺丰速运",
+     "暂停",
+     "参加",
+     "全军",
+     "采购",
+     "活动"
     ]
    },
    {
@@ -908,7 +905,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 2840000,
+    "heat": 3820000,
     "rank": 7,
     "url": "https://www.zhihu.com/question/2105255823601619027",
     "board": "知乎热榜",
@@ -924,19 +921,19 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "深圳全妆惊艳全网",
+    "title": "APEC晚宴上的顺德蒸鱼火了",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7797000,
+    "heat": 7810000,
     "rank": 2,
-    "url": "https://so.toutiao.com/search?keyword=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%A6%86%E6%83%8A%E8%89%B3%E5%85%A8%E7%BD%91%23",
-    "board": "今日头条热榜",
+    "url": "https://www.baidu.com/s?wd=APEC%E6%99%9A%E5%AE%B4%E4%B8%8A%E7%9A%84%E9%A1%BA%E5%BE%B7%E8%92%B8%E9%B1%BC%E7%81%AB%E4%BA%86",
+    "board": "百度热搜",
     "tokens": [
-     "深圳",
-     "全妆",
-     "惊艳",
-     "全网"
+     "APEC",
+     "晚宴",
+     "顺德",
+     "蒸鱼"
     ]
    },
    {
@@ -1031,40 +1028,40 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "11 月 20 日美股三大指数集体重挫，AI 交易遭猛烈拋售，Anthropic 上市次日跌 8.5%，怎样解读？",
+    "title": "为什么网络上总是说「外卖小哥藏龙卧虎」，这种刻板印象到底是怎么形成的？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 2520000,
+    "heat": 2610000,
     "rank": 8,
-    "url": "https://www.zhihu.com/question/2107375172101432168",
+    "url": "https://www.zhihu.com/question/2106416810002273776",
     "board": "知乎热榜",
     "tokens": [
-     "日美股",
-     "三大",
-     "指数",
-     "集体",
-     "重挫",
-     "AI",
-     "交易",
-     "猛烈"
+     "网络",
+     "总是",
+     "外卖",
+     "小哥",
+     "藏龙卧虎",
+     "这种",
+     "刻板",
+     "印象"
     ]
    },
    {
-    "title": "原来特朗普拉开窗帘 是在看深圳的路",
+    "title": "特朗普回应“普京是否为美国朋友”",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7713000,
+    "heat": 7714000,
     "rank": 3,
-    "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%BC%80%E7%AA%97%E5%B8%98+%E6%98%AF%E5%9C%A8%E7%9C%8B%E6%B7%B1%E5%9C%B3%E7%9A%84%E8%B7%AF",
+    "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E2%80%9C%E6%99%AE%E4%BA%AC%E6%98%AF%E5%90%A6%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%9C%8B%E5%8F%8B%E2%80%9D",
     "board": "百度热搜",
     "tokens": [
-     "原来",
      "特朗普",
-     "拉开",
-     "窗帘",
-     "深圳"
+     "普京",
+     "是否",
+     "美国",
+     "朋友"
     ]
    },
    {
@@ -1092,7 +1089,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 16010000,
+    "heat": 18690000,
     "rank": 1,
     "url": "https://www.zhihu.com/question/2107175088915050633",
     "board": "知乎热榜",
@@ -1108,21 +1105,19 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "顺丰速运被暂停参加全军采购活动",
+    "title": "深圳全妆惊艳全网",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 11632000,
+    "heat": 10549000,
     "rank": 1,
-    "url": "https://so.toutiao.com/search?keyword=%23%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%A6%86%E6%83%8A%E8%89%B3%E5%85%A8%E7%BD%91%23",
     "board": "今日头条热榜",
     "tokens": [
-     "顺丰速运",
-     "暂停",
-     "参加",
-     "全军",
-     "采购",
-     "活动"
+     "深圳",
+     "全妆",
+     "惊艳",
+     "全网"
     ]
    },
    {
@@ -1313,16 +1308,17 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "首页",
+    "title": "API 开放平台",
     "platform": "wechat",
     "platformName": "微信公众号",
     "emoji": "💬",
     "heat": 0,
     "rank": 1,
-    "url": "https://tophub.today/",
+    "url": "https://www.tophubdata.com/",
     "board": "微信·社会",
     "tokens": [
-     "首页"
+     "API",
+     "开放平台"
     ]
    },
    {
@@ -1366,7 +1362,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 9310000,
+    "heat": 12450000,
     "rank": 2,
     "url": "https://www.zhihu.com/question/2107262299765306294",
     "board": "知乎热榜",
@@ -1382,36 +1378,36 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "普京核手提箱成大新闻 俄方发声",
+    "title": "APEC晚宴上的顺德蒸鱼火了",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7809000,
+    "heat": 7810000,
     "rank": 2,
-    "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%A0%B8%E6%89%8B%E6%8F%90%E7%AE%B1%E6%88%90%E5%A4%A7%E6%96%B0%E9%97%BB+%E4%BF%84%E6%96%B9%E5%8F%91%E5%A3%B0",
+    "url": "https://www.baidu.com/s?wd=APEC%E6%99%9A%E5%AE%B4%E4%B8%8A%E7%9A%84%E9%A1%BA%E5%BE%B7%E8%92%B8%E9%B1%BC%E7%81%AB%E4%BA%86",
     "board": "百度热搜",
     "tokens": [
-     "普京",
-     "手提箱",
-     "新闻",
-     "俄方",
-     "发声"
+     "APEC",
+     "晚宴",
+     "顺德",
+     "蒸鱼"
     ]
    },
    {
-    "title": "深圳全妆惊艳全网",
+    "title": "胖东来原址开的新商场几乎倒闭",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7797000,
+    "heat": 7071000,
     "rank": 2,
-    "url": "https://so.toutiao.com/search?keyword=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%A6%86%E6%83%8A%E8%89%B3%E5%85%A8%E7%BD%91%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%8E%9F%E5%9D%80%E5%BC%80%E7%9A%84%E6%96%B0%E5%95%86%E5%9C%BA%E5%87%A0%E4%B9%8E%E5%80%92%E9%97%AD%23",
     "board": "今日头条热榜",
     "tokens": [
-     "深圳",
-     "全妆",
-     "惊艳",
-     "全网"
+     "东来",
+     "原址",
+     "商场",
+     "几乎",
+     "倒闭"
     ]
    },
    {
@@ -1516,19 +1512,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "报刊",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 2,
-    "url": "https://tophub.today/c/epaper",
-    "board": "微信·社会",
-    "tokens": [
-     "报刊"
-    ]
-   },
-   {
     "title": "沪指终结日线6连阴，估值修复窗口何时开启？头部券商、基金密集发声",
     "platform": "news",
     "platformName": "新闻",
@@ -1568,7 +1551,7 @@ window.CATCH_DATA = {
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 9523000,
+    "heat": 9545000,
     "rank": 3,
     "url": "https://so.toutiao.com/search?keyword=%23APEC%E5%BC%80%E5%90%AF%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E6%96%B0%E7%A9%BA%E9%97%B4%23",
     "board": "今日头条热榜",
@@ -1584,7 +1567,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 8640000,
+    "heat": 9020000,
     "rank": 3,
     "url": "https://www.zhihu.com/question/2106756998976857637",
     "board": "知乎热榜",
@@ -1600,20 +1583,20 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "原来特朗普拉开窗帘 是在看深圳的路",
+    "title": "特朗普回应“普京是否为美国朋友”",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7713000,
+    "heat": 7714000,
     "rank": 3,
-    "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E6%9D%A5%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%BC%80%E7%AA%97%E5%B8%98+%E6%98%AF%E5%9C%A8%E7%9C%8B%E6%B7%B1%E5%9C%B3%E7%9A%84%E8%B7%AF",
+    "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E2%80%9C%E6%99%AE%E4%BA%AC%E6%98%AF%E5%90%A6%E4%B8%BA%E7%BE%8E%E5%9B%BD%E6%9C%8B%E5%8F%8B%E2%80%9D",
     "board": "百度热搜",
     "tokens": [
-     "原来",
      "特朗普",
-     "拉开",
-     "窗帘",
-     "深圳"
+     "普京",
+     "是否",
+     "美国",
+     "朋友"
     ]
    },
    {
@@ -1714,19 +1697,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "关于我们",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 3,
-    "url": "https://tophub.today/about",
-    "board": "微信·社会",
-    "tokens": [
-     "关于"
-    ]
-   },
-   {
     "title": "言短意长｜“东鹏饮料”被捐进高中校牌，何必这样直白",
     "platform": "news",
     "platformName": "新闻",
@@ -1767,23 +1737,22 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
-    "platform": "zhihu",
-    "platformName": "知乎",
-    "emoji": "💡",
-    "heat": 7800000,
+    "title": "特朗普为何在访华结束后出手限制美企",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 11658000,
     "rank": 4,
-    "url": "https://www.zhihu.com/question/2106706684672471150",
-    "board": "知乎热榜",
+    "url": "https://so.toutiao.com/search?keyword=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%9C%A8%E8%AE%BF%E5%8D%8E%E7%BB%93%E6%9D%9F%E5%90%8E%E5%87%BA%E6%89%8B%E9%99%90%E5%88%B6%E7%BE%8E%E4%BC%81%23",
+    "board": "今日头条热榜",
     "tokens": [
-     "韩国",
-     "首次",
-     "紧急",
-     "灾难",
-     "通知",
-     "全国",
-     "手机",
-     "响铃"
+     "特朗普",
+     "为何",
+     "访华",
+     "结束",
+     "出手",
+     "限制",
+     "美企"
     ]
    },
    {
@@ -1791,7 +1760,7 @@ window.CATCH_DATA = {
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7619000,
+    "heat": 7620000,
     "rank": 4,
     "url": "https://www.baidu.com/s?wd=321%E5%9C%BA%E6%B4%BB%E5%8A%A875%E9%A1%B9%E6%88%90%E6%9E%9C+%E5%9B%9E%E9%A1%BEAPEC%E6%88%90%E7%BB%A9%E5%8D%95",
     "board": "百度热搜",
@@ -1804,20 +1773,23 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "胖东来原址开的新商场几乎倒闭",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 7055000,
+    "title": "Gta6》M 站用户开分仅 3.7 分，现已 5.4 分，如何看待用户评分与媒体评分两极分化？",
+    "platform": "zhihu",
+    "platformName": "知乎",
+    "emoji": "💡",
+    "heat": 5130000,
     "rank": 4,
-    "url": "https://so.toutiao.com/search?keyword=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%8E%9F%E5%9D%80%E5%BC%80%E7%9A%84%E6%96%B0%E5%95%86%E5%9C%BA%E5%87%A0%E4%B9%8E%E5%80%92%E9%97%AD%23",
-    "board": "今日头条热榜",
+    "url": "https://www.zhihu.com/question/2107390437933707560",
+    "board": "知乎热榜",
     "tokens": [
-     "东来",
-     "原址",
-     "商场",
-     "几乎",
-     "倒闭"
+     "Gta6",
+     "用户",
+     "开分",
+     "3.7",
+     "现已",
+     "5.4",
+     "看待",
+     "用户"
     ]
    },
    {
@@ -1937,20 +1909,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "App 下载",
-    "platform": "wechat",
-    "platformName": "微信公众号",
-    "emoji": "💬",
-    "heat": 0,
-    "rank": 4,
-    "url": "https://tophub.today/app",
-    "board": "微信·社会",
-    "tokens": [
-     "App",
-     "下载"
-    ]
-   },
-   {
     "title": "高铁时代，支线机场如何寻找新定位？",
     "platform": "news",
     "platformName": "新闻",
@@ -1989,57 +1947,52 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "八马茶业被暂停全军采购资格",
+    "title": "虫量是去年26倍 湖南如何虫口夺粮",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 7524000,
     "rank": 5,
-    "url": "https://www.baidu.com/s?wd=%E5%85%AB%E9%A9%AC%E8%8C%B6%E4%B8%9A%E8%A2%AB%E6%9A%82%E5%81%9C%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E8%B5%84%E6%A0%BC",
+    "url": "https://www.baidu.com/s?wd=%E8%99%AB%E9%87%8F%E6%98%AF%E5%8E%BB%E5%B9%B426%E5%80%8D+%E6%B9%96%E5%8D%97%E5%A6%82%E4%BD%95%E8%99%AB%E5%8F%A3%E5%A4%BA%E7%B2%AE",
     "board": "百度热搜",
     "tokens": [
-     "八马",
-     "茶业",
-     "暂停",
-     "全军",
-     "采购",
-     "资格"
+     "虫量",
+     "去年",
+     "湖南",
+     "虫口",
+     "夺粮"
     ]
    },
    {
-    "title": "黄金为啥突然不香了",
+    "title": "黄金暴跌是上车机会吗",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 6384000,
+    "heat": 5789000,
     "rank": 5,
-    "url": "https://so.toutiao.com/search?keyword=%23%E9%BB%84%E9%87%91%E4%B8%BA%E5%95%A5%E7%AA%81%E7%84%B6%E4%B8%8D%E9%A6%99%E4%BA%86%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E9%BB%84%E9%87%91%E6%9A%B4%E8%B7%8C%E6%98%AF%E4%B8%8A%E8%BD%A6%E6%9C%BA%E4%BC%9A%E5%90%97%23",
     "board": "今日头条热榜",
     "tokens": [
      "黄金",
-     "为啥",
-     "突然",
-     "不香"
+     "暴跌",
+     "上车",
+     "机会"
     ]
    },
    {
-    "title": "娃哈哈集团董事长许思敏被曝已辞职，宗馥莉 48 小时内调整 247 人职务，此轮调整会给娃哈哈带来怎样的影响？",
+    "title": "为什么早餐利润这么高大家都不去做呢？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 4660000,
+    "heat": 5100000,
     "rank": 5,
-    "url": "https://www.zhihu.com/question/2107411950162240601",
+    "url": "https://www.zhihu.com/question/621050716",
     "board": "知乎热榜",
     "tokens": [
-     "娃哈哈",
-     "集团",
-     "董事长",
-     "许思敏",
-     "曝已",
-     "辞职",
-     "宗馥莉",
-     "小时"
+     "早餐",
+     "利润",
+     "这么",
+     "大家"
     ]
    },
    {
@@ -2105,6 +2058,60 @@ window.CATCH_DATA = {
      "情感",
      "热门"
     ]
+   },
+   {
+    "title": "定格这一刻的日照金山",
+    "platform": "xhs",
+    "platformName": "小红书",
+    "emoji": "📕",
+    "heat": 0,
+    "rank": 5,
+    "url": "https://www.xiaohongshu.com/search_result?keyword=%E5%AE%9A%E6%A0%BC%E8%BF%99%E4%B8%80%E5%88%BB%E7%9A%84%E6%97%A5%E7%85%A7%E9%87%91%E5%B1%B1&type=51",
+    "board": "小红书热榜",
+    "tokens": [
+     "定格",
+     "一刻",
+     "日照",
+     "金山"
+    ]
+   },
+   {
+    "title": "更好统筹当前和长远 ——形成共促高质量发展的合力",
+    "platform": "wechat",
+    "platformName": "微信公众号",
+    "emoji": "💬",
+    "heat": 0,
+    "rank": 5,
+    "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E6%9B%B4%E5%A5%BD%E7%BB%9F%E7%AD%B9%E5%BD%93%E5%89%8D%E5%92%8C%E9%95%BF%E8%BF%9C+%E2%80%94%E2%80%94%E5%BD%A2%E6%88%90%E5%85%B1%E4%BF%83%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E7%9A%84%E5%90%88%E5%8A%9B",
+    "board": "微信热词",
+    "tokens": [
+     "更好",
+     "统筹",
+     "当前",
+     "长远",
+     "形成",
+     "共促",
+     "高质量",
+     "发展"
+    ]
+   },
+   {
+    "title": "余承东：用L3开车能睡觉，别睡过去就行",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 0,
+    "rank": 5,
+    "url": "https://www.thepaper.cn/newsDetail_forward_34521221",
+    "board": "澎湃新闻",
+    "tokens": [
+     "余承东",
+     "L3",
+     "开车",
+     "睡觉",
+     "睡过去",
+     "就行"
+    ]
    }
   ],
   "resonance": [
@@ -2115,7 +2122,7 @@ window.CATCH_DATA = {
      "weibo",
      "zhihu"
     ],
-    "count": 3
+    "count": 4
    },
    {
     "token": "APEC",
@@ -2123,7 +2130,7 @@ window.CATCH_DATA = {
      "news",
      "weibo"
     ],
-    "count": 3
+    "count": 4
    },
    {
     "token": "顺丰速运",
@@ -2362,11 +2369,11 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "zhihu": 18080000,
-    "news": 19412000,
-    "weibo": 1670000
+    "weibo": 1670000,
+    "zhihu": 21260000,
+    "news": 80020000
    },
-   "heat": 39162000,
+   "heat": 102950000,
    "members": [
     {
      "platform": "zhihu",
@@ -3132,26 +3139,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 4,
-    "videos_skipped": 12,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "特朗普",
-     "发布会",
-     "APEC",
-     "经贸合作",
-     "数据中心",
-     "YMCA"
-    ],
-    "cached": 877,
-    "fresh": 123,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "cached_rejected": 246,
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 13.6,
@@ -3464,17 +3455,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T12:00:00+08:00",
-      "label": "12:00",
-      "total": 293097000,
-      "platforms": {
-       "news": 279237000,
-       "zhihu": 10210000,
-       "weibo": 3650000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T13:00:00+08:00",
       "label": "13:00",
       "total": 302712000,
@@ -3685,16 +3665,27 @@ window.CATCH_DATA = {
      {
       "t": "2026-11-21T18:00:00+08:00",
       "label": "18:00",
-      "total": 39162000,
+      "total": 95848000,
       "platforms": {
-       "zhihu": 18080000,
-       "news": 19412000,
-       "weibo": 1670000
+       "weibo": 1670000,
+       "zhihu": 21260000,
+       "news": 72918000
+      },
+      "type": "measured"
+     },
+     {
+      "t": "2026-11-21T19:00:00+08:00",
+      "label": "19:00",
+      "total": 102950000,
+      "platforms": {
+       "weibo": 1670000,
+       "zhihu": 21260000,
+       "news": 80020000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T18:15:33.177521+08:00",
+    "updatedAt": "2026-11-21T19:01:06.437357+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -3809,7 +3800,7 @@ window.CATCH_DATA = {
      "source": "CATCH 本轮实测榜单"
     }
    ],
-   "sourceCount": 12,
+   "sourceCount": 10,
    "resonance": 3,
    "commentRelevance": {
     "tokens": [
@@ -3817,8 +3808,8 @@ window.CATCH_DATA = {
      "特朗普在",
      "日网民",
      "深圳",
-     "高市",
-     "看看"
+     "看看",
+     "高市"
     ],
     "total": 1000,
     "relevant": 1000,
@@ -3846,11 +3837,11 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "news": 4284000,
-    "zhihu": 1310000,
-    "weibo": 140000
+    "weibo": 140000,
+    "zhihu": 8110000,
+    "news": 9852000
    },
-   "heat": 5734000,
+   "heat": 18102000,
    "members": [
     {
      "platform": "news",
@@ -4568,22 +4559,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 65,
-    "videos_skipped": 155,
     "collected": 714,
-    "want": 1000,
-    "queries": [
-     "余承东",
-     "百余万",
-     "睡过去"
-    ],
-    "cached": 0,
-    "fresh": 714,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 12.7,
@@ -4896,16 +4875,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-18T22:00:00+08:00",
-      "label": "22:00",
-      "total": 2897000,
-      "platforms": {
-       "news": 2517000,
-       "weibo": 380000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-18T23:00:00+08:00",
       "label": "23:00",
       "total": 2897000,
@@ -5113,16 +5082,27 @@ window.CATCH_DATA = {
      {
       "t": "2026-11-21T18:00:00+08:00",
       "label": "18:00",
-      "total": 5734000,
+      "total": 17010000,
       "platforms": {
-       "news": 4284000,
-       "zhihu": 1310000,
-       "weibo": 140000
+       "weibo": 140000,
+       "zhihu": 8110000,
+       "news": 8760000
+      },
+      "type": "measured"
+     },
+     {
+      "t": "2026-11-21T19:00:00+08:00",
+      "label": "19:00",
+      "total": 18102000,
+      "platforms": {
+       "weibo": 140000,
+       "zhihu": 8110000,
+       "news": 9852000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T18:15:33.240799+08:00",
+    "updatedAt": "2026-11-21T19:01:06.511785+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -5243,8 +5223,8 @@ window.CATCH_DATA = {
     "tokens": [
      "余承东",
      "睡觉",
-     "开车",
-     "能睡"
+     "能睡",
+     "开车"
     ],
     "total": 714,
     "relevant": 714,
@@ -5271,10 +5251,10 @@ window.CATCH_DATA = {
     "weibo"
    ],
    "platformHeat": {
-    "news": 11632000,
-    "weibo": 1990000
+    "weibo": 2420000,
+    "news": 20404000
    },
-   "heat": 13622000,
+   "heat": 22824000,
    "members": [
     {
      "platform": "news",
@@ -5976,20 +5956,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 15,
-    "videos_skipped": 55,
     "collected": 141,
-    "want": 1000,
-    "queries": [
-     "顺丰速运"
-    ],
-    "cached": 0,
-    "fresh": 141,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 11.3,
@@ -6302,16 +6272,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-18T22:00:00+08:00",
-      "label": "22:00",
-      "total": 1260000,
-      "platforms": {
-       "zhihu": 950000,
-       "weibo": 310000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-18T23:00:00+08:00",
       "label": "23:00",
       "total": 1200000,
@@ -6524,15 +6484,25 @@ window.CATCH_DATA = {
      {
       "t": "2026-11-21T18:00:00+08:00",
       "label": "18:00",
-      "total": 13622000,
+      "total": 31529000,
       "platforms": {
-       "news": 11632000,
-       "weibo": 1990000
+       "weibo": 2420000,
+       "news": 29109000
+      },
+      "type": "measured"
+     },
+     {
+      "t": "2026-11-21T19:00:00+08:00",
+      "label": "19:00",
+      "total": 22824000,
+      "platforms": {
+       "weibo": 2420000,
+       "news": 20404000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T18:15:33.255091+08:00",
+    "updatedAt": "2026-11-21T19:01:06.529889+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -6651,16 +6621,16 @@ window.CATCH_DATA = {
    "resonance": 2,
    "commentRelevance": {
     "tokens": [
-     "被暂停参加全",
-     "丰速运被暂停",
-     "加全军采购活",
-     "参加全军采购",
-     "速运被暂停参",
-     "顺丰速运被暂",
-     "全军采购活动",
      "停参加全军采",
+     "丰速运被暂停",
      "暂停参加全军",
-     "运被暂停参加"
+     "参加全军采购",
+     "顺丰速运被暂",
+     "运被暂停参加",
+     "速运被暂停参",
+     "加全军采购活",
+     "被暂停参加全",
+     "全军采购活动"
     ],
     "total": 141,
     "relevant": 141,
@@ -6687,10 +6657,10 @@ window.CATCH_DATA = {
     "weibo"
    ],
    "platformHeat": {
-    "news": 10525000,
-    "weibo": 120000
+    "weibo": 120000,
+    "news": 12632000
    },
-   "heat": 10645000,
+   "heat": 12752000,
    "members": [
     {
      "platform": "news",
@@ -6711,20 +6681,7 @@ window.CATCH_DATA = {
    ],
    "comments": [],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 0,
-    "videos_skipped": 75,
-    "collected": 0,
-    "want": 1000,
-    "queries": [
-     "泰国拳"
-    ],
-    "cached": 0,
-    "fresh": 0,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "collected": 0
    },
    "sentiment": {
     "positive": 0.0,
@@ -6748,16 +6705,6 @@ window.CATCH_DATA = {
    ],
    "trend": {
     "series": [
-     {
-      "t": "2026-11-18T22:00:00+08:00",
-      "label": "22:00",
-      "total": 715000,
-      "platforms": {
-       "zhihu": 710000,
-       "wechat": 5000
-      },
-      "type": "measured"
-     },
      {
       "t": "2026-11-18T23:00:00+08:00",
       "label": "23:00",
@@ -6966,13 +6913,23 @@ window.CATCH_DATA = {
       "label": "18:00",
       "total": 10645000,
       "platforms": {
-       "news": 10525000,
-       "weibo": 120000
+       "weibo": 120000,
+       "news": 10525000
+      },
+      "type": "measured"
+     },
+     {
+      "t": "2026-11-21T19:00:00+08:00",
+      "label": "19:00",
+      "total": 12752000,
+      "platforms": {
+       "weibo": 120000,
+       "news": 12632000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T18:15:33.255956+08:00",
+    "updatedAt": "2026-11-21T19:01:06.534434+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -7091,8 +7048,8 @@ window.CATCH_DATA = {
    "resonance": 2,
    "commentRelevance": {
     "tokens": [
-     "黄景瑜腿绞泰",
      "腿绞泰国拳王",
+     "黄景瑜腿绞泰",
      "瑜腿绞泰国拳",
      "景瑜腿绞泰国"
     ],
@@ -7121,10 +7078,10 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "news": 2595000,
-    "zhihu": 1640000
+    "zhihu": 1370000,
+    "news": 87000
    },
-   "heat": 4235000,
+   "heat": 1457000,
    "members": [
     {
      "platform": "news",
@@ -7826,21 +7783,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 25,
-    "videos_skipped": 21,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "意味着",
-     "厄尔尼诺"
-    ],
-    "cached": 0,
-    "fresh": 1000,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 8.2,
@@ -8353,16 +8299,26 @@ window.CATCH_DATA = {
      {
       "t": "2026-11-21T18:00:00+08:00",
       "label": "18:00",
-      "total": 4235000,
+      "total": 3965000,
       "platforms": {
-       "news": 2595000,
-       "zhihu": 1640000
+       "zhihu": 1370000,
+       "news": 2595000
+      },
+      "type": "measured"
+     },
+     {
+      "t": "2026-11-21T19:00:00+08:00",
+      "label": "19:00",
+      "total": 1457000,
+      "platforms": {
+       "zhihu": 1370000,
+       "news": 87000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T18:15:33.360268+08:00",
-    "measuredPoints": 22
+    "updatedAt": "2026-11-21T19:01:06.629244+08:00",
+    "measuredPoints": 23
    },
    "risk": {
     "score": 28,
@@ -8502,5 +8458,5 @@ window.CATCH_DATA = {
    "commentsFile": "assets/data/comments/E05.json"
   }
  ],
- "builtAt": "2026-11-21T18:23:47.254126+08:00"
+ "builtAt": "2026-11-21T19:01:07.296878+08:00"
 };
