@@ -90,6 +90,7 @@ jobs:
           cp -f index.html _site/
           cp -f assets/css/catch.css _site/assets/css/
           cp -f assets/js/app.js assets/js/data.js _site/assets/js/
+          cp -f assets/data/meta.json _site/assets/data/meta.json
           cp -f assets/data/comments/*.json _site/assets/data/comments/ 2>/dev/null || true
           [ -d assets/img ] && cp -rf assets/img _site/assets/ || true
           touch _site/.nojekyll

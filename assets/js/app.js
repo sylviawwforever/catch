@@ -1145,9 +1145,30 @@
     const isLocal = location.protocol === "file:" ||
       host === "localhost" || host === "127.0.0.1" || host === "[::1]";
     if (!isLocal) {
-      // 公网部署版：数据由云端定时采集写入，页面本身只读
-      btn.style.display = "none";
-      if (st0) st0.textContent = "数据由云端定时采集自动更新：每日 09:00 完整采集，每小时增量。";
+      // 公网静态站点不能安全地把 GitHub 写权限放进浏览器。
+      // 但“刷新”仍然真实执行：重新请求带时间戳的页面和最新 data.js，
+      // 读取云端最近一次已发布快照，而不是只做视觉上的 reload。
+      btn.textContent = "刷新云端数据";
+      if (st0) st0.textContent = "云端每小时采集；点击后读取最近一次成功发布的快照。";
+      btn.addEventListener("click", () => {
+        if (st0) st0.textContent = "正在读取云端最新快照…";
+        btn.disabled = true;
+        const u = new URL(window.location.href);
+        u.searchParams.set("refresh", Date.now());
+        window.location.replace(u.toString());
+      });
+      // 所有访客打开后每 5 分钟检查一次新快照；发现 generatedAt 变化就自动重载。
+      setTimeout(async () => {
+        try {
+          const r = await fetch("assets/js/data.js?fresh=" + Date.now(),
+                                { cache: "no-store" });
+          const text = await r.text();
+          const m = text.match(/"generatedAt"\s*:\s*"([^"]+)"/);
+          if (m && META.generatedAt && m[1] !== META.generatedAt) {
+            window.location.reload();
+          }
+        } catch (_) { /* 静态站点暂时不可达时保留当前快照 */ }
+      }, 5 * 60 * 1000);
       return;
     }
     btn.addEventListener("click", async () => {

@@ -73,6 +73,15 @@ window.CATCH_DATA = {
     "note": "Instagram 未登录访问返回登录墙，此处为公开第三方趋势索引（话题级，非原帖）",
     "name": "Instagram",
     "emoji": "📷"
+   },
+   "bili": {
+    "source": "B站公开搜索与评论接口",
+    "items": 2855,
+    "ok": true,
+    "error": null,
+    "name": "哔哩哔哩",
+    "emoji": "📺",
+    "note": "B站评论按事件相关性闸门抽样，不等同于全站舆情全量"
    }
   },
   "slangStatus": {
@@ -94,7 +103,22 @@ window.CATCH_DATA = {
    "rawScanned": 360,
    "slang": 5
   },
-  "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / Instagram / B站 公开榜单与真实接口"
+  "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / Instagram / B站 公开榜单与真实接口",
+  "issueDate": "2026-11-21",
+  "issueNo": "001",
+  "degradedPlatforms": [
+   "xhs",
+   "instagram"
+  ],
+  "partial": true,
+  "failedPlatforms": [
+   "xhs"
+  ],
+  "freshness": {
+   "generatedAt": "2026-11-21T19:21:31.181220+08:00",
+   "maxExpectedAgeMinutes": 90,
+   "note": "页面展示最近一次成功发布的云端快照；单个平台失败会明确标记"
+  }
  },
  "hotspots": {
   "text": [
@@ -6624,15 +6648,15 @@ window.CATCH_DATA = {
    "resonance": 2,
    "commentRelevance": {
     "tokens": [
-     "暂停参加全军",
      "全军采购活动",
-     "丰速运被暂停",
-     "参加全军采购",
-     "速运被暂停参",
-     "被暂停参加全",
-     "停参加全军采",
      "运被暂停参加",
+     "参加全军采购",
+     "停参加全军采",
+     "被暂停参加全",
+     "丰速运被暂停",
+     "暂停参加全军",
      "顺丰速运被暂",
+     "速运被暂停参",
      "加全军采购活"
     ],
     "total": 141,
@@ -7051,9 +7075,9 @@ window.CATCH_DATA = {
    "resonance": 2,
    "commentRelevance": {
     "tokens": [
+     "黄景瑜腿绞泰",
      "瑜腿绞泰国拳",
      "景瑜腿绞泰国",
-     "黄景瑜腿绞泰",
      "腿绞泰国拳王"
     ],
     "total": 0,
@@ -8461,5 +8485,5 @@ window.CATCH_DATA = {
    "commentsFile": "assets/data/comments/E05.json"
   }
  ],
- "builtAt": "2026-11-21T19:21:32.776463+08:00"
+ "builtAt": "2026-11-21T19:58:19.309158+08:00"
 };

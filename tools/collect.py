@@ -59,6 +59,31 @@ PLATFORMS = {
     "instagram": {"name": "Instagram", "emoji": "📷"},
 }
 
+
+def xhs_json(cmd: list[str]) -> dict:
+    """调用可选的 xhs CLI，并把缺少登录态/命令的情况转成结构化错误。
+
+    公网 GitHub Actions 不会自动继承本机浏览器 Cookie。只有在运行环境安装
+    xhs CLI 且配置了登录态时，才会叠加真实笔记与评论；否则仍保留公开热榜，
+    并在 platformStatus 中明确标记，而不是伪造在线状态。
+    """
+    try:
+        p = subprocess.run(cmd, capture_output=True, text=True, timeout=60)
+    except FileNotFoundError:
+        return {"_error": "xhs CLI 未安装"}
+    except Exception as e:
+        return {"_error": str(e)[:160]}
+    raw = (p.stdout or "").strip()
+    if not raw:
+        return {"_error": (p.stderr or "xhs CLI 无返回").strip()[:160]}
+    try:
+        data = json.loads(raw)
+    except Exception:
+        return {"_error": (p.stderr or raw[:160]).strip()}
+    if p.returncode != 0:
+        data.setdefault("_error", (p.stderr or "xhs CLI 执行失败").strip()[:160])
+    return data
+
 TOPHUB_BOARDS = {
     "weibo":  [("微博热搜榜", "KqndgxeLl9")],
     "douyin": [("抖音视频总榜", "yjvQ9wDvbg"), ("抖音热点榜", "Dgey31RvZq")],
@@ -1612,7 +1637,7 @@ def _prev_last_full_run() -> str:
 
 
 def main() -> int:
-    hourly = "--hourly" in sys.argv
+    requested_hourly = "--hourly" in sys.argv
     want_comments = "--no-comments" not in sys.argv
     n_events = 5          # 每日固定选取 5 个舆情事件
     cmt_target = 1000     # 每事件真实热评目标条数
@@ -1629,10 +1654,21 @@ def main() -> int:
     os.makedirs(DATA, exist_ok=True)
     t0 = time.time()
     now = datetime.now(CST)
+    # 云端工作流每小时统一调用 --hourly。跨午夜后的第一轮必须自动升级为
+    # 完整采集，否则会沿用昨天的事件集，页面会出现“日期是今天、内容是昨天”。
+    hourly = requested_hourly and _prev_last_full_run() == now.strftime("%Y-%m-%d")
+    if requested_hourly and not hourly:
+        print("[CATCH] 今天尚未完成完整采集，自动升级为 full")
     print(f"[CATCH] 采集开始 {now:%Y-%m-%d %H:%M:%S} CST{'（hourly 增量）' if hourly else ''}")
 
-    platform_items: dict[str, list[dict]] = {}
-    status: dict[str, dict] = {}
+    # 预先建立所有平台状态，保证某个平台失败时页面不会把“缺失”误显示成“没有数据”。
+    tracked_platforms = [k for k in PLATFORMS if k != "bili"]
+    platform_items: dict[str, list[dict]] = {k: [] for k in tracked_platforms}
+    status: dict[str, dict] = {
+        k: {"ok": False, "items": 0, "error": "本轮未完成采集",
+            "name": PLATFORMS[k]["name"], "emoji": PLATFORMS[k]["emoji"]}
+        for k in tracked_platforms
+    }
 
     def safe(key, fn):
         try:
@@ -1843,6 +1879,21 @@ def main() -> int:
             "resonance": len(ev["platforms"]),
         })
 
+    # B站只作为事件热评来源，不进入热榜排序；仍单独展示真实采集状态。
+    bili_comments = sum(
+        1 for e in events for c in (e.get("comments") or [])
+        if c.get("platform") == "bili"
+    )
+    status["bili"] = {
+        "source": "B站公开搜索与评论接口",
+        "items": bili_comments,
+        "ok": bool(bili_comments),
+        "error": None if bili_comments else "本轮没有取得可验证的B站评论样本",
+        "name": PLATFORMS["bili"]["name"],
+        "emoji": PLATFORMS["bili"]["emoji"],
+        "note": "B站评论按事件相关性闸门抽样，不等同于全站舆情全量",
+    }
+
     # ── 热点：文字 ──
     pool = []
     for pid, items in platform_items.items():
@@ -1931,8 +1982,36 @@ def main() -> int:
                 "resonance": resonance[:24],
                 "slang": slang_rows}
 
+    prev_meta = {}
+    try:
+        with open(os.path.join(DATA, "meta.json"), encoding="utf-8") as f:
+            prev_meta = json.load(f) or {}
+    except Exception:
+        pass
+    today = now.strftime("%Y-%m-%d")
+    try:
+        previous_no = int(str(prev_meta.get("issueNo", "0")).lstrip("0") or "0")
+    except ValueError:
+        previous_no = 0
+    if prev_meta.get("issueDate") == today:
+        issue_no = previous_no or 1
+    elif prev_meta.get("issueDate") or prev_meta.get("dateLabel"):
+        issue_no = previous_no + 1
+    else:
+        issue_no = 1
+
+    failed_platforms = [
+        k for k, v in status.items()
+        if (not v.get("ok") or v.get("needs_login")) and k != "bili"
+    ]
+    degraded_platforms = [
+        k for k, v in status.items()
+        if v.get("needs_login") or v.get("note")
+    ]
     meta = {
         "generatedAt": datetime.now(CST).isoformat(),
+        "issueDate": today,
+        "issueNo": f"{issue_no:03d}",
         "dateLabel": now.strftime("%Y 年 %m 月 %d 日"),
         "weekday": "星期" + "一二三四五六日"[now.weekday()],
         "mode": "hourly" if hourly else "full",
@@ -1943,6 +2022,14 @@ def main() -> int:
                         else _prev_last_full_run()),
         "durationSec": round(time.time() - t0, 1),
         "platformStatus": status,
+        "partial": bool(failed_platforms),
+        "failedPlatforms": failed_platforms,
+        "degradedPlatforms": degraded_platforms,
+        "freshness": {
+            "generatedAt": datetime.now(CST).isoformat(),
+            "maxExpectedAgeMinutes": 90,
+            "note": "页面展示最近一次成功发布的云端快照；单个平台失败会明确标记",
+        },
         "slangStatus": slang_status,
         "commentTarget": cmt_target,
         "eventsPerDay": n_events,
