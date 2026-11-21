@@ -1,16 +1,18 @@
 /* CATCH · 自动生成，请勿手工修改 —— 由 tools/build_site.py 装配 */
 window.CATCH_DATA = {
  "meta": {
-  "generatedAt": "2026-11-21T19:21:31.181220+08:00",
+  "generatedAt": "2026-11-21T19:59:06.518609+08:00",
+  "issueDate": "2026-11-21",
+  "issueNo": "001",
   "dateLabel": "2026 年 11 月 21 日",
   "weekday": "星期六",
   "mode": "hourly",
   "lastFullRun": "2026-11-21",
-  "durationSec": 72.1,
+  "durationSec": 12.3,
   "platformStatus": {
    "weibo": {
     "source": "tophub.today · weibo",
-    "items": 51,
+    "items": 52,
     "ok": true,
     "error": null,
     "name": "微博",
@@ -84,6 +86,20 @@ window.CATCH_DATA = {
     "note": "B站评论按事件相关性闸门抽样，不等同于全站舆情全量"
    }
   },
+  "partial": true,
+  "failedPlatforms": [
+   "xhs"
+  ],
+  "degradedPlatforms": [
+   "xhs",
+   "instagram",
+   "bili"
+  ],
+  "freshness": {
+   "generatedAt": "2026-11-21T19:59:06.518717+08:00",
+   "maxExpectedAgeMinutes": 90,
+   "note": "页面展示最近一次成功发布的云端快照；单个平台失败会明确标记"
+  },
   "slangStatus": {
    "source": "近 7 天公开热榜逐日归档 · 微博 / 抖音 / 知乎 / 百度 / 今日头条",
    "window": "2026-11-15 ~ 2026-11-21",
@@ -100,25 +116,10 @@ window.CATCH_DATA = {
    "hotItems": 60,
    "events": 5,
    "comments": 2855,
-   "rawScanned": 360,
+   "rawScanned": 361,
    "slang": 5
   },
-  "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / Instagram / B站 公开榜单与真实接口",
-  "issueDate": "2026-11-21",
-  "issueNo": "001",
-  "degradedPlatforms": [
-   "xhs",
-   "instagram"
-  ],
-  "partial": true,
-  "failedPlatforms": [
-   "xhs"
-  ],
-  "freshness": {
-   "generatedAt": "2026-11-21T19:21:31.181220+08:00",
-   "maxExpectedAgeMinutes": 90,
-   "note": "页面展示最近一次成功发布的云端快照；单个平台失败会明确标记"
-  }
+  "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / Instagram / B站 公开榜单与真实接口"
  },
  "hotspots": {
   "text": [
@@ -140,7 +141,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 18690000,
+    "heat": 20270000,
     "rank": 1,
     "url": "https://www.zhihu.com/question/2107175088915050633",
     "board": "知乎热榜",
@@ -179,7 +180,7 @@ window.CATCH_DATA = {
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 1990000,
+    "heat": 1280000,
     "rank": 1,
     "url": "https://s.weibo.com/weibo?q=%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8",
     "board": "微博热搜榜",
@@ -275,7 +276,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 12450000,
+    "heat": 14090000,
     "rank": 2,
     "url": "https://www.zhihu.com/question/2107262299765306294",
     "board": "知乎热榜",
@@ -307,19 +308,21 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "特朗普在APEC晚宴跳YMCA",
+    "title": "特朗普深圳不拉窗帘原因找到了",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 980000,
+    "heat": 900000,
     "rank": 2,
-    "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8APEC%E6%99%9A%E5%AE%B4%E8%B7%B3YMCA",
+    "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86",
     "board": "微博热搜榜",
     "tokens": [
      "特朗普",
-     "APEC",
-     "晚宴",
-     "YMCA"
+     "深圳",
+     "不拉",
+     "窗帘",
+     "原因",
+     "找到"
     ]
    },
    {
@@ -407,7 +410,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 9020000,
+    "heat": 8510000,
     "rank": 3,
     "url": "https://www.zhihu.com/question/2106756998976857637",
     "board": "知乎热榜",
@@ -443,7 +446,7 @@ window.CATCH_DATA = {
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 770000,
+    "heat": 700000,
     "rank": 3,
     "url": "https://s.weibo.com/weibo?q=%E5%94%B1%E7%A9%BA%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%80%85%E7%BB%88%E4%BC%9A%E8%90%BD%E7%A9%BA",
     "board": "微博热搜榜",
@@ -530,23 +533,23 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Gta6》M 站用户开分仅 3.7 分，现已 5.4 分，如何看待用户评分与媒体评分两极分化？",
+    "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 5130000,
+    "heat": 3010000,
     "rank": 4,
-    "url": "https://www.zhihu.com/question/2107390437933707560",
+    "url": "https://www.zhihu.com/question/2106706684672471150",
     "board": "知乎热榜",
     "tokens": [
-     "Gta6",
-     "用户",
-     "开分",
-     "3.7",
-     "现已",
-     "5.4",
-     "看待",
-     "用户"
+     "韩国",
+     "首次",
+     "紧急",
+     "灾难",
+     "通知",
+     "全国",
+     "手机",
+     "响铃"
     ]
    },
    {
@@ -564,20 +567,19 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "享界V8开启全国交付",
+    "title": "沈腾摔倒现发所有人都在扶",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 730000,
+    "heat": 680000,
     "rank": 4,
-    "url": "https://s.weibo.com/weibo?q=%E4%BA%AB%E7%95%8CV8%E5%BC%80%E5%90%AF%E5%85%A8%E5%9B%BD%E4%BA%A4%E4%BB%98",
+    "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E6%91%94%E5%80%92%E7%8E%B0%E5%8F%91%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E5%9C%A8%E6%89%B6",
     "board": "微博热搜榜",
     "tokens": [
-     "享界",
-     "V8",
-     "开启",
-     "全国",
-     "交付"
+     "沈腾",
+     "摔倒",
+     "现发",
+     "所有人"
     ]
    },
    {
@@ -663,7 +665,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 5100000,
+    "heat": 2990000,
     "rank": 5,
     "url": "https://www.zhihu.com/question/621050716",
     "board": "知乎热榜",
@@ -692,19 +694,19 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "猫的树今天是太阳雨收官长文",
+    "title": "特朗普在APEC晚宴跳YMCA",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 540000,
+    "heat": 470000,
     "rank": 5,
-    "url": "https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E6%94%B6%E5%AE%98%E9%95%BF%E6%96%87",
+    "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8APEC%E6%99%9A%E5%AE%B4%E8%B7%B3YMCA",
     "board": "微博热搜榜",
     "tokens": [
-     "今天",
-     "太阳雨",
-     "收官",
-     "长文"
+     "特朗普",
+     "APEC",
+     "晚宴",
+     "YMCA"
     ]
    },
    {
@@ -788,23 +790,23 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
+    "title": "摩尔线程官宣消费级显卡「庐山」，宣称光追暴涨 50 倍且刷新显存上限，实际体验能达到预期吗？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 5060000,
+    "heat": 2970000,
     "rank": 6,
-    "url": "https://www.zhihu.com/question/2106706684672471150",
+    "url": "https://www.zhihu.com/question/2107187179504006217",
     "board": "知乎热榜",
     "tokens": [
-     "韩国",
-     "首次",
-     "紧急",
-     "灾难",
-     "通知",
-     "全国",
-     "手机",
-     "响铃"
+     "摩尔",
+     "线程",
+     "官宣",
+     "消费",
+     "显卡",
+     "庐山",
+     "宣称",
+     "暴涨"
     ]
    },
    {
@@ -826,22 +828,17 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "八马茶业被暂停参加全军采购活动",
+    "title": "白小纯 青稚",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 430000,
+    "heat": 450000,
     "rank": 6,
-    "url": "https://s.weibo.com/weibo?q=%E5%85%AB%E9%A9%AC%E8%8C%B6%E4%B8%9A%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8",
+    "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E9%9D%92%E7%A8%9A",
     "board": "微博热搜榜",
     "tokens": [
-     "八马",
-     "茶业",
-     "暂停",
-     "参加",
-     "全军",
-     "采购",
-     "活动"
+     "白小纯",
+     "青稚"
     ]
    },
    {
@@ -926,23 +923,23 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "BLG 夺冠，能唤回多少国内玩家的热情重回《英雄联盟》？",
+    "title": "特朗普称不允许美企海外建数据中心，如果违反将面临「巨额税收」处罚，这会对美国科技公司发展带来哪些影响？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 3820000,
+    "heat": 2810000,
     "rank": 7,
-    "url": "https://www.zhihu.com/question/2105255823601619027",
+    "url": "https://www.zhihu.com/question/2107449650592445764",
     "board": "知乎热榜",
     "tokens": [
-     "BLG",
-     "夺冠",
-     "唤回",
-     "多少",
-     "国内",
-     "玩家",
-     "热情",
-     "重回"
+     "特朗普",
+     "允许",
+     "美企",
+     "海外",
+     "数据中心",
+     "如果",
+     "违反",
+     "面临"
     ]
    },
    {
@@ -962,18 +959,20 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "两京十五日台词",
+    "title": "市场检查高额罚款消息是谣言",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 330000,
+    "heat": 370000,
     "rank": 7,
-    "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8F%B0%E8%AF%8D",
+    "url": "https://s.weibo.com/weibo?q=%E5%B8%82%E5%9C%BA%E6%A3%80%E6%9F%A5%E9%AB%98%E9%A2%9D%E7%BD%9A%E6%AC%BE%E6%B6%88%E6%81%AF%E6%98%AF%E8%B0%A3%E8%A8%80",
     "board": "微博热搜榜",
     "tokens": [
-     "两京",
-     "十五日",
-     "台词"
+     "市场",
+     "检查",
+     "高额",
+     "罚款",
+     "谣言"
     ]
    },
    {
@@ -1057,7 +1056,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 2610000,
+    "heat": 2600000,
     "rank": 8,
     "url": "https://www.zhihu.com/question/2106416810002273776",
     "board": "知乎热榜",
@@ -1090,21 +1089,17 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "恨明月高悬独不照我 拆迁没拆到自己家",
+    "title": "Tim说我爹太离谱了",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 310000,
+    "heat": 360000,
     "rank": 8,
-    "url": "https://s.weibo.com/weibo?q=%E6%81%A8%E6%98%8E%E6%9C%88%E9%AB%98%E6%82%AC%E7%8B%AC%E4%B8%8D%E7%85%A7%E6%88%91+%E6%8B%86%E8%BF%81%E6%B2%A1%E6%8B%86%E5%88%B0%E8%87%AA%E5%B7%B1%E5%AE%B6",
+    "url": "https://s.weibo.com/weibo?q=Tim%E8%AF%B4%E6%88%91%E7%88%B9%E5%A4%AA%E7%A6%BB%E8%B0%B1%E4%BA%86",
     "board": "微博热搜榜",
     "tokens": [
-     "明月",
-     "高悬",
-     "独不照",
-     "拆迁",
-     "拆到",
-     "自己"
+     "Tim",
+     "离谱"
     ]
    }
   ],
@@ -1114,7 +1109,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 18690000,
+    "heat": 20270000,
     "rank": 1,
     "url": "https://www.zhihu.com/question/2107175088915050633",
     "board": "知乎热榜",
@@ -1167,7 +1162,7 @@ window.CATCH_DATA = {
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 1990000,
+    "heat": 1280000,
     "rank": 1,
     "url": "https://s.weibo.com/weibo?q=%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90%E8%A2%AB%E6%9A%82%E5%81%9C%E5%8F%82%E5%8A%A0%E5%85%A8%E5%86%9B%E9%87%87%E8%B4%AD%E6%B4%BB%E5%8A%A8",
     "board": "微博热搜榜",
@@ -1373,7 +1368,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 12450000,
+    "heat": 14090000,
     "rank": 2,
     "url": "https://www.zhihu.com/question/2107262299765306294",
     "board": "知乎热榜",
@@ -1435,19 +1430,21 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "特朗普在APEC晚宴跳YMCA",
+    "title": "特朗普深圳不拉窗帘原因找到了",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 980000,
+    "heat": 900000,
     "rank": 2,
-    "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8APEC%E6%99%9A%E5%AE%B4%E8%B7%B3YMCA",
+    "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86",
     "board": "微博热搜榜",
     "tokens": [
      "特朗普",
-     "APEC",
-     "晚宴",
-     "YMCA"
+     "深圳",
+     "不拉",
+     "窗帘",
+     "原因",
+     "找到"
     ]
    },
    {
@@ -1592,7 +1589,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 9020000,
+    "heat": 8510000,
     "rank": 3,
     "url": "https://www.zhihu.com/question/2106756998976857637",
     "board": "知乎热榜",
@@ -1642,7 +1639,7 @@ window.CATCH_DATA = {
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 770000,
+    "heat": 700000,
     "rank": 3,
     "url": "https://s.weibo.com/weibo?q=%E5%94%B1%E7%A9%BA%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%80%85%E7%BB%88%E4%BC%9A%E8%90%BD%E7%A9%BA",
     "board": "微博热搜榜",
@@ -1798,26 +1795,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Gta6》M 站用户开分仅 3.7 分，现已 5.4 分，如何看待用户评分与媒体评分两极分化？",
-    "platform": "zhihu",
-    "platformName": "知乎",
-    "emoji": "💡",
-    "heat": 5130000,
-    "rank": 4,
-    "url": "https://www.zhihu.com/question/2107390437933707560",
-    "board": "知乎热榜",
-    "tokens": [
-     "Gta6",
-     "用户",
-     "开分",
-     "3.7",
-     "现已",
-     "5.4",
-     "看待",
-     "用户"
-    ]
-   },
-   {
     "title": "lucia",
     "platform": "instagram",
     "platformName": "Instagram",
@@ -1831,20 +1808,39 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "享界V8开启全国交付",
+    "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
+    "platform": "zhihu",
+    "platformName": "知乎",
+    "emoji": "💡",
+    "heat": 3010000,
+    "rank": 4,
+    "url": "https://www.zhihu.com/question/2106706684672471150",
+    "board": "知乎热榜",
+    "tokens": [
+     "韩国",
+     "首次",
+     "紧急",
+     "灾难",
+     "通知",
+     "全国",
+     "手机",
+     "响铃"
+    ]
+   },
+   {
+    "title": "沈腾摔倒现发所有人都在扶",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 730000,
+    "heat": 680000,
     "rank": 4,
-    "url": "https://s.weibo.com/weibo?q=%E4%BA%AB%E7%95%8CV8%E5%BC%80%E5%90%AF%E5%85%A8%E5%9B%BD%E4%BA%A4%E4%BB%98",
+    "url": "https://s.weibo.com/weibo?q=%E6%B2%88%E8%85%BE%E6%91%94%E5%80%92%E7%8E%B0%E5%8F%91%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E5%9C%A8%E6%89%B6",
     "board": "微博热搜榜",
     "tokens": [
-     "享界",
-     "V8",
-     "开启",
-     "全国",
-     "交付"
+     "沈腾",
+     "摔倒",
+     "现发",
+     "所有人"
     ]
    },
    {
@@ -1996,7 +1992,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 5100000,
+    "heat": 2990000,
     "rank": 5,
     "url": "https://www.zhihu.com/question/621050716",
     "board": "知乎热榜",
@@ -2008,19 +2004,19 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "猫的树今天是太阳雨收官长文",
+    "title": "特朗普在APEC晚宴跳YMCA",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 540000,
+    "heat": 470000,
     "rank": 5,
-    "url": "https://s.weibo.com/weibo?q=%E7%8C%AB%E7%9A%84%E6%A0%91%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E6%94%B6%E5%AE%98%E9%95%BF%E6%96%87",
+    "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8APEC%E6%99%9A%E5%AE%B4%E8%B7%B3YMCA",
     "board": "微博热搜榜",
     "tokens": [
-     "今天",
-     "太阳雨",
-     "收官",
-     "长文"
+     "特朗普",
+     "APEC",
+     "晚宴",
+     "YMCA"
     ]
    },
    {
@@ -2149,7 +2145,7 @@ window.CATCH_DATA = {
      "weibo",
      "zhihu"
     ],
-    "count": 4
+    "count": 6
    },
    {
     "token": "APEC",
@@ -2396,11 +2392,11 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "weibo": 1670000,
-    "zhihu": 21260000,
+    "weibo": 1630000,
+    "zhihu": 23080000,
     "news": 80020000
    },
-   "heat": 102950000,
+   "heat": 104730000,
    "members": [
     {
      "platform": "zhihu",
@@ -3703,16 +3699,16 @@ window.CATCH_DATA = {
      {
       "t": "2026-11-21T19:00:00+08:00",
       "label": "19:00",
-      "total": 102950000,
+      "total": 104730000,
       "platforms": {
-       "weibo": 1670000,
-       "zhihu": 21260000,
+       "weibo": 1630000,
+       "zhihu": 23080000,
        "news": 80020000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T19:21:30.722574+08:00",
+    "updatedAt": "2026-11-21T19:59:06.070350+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -3864,11 +3860,11 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "weibo": 140000,
-    "zhihu": 8110000,
+    "weibo": 150000,
+    "zhihu": 5230000,
     "news": 9847000
    },
-   "heat": 18097000,
+   "heat": 15227000,
    "members": [
     {
      "platform": "news",
@@ -5120,16 +5116,16 @@ window.CATCH_DATA = {
      {
       "t": "2026-11-21T19:00:00+08:00",
       "label": "19:00",
-      "total": 18097000,
+      "total": 15227000,
       "platforms": {
-       "weibo": 140000,
-       "zhihu": 8110000,
+       "weibo": 150000,
+       "zhihu": 5230000,
        "news": 9847000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T19:21:30.882472+08:00",
+    "updatedAt": "2026-11-21T19:59:06.225777+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -5250,8 +5246,8 @@ window.CATCH_DATA = {
     "tokens": [
      "余承东",
      "睡觉",
-     "能睡",
-     "开车"
+     "开车",
+     "能睡"
     ],
     "total": 714,
     "relevant": 714,
@@ -5278,10 +5274,10 @@ window.CATCH_DATA = {
     "weibo"
    ],
    "platformHeat": {
-    "weibo": 2420000,
+    "weibo": 1560000,
     "news": 20404000
    },
-   "heat": 22824000,
+   "heat": 21964000,
    "members": [
     {
      "platform": "news",
@@ -6521,15 +6517,15 @@ window.CATCH_DATA = {
      {
       "t": "2026-11-21T19:00:00+08:00",
       "label": "19:00",
-      "total": 22824000,
+      "total": 21964000,
       "platforms": {
-       "weibo": 2420000,
+       "weibo": 1560000,
        "news": 20404000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T19:21:30.924986+08:00",
+    "updatedAt": "2026-11-21T19:59:06.267999+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -6648,16 +6644,16 @@ window.CATCH_DATA = {
    "resonance": 2,
    "commentRelevance": {
     "tokens": [
-     "全军采购活动",
-     "运被暂停参加",
-     "参加全军采购",
      "停参加全军采",
-     "被暂停参加全",
-     "丰速运被暂停",
+     "加全军采购活",
      "暂停参加全军",
-     "顺丰速运被暂",
+     "全军采购活动",
      "速运被暂停参",
-     "加全军采购活"
+     "丰速运被暂停",
+     "运被暂停参加",
+     "顺丰速运被暂",
+     "被暂停参加全",
+     "参加全军采购"
     ],
     "total": 141,
     "relevant": 141,
@@ -6684,10 +6680,9 @@ window.CATCH_DATA = {
     "weibo"
    ],
    "platformHeat": {
-    "weibo": 120000,
     "news": 12632000
    },
-   "heat": 12752000,
+   "heat": 12632000,
    "members": [
     {
      "platform": "news",
@@ -6948,15 +6943,14 @@ window.CATCH_DATA = {
      {
       "t": "2026-11-21T19:00:00+08:00",
       "label": "19:00",
-      "total": 12752000,
+      "total": 12632000,
       "platforms": {
-       "weibo": 120000,
        "news": 12632000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T19:21:30.937050+08:00",
+    "updatedAt": "2026-11-21T19:59:06.279656+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -7075,10 +7069,10 @@ window.CATCH_DATA = {
    "resonance": 2,
    "commentRelevance": {
     "tokens": [
-     "黄景瑜腿绞泰",
      "瑜腿绞泰国拳",
-     "景瑜腿绞泰国",
-     "腿绞泰国拳王"
+     "腿绞泰国拳王",
+     "黄景瑜腿绞泰",
+     "景瑜腿绞泰国"
     ],
     "total": 0,
     "relevant": 0,
@@ -7105,10 +7099,10 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "zhihu": 1370000,
+    "zhihu": 1390000,
     "news": 87000
    },
-   "heat": 1457000,
+   "heat": 1477000,
    "members": [
     {
      "platform": "news",
@@ -8336,15 +8330,15 @@ window.CATCH_DATA = {
      {
       "t": "2026-11-21T19:00:00+08:00",
       "label": "19:00",
-      "total": 1457000,
+      "total": 1477000,
       "platforms": {
-       "zhihu": 1370000,
+       "zhihu": 1390000,
        "news": 87000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T19:21:31.144966+08:00",
+    "updatedAt": "2026-11-21T19:59:06.482927+08:00",
     "measuredPoints": 23
    },
    "risk": {
@@ -8485,5 +8479,5 @@ window.CATCH_DATA = {
    "commentsFile": "assets/data/comments/E05.json"
   }
  ],
- "builtAt": "2026-11-21T19:58:19.309158+08:00"
+ "builtAt": "2026-11-21T19:59:08.100672+08:00"
 };
