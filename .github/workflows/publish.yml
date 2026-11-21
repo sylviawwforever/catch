@@ -1,0 +1,119 @@
+name: CATCH 云端采集与发布
+
+# 云端自动采集 → 装配页面 → 推送到发布分支 → GitHub Pages 自动上线
+# 任何人都能通过固定链接看到最新一期数据，不依赖任何一台本地电脑。
+on:
+  schedule:
+    - cron: "0 1 * * *"    # 01:00 UTC = 北京时间 09:00 · 完整采集
+    - cron: "10 * * * *"   # 每小时第 10 分 · 增量采集
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "采集模式"
+        required: false
+        default: "full"
+        type: choice
+        options: [full, hourly]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: catch-collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    name: 采集 · 装配 · 发布
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      # 发布目标仓库。默认推到本仓库的 gh-pages 分支（无需任何额外密钥）；
+      # 若源仓库为私有，则把 vars.SITE_REPOSITORY 指向公开的产物仓库，
+      # 并把 secrets.SITE_TOKEN 设成可写该仓库的 PAT。
+      SITE_REPOSITORY: ${{ vars.SITE_REPOSITORY || github.repository }}
+      SITE_TOKEN: ${{ secrets.SITE_TOKEN || secrets.GITHUB_TOKEN }}
+      SITE_BRANCH: gh-pages
+      SOURCE_BRANCH: ${{ github.event.repository.default_branch }}
+
+    steps:
+      - name: 检出源码
+        uses: actions/checkout@v4
+
+      - name: 安装 Python 依赖
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 安装 jieba（流行语分词）
+        run: pip install jieba
+
+      # 热评缓存是云端方案的关键：冷启动时要现抓 5 个事件 × 1000 条评论，
+      # 既慢又极易撞上 B 站频率限制。有了跨轮缓存，每轮只需补抓新增部分。
+      # key 按天收敛：同一天复用同一个缓存条目，避免每小时新建一份撑爆配额。
+      - name: 计算缓存键
+        id: cachekey
+        run: echo "key=catch-cache-$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: 恢复热评与百科缓存
+        uses: actions/cache@v4
+        with:
+          path: |
+            assets/data/comments_cache.json
+            assets/data/slang_baike_cache.json
+          key: ${{ steps.cachekey.outputs.key }}
+          restore-keys: catch-cache-
+
+      - name: 采集公开热榜与真实热评
+        run: |
+          MODE="${{ github.event.inputs.mode || 'full' }}"
+          if [ "$MODE" = "hourly" ]; then
+            python -u tools/collect.py --hourly
+          else
+            python -u tools/collect.py --events 5 --comment-target 1000
+          fi
+
+      - name: 装配前端页面
+        run: python -u tools/build_site.py
+
+      - name: 提交采集结果回源仓库
+        # 增量采集要靠 meta.json 里的 lastFullRun 判断「今天是否已完整采集」，
+        # 所以每期的状态文件必须留在源仓库，下一轮才能接着走。
+        run: |
+          git config user.name "catch-bot"
+          git config user.email "catch-bot@users.noreply.github.com"
+          git add -f assets/data/meta.json assets/data/events.json \
+                    assets/data/history.json assets/data/hotspots.json \
+                    assets/js/data.js assets/data/comments/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "采集结果无变化，跳过源仓库提交。"
+          else
+            git commit -m "data: 更新 $(date -u +'%Y-%m-%d %H:%M UTC') 采集结果"
+            git push "https://x-access-token:${SITE_TOKEN}@github.com/${SITE_REPOSITORY}.git" \
+                   "HEAD:${SOURCE_BRANCH}"
+          fi
+
+      - name: 收集发布产物
+        run: |
+          rm -rf _site
+          mkdir -p _site/assets/css _site/assets/js _site/assets/data/comments
+          cp -f index.html _site/
+          cp -f assets/css/catch.css _site/assets/css/
+          cp -f assets/js/app.js assets/js/data.js _site/assets/js/
+          cp -f assets/data/comments/*.json _site/assets/data/comments/ 2>/dev/null || true
+          [ -d assets/img ] && cp -rf assets/img _site/assets/ || true
+          touch _site/.nojekyll
+          echo "--- 发布产物 ---"
+          du -sh _site && find _site -maxdepth 2 | head -20
+
+      - name: 推送到发布分支
+        run: |
+          cd _site
+          git init -q
+          git checkout -B "$SITE_BRANCH"
+          git config user.name "catch-bot"
+          git config user.email "catch-bot@users.noreply.github.com"
+          git add -A
+          git commit -q -m "publish: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push -f "https://x-access-token:${SITE_TOKEN}@github.com/${SITE_REPOSITORY}.git" \
+                    "HEAD:${SITE_BRANCH}"
