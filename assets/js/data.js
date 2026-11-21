@@ -1,12 +1,12 @@
 /* CATCH · 自动生成，请勿手工修改 —— 由 tools/build_site.py 装配 */
 window.CATCH_DATA = {
  "meta": {
-  "generatedAt": "2026-11-21T19:01:06.649124+08:00",
+  "generatedAt": "2026-11-21T19:21:31.181220+08:00",
   "dateLabel": "2026 年 11 月 21 日",
   "weekday": "星期六",
   "mode": "hourly",
   "lastFullRun": "2026-11-21",
-  "durationSec": 61.3,
+  "durationSec": 72.1,
   "platformStatus": {
    "weibo": {
     "source": "tophub.today · weibo",
@@ -36,7 +36,7 @@ window.CATCH_DATA = {
    },
    "x": {
     "source": "trends24.in · X 24h 趋势",
-    "items": 24,
+    "items": 23,
     "ok": true,
     "error": null,
     "name": "X",
@@ -91,7 +91,7 @@ window.CATCH_DATA = {
    "hotItems": 60,
    "events": 5,
    "comments": 2855,
-   "rawScanned": 361,
+   "rawScanned": 360,
    "slang": 5
   },
   "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / Instagram / B站 公开榜单与真实接口"
@@ -225,7 +225,7 @@ window.CATCH_DATA = {
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 1,
+    "rank": 2,
     "url": "https://twitter.com/search?q=FSD%20V15",
     "board": "X Trending (24h)",
     "tokens": [
@@ -352,16 +352,17 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Kessler",
+    "title": "#中共选举",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 4,
-    "url": "https://twitter.com/search?q=Kessler",
+    "rank": 6,
+    "url": "https://twitter.com/search?q=%23%E4%B8%AD%E5%85%B1%E9%80%89%E4%B8%BE",
     "board": "X Trending (24h)",
     "tokens": [
-     "Kessler"
+     "中共",
+     "选举"
     ]
    },
    {
@@ -479,17 +480,16 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "#中共选举",
+    "title": "#二十一大",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 6,
-    "url": "https://twitter.com/search?q=%23%E4%B8%AD%E5%85%B1%E9%80%89%E4%B8%BE",
+    "rank": 8,
+    "url": "https://twitter.com/search?q=%23%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A7",
     "board": "X Trending (24h)",
     "tokens": [
-     "中共",
-     "选举"
+     "二十一"
     ]
    },
    {
@@ -609,16 +609,16 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "#二十一大",
+    "title": "Kessler",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 8,
-    "url": "https://twitter.com/search?q=%23%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A7",
+    "rank": 10,
+    "url": "https://twitter.com/search?q=Kessler",
     "board": "X Trending (24h)",
     "tokens": [
-     "二十一"
+     "Kessler"
     ]
    },
    {
@@ -736,16 +736,18 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Jokic",
+    "title": "El Chapo Isidro",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 11,
-    "url": "https://twitter.com/search?q=Jokic",
+    "rank": 14,
+    "url": "https://twitter.com/search?q=El%20Chapo%20Isidro",
     "board": "X Trending (24h)",
     "tokens": [
-     "Jokic"
+     "El",
+     "Chapo",
+     "Isidro"
     ]
    },
    {
@@ -873,18 +875,17 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "El Chapo Isidro",
+    "title": "Kevin Durant",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 14,
-    "url": "https://twitter.com/search?q=El%20Chapo%20Isidro",
+    "rank": 21,
+    "url": "https://twitter.com/search?q=Kevin%20Durant",
     "board": "X Trending (24h)",
     "tokens": [
-     "El",
-     "Chapo",
-     "Isidro"
+     "Kevin",
+     "Durant"
     ]
    },
    {
@@ -1002,16 +1003,16 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Wyoming",
+    "title": "Clemson",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
-    "rank": 15,
-    "url": "https://twitter.com/search?q=Wyoming",
+    "rank": 22,
+    "url": "https://twitter.com/search?q=Clemson",
     "board": "X Trending (24h)",
     "tokens": [
-     "Wyoming"
+     "Clemson"
     ]
    },
    {
@@ -1279,20 +1280,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "FSD V15",
-    "platform": "x",
-    "platformName": "X",
-    "emoji": "✳️",
-    "heat": 0,
-    "rank": 1,
-    "url": "https://twitter.com/search?q=FSD%20V15",
-    "board": "X Trending (24h)",
-    "tokens": [
-     "FSD",
-     "V15"
-    ]
-   },
-   {
     "title": "传递中国声音",
     "platform": "wechat",
     "platformName": "微信公众号",
@@ -1490,6 +1477,20 @@ window.CATCH_DATA = {
      "三年",
      "古诗词",
      "中国"
+    ]
+   },
+   {
+    "title": "FSD V15",
+    "platform": "x",
+    "platformName": "X",
+    "emoji": "✳️",
+    "heat": 0,
+    "rank": 2,
+    "url": "https://twitter.com/search?q=FSD%20V15",
+    "board": "X Trending (24h)",
+    "tokens": [
+     "FSD",
+     "V15"
     ]
    },
    {
@@ -1880,19 +1881,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Kessler",
-    "platform": "x",
-    "platformName": "X",
-    "emoji": "✳️",
-    "heat": 0,
-    "rank": 4,
-    "url": "https://twitter.com/search?q=Kessler",
-    "board": "X Trending (24h)",
-    "tokens": [
-     "Kessler"
-    ]
-   },
-   {
     "title": "全力以赴端牢端稳中国饭碗",
     "platform": "wechat",
     "platformName": "微信公众号",
@@ -2096,21 +2084,36 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "余承东：用L3开车能睡觉，别睡过去就行",
+    "title": "AI检出率”致作者陷自证困局：论文改到“学生作文水平”才达标，却没了学术性",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 5,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34521221",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34521136",
     "board": "澎湃新闻",
     "tokens": [
-     "余承东",
-     "L3",
-     "开车",
-     "睡觉",
-     "睡过去",
-     "就行"
+     "AI",
+     "检出率",
+     "作者",
+     "自证",
+     "困局",
+     "论文",
+     "学生",
+     "作文"
+    ]
+   },
+   {
+    "title": "shenzhen",
+    "platform": "instagram",
+    "platformName": "Instagram",
+    "emoji": "📷",
+    "heat": 9300000,
+    "rank": 6,
+    "url": "https://www.instagram.com/popular/shenzhen/",
+    "board": "Instagram Trending Topics（US · Nov 20）",
+    "tokens": [
+     "shenzhen"
     ]
    }
   ],
@@ -3685,7 +3688,7 @@ window.CATCH_DATA = {
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T19:01:06.437357+08:00",
+    "updatedAt": "2026-11-21T19:21:30.722574+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -3839,9 +3842,9 @@ window.CATCH_DATA = {
    "platformHeat": {
     "weibo": 140000,
     "zhihu": 8110000,
-    "news": 9852000
+    "news": 9847000
    },
-   "heat": 18102000,
+   "heat": 18097000,
    "members": [
     {
      "platform": "news",
@@ -5093,16 +5096,16 @@ window.CATCH_DATA = {
      {
       "t": "2026-11-21T19:00:00+08:00",
       "label": "19:00",
-      "total": 18102000,
+      "total": 18097000,
       "platforms": {
        "weibo": 140000,
        "zhihu": 8110000,
-       "news": 9852000
+       "news": 9847000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T19:01:06.511785+08:00",
+    "updatedAt": "2026-11-21T19:21:30.882472+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -6502,7 +6505,7 @@ window.CATCH_DATA = {
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T19:01:06.529889+08:00",
+    "updatedAt": "2026-11-21T19:21:30.924986+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -6621,16 +6624,16 @@ window.CATCH_DATA = {
    "resonance": 2,
    "commentRelevance": {
     "tokens": [
-     "停参加全军采",
-     "丰速运被暂停",
      "暂停参加全军",
+     "全军采购活动",
+     "丰速运被暂停",
      "参加全军采购",
-     "顺丰速运被暂",
-     "运被暂停参加",
      "速运被暂停参",
-     "加全军采购活",
      "被暂停参加全",
-     "全军采购活动"
+     "停参加全军采",
+     "运被暂停参加",
+     "顺丰速运被暂",
+     "加全军采购活"
     ],
     "total": 141,
     "relevant": 141,
@@ -6929,7 +6932,7 @@ window.CATCH_DATA = {
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T19:01:06.534434+08:00",
+    "updatedAt": "2026-11-21T19:21:30.937050+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -7048,10 +7051,10 @@ window.CATCH_DATA = {
    "resonance": 2,
    "commentRelevance": {
     "tokens": [
-     "腿绞泰国拳王",
-     "黄景瑜腿绞泰",
      "瑜腿绞泰国拳",
-     "景瑜腿绞泰国"
+     "景瑜腿绞泰国",
+     "黄景瑜腿绞泰",
+     "腿绞泰国拳王"
     ],
     "total": 0,
     "relevant": 0,
@@ -8317,7 +8320,7 @@ window.CATCH_DATA = {
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T19:01:06.629244+08:00",
+    "updatedAt": "2026-11-21T19:21:31.144966+08:00",
     "measuredPoints": 23
    },
    "risk": {
@@ -8458,5 +8461,5 @@ window.CATCH_DATA = {
    "commentsFile": "assets/data/comments/E05.json"
   }
  ],
- "builtAt": "2026-11-21T19:01:07.296878+08:00"
+ "builtAt": "2026-11-21T19:21:32.776463+08:00"
 };

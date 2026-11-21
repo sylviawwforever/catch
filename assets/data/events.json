@@ -15646,7 +15646,7 @@
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T19:01:06.437357+08:00",
+    "updatedAt": "2026-11-21T19:21:30.722574+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -15674,9 +15674,9 @@
    "platformHeat": {
     "weibo": 140000,
     "zhihu": 8110000,
-    "news": 9852000
+    "news": 9847000
    },
-   "heat": 18102000,
+   "heat": 18097000,
    "members": [
     {
      "platform": "news",
@@ -26957,16 +26957,16 @@
      {
       "t": "2026-11-21T19:00:00+08:00",
       "label": "19:00",
-      "total": 18102000,
+      "total": 18097000,
       "platforms": {
        "weibo": 140000,
        "zhihu": 8110000,
-       "news": 9852000
+       "news": 9847000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T19:01:06.511785+08:00",
+    "updatedAt": "2026-11-21T19:21:30.882472+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -29676,7 +29676,7 @@
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T19:01:06.529889+08:00",
+    "updatedAt": "2026-11-21T19:21:30.924986+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -29973,7 +29973,7 @@
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T19:01:06.534434+08:00",
+    "updatedAt": "2026-11-21T19:21:30.937050+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -45556,7 +45556,7 @@
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T19:01:06.629244+08:00",
+    "updatedAt": "2026-11-21T19:21:31.144966+08:00",
     "measuredPoints": 23
    },
    "risk": {

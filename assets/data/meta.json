@@ -1,10 +1,10 @@
 {
- "generatedAt": "2026-11-21T19:01:06.649124+08:00",
+ "generatedAt": "2026-11-21T19:21:31.181220+08:00",
  "dateLabel": "2026 年 11 月 21 日",
  "weekday": "星期六",
  "mode": "hourly",
  "lastFullRun": "2026-11-21",
- "durationSec": 61.3,
+ "durationSec": 72.1,
  "platformStatus": {
   "weibo": {
    "source": "tophub.today · weibo",
@@ -34,7 +34,7 @@
   },
   "x": {
    "source": "trends24.in · X 24h 趋势",
-   "items": 24,
+   "items": 23,
    "ok": true,
    "error": null,
    "name": "X",
@@ -89,7 +89,7 @@
   "hotItems": 60,
   "events": 5,
   "comments": 2855,
-  "rawScanned": 361,
+  "rawScanned": 360,
   "slang": 5
  },
  "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / Instagram / B站 公开榜单与真实接口"

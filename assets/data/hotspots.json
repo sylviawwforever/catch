@@ -127,7 +127,7 @@
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
-   "rank": 1,
+   "rank": 2,
    "url": "https://twitter.com/search?q=FSD%20V15",
    "board": "X Trending (24h)",
    "tokens": [
@@ -254,16 +254,17 @@
    ]
   },
   {
-   "title": "Kessler",
+   "title": "#中共选举",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
-   "rank": 4,
-   "url": "https://twitter.com/search?q=Kessler",
+   "rank": 6,
+   "url": "https://twitter.com/search?q=%23%E4%B8%AD%E5%85%B1%E9%80%89%E4%B8%BE",
    "board": "X Trending (24h)",
    "tokens": [
-    "Kessler"
+    "中共",
+    "选举"
    ]
   },
   {
@@ -381,17 +382,16 @@
    ]
   },
   {
-   "title": "#中共选举",
+   "title": "#二十一大",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
-   "rank": 6,
-   "url": "https://twitter.com/search?q=%23%E4%B8%AD%E5%85%B1%E9%80%89%E4%B8%BE",
+   "rank": 8,
+   "url": "https://twitter.com/search?q=%23%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A7",
    "board": "X Trending (24h)",
    "tokens": [
-    "中共",
-    "选举"
+    "二十一"
    ]
   },
   {
@@ -511,16 +511,16 @@
    ]
   },
   {
-   "title": "#二十一大",
+   "title": "Kessler",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
-   "rank": 8,
-   "url": "https://twitter.com/search?q=%23%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A7",
+   "rank": 10,
+   "url": "https://twitter.com/search?q=Kessler",
    "board": "X Trending (24h)",
    "tokens": [
-    "二十一"
+    "Kessler"
    ]
   },
   {
@@ -638,16 +638,18 @@
    ]
   },
   {
-   "title": "Jokic",
+   "title": "El Chapo Isidro",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
-   "rank": 11,
-   "url": "https://twitter.com/search?q=Jokic",
+   "rank": 14,
+   "url": "https://twitter.com/search?q=El%20Chapo%20Isidro",
    "board": "X Trending (24h)",
    "tokens": [
-    "Jokic"
+    "El",
+    "Chapo",
+    "Isidro"
    ]
   },
   {
@@ -775,18 +777,17 @@
    ]
   },
   {
-   "title": "El Chapo Isidro",
+   "title": "Kevin Durant",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
-   "rank": 14,
-   "url": "https://twitter.com/search?q=El%20Chapo%20Isidro",
+   "rank": 21,
+   "url": "https://twitter.com/search?q=Kevin%20Durant",
    "board": "X Trending (24h)",
    "tokens": [
-    "El",
-    "Chapo",
-    "Isidro"
+    "Kevin",
+    "Durant"
    ]
   },
   {
@@ -904,16 +905,16 @@
    ]
   },
   {
-   "title": "Wyoming",
+   "title": "Clemson",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
-   "rank": 15,
-   "url": "https://twitter.com/search?q=Wyoming",
+   "rank": 22,
+   "url": "https://twitter.com/search?q=Clemson",
    "board": "X Trending (24h)",
    "tokens": [
-    "Wyoming"
+    "Clemson"
    ]
   },
   {
@@ -1181,20 +1182,6 @@
    ]
   },
   {
-   "title": "FSD V15",
-   "platform": "x",
-   "platformName": "X",
-   "emoji": "✳️",
-   "heat": 0,
-   "rank": 1,
-   "url": "https://twitter.com/search?q=FSD%20V15",
-   "board": "X Trending (24h)",
-   "tokens": [
-    "FSD",
-    "V15"
-   ]
-  },
-  {
    "title": "传递中国声音",
    "platform": "wechat",
    "platformName": "微信公众号",
@@ -1392,6 +1379,20 @@
     "三年",
     "古诗词",
     "中国"
+   ]
+  },
+  {
+   "title": "FSD V15",
+   "platform": "x",
+   "platformName": "X",
+   "emoji": "✳️",
+   "heat": 0,
+   "rank": 2,
+   "url": "https://twitter.com/search?q=FSD%20V15",
+   "board": "X Trending (24h)",
+   "tokens": [
+    "FSD",
+    "V15"
    ]
   },
   {
@@ -1782,19 +1783,6 @@
    ]
   },
   {
-   "title": "Kessler",
-   "platform": "x",
-   "platformName": "X",
-   "emoji": "✳️",
-   "heat": 0,
-   "rank": 4,
-   "url": "https://twitter.com/search?q=Kessler",
-   "board": "X Trending (24h)",
-   "tokens": [
-    "Kessler"
-   ]
-  },
-  {
    "title": "全力以赴端牢端稳中国饭碗",
    "platform": "wechat",
    "platformName": "微信公众号",
@@ -1998,21 +1986,36 @@
    ]
   },
   {
-   "title": "余承东：用L3开车能睡觉，别睡过去就行",
+   "title": "AI检出率”致作者陷自证困局：论文改到“学生作文水平”才达标，却没了学术性",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
    "heat": 0,
    "rank": 5,
-   "url": "https://www.thepaper.cn/newsDetail_forward_34521221",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34521136",
    "board": "澎湃新闻",
    "tokens": [
-    "余承东",
-    "L3",
-    "开车",
-    "睡觉",
-    "睡过去",
-    "就行"
+    "AI",
+    "检出率",
+    "作者",
+    "自证",
+    "困局",
+    "论文",
+    "学生",
+    "作文"
+   ]
+  },
+  {
+   "title": "shenzhen",
+   "platform": "instagram",
+   "platformName": "Instagram",
+   "emoji": "📷",
+   "heat": 9300000,
+   "rank": 6,
+   "url": "https://www.instagram.com/popular/shenzhen/",
+   "board": "Instagram Trending Topics（US · Nov 20）",
+   "tokens": [
+    "shenzhen"
    ]
   }
  ],
