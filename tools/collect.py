@@ -331,9 +331,10 @@ def parse_board(md: str, board: str, platform: str) -> list[dict]:
             break
         if not title or url in seen:
             continue
-        # tophub 页面里还有站点自身的导航（首页 / 报刊 / 关于我们 / App 下载），
-        # jina 转 Markdown 后会混进榜单条目里——它们不是热榜内容，必须剔除。
-        if "tophub.today" in url:
+        # tophub 页面里还有站点自身的导航（首页 / 报刊 / 关于我们 / App 下载 /
+        # API 开放平台），jina 转 Markdown 后会混进榜单条目里——它们不是热榜内容，
+        # 必须剔除。注意 API 开放平台在 tophubdata.com 这个域名下，不只是 tophub.today。
+        if re.search(r"tophub(?:data)?\.(?:today|com)", url):
             continue
         seen.add(url)
         title = _clean_title(title)
