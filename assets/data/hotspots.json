@@ -5,7 +5,7 @@
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 20270000,
+   "heat": 21540000,
    "rank": 1,
    "url": "https://www.zhihu.com/question/2107175088915050633",
    "board": "知乎热榜",
@@ -125,7 +125,7 @@
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 14090000,
+   "heat": 15180000,
    "rank": 2,
    "url": "https://www.zhihu.com/question/2107262299765306294",
    "board": "知乎热榜",
@@ -243,23 +243,23 @@
    ]
   },
   {
-   "title": "胖东来生活广场闭店后周围商户陆续搬走，曝租金降至 400 万后仍无人接盘，现在来看房东涨租算不算决策失误？",
+   "title": "如何看待 11 月 21 日三维 ns 方程有限时间爆破的形式化证明疑似已经完成？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 8510000,
+   "heat": 6410000,
    "rank": 3,
-   "url": "https://www.zhihu.com/question/2106756998976857637",
+   "url": "https://www.zhihu.com/question/2107281397077500209",
    "board": "知乎热榜",
    "tokens": [
-    "东来",
-    "生活",
-    "广场",
-    "闭店",
-    "周围",
-    "商户",
-    "陆续",
-    "搬走"
+    "看待",
+    "三维",
+    "ns",
+    "方程",
+    "有限",
+    "时间",
+    "爆破",
+    "形式化"
    ]
   },
   {
@@ -358,23 +358,23 @@
    ]
   },
   {
-   "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
+   "title": "特朗普称不允许美企海外建数据中心，如果违反将面临「巨额税收」处罚，这会对美国科技公司发展带来哪些影响？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 3010000,
+   "heat": 3130000,
    "rank": 4,
-   "url": "https://www.zhihu.com/question/2106706684672471150",
+   "url": "https://www.zhihu.com/question/2107449650592445764",
    "board": "知乎热榜",
    "tokens": [
-    "韩国",
-    "首次",
-    "紧急",
-    "灾难",
-    "通知",
-    "全国",
-    "手机",
-    "响铃"
+    "特朗普",
+    "允许",
+    "美企",
+    "海外",
+    "数据中心",
+    "如果",
+    "违反",
+    "面临"
    ]
   },
   {
@@ -483,7 +483,7 @@
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 2990000,
+   "heat": 3080000,
    "rank": 5,
    "url": "https://www.zhihu.com/question/621050716",
    "board": "知乎热榜",
@@ -512,19 +512,21 @@
    ]
   },
   {
-   "title": "特朗普在APEC晚宴跳YMCA",
+   "title": "秦昊当着镜头直接数落伊能静",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 470000,
-   "rank": 5,
-   "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8APEC%E6%99%9A%E5%AE%B4%E8%B7%B3YMCA",
+   "heat": 630000,
+   "rank": 52,
+   "url": "https://s.weibo.com/weibo?q=%E7%A7%A6%E6%98%8A%E5%BD%93%E7%9D%80%E9%95%9C%E5%A4%B4%E7%9B%B4%E6%8E%A5%E6%95%B0%E8%90%BD%E4%BC%8A%E8%83%BD%E9%9D%99",
    "board": "微博热搜榜",
    "tokens": [
-    "特朗普",
-    "APEC",
-    "晚宴",
-    "YMCA"
+    "秦昊",
+    "当着",
+    "镜头",
+    "直接",
+    "数落",
+    "伊能静"
    ]
   },
   {
@@ -597,7 +599,7 @@
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 2970000,
+   "heat": 3020000,
    "rank": 6,
    "url": "https://www.zhihu.com/question/2107187179504006217",
    "board": "知乎热榜",
@@ -631,17 +633,22 @@
    ]
   },
   {
-   "title": "白小纯 青稚",
+   "title": "村民性侵少女被判无罪最高检抗诉",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 450000,
-   "rank": 6,
-   "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E9%9D%92%E7%A8%9A",
+   "heat": 480000,
+   "rank": 53,
+   "url": "https://s.weibo.com/weibo?q=%E6%9D%91%E6%B0%91%E6%80%A7%E4%BE%B5%E5%B0%91%E5%A5%B3%E8%A2%AB%E5%88%A4%E6%97%A0%E7%BD%AA%E6%9C%80%E9%AB%98%E6%A3%80%E6%8A%97%E8%AF%89",
    "board": "微博热搜榜",
    "tokens": [
-    "白小纯",
-    "青稚"
+    "村民",
+    "性侵",
+    "少女",
+    "被判",
+    "无罪",
+    "最高检",
+    "抗诉"
    ]
   },
   {
@@ -712,23 +719,23 @@
    ]
   },
   {
-   "title": "特朗普称不允许美企海外建数据中心，如果违反将面临「巨额税收」处罚，这会对美国科技公司发展带来哪些影响？",
+   "title": "20 多天婴儿被喂白开水中毒肾损伤，新生儿为何不能像成年人一样正常喝白开水？该如何科学喂养？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 2810000,
+   "heat": 2850000,
    "rank": 7,
-   "url": "https://www.zhihu.com/question/2107449650592445764",
+   "url": "https://www.zhihu.com/question/2106868147718284246",
    "board": "知乎热榜",
    "tokens": [
-    "特朗普",
-    "允许",
-    "美企",
-    "海外",
-    "数据中心",
-    "如果",
-    "违反",
-    "面临"
+    "多天",
+    "婴儿",
+    "白开水",
+    "中毒",
+    "损伤",
+    "新生儿",
+    "为何",
+    "不能"
    ]
   },
   {
@@ -750,20 +757,19 @@
    ]
   },
   {
-   "title": "市场检查高额罚款消息是谣言",
+   "title": "特朗普在APEC晚宴跳YMCA",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 370000,
-   "rank": 7,
-   "url": "https://s.weibo.com/weibo?q=%E5%B8%82%E5%9C%BA%E6%A3%80%E6%9F%A5%E9%AB%98%E9%A2%9D%E7%BD%9A%E6%AC%BE%E6%B6%88%E6%81%AF%E6%98%AF%E8%B0%A3%E8%A8%80",
+   "heat": 470000,
+   "rank": 5,
+   "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8APEC%E6%99%9A%E5%AE%B4%E8%B7%B3YMCA",
    "board": "微博热搜榜",
    "tokens": [
-    "市场",
-    "检查",
-    "高额",
-    "罚款",
-    "谣言"
+    "特朗普",
+    "APEC",
+    "晚宴",
+    "YMCA"
    ]
   },
   {
@@ -834,7 +840,7 @@
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 2600000,
+   "heat": 2760000,
    "rank": 8,
    "url": "https://www.zhihu.com/question/2106416810002273776",
    "board": "知乎热榜",
@@ -865,17 +871,156 @@
    ]
   },
   {
-   "title": "Tim说我爹太离谱了",
+   "title": "白小纯 青稚",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 360000,
-   "rank": 8,
-   "url": "https://s.weibo.com/weibo?q=Tim%E8%AF%B4%E6%88%91%E7%88%B9%E5%A4%AA%E7%A6%BB%E8%B0%B1%E4%BA%86",
+   "heat": 450000,
+   "rank": 6,
+   "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF+%E9%9D%92%E7%A8%9A",
    "board": "微博热搜榜",
    "tokens": [
-    "Tim",
-    "离谱"
+    "白小纯",
+    "青稚"
+   ]
+  },
+  {
+   "title": "更好统筹当前和长远 ——形成共促高质量发展的合力",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 0,
+   "rank": 5,
+   "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E6%9B%B4%E5%A5%BD%E7%BB%9F%E7%AD%B9%E5%BD%93%E5%89%8D%E5%92%8C%E9%95%BF%E8%BF%9C+%E2%80%94%E2%80%94%E5%BD%A2%E6%88%90%E5%85%B1%E4%BF%83%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95%E7%9A%84%E5%90%88%E5%8A%9B",
+   "board": "微信热词",
+   "tokens": [
+    "更好",
+    "统筹",
+    "当前",
+    "长远",
+    "形成",
+    "共促",
+    "高质量",
+    "发展"
+   ]
+  },
+  {
+   "title": "小院#小屋#狸花猫捕猎 #记录真实生活 #日常vlog",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 8,
+   "url": "https://www.douyin.com/video/7607717948257692659",
+   "board": "抖音视频总榜",
+   "tokens": [
+    "小院",
+    "小屋",
+    "花猫",
+    "捕猎",
+    "记录",
+    "真实",
+    "生活",
+    "日常"
+   ]
+  },
+  {
+   "title": "我的家庭旅行更像是打副本",
+   "platform": "xhs",
+   "platformName": "小红书",
+   "emoji": "📕",
+   "heat": 0,
+   "rank": 8,
+   "url": "https://www.xiaohongshu.com/search_result?keyword=%E6%88%91%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%97%85%E8%A1%8C%E6%9B%B4%E5%83%8F%E6%98%AF%E6%89%93%E5%89%AF%E6%9C%AC&type=51",
+   "board": "小红书热榜",
+   "tokens": [
+    "家庭",
+    "旅行",
+    "像是",
+    "副本"
+   ]
+  },
+  {
+   "title": "Mark Pope",
+   "platform": "x",
+   "platformName": "X",
+   "emoji": "✳️",
+   "heat": 0,
+   "rank": 25,
+   "url": "https://twitter.com/search?q=Mark%20Pope",
+   "board": "X Trending (24h)",
+   "tokens": [
+    "Mark",
+    "Pope"
+   ]
+  },
+  {
+   "title": "网友称零跑 A10 装啤酒致后备厢储物盒脱落，客服称未接到反馈，具体是怎么回事？储物盒能如何规避承重隐患？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 2680000,
+   "rank": 9,
+   "url": "https://www.zhihu.com/question/2107047283686691607",
+   "board": "知乎热榜",
+   "tokens": [
+    "称零跑",
+    "A10",
+    "啤酒",
+    "后备",
+    "厢储物",
+    "脱落",
+    "客服",
+    "称未"
+   ]
+  },
+  {
+   "title": "黄景瑜腿绞泰国拳王",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7331000,
+   "rank": 7,
+   "url": "https://www.baidu.com/s?wd=%E9%BB%84%E6%99%AF%E7%91%9C%E8%85%BF%E7%BB%9E%E6%B3%B0%E5%9B%BD%E6%8B%B3%E7%8E%8B",
+   "board": "百度热搜",
+   "tokens": [
+    "黄景",
+    "泰国拳"
+   ]
+  },
+  {
+   "title": "李嫣声音比窦靖童更像王菲",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 410000,
+   "rank": 54,
+   "url": "https://s.weibo.com/weibo?q=%E6%9D%8E%E5%AB%A3%E5%A3%B0%E9%9F%B3%E6%AF%94%E7%AA%A6%E9%9D%96%E7%AB%A5%E6%9B%B4%E5%83%8F%E7%8E%8B%E8%8F%B2",
+   "board": "微博热搜榜",
+   "tokens": [
+    "李嫣",
+    "声音",
+    "窦靖童",
+    "王菲"
+   ]
+  },
+  {
+   "title": "奋力推进新时代语言文字事业高质量发展",
+   "platform": "wechat",
+   "platformName": "微信公众号",
+   "emoji": "💬",
+   "heat": 0,
+   "rank": 6,
+   "url": "https://weixin.sogou.com/weixin?type=2&ie=utf-8&s_from=hotnews&query=%E5%A5%8B%E5%8A%9B%E6%8E%A8%E8%BF%9B%E6%96%B0%E6%97%B6%E4%BB%A3%E8%AF%AD%E8%A8%80%E6%96%87%E5%AD%97%E4%BA%8B%E4%B8%9A%E9%AB%98%E8%B4%A8%E9%87%8F%E5%8F%91%E5%B1%95",
+   "board": "微信热词",
+   "tokens": [
+    "奋力",
+    "推进",
+    "时代",
+    "语言文字",
+    "事业",
+    "高质量",
+    "发展"
    ]
   },
   {
@@ -1023,7 +1168,7 @@
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 20270000,
+   "heat": 21540000,
    "rank": 1,
    "url": "https://www.zhihu.com/question/2107175088915050633",
    "board": "知乎热榜",
@@ -1255,7 +1400,7 @@
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 14090000,
+   "heat": 15180000,
    "rank": 2,
    "url": "https://www.zhihu.com/question/2107262299765306294",
    "board": "知乎热榜",
@@ -1445,26 +1590,6 @@
    ]
   },
   {
-   "title": "胖东来生活广场闭店后周围商户陆续搬走，曝租金降至 400 万后仍无人接盘，现在来看房东涨租算不算决策失误？",
-   "platform": "zhihu",
-   "platformName": "知乎",
-   "emoji": "💡",
-   "heat": 8510000,
-   "rank": 3,
-   "url": "https://www.zhihu.com/question/2106756998976857637",
-   "board": "知乎热榜",
-   "tokens": [
-    "东来",
-    "生活",
-    "广场",
-    "闭店",
-    "周围",
-    "商户",
-    "陆续",
-    "搬走"
-   ]
-  },
-  {
    "title": "多地政务窗口提示工作需使用手机",
    "platform": "news",
    "platformName": "新闻",
@@ -1481,6 +1606,26 @@
     "工作",
     "使用",
     "手机"
+   ]
+  },
+  {
+   "title": "如何看待 11 月 21 日三维 ns 方程有限时间爆破的形式化证明疑似已经完成？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 6410000,
+   "rank": 3,
+   "url": "https://www.zhihu.com/question/2107281397077500209",
+   "board": "知乎热榜",
+   "tokens": [
+    "看待",
+    "三维",
+    "ns",
+    "方程",
+    "有限",
+    "时间",
+    "爆破",
+    "形式化"
    ]
   },
   {
@@ -1641,6 +1786,26 @@
    ]
   },
   {
+   "title": "特朗普称不允许美企海外建数据中心，如果违反将面临「巨额税收」处罚，这会对美国科技公司发展带来哪些影响？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 3130000,
+   "rank": 4,
+   "url": "https://www.zhihu.com/question/2107449650592445764",
+   "board": "知乎热榜",
+   "tokens": [
+    "特朗普",
+    "允许",
+    "美企",
+    "海外",
+    "数据中心",
+    "如果",
+    "违反",
+    "面临"
+   ]
+  },
+  {
    "title": "菲总统夸赞中方选曲温暖贴心",
    "platform": "news",
    "platformName": "新闻",
@@ -1656,26 +1821,6 @@
     "选曲",
     "温暖",
     "贴心"
-   ]
-  },
-  {
-   "title": "韩国首次用「紧急灾难通知」让全国手机响铃 10.5 秒防高考作弊，此举合理吗？",
-   "platform": "zhihu",
-   "platformName": "知乎",
-   "emoji": "💡",
-   "heat": 3010000,
-   "rank": 4,
-   "url": "https://www.zhihu.com/question/2106706684672471150",
-   "board": "知乎热榜",
-   "tokens": [
-    "韩国",
-    "首次",
-    "紧急",
-    "灾难",
-    "通知",
-    "全国",
-    "手机",
-    "响铃"
    ]
   },
   {
@@ -1828,7 +1973,7 @@
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 2990000,
+   "heat": 3080000,
    "rank": 5,
    "url": "https://www.zhihu.com/question/621050716",
    "board": "知乎热榜",
@@ -1998,7 +2143,7 @@
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 2970000,
+   "heat": 3020000,
    "rank": 6,
    "url": "https://www.zhihu.com/question/2107187179504006217",
    "board": "知乎热榜",
@@ -2142,173 +2287,6 @@
     }
    ],
    "url": "http://baike.baidu.com/item/%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B/69708457"
-  },
-  {
-   "word": "官宣",
-   "desc": "某个人或某机构宣布的某消息",
-   "defSource": "百度百科",
-   "kind": "网络流行语",
-   "mentions": 14,
-   "days": 5,
-   "dayList": [
-    "2026-11-15",
-    "2026-11-16",
-    "2026-11-17",
-    "2026-11-18",
-    "2026-11-19"
-   ],
-   "platforms": [
-    "今日头条",
-    "微博",
-    "抖音",
-    "百度"
-   ],
-   "platformCount": 4,
-   "variants": 0,
-   "samples": [
-    {
-     "platform": "百度",
-     "day": "2026-11-15",
-     "title": "连休5天！多地官宣新假期",
-     "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E4%BC%915%E5%A4%A9%EF%BC%81%E5%A4%9A%E5%9C%B0%E5%AE%98%E5%AE%A3%E6%96%B0%E5%81%87%E6%9C%9F"
-    },
-    {
-     "platform": "微博",
-     "day": "2026-11-16",
-     "title": "范丞丞一天官宣一部剧一档综艺",
-     "url": "https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B8%80%E5%A4%A9%E5%AE%98%E5%AE%A3%E4%B8%80%E9%83%A8%E5%89%A7%E4%B8%80%E6%A1%A3%E7%BB%BC%E8%89%BA%23&t=31&band_rank=31&Refer=top"
-    },
-    {
-     "platform": "抖音",
-     "day": "2026-11-16",
-     "title": "复联5官宣唐尼桃总海总来华",
-     "url": "https://www.douyin.com/search/%E5%A4%8D%E8%81%945%E5%AE%98%E5%AE%A3%E5%94%90%E5%B0%BC%E6%A1%83%E6%80%BB%E6%B5%B7%E6%80%BB%E6%9D%A5%E5%8D%8E"
-    }
-   ],
-   "url": "http://baike.baidu.com/item/%E5%AE%98%E5%AE%A3/22933264"
-  },
-  {
-   "word": "手势舞",
-   "desc": "手势舞是起源于抖音平台的一种以手部动作为主的网络流行舞蹈形式，节奏感强且简单易学",
-   "defSource": "百度百科",
-   "kind": "以手部动作为主的网络流行舞蹈形式",
-   "mentions": 11,
-   "days": 7,
-   "dayList": [
-    "2026-11-15",
-    "2026-11-16",
-    "2026-11-17",
-    "2026-11-18",
-    "2026-11-19",
-    "2026-11-20",
-    "2026-11-21"
-   ],
-   "platforms": [
-    "抖音"
-   ],
-   "platformCount": 1,
-   "variants": 9,
-   "samples": [
-    {
-     "platform": "抖音",
-     "day": "2026-11-15",
-     "title": "和赵露思一起跳茉茉手势舞",
-     "url": "https://www.douyin.com/search/%E5%92%8C%E8%B5%B5%E9%9C%B2%E6%80%9D%E4%B8%80%E8%B5%B7%E8%B7%B3%E8%8C%89%E8%8C%89%E6%89%8B%E5%8A%BF%E8%88%9E"
-    },
-    {
-     "platform": "抖音",
-     "day": "2026-11-16",
-     "title": "盼来了鞠婧祎茉茉手势舞",
-     "url": "https://www.douyin.com/search/%E7%9B%BC%E6%9D%A5%E4%BA%86%E9%9E%A0%E5%A9%A7%E7%A5%8E%E8%8C%89%E8%8C%89%E6%89%8B%E5%8A%BF%E8%88%9E"
-    },
-    {
-     "platform": "抖音",
-     "day": "2026-11-16",
-     "title": "茉茉手势舞",
-     "url": "https://www.douyin.com/search/%E8%8C%89%E8%8C%89%E6%89%8B%E5%8A%BF%E8%88%9E"
-    }
-   ],
-   "url": "http://baike.baidu.com/item/%E6%89%8B%E5%8A%BF%E8%88%9E"
-  },
-  {
-   "word": "同款",
-   "desc": "指与他人拥有相同款式的物品",
-   "defSource": "百度百科",
-   "kind": "网络用语",
-   "mentions": 6,
-   "days": 4,
-   "dayList": [
-    "2026-11-17",
-    "2026-11-19",
-    "2026-11-20",
-    "2026-11-21"
-   ],
-   "platforms": [
-    "微博",
-    "抖音"
-   ],
-   "platformCount": 2,
-   "variants": 2,
-   "samples": [
-    {
-     "platform": "微博",
-     "day": "2026-11-17",
-     "title": "王力宏同款波司登羽绒服仅售16件",
-     "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%90%8C%E6%AC%BE%E6%B3%A2%E5%8F%B8%E7%99%BB%E7%BE%BD%E7%BB%92%E6%9C%8D%E4%BB%85%E5%94%AE16%E4%BB%B6%23&t=31&band_rank=34&Refer=top"
-    },
-    {
-     "platform": "抖音",
-     "day": "2026-11-19",
-     "title": "我的明星同款脸藏不住了",
-     "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E6%98%8E%E6%98%9F%E5%90%8C%E6%AC%BE%E8%84%B8%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86"
-    },
-    {
-     "platform": "微博",
-     "day": "2026-11-20",
-     "title": "APEC同款荔枝冰酒原果汁含量100%",
-     "url": "https://s.weibo.com/weibo?q=%23APEC%E5%90%8C%E6%AC%BE%E8%8D%94%E6%9E%9D%E5%86%B0%E9%85%92%E5%8E%9F%E6%9E%9C%E6%B1%81%E5%90%AB%E9%87%8F100%25%23&t=31&band_rank=43&Refer=top"
-    }
-   ],
-   "url": "http://baike.baidu.com/item/%E5%90%8C%E6%AC%BE/60494176"
-  },
-  {
-   "word": "硬核",
-   "desc": "原指说唱音乐有力量感或游戏有难度，后用来形容强悍、彪悍",
-   "defSource": "百度百科",
-   "kind": "网络流行语",
-   "mentions": 4,
-   "days": 2,
-   "dayList": [
-    "2026-11-15",
-    "2026-11-16"
-   ],
-   "platforms": [
-    "今日头条",
-    "百度"
-   ],
-   "platformCount": 2,
-   "variants": 3,
-   "samples": [
-    {
-     "platform": "百度",
-     "day": "2026-11-15",
-     "title": "本周多领域硬核成果刷屏",
-     "url": "https://www.baidu.com/s?wd=%E6%9C%AC%E5%91%A8%E5%A4%9A%E9%A2%86%E5%9F%9F%E7%A1%AC%E6%A0%B8%E6%88%90%E6%9E%9C%E5%88%B7%E5%B1%8F"
-    },
-    {
-     "platform": "今日头条",
-     "day": "2026-11-15",
-     "title": "本周我国多领域硬核成果刷屏",
-     "url": "https://www.toutiao.com/article/7708143159535993359"
-    },
-    {
-     "platform": "今日头条",
-     "day": "2026-11-15",
-     "title": "南昌公安在马拉松现场展示硬核装备",
-     "url": "https://www.toutiao.com/trending/7707910150484721702/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227707910150484721702%22%2C%22hot_board_impr_id%22%3A%22202611151145423C29EA4BDD3984380DF8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%8D%97%E6%98%8C%E5%85%AC%E5%AE%89%E5%9C%A8%E9%A9%AC%E6%8B%89%E6%9D%BE%E7%8E%B0%E5%9C%BA%E5%B1%95%E7%A4%BA%E7%A1%AC%E6%A0%B8%E8%A3%85%E5%A4%87%22%7D&rank=&style_id=40132&topic_id=7707910150484721702"
-    }
-   ],
-   "url": "http://baike.baidu.com/item/%E7%A1%AC%E6%A0%B8/22543671"
   }
  ]
 }

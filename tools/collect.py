@@ -538,6 +538,13 @@ SLANG_MEME_MARKERS = ("教学 挑战 来了 治愈 转场 穿搭 同款 玩法 �
                        "围观 合拍 接力 逃不过 躲不过 逃不掉 上新 安排了 拿捏 平替 绝绝子 硬控 有活人感 "
                        "越打越火 氛围感 官宣 队形 出现了 什么 操作 这么 好像").split()
 SLANG_MEME_SET = set(SLANG_MEME_MARKERS)
+# 这些词是通用内容模板/描述词，不单独认定为“网络流行语”。
+# 它们可以作为候选词的上下文标记，但不能作为最终收录词。
+SLANG_COMMON_EXCLUDE = set("""
+官宣 手势舞 同款 硬核 打卡 出片 治愈 教程 挑战 转场 穿搭
+玩法 上头 破防 模仿 模板 翻唱 弹唱 变装 整活 合拍 接力
+拍法 姿势 配方 接梗 玩梗 刷屏 出圈 氛围感 拿捏 平替 绝绝子
+""".split())
 # 二创型标记：出现「照着做」的玩法/教程/模仿结构，是流行语最可靠的信号
 SLANG_CREATIVE_MARKERS = ("教学 挑战 模仿 翻唱 弹唱 转场 翻拍 改造 变装 整活 合拍 接力 拍法 姿势 "
                          "配方 接梗 玩梗 出片 跟风 二创 教程 玩法 打卡 排面 复刻 拿来 唱跳 学着 "
@@ -649,7 +656,8 @@ def slang_extract_candidates(records: list[dict]) -> list[dict]:
         for i in range(L):
             for n in range(2, min(10, L - i + 1)):
                 p = t[i:i + n]
-                if p in SLANG_STOP or p in SLANG_GENERIC_LIST:
+                if (p in SLANG_STOP or p in SLANG_GENERIC_LIST
+                        or p in SLANG_COMMON_EXCLUDE):
                     continue
                 if not re.match(r"^[一-鿿]", p) or not re.search(r"[一-鿿]$", p):
                     continue
@@ -779,6 +787,9 @@ def slang_filter_rank(cands: list[dict], baike: dict[str, dict]) -> list[dict]:
         c["workForms"] = [f for f in c["forms"] if SLANG_WORK_MARK_RE.search(f)]
     byword = {c["word"]: c for c in cands}
     for c in cands:
+        if c["word"] in SLANG_COMMON_EXCLUDE:
+            c["drop"] = True
+            continue
         c["drop"] = False
         if c["tier"] != 0:
             # 碎片剪枝：若存在提及量接近的更长完整形式，则本片段只是它的碎片
@@ -1817,6 +1828,8 @@ def main() -> int:
             "commentStats": cstats,
             "sentiment": sentiment,
             "wordcloud": wc_items,
+            "wordcloudBasis": ("真实热评 + 榜单标题" if comments
+                               else "仅榜单标题（本轮无相关热评）"),
             "trend": {"series": series,
                       "updatedAt": datetime.now(CST).isoformat(),
                       "measuredPoints": len([s for s in series if s.get("type") == "measured"])},

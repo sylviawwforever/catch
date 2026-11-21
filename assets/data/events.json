@@ -11,11 +11,11 @@
     "zhihu"
    ],
    "platformHeat": {
-    "weibo": 1630000,
-    "zhihu": 23080000,
+    "weibo": 2030000,
+    "zhihu": 24670000,
     "news": 36623000
    },
-   "heat": 61333000,
+   "heat": 63323000,
    "members": [
     {
      "platform": "zhihu",
@@ -15635,18 +15635,18 @@
       "type": "measured"
      },
      {
-      "t": "2026-11-21T20:00:00+08:00",
-      "label": "20:00",
-      "total": 61333000,
+      "t": "2026-11-21T21:00:00+08:00",
+      "label": "21:00",
+      "total": 63323000,
       "platforms": {
-       "weibo": 1630000,
-       "zhihu": 23080000,
+       "weibo": 2030000,
+       "zhihu": 24670000,
        "news": 36623000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T20:45:05.404029+08:00",
+    "updatedAt": "2026-11-21T21:00:30.444519+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -15659,7 +15659,8 @@
    "analysis": {},
    "timeline": [],
    "sourceCount": 10,
-   "resonance": 3
+   "resonance": 3,
+   "wordcloudBasis": "真实热评 + 榜单标题"
   },
   {
    "id": "E02",
@@ -15673,10 +15674,10 @@
    ],
    "platformHeat": {
     "weibo": 150000,
-    "zhihu": 5230000,
+    "zhihu": 11040000,
     "news": 3352000
    },
-   "heat": 8732000,
+   "heat": 14542000,
    "members": [
     {
      "platform": "news",
@@ -26956,18 +26957,18 @@
       "type": "measured"
      },
      {
-      "t": "2026-11-21T20:00:00+08:00",
-      "label": "20:00",
-      "total": 8732000,
+      "t": "2026-11-21T21:00:00+08:00",
+      "label": "21:00",
+      "total": 14542000,
       "platforms": {
        "weibo": 150000,
-       "zhihu": 5230000,
+       "zhihu": 11040000,
        "news": 3352000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T20:45:05.533168+08:00",
+    "updatedAt": "2026-11-21T21:00:30.531640+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -26980,7 +26981,8 @@
    "analysis": {},
    "timeline": [],
    "sourceCount": 4,
-   "resonance": 3
+   "resonance": 3,
+   "wordcloudBasis": "真实热评 + 榜单标题"
   },
   {
    "id": "E03",
@@ -29667,8 +29669,8 @@
       "type": "measured"
      },
      {
-      "t": "2026-11-21T20:00:00+08:00",
-      "label": "20:00",
+      "t": "2026-11-21T21:00:00+08:00",
+      "label": "21:00",
       "total": 8400000,
       "platforms": {
        "weibo": 1560000,
@@ -29677,7 +29679,7 @@
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T20:45:05.568338+08:00",
+    "updatedAt": "2026-11-21T21:00:30.554049+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -29690,7 +29692,8 @@
    "analysis": {},
    "timeline": [],
    "sourceCount": 2,
-   "resonance": 2
+   "resonance": 2,
+   "wordcloudBasis": "真实热评 + 榜单标题"
   },
   {
    "id": "E04",
@@ -29962,8 +29965,8 @@
       "type": "measured"
      },
      {
-      "t": "2026-11-21T20:00:00+08:00",
-      "label": "20:00",
+      "t": "2026-11-21T21:00:00+08:00",
+      "label": "21:00",
       "total": 10075000,
       "platforms": {
        "news": 10075000
@@ -29971,7 +29974,7 @@
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T20:45:05.577900+08:00",
+    "updatedAt": "2026-11-21T21:00:30.559905+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -29984,7 +29987,8 @@
    "analysis": {},
    "timeline": [],
    "sourceCount": 2,
-   "resonance": 2
+   "resonance": 2,
+   "wordcloudBasis": "仅榜单标题（本轮无相关热评）"
   },
   {
    "id": "E05",
@@ -29996,9 +30000,9 @@
     "zhihu"
    ],
    "platformHeat": {
-    "zhihu": 1390000
+    "zhihu": 1430000
    },
-   "heat": 1390000,
+   "heat": 1430000,
    "members": [
     {
      "platform": "news",
@@ -45553,16 +45557,16 @@
       "type": "measured"
      },
      {
-      "t": "2026-11-21T20:00:00+08:00",
-      "label": "20:00",
-      "total": 1390000,
+      "t": "2026-11-21T21:00:00+08:00",
+      "label": "21:00",
+      "total": 1430000,
       "platforms": {
-       "zhihu": 1390000
+       "zhihu": 1430000
       },
       "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-21T20:45:05.746537+08:00",
+    "updatedAt": "2026-11-21T21:00:30.673866+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -45575,7 +45579,8 @@
    "analysis": {},
    "timeline": [],
    "sourceCount": 2,
-   "resonance": 2
+   "resonance": 2,
+   "wordcloudBasis": "真实热评 + 榜单标题"
   }
  ]
 }

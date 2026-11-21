@@ -6,6 +6,15 @@ on:
   schedule:
     - cron: "10 * * * *"   # 每小时第 10 分 · 采集并发布
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "手动运行模式：full 会重新聚类、重算流行语并补抓热评"
+        required: true
+        default: hourly
+        type: choice
+        options:
+          - hourly
+          - full
 
 permissions:
   contents: write
@@ -89,7 +98,14 @@ jobs:
         #   今天还没做过完整采集 → 自动升级为 full（保证「打开就是当天」）
         #   今天已经做过完整采集 → 保持增量（只实测热度并追加走势点）
         # 这样 cron 只需一条每小时规则，不必在 cron 表达式里区分两种模式。
-        run: python -u tools/collect.py --hourly
+        env:
+          RUN_MODE: ${{ inputs.mode || 'hourly' }}
+        run: |
+          if [ "$RUN_MODE" = "full" ]; then
+            python -u tools/collect.py --events 5 --comment-target 1000
+          else
+            python -u tools/collect.py --hourly
+          fi
 
       - name: 装配前端页面
         run: python -u tools/build_site.py

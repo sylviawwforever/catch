@@ -456,7 +456,7 @@
       <div class="panel">
         <div class="panel-head">
           <h4>每日词云</h4>
-          <span class="sub">权重 = 词频 × 语义强度（jieba TF-IDF）</span>
+          <span class="sub">${esc(e.wordcloudBasis || "真实热评 + 榜单标题")} · 权重 = 词频 × 语义强度（jieba TF-IDF）</span>
         </div>
         <div class="wc-box"><canvas id="wcCanvas"></canvas></div>
         <div class="wc-legend">
@@ -470,7 +470,8 @@
           + <b>${e.sourceCount || 0}</b> 条原始榜单标题共同分词，
           经 TF-IDF 提取后保留 <b>${(e.wordcloud || []).length}</b> 个词条进入可视化；
           每个词的权重来自其在上述语料中的出现频次与区分度，颜色按词的情感极性着色。
-          语料量越大，词的权重分布越稳定——因此词云的可靠性直接取决于热评样本量。
+          语料量越大，词的权重分布越稳定；若本轮没有相关热评，页面只展示榜单标题词，
+          不将其误称为评论区舆情。
         </p>
       </div>
 
