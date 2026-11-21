@@ -38,7 +38,36 @@ jobs:
           python-version: "3.12"
 
       - name: 安装 jieba（流行语分词）
-        run: pip install jieba
+        run: pip install jieba xiaohongshu-cli
+
+      - name: 注入小红书云端登录态
+        if: ${{ secrets.XHS_COOKIE != '' }}
+        env:
+          XHS_COOKIE: ${{ secrets.XHS_COOKIE }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import time
+          from pathlib import Path
+
+          raw = os.environ.get("XHS_COOKIE", "").strip()
+          cookies = {}
+          for part in raw.split(";"):
+              part = part.strip()
+              if not part or "=" not in part:
+                  continue
+              name, value = part.split("=", 1)
+              cookies[name.strip()] = value.strip()
+          if not cookies.get("a1"):
+              raise SystemExit("XHS_COOKIE 缺少 a1，未写入登录态")
+          path = Path.home() / ".xiaohongshu-cli" / "cookies.json"
+          path.parent.mkdir(parents=True, exist_ok=True)
+          path.write_text(json.dumps({**cookies, "saved_at": time.time()},
+                                     ensure_ascii=False))
+          path.chmod(0o600)
+          print("小红书登录态已安全注入（Cookie 值不会输出）")
+          PY
 
       # 热评缓存是云端方案的关键：冷启动时要现抓 5 个事件 × 1000 条评论，
       # 既慢又极易撞上 B 站频率限制。有了跨轮缓存，每轮只需补抓新增部分。

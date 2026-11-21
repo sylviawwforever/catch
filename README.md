@@ -89,14 +89,30 @@ python3 tools/serve.py 8900        # 启动本地服务
 
 ### 解锁小红书真实笔记与评论（可选，一次即可）
 
-小红书 CLI 的登录态已过期，热榜仍可采集，但**笔记与评论**需要重新登录：
+公网云端需要在仓库的 GitHub Actions Secret 中配置 `XHS_COOKIE`。
+Cookie 的值只存入 GitHub Secret，不进入网页或 Git 仓库。建议使用专门的采集账号。
+在 Chrome 的小红书页面打开开发者工具，进入「网络」，点开任意小红书请求，
+在「标头 → 请求标头」中找到 `Cookie`，复制它的整行值作为 Secret 内容。
+不要把 Cookie 发到聊天、写入代码或提交到 GitHub 文件。
+
+在仓库进入：
+
+```text
+Settings → Secrets and variables → Actions → New repository secret
+Name: XHS_COOKIE
+Value: Cookie 请求头的完整值
+```
+
+本地采集也可以直接从已登录浏览器提取：
 
 ```bash
 xhs login          # 会打开浏览器流程，或从已登录的 Chrome 提取 Cookie
 ```
 
-登录后 `tools/collect.py` 会自动叠加小红书笔记与评论，状态条上的小红书指示灯会由
-「需重新登录」变为「在线」。
+配置后下一轮 GitHub Actions 会安装 `xiaohongshu-cli`，将 Secret 转成仅云端可读的
+`~/.xiaohongshu-cli/cookies.json`，再由 `tools/collect.py` 叠加真实笔记与评论。
+状态条上的小红书指示灯会由「需重新登录」变为「在线」。Cookie 失效时会自动回到
+公开热榜，并在页面显示降级状态。
 
 ---
 
