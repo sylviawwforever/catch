@@ -436,15 +436,15 @@
 
       <div class="panel">
         <div class="panel-head">
-          <h4>舆情走势 · 每小时更新</h4>
+          <h4>舆情走势 · 每 6 小时更新</h4>
           <span class="sub">最后更新 ${pad(updated.getHours())}:${pad(updated.getMinutes())} ·
-            实测点 ${(e.trend && e.trend.measuredPoints) || 0} 个（每小时采集一次）</span>
+            实测点 ${(e.trend && e.trend.measuredPoints) || 0} 个（每 6 小时采集一次）</span>
         </div>
         <div class="chart-wrap" id="trendWrap"></div>
         <div class="legend" style="margin-top:12px" id="trendLegend"></div>
         <p class="cap" style="margin-top:10px">
           基础数据量：走势图由 <b>${((e.trend && e.trend.series) || []).length}</b> 个时间点构成，
-          其中 <b>${(e.trend && e.trend.measuredPoints) || 0}</b> 个为每小时实测点、
+          其中 <b>${(e.trend && e.trend.measuredPoints) || 0}</b> 个为每 6 小时实测点、
           <b>${(((e.trend && e.trend.series) || []).length) - ((e.trend && e.trend.measuredPoints) || 0)}</b> 个为扩散模型估算基线；
           每个实测点记录该事件的<b>综合热度</b>与<b>各平台分项热度</b>，即
           ${Object.keys(e.platformHeat || {}).length} 个平台 × ${(e.trend && e.trend.measuredPoints) || 0} 次实测 =
@@ -1142,7 +1142,7 @@
       // 但“刷新”仍然真实执行：重新请求带时间戳的页面和最新 data.js，
       // 读取云端最近一次已发布快照，而不是只做视觉上的 reload。
       btn.textContent = "刷新云端数据";
-      if (st0) st0.textContent = "云端每小时采集；点击后读取最近一次成功发布的快照。";
+      if (st0) st0.textContent = "云端每 6 小时采集；点击后读取最近一次成功发布的快照。";
       btn.addEventListener("click", () => {
         if (st0) st0.textContent = "正在读取云端最新快照…";
         btn.disabled = true;
