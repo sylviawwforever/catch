@@ -68,14 +68,6 @@ window.CATCH_DATA = {
     "name": "新闻",
     "emoji": "📰"
    },
-   "instagram": {
-    "source": "Ignix · Instagram trending topics（每日更新）",
-    "items": 17,
-    "ok": true,
-    "note": "Instagram 未登录访问返回登录墙，此处为公开第三方趋势索引（话题级，非原帖）",
-    "name": "Instagram",
-    "emoji": "📷"
-   },
    "bili": {
     "source": "B站公开搜索与评论接口",
     "items": 2855,
@@ -92,7 +84,6 @@ window.CATCH_DATA = {
   ],
   "degradedPlatforms": [
    "xhs",
-   "instagram",
    "bili"
   ],
   "freshness": {
@@ -116,26 +107,13 @@ window.CATCH_DATA = {
    "hotItems": 60,
    "events": 5,
    "comments": 2855,
-   "rawScanned": 361,
+   "rawScanned": 344,
    "slang": 5
   },
-  "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / Instagram / B站 公开榜单与真实接口"
+  "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / B站 公开榜单与真实接口"
  },
  "hotspots": {
   "text": [
-   {
-    "title": "sailormoon",
-    "platform": "instagram",
-    "platformName": "Instagram",
-    "emoji": "📷",
-    "heat": 31400000,
-    "rank": 18,
-    "url": "https://www.instagram.com/popular/sailormoon/",
-    "board": "Instagram Trending Topics（US · Nov 20）",
-    "tokens": [
-     "sailormoon"
-    ]
-   },
    {
     "title": "特朗普返美后召开新闻发布会，称中俄美元首会晤「史无前例」「意义重大」，哪些信息值得关注？",
     "platform": "zhihu",
@@ -256,19 +234,6 @@ window.CATCH_DATA = {
     "tokens": [
      "FSD",
      "V15"
-    ]
-   },
-   {
-    "title": "shenzhen",
-    "platform": "instagram",
-    "platformName": "Instagram",
-    "emoji": "📷",
-    "heat": 9300000,
-    "rank": 6,
-    "url": "https://www.instagram.com/popular/shenzhen/",
-    "board": "Instagram Trending Topics（US · Nov 20）",
-    "tokens": [
-     "shenzhen"
     ]
    },
    {
@@ -393,19 +358,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "ipo",
-    "platform": "instagram",
-    "platformName": "Instagram",
-    "emoji": "📷",
-    "heat": 6300000,
-    "rank": 7,
-    "url": "https://www.instagram.com/popular/ipo/",
-    "board": "Instagram Trending Topics（US · Nov 20）",
-    "tokens": [
-     "ipo"
-    ]
-   },
-   {
     "title": "胖东来生活广场闭店后周围商户陆续搬走，曝租金降至 400 万后仍无人接盘，现在来看房东涨租算不算决策失误？",
     "platform": "zhihu",
     "platformName": "知乎",
@@ -517,19 +469,6 @@ window.CATCH_DATA = {
     "board": "X Trending (24h)",
     "tokens": [
      "二十一"
-    ]
-   },
-   {
-    "title": "lucia",
-    "platform": "instagram",
-    "platformName": "Instagram",
-    "emoji": "📷",
-    "heat": 4800000,
-    "rank": 4,
-    "url": "https://www.instagram.com/popular/lucia/",
-    "board": "Instagram Trending Topics（US · Nov 20）",
-    "tokens": [
-     "lucia"
     ]
    },
    {
@@ -648,19 +587,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "cma",
-    "platform": "instagram",
-    "platformName": "Instagram",
-    "emoji": "📷",
-    "heat": 4800000,
-    "rank": 8,
-    "url": "https://www.instagram.com/popular/cma/",
-    "board": "Instagram Trending Topics（US · Nov 20）",
-    "tokens": [
-     "cma"
-    ]
-   },
-   {
     "title": "为什么早餐利润这么高大家都不去做呢？",
     "platform": "zhihu",
     "platformName": "知乎",
@@ -774,19 +700,6 @@ window.CATCH_DATA = {
      "El",
      "Chapo",
      "Isidro"
-    ]
-   },
-   {
-    "title": "fiona",
-    "platform": "instagram",
-    "platformName": "Instagram",
-    "emoji": "📷",
-    "heat": 4700000,
-    "rank": 2,
-    "url": "https://www.instagram.com/popular/fiona/",
-    "board": "Instagram Trending Topics（US · Nov 20）",
-    "tokens": [
-     "fiona"
     ]
    },
    {
@@ -910,19 +823,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "indieband",
-    "platform": "instagram",
-    "platformName": "Instagram",
-    "emoji": "📷",
-    "heat": 4099999,
-    "rank": 20,
-    "url": "https://www.instagram.com/popular/indieband/",
-    "board": "Instagram Trending Topics（US · Nov 20）",
-    "tokens": [
-     "indieband"
-    ]
-   },
-   {
     "title": "特朗普称不允许美企海外建数据中心，如果违反将面临「巨额税收」处罚，这会对美国科技公司发展带来哪些影响？",
     "platform": "zhihu",
     "platformName": "知乎",
@@ -1036,19 +936,6 @@ window.CATCH_DATA = {
     "board": "X Trending (24h)",
     "tokens": [
      "Clemson"
-    ]
-   },
-   {
-    "title": "mandy",
-    "platform": "instagram",
-    "platformName": "Instagram",
-    "emoji": "📷",
-    "heat": 2300000,
-    "rank": 3,
-    "url": "https://www.instagram.com/popular/mandy/",
-    "board": "Instagram Trending Topics（US · Nov 20）",
-    "tokens": [
-     "mandy"
     ]
    },
    {
@@ -1173,19 +1060,6 @@ window.CATCH_DATA = {
      "全军",
      "采购",
      "活动"
-    ]
-   },
-   {
-    "title": "internationalmensday",
-    "platform": "instagram",
-    "platformName": "Instagram",
-    "emoji": "📷",
-    "heat": 1000000,
-    "rank": 1,
-    "url": "https://www.instagram.com/popular/internationalmensday/",
-    "board": "Instagram Trending Topics（US · Nov 20）",
-    "tokens": [
-     "internationalmensday"
     ]
    },
    {
@@ -1417,19 +1291,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "fiona",
-    "platform": "instagram",
-    "platformName": "Instagram",
-    "emoji": "📷",
-    "heat": 4700000,
-    "rank": 2,
-    "url": "https://www.instagram.com/popular/fiona/",
-    "board": "Instagram Trending Topics（US · Nov 20）",
-    "tokens": [
-     "fiona"
-    ]
-   },
-   {
     "title": "特朗普深圳不拉窗帘原因找到了",
     "platform": "weibo",
     "platformName": "微博",
@@ -1622,19 +1483,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "mandy",
-    "platform": "instagram",
-    "platformName": "Instagram",
-    "emoji": "📷",
-    "heat": 2300000,
-    "rank": 3,
-    "url": "https://www.instagram.com/popular/mandy/",
-    "board": "Instagram Trending Topics（US · Nov 20）",
-    "tokens": [
-     "mandy"
-    ]
-   },
-   {
     "title": "唱空中国经济者终会落空",
     "platform": "weibo",
     "platformName": "微博",
@@ -1792,19 +1640,6 @@ window.CATCH_DATA = {
      "回顾",
      "APEC",
      "成绩单"
-    ]
-   },
-   {
-    "title": "lucia",
-    "platform": "instagram",
-    "platformName": "Instagram",
-    "emoji": "📷",
-    "heat": 4800000,
-    "rank": 4,
-    "url": "https://www.instagram.com/popular/lucia/",
-    "board": "Instagram Trending Topics（US · Nov 20）",
-    "tokens": [
-     "lucia"
     ]
    },
    {
@@ -2020,19 +1855,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "mensday",
-    "platform": "instagram",
-    "platformName": "Instagram",
-    "emoji": "📷",
-    "heat": 193000,
-    "rank": 5,
-    "url": "https://www.instagram.com/popular/mensday/",
-    "board": "Instagram Trending Topics（US · Nov 20）",
-    "tokens": [
-     "mensday"
-    ]
-   },
-   {
     "title": "天！啊！#过年放炮 #遇见彩虹烟花",
     "platform": "douyin",
     "platformName": "抖音",
@@ -2121,19 +1943,6 @@ window.CATCH_DATA = {
      "论文",
      "学生",
      "作文"
-    ]
-   },
-   {
-    "title": "shenzhen",
-    "platform": "instagram",
-    "platformName": "Instagram",
-    "emoji": "📷",
-    "heat": 9300000,
-    "rank": 6,
-    "url": "https://www.instagram.com/popular/shenzhen/",
-    "board": "Instagram Trending Topics（US · Nov 20）",
-    "tokens": [
-     "shenzhen"
     ]
    }
   ],
@@ -6644,16 +6453,16 @@ window.CATCH_DATA = {
    "resonance": 2,
    "commentRelevance": {
     "tokens": [
-     "停参加全军采",
-     "加全军采购活",
-     "暂停参加全军",
      "全军采购活动",
-     "速运被暂停参",
      "丰速运被暂停",
+     "暂停参加全军",
+     "速运被暂停参",
+     "加全军采购活",
+     "参加全军采购",
      "运被暂停参加",
-     "顺丰速运被暂",
      "被暂停参加全",
-     "参加全军采购"
+     "停参加全军采",
+     "顺丰速运被暂"
     ],
     "total": 141,
     "relevant": 141,
@@ -7069,10 +6878,10 @@ window.CATCH_DATA = {
    "resonance": 2,
    "commentRelevance": {
     "tokens": [
+     "景瑜腿绞泰国",
      "瑜腿绞泰国拳",
-     "腿绞泰国拳王",
      "黄景瑜腿绞泰",
-     "景瑜腿绞泰国"
+     "腿绞泰国拳王"
     ],
     "total": 0,
     "relevant": 0,
@@ -8479,5 +8288,5 @@ window.CATCH_DATA = {
    "commentsFile": "assets/data/comments/E05.json"
   }
  ],
- "builtAt": "2026-11-21T19:59:08.100672+08:00"
+ "builtAt": "2026-11-21T20:41:34.632363+08:00"
 };

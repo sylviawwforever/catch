@@ -66,14 +66,6 @@
    "name": "新闻",
    "emoji": "📰"
   },
-  "instagram": {
-   "source": "Ignix · Instagram trending topics（每日更新）",
-   "items": 17,
-   "ok": true,
-   "note": "Instagram 未登录访问返回登录墙，此处为公开第三方趋势索引（话题级，非原帖）",
-   "name": "Instagram",
-   "emoji": "📷"
-  },
   "bili": {
    "source": "B站公开搜索与评论接口",
    "items": 2855,
@@ -90,7 +82,6 @@
  ],
  "degradedPlatforms": [
   "xhs",
-  "instagram",
   "bili"
  ],
  "freshness": {
@@ -114,8 +105,8 @@
   "hotItems": 60,
   "events": 5,
   "comments": 2855,
-  "rawScanned": 361,
+  "rawScanned": 344,
   "slang": 5
  },
- "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / Instagram / B站 公开榜单与真实接口"
+ "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / B站 公开榜单与真实接口"
 }

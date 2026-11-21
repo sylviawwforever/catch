@@ -56,7 +56,6 @@ PLATFORMS = {
     "zhihu":   {"name": "知乎",      "emoji": "💡"},
     "bili":    {"name": "哔哩哔哩",  "emoji": "📺"},
     "news":    {"name": "新闻",      "emoji": "📰"},
-    "instagram": {"name": "Instagram", "emoji": "📷"},
 }
 
 
@@ -489,52 +488,6 @@ def collect_x() -> tuple[list[dict], dict]:
             err = str(e)[:140]
     return out, {"source": "trends24.in · X 24h 趋势", "items": len(out),
                  "ok": bool(out), "error": err}
-
-
-# ── Instagram ──────────────────────────────────────────────────────────────
-# Instagram 主站对未登录访问返回登录墙（explore/tags、/p/、api/v1 均被拦截）。
-# 因此采用公开的第三方趋势索引：Ignix 每日更新 Instagram 官方 Explore 展示的
-# trending topics，并附 Instagram 公开帖子量。数据真实但为「话题」而非原帖，
-# 页面已如实标注口径。
-IG_TREND_RE = re.compile(
-    r"^\s*(\d{1,2})\.\s+\d*\[([^\]]{2,60})\]\((https://[^)]+)\)([\d.]+[KMB]?)\s*(posts)?",
-    re.MULTILINE)
-
-
-def collect_instagram() -> tuple[list[dict], dict]:
-    out, err = [], None
-    url = "https://ignix.social/trends/hashtags/instagram"
-    try:
-        md = jina(url, timeout=45)
-    except Exception as e:
-        return [], {"source": "Ignix · Instagram trending topics", "items": 0,
-                    "ok": False, "error": str(e)[:140]}
-    region = ""
-    m = re.search(r"United States\s*·\s*updated\s*([A-Za-z]{3}\s*\d+)", md)
-    if m:
-        region = f"US · {m.group(1)}"
-    for m in IG_TREND_RE.finditer(md):
-        rank, topic, link, cnt = m.group(1), m.group(2), m.group(3), m.group(4)
-        topic = topic.strip()
-        if not topic:
-            continue
-        heat = parse_heat(cnt)
-        out.append({
-            "rank": int(rank), "title": topic,
-            "url": link or "https://www.instagram.com/explore/tags/",
-            "heat": heat, "platform": "instagram",
-            "board": "Instagram Trending Topics" + (f"（{region}）" if region else ""),
-        })
-    # 去重并按原序保留
-    seen, dedup = set(), []
-    for it in out:
-        if it["title"] in seen:
-            continue
-        seen.add(it["title"])
-        dedup.append(it)
-    return dedup[:30], {"source": "Ignix · Instagram trending topics（每日更新）",
-                        "items": len(dedup), "ok": bool(dedup),
-                        "note": "Instagram 未登录访问返回登录墙，此处为公开第三方趋势索引（话题级，非原帖）"}
 
 
 # ── 网络流行语：近 7 天社交媒体高频词条自行归纳 ──────────────────────────────
@@ -1703,9 +1656,6 @@ def main() -> int:
     r = safe("news", lambda: collect_boards("news"))
     if r:
         platform_items["news"], status["news"] = r
-    r = safe("instagram", collect_instagram)
-    if r:
-        platform_items["instagram"], status["instagram"] = r
 
     for k in platform_items:
         if k.startswith("_"):
@@ -2041,7 +1991,7 @@ def main() -> int:
             "rawScanned": sum(len(v) for k, v in platform_items.items() if not k.startswith("_")),
             "slang": len(slang_rows),
         },
-        "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / Instagram / B站 公开榜单与真实接口",
+        "source": "微博 / 抖音 / 小红书 / X / 微信公众号 / 知乎 / 新闻 / B站 公开榜单与真实接口",
     }
 
     with open(os.path.join(DATA, "hotspots.json"), "w", encoding="utf-8") as f:

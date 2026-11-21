@@ -20,7 +20,6 @@
     zhihu:  { name: "知乎",       emoji: "💡" },
     bili:   { name: "哔哩哔哩",   emoji: "📺" },
     news:   { name: "新闻",       emoji: "📰" },
-    instagram: { name: "Instagram", emoji: "📷" },
   };
   const pname = (id) => (PLATFORM[id] || { name: id, emoji: "•" });
   const SENT = {
@@ -245,11 +244,6 @@
         `硬新闻进入热搜榜后的「再叙事」路径：从通稿到表情包`,
         `以「${it.title.slice(0, 10)}」为样本，比较通稿、门户标题与微博热搜的框架差异`,
         `议程设置研究：谁在决定「什么值得被报道」，以及报道之后被讨论的是什么`,
-      ],
-      instagram: [
-        `Instagram 的 Explore 机制如何把「${it.title.slice(0, 8)}」推给陌生用户`,
-        `跨文化传播样本：同一话题在英语与中文圈的表述差异`,
-        `以「${it.title.slice(0, 10)}」为切口，观察海外社交平台的话题形成机制`,
       ],
     };
     const base = banks[p] || banks.weibo;
@@ -1079,8 +1073,6 @@
             <li>热评样本保留原平台链接，便于复核与引用；导出 CSV 时附带来源 URL。</li>
             <li>走势图中空心点为扩散模型估算基线，随每小时采集逐步被实测点替换。</li>
             <li>平台榜单口径不一（热度值非统一标准），故仅做同平台内比较与序位解读。</li>
-            <li>Instagram 未登录访问返回登录墙，本系统采用公开第三方趋势索引（Ignix 每日更新的
-              trending topics），为话题级而非原帖级数据，不能等同于平台官方榜单。</li>
             <li>热评样本按热度排序取样，并非全量抓取；未公开评论不可得，结论不宜外推至全网。
               样本相关性与事件的相关性由「源视频标题是否谈到该事件」判定
               （标题含事件关键词，或与该事件任一触发条目共享 ≥4 字连续片段），
@@ -1099,7 +1091,7 @@
           <div class="cap" style="margin-bottom:10px">引用格式</div>
           <p class="lede">CATCH 舆情监测系统. ${esc(META.dateLabel || "")}，
             采集时间 ${esc((META.generatedAt || "").replace("T", " ").slice(0, 19))}（UTC+8）。
-            数据来自微博、抖音、小红书、X、微信公众号、知乎、新闻、Instagram 与哔哩哔哩公开榜单。</p>
+            数据来自微博、抖音、小红书、X、微信公众号、知乎、新闻与哔哩哔哩公开榜单。</p>
           <p class="lede">建议在论文附录中同时提供原始榜单快照与本系统导出的热评 CSV，
             以满足可重复性（reproducibility）要求。</p>
         </div>
