@@ -23,7 +23,7 @@ permissions:
 
 concurrency:
   group: catch-collect
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   collect:
@@ -118,16 +118,30 @@ jobs:
         run: |
           git config user.name "catch-bot"
           git config user.email "catch-bot@users.noreply.github.com"
-          git add -f assets/data/meta.json assets/data/events.json \
-                    assets/data/history.json assets/data/hotspots.json \
-                    assets/js/data.js assets/data/comments/ 2>/dev/null || true
-          if git diff --cached --quiet; then
-            echo "采集结果无变化，跳过源仓库提交。"
-          else
+          for attempt in 1 2 3; do
+            # 采集期间可能有另一轮任务刚刚写回 main；每次尝试前同步最新主分支，
+            # 保留本轮刚生成的工作区数据，再重新提交，避免 fetch first 让发布中断。
+            git fetch origin "$SOURCE_BRANCH"
+            git reset --mixed "origin/$SOURCE_BRANCH"
+            git add -f assets/data/meta.json assets/data/events.json \
+                      assets/data/history.json assets/data/hotspots.json \
+                      assets/js/data.js assets/data/comments/ 2>/dev/null || true
+            if git diff --cached --quiet; then
+              echo "采集结果无变化，跳过源仓库提交。"
+              break
+            fi
             git commit -m "data: 更新 $(date -u +'%Y-%m-%d %H:%M UTC') 采集结果"
-            git push "https://x-access-token:${SITE_TOKEN}@github.com/${SITE_REPOSITORY}.git" \
-                   "HEAD:${SOURCE_BRANCH}"
-          fi
+            if git push "https://x-access-token:${SITE_TOKEN}@github.com/${SITE_REPOSITORY}.git" \
+                     "HEAD:${SOURCE_BRANCH}"; then
+              break
+            fi
+            if [ "$attempt" = "3" ]; then
+              echo "连续 3 次推送失败。"
+              exit 1
+            fi
+            echo "推送发生并发冲突，第 ${attempt} 次重试…"
+            sleep 5
+          done
 
       - name: 收集发布产物
         run: |
