@@ -27,6 +27,7 @@ jobs:
       SITE_TOKEN: ${{ secrets.SITE_TOKEN || secrets.GITHUB_TOKEN }}
       SITE_BRANCH: gh-pages
       SOURCE_BRANCH: ${{ github.event.repository.default_branch }}
+      XHS_COOKIE: ${{ secrets.XHS_COOKIE }}
 
     steps:
       - name: 检出源码
@@ -41,9 +42,7 @@ jobs:
         run: pip install jieba xiaohongshu-cli
 
       - name: 注入小红书云端登录态
-        if: ${{ secrets.XHS_COOKIE != '' }}
-        env:
-          XHS_COOKIE: ${{ secrets.XHS_COOKIE }}
+        if: ${{ env.XHS_COOKIE != '' }}
         run: |
           python - <<'PY'
           import json
