@@ -4,16 +4,8 @@ name: CATCH 云端采集与发布
 # 任何人都能通过固定链接看到最新一期数据，不依赖任何一台本地电脑。
 on:
   schedule:
-    - cron: "0 1 * * *"    # 01:00 UTC = 北京时间 09:00 · 完整采集
-    - cron: "10 * * * *"   # 每小时第 10 分 · 增量采集
+    - cron: "10 * * * *"   # 每小时第 10 分 · 采集并发布
   workflow_dispatch:
-    inputs:
-      mode:
-        description: "采集模式"
-        required: false
-        default: "full"
-        type: choice
-        options: [full, hourly]
 
 permissions:
   contents: write
@@ -65,13 +57,11 @@ jobs:
           restore-keys: catch-cache-
 
       - name: 采集公开热榜与真实热评
-        run: |
-          MODE="${{ github.event.inputs.mode || 'full' }}"
-          if [ "$MODE" = "hourly" ]; then
-            python -u tools/collect.py --hourly
-          else
-            python -u tools/collect.py --events 5 --comment-target 1000
-          fi
+        # 一律走 --hourly，由 collect.py 内部的 lastFullRun 判断决定要不要升级为完整采集：
+        #   今天还没做过完整采集 → 自动升级为 full（保证「打开就是当天」）
+        #   今天已经做过完整采集 → 保持增量（只实测热度并追加走势点）
+        # 这样 cron 只需一条每小时规则，不必在 cron 表达式里区分两种模式。
+        run: python -u tools/collect.py --hourly
 
       - name: 装配前端页面
         run: python -u tools/build_site.py

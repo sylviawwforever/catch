@@ -11,7 +11,7 @@ CATCH 每天 **09:00** 自动巡检微博、抖音、小红书、X、微信公�
 **<https://sylviawwforever.github.io/catch/>**
 
 固定链接，任何人打开都能看到最新一期。采集与发布由 **GitHub Actions 在云端**完成
-（每天 09:00 完整采集 + 每小时增量），不依赖任何一台本地电脑，关机也照常更新。
+（每天自动完整采集一次 + 每小时增量），不依赖任何一台本地电脑，关机也照常更新。
 
 ![CATCH 首页](assets/img/preview.png)
 
@@ -41,7 +41,7 @@ CATCH 把「散落的网络声量」收进一张**可复核的底稿**：
 **<https://sylviawwforever.github.io/catch/>**
 
 这是一个固定链接，任何人打开都能看到最新一期数据。页面由 **GitHub Actions 在云端定时采集**
-（每天 09:00 完整采集 + 每小时增量）后自动发布，不依赖任何一台本地电脑，关机也照常更新。
+（每天自动完整采集一次 + 每小时增量）后自动发布，不依赖任何一台本地电脑，关机也照常更新。
 把这个链接分享给别人即可。
 
 > 公网版是只读的：页面上的「刷新数据」按钮会自动隐藏，因为数据由云端写入。
@@ -106,7 +106,7 @@ xhs login          # 会打开浏览器流程，或从已登录的 Chrome 提取
 
 | 链路 | 载体 | 触发 | 作用 |
 |---|---|---|---|
-| **云端主链路** | GitHub Actions + GitHub Pages | 每天 09:00（北京时间）完整采集；每小时第 10 分增量 | 不依赖任何一台本地电脑，关机也照跑；产出直接发布到公网链接 |
+| **云端主链路** | GitHub Actions + GitHub Pages | 每小时第 10 分触发；脚本按「今天是否已完整采集」自动决定完整或增量 | 不依赖任何一台本地电脑，关机也照跑；产出直接发布到公网链接 |
 | **本地采集链路** | macOS launchd | 每天 09:00 完整采集；每小时整点增量 | 本机可用时的即时补采，也是开发调试入口 |
 | **本地发布链路** | macOS launchd | 每小时第 40 分 | 把本机采集结果推送到公网发布分支（过渡用；云端主链路就绪后由它接管） |
 
@@ -132,8 +132,10 @@ python3 tools/build_site.py
 
 工作流定义在 `.github/workflows/publish.yml`：
 
-1. **触发**——`schedule` 定时（UTC 01:00 = 北京 09:00 完整采集；每小时第 10 分增量），
-   也可在 Actions 页面手动 `workflow_dispatch` 触发并选择 `full` / `hourly`；
+1. **触发**——`schedule` 每小时第 10 分（UTC）触发一次，也可在 Actions 页面手动 `workflow_dispatch` 触发；
+   每次都调用 `collect.py --hourly`，由脚本内部的 `lastFullRun` 判断决定这一轮是**完整采集**还是**增量采集**
+   ——今天还没做过完整采集就自动升级为完整采集（保证「打开就是当天」），今天做过了就只实测热度、
+   追加走势点。这样 cron 只需一条规则，不必在表达式里区分两种模式；
 2. **采集**——在 `ubuntu-latest` 上执行 `tools/collect.py` 与 `tools/build_site.py`；
    运行器在美国机房，访问 tophub.today、trends24 等源站的成功率比国内网络更高；
 3. **回写**——把 `meta.json` / `events.json` / `history.json` / `hotspots.json` /
