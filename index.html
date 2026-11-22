@@ -221,10 +221,8 @@
   </div>
 </footer>
 
-<!-- data.js 是云端发布的快照；加时间戳避免浏览器/CDN把旧快照当成最新结果。 -->
-<script>
-  document.write('<script src="assets/js/data.js?fresh=' + Date.now() + '"><\/script>');
-</script>
-<script src="assets/js/app.js?v=20261121"></script>
+<!-- 发布时由 GitHub Actions 把占位符替换为本轮数据版本，允许 CDN 正确缓存。 -->
+<script src="assets/js/data.js?v=__CATCH_DATA_VERSION__"></script>
+<script src="assets/js/app.js?v=__CATCH_DATA_VERSION__"></script>
 </body>
 </html>

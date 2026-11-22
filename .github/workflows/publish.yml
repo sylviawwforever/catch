@@ -147,7 +147,13 @@ jobs:
         run: |
           rm -rf _site
           mkdir -p _site/assets/css _site/assets/js _site/assets/data/comments
-          cp -f index.html _site/
+          DATA_VERSION="$(python - <<'PY'
+          import json, re
+          value = json.load(open("assets/data/meta.json", encoding="utf-8")).get("generatedAt", "latest")
+          print(re.sub(r"[^0-9A-Za-z_.-]", "", value))
+          PY
+          )"
+          sed "s/__CATCH_DATA_VERSION__/${DATA_VERSION}/g" index.html > _site/index.html
           cp -f assets/css/catch.css _site/assets/css/
           cp -f assets/js/app.js assets/js/data.js _site/assets/js/
           cp -f assets/data/meta.json _site/assets/data/meta.json

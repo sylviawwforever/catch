@@ -374,7 +374,7 @@
     }));
   }
 
-  function renderEventDetail() {
+  function renderEventDetail(initial = false) {
     const box = $("#eventDetail");
     if (!box) return;
     const e = EVENTS[curEvent];
@@ -556,11 +556,18 @@
       ? e.wordcloud : titleWordCloud(e));
     renderComments(e);
     wireCommentTools(e);   // 事件切换后立即重新绑定筛选/分页/导出
-    // 异步补齐该事件的完整热评样本（每事件 1000 条）
+    // 首屏先完成渲染，再在浏览器空闲时补齐完整热评；切换事件时立即加载。
     if (!FULL[e.id] && e.commentsFile) {
-      loadFullComments(e).then(() => {
+      const hydrate = () => loadFullComments(e).then(() => {
         if (EVENTS[curEvent] && EVENTS[curEvent].id === e.id) renderComments(EVENTS[curEvent]);
       });
+      if (initial && "requestIdleCallback" in window) {
+        window.requestIdleCallback(hydrate, { timeout: 3000 });
+      } else if (initial) {
+        window.setTimeout(hydrate, 1500);
+      } else {
+        hydrate();
+      }
     }
   }
 
@@ -1275,7 +1282,7 @@
     renderBoardTabs(); renderBoard();
     renderHotspots();
     renderSlang();
-    renderEventNav(); renderEventDetail();
+    renderEventNav(); renderEventDetail(true);
     renderRadar(); renderMethod();
     wireControls();
     initNavHighlight();
