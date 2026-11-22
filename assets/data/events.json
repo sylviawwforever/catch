@@ -11,11 +11,11 @@
     "zhihu"
    ],
    "platformHeat": {
-    "zhihu": 2850000,
-    "news": 866000,
-    "weibo": 60000
+    "weibo": 210000,
+    "zhihu": 3090000,
+    "news": 24292000
    },
-   "heat": 3776000,
+   "heat": 27592000,
    "members": [
     {
      "platform": "zhihu",
@@ -15069,23 +15069,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 15,
-    "videos_skipped": 20,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "特朗普",
-     "数据中心",
-     "发布会"
-    ],
-    "cached": 888,
-    "fresh": 112,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "cached_rejected": 336,
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 9.6,
@@ -15398,17 +15385,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T16:00:00+08:00",
-      "label": "16:00",
-      "total": 344905000,
-      "platforms": {
-       "weibo": 5280000,
-       "zhihu": 12420000,
-       "news": 327205000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T17:00:00+08:00",
       "label": "17:00",
       "total": 344905000,
@@ -15626,9 +15602,20 @@
        "weibo": 60000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-22T10:00:00+08:00",
+      "label": "10:00",
+      "total": 27592000,
+      "platforms": {
+       "weibo": 210000,
+       "zhihu": 3090000,
+       "news": 24292000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-22T06:09:23.688535+08:00",
+    "updatedAt": "2026-11-22T10:50:13.018148+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -15653,10 +15640,11 @@
     "zhihu"
    ],
    "platformHeat": {
-    "zhihu": 1890000,
-    "news": 5000
+    "weibo": 120000,
+    "zhihu": 8650000,
+    "news": 14481000
    },
-   "heat": 1895000,
+   "heat": 23251000,
    "members": [
     {
      "platform": "zhihu",
@@ -30686,23 +30674,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 0,
-    "videos_skipped": 0,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "数学家",
-     "Claude",
-     "Anthropic",
-     "第二天"
-    ],
-    "cached": 1000,
-    "fresh": 0,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 10.7,
@@ -31015,16 +30990,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T01:00:00+08:00",
-      "label": "01:00",
-      "total": 49135000,
-      "platforms": {
-       "zhihu": 49130000,
-       "news": 5000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T02:00:00+08:00",
       "label": "02:00",
       "total": 49025000,
@@ -31241,9 +31206,20 @@
        "news": 5000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-22T10:00:00+08:00",
+      "label": "10:00",
+      "total": 23251000,
+      "platforms": {
+       "weibo": 120000,
+       "zhihu": 8650000,
+       "news": 14481000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-22T06:09:23.951321+08:00",
+    "updatedAt": "2026-11-22T10:50:13.249661+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -31268,10 +31244,10 @@
     "weibo"
    ],
    "platformHeat": {
-    "news": 944000,
-    "weibo": 50000
+    "weibo": 870000,
+    "news": 7739778
    },
-   "heat": 994000,
+   "heat": 8609778,
    "members": [
     {
      "platform": "news",
@@ -39896,23 +39872,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 60,
-    "videos_skipped": 169,
     "collected": 573,
-    "want": 1000,
-    "queries": [
-     "APEC",
-     "确定性",
-     "印度洋"
-    ],
-    "cached": 33,
-    "fresh": 540,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "cached_rejected": 967,
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 15.4,
@@ -40225,16 +40188,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T01:00:00+08:00",
-      "label": "01:00",
-      "total": 23839000,
-      "platforms": {
-       "news": 23679000,
-       "weibo": 160000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T02:00:00+08:00",
       "label": "02:00",
       "total": 21906000,
@@ -40454,9 +40407,19 @@
        "weibo": 50000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-22T10:00:00+08:00",
+      "label": "10:00",
+      "total": 8609778,
+      "platforms": {
+       "weibo": 870000,
+       "news": 7739778
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-22T06:09:24.048211+08:00",
+    "updatedAt": "2026-11-22T10:50:13.337179+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -40481,10 +40444,9 @@
     "weibo"
    ],
    "platformHeat": {
-    "news": 850000,
-    "weibo": 40000
+    "news": 26000
    },
-   "heat": 890000,
+   "heat": 26000,
    "members": [
     {
      "platform": "news",
@@ -43461,20 +43423,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 15,
-    "videos_skipped": 55,
     "collected": 197,
-    "want": 1000,
-    "queries": [
-     "顺丰速运"
-    ],
-    "cached": 158,
-    "fresh": 39,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 9.1,
@@ -43787,16 +43739,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T01:00:00+08:00",
-      "label": "01:00",
-      "total": 22016000,
-      "platforms": {
-       "news": 21426000,
-       "weibo": 590000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T02:00:00+08:00",
       "label": "02:00",
       "total": 19790000,
@@ -44006,9 +43948,18 @@
        "weibo": 40000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-22T10:00:00+08:00",
+      "label": "10:00",
+      "total": 26000,
+      "platforms": {
+       "news": 26000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-22T06:09:24.100498+08:00",
+    "updatedAt": "2026-11-22T10:50:13.386734+08:00",
     "measuredPoints": 24
    },
    "risk": {
