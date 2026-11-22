@@ -1531,7 +1531,7 @@
    "sentiment": "中性",
    "score": 0.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "哼，叫得这么顺口，是不是早就在心里练过了。",
@@ -1701,7 +1701,7 @@
    "sentiment": "消极",
    "score": -1.2,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "用不了 这期跳过 不看了",
@@ -3554,7 +3554,7 @@
    "sentiment": "中性",
    "score": 0.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "目前最好的AI",
@@ -7532,7 +7532,7 @@
    "sentiment": "中性",
    "score": 0.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "主要是她一边嫌弃一边还认真回你——这种被容忍的感觉才是要害。",
@@ -7566,7 +7566,7 @@
    "sentiment": "中性",
    "score": 0.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "我那个时候都快困得去睡觉了，寻思先喝口水上个厕所，结果上厕所的时候刷到这个，直接吓醒了",
@@ -11068,7 +11068,7 @@
    "sentiment": "中性",
    "score": 0.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "bro求资源",
@@ -11085,7 +11085,7 @@
    "sentiment": "中性",
    "score": 0.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "大佬有渠道吗",
@@ -13397,7 +13397,7 @@
    "sentiment": "中性",
    "score": 0.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "回复 @狸凯Riikai :那图上的内容真实吗？请问呢？",
@@ -14162,7 +14162,7 @@
    "sentiment": "中性",
    "score": 0.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "我靠求渠道",

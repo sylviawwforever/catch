@@ -11,11 +11,10 @@
     "zhihu"
    ],
    "platformHeat": {
-    "weibo": 430000,
-    "zhihu": 2490000,
-    "news": 34275720
+    "zhihu": 3910000,
+    "news": 5684000
    },
-   "heat": 37195720,
+   "heat": 9594000,
    "members": [
     {
      "platform": "zhihu",
@@ -15385,17 +15384,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T18:00:00+08:00",
-      "label": "18:00",
-      "total": 163529000,
-      "platforms": {
-       "weibo": 3750000,
-       "zhihu": 12420000,
-       "news": 147359000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T19:00:00+08:00",
       "label": "19:00",
       "total": 162219000,
@@ -15613,9 +15601,19 @@
        "news": 34275720
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-22T21:00:00+08:00",
+      "label": "21:00",
+      "total": 9594000,
+      "platforms": {
+       "zhihu": 3910000,
+       "news": 5684000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-22T12:50:24.686320+08:00",
+    "updatedAt": "2026-11-22T21:05:55.026149+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -15640,11 +15638,10 @@
     "zhihu"
    ],
    "platformHeat": {
-    "weibo": 310000,
-    "zhihu": 44400000,
-    "news": 13867886
+    "weibo": 180000,
+    "zhihu": 4670000
    },
-   "heat": 58577886,
+   "heat": 4850000,
    "members": [
     {
      "platform": "zhihu",
@@ -30990,16 +30987,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T10:00:00+08:00",
-      "label": "10:00",
-      "total": 19355000,
-      "platforms": {
-       "news": 18405000,
-       "weibo": 950000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T12:00:00+08:00",
       "label": "12:00",
       "total": 28486000,
@@ -31218,9 +31205,19 @@
        "news": 13867886
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-22T21:00:00+08:00",
+      "label": "21:00",
+      "total": 4850000,
+      "platforms": {
+       "weibo": 180000,
+       "zhihu": 4670000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-22T12:50:24.886501+08:00",
+    "updatedAt": "2026-11-22T21:05:55.220220+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -31245,9 +31242,9 @@
     "weibo"
    ],
    "platformHeat": {
-    "news": 16490000
+    "news": 12442000
    },
-   "heat": 16490000,
+   "heat": 12442000,
    "members": [
     {
      "platform": "news",
@@ -40188,16 +40185,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T10:00:00+08:00",
-      "label": "10:00",
-      "total": 2600000,
-      "platforms": {
-       "zhihu": 2170000,
-       "weibo": 430000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T12:00:00+08:00",
       "label": "12:00",
       "total": 11414000,
@@ -40416,9 +40403,18 @@
        "news": 16490000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-22T21:00:00+08:00",
+      "label": "21:00",
+      "total": 12442000,
+      "platforms": {
+       "news": 12442000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-22T12:50:24.963905+08:00",
+    "updatedAt": "2026-11-22T21:05:55.300430+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -40443,9 +40439,9 @@
     "weibo"
    ],
    "platformHeat": {
-    "zhihu": 960000
+    "news": 7199000
    },
-   "heat": 960000,
+   "heat": 7199000,
    "members": [
     {
      "platform": "news",
@@ -43738,15 +43734,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T10:00:00+08:00",
-      "label": "10:00",
-      "total": 1075000,
-      "platforms": {
-       "zhihu": 1070000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T12:00:00+08:00",
       "label": "12:00",
       "total": 585000,
@@ -43955,9 +43942,18 @@
        "zhihu": 960000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-22T21:00:00+08:00",
+      "label": "21:00",
+      "total": 7199000,
+      "platforms": {
+       "news": 7199000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-22T12:50:25.006068+08:00",
+    "updatedAt": "2026-11-22T21:05:55.343389+08:00",
     "measuredPoints": 24
    },
    "risk": {
