@@ -1,26 +1,11 @@
 {
  "text": [
   {
-   "title": "看五十年的中国就来深圳",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 7904000,
-   "rank": 1,
-   "url": "https://www.baidu.com/s?wd=%E7%9C%8B%E4%BA%94%E5%8D%81%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B0%B1%E6%9D%A5%E6%B7%B1%E5%9C%B3",
-   "board": "百度热搜",
-   "tokens": [
-    "五十年",
-    "中国",
-    "深圳"
-   ]
-  },
-  {
    "title": "Lean 与 Mathlib 社区联合声明，正式确认 Alpöge 对黎曼猜想的证明正确，这意味着什么？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 6550000,
+   "heat": 42430000,
    "rank": 1,
    "url": "https://www.zhihu.com/question/2107620110105932525",
    "board": "知乎热榜",
@@ -36,11 +21,29 @@
    ]
   },
   {
+   "title": "为推动亚太合作行稳致远指明方向",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7905000,
+   "rank": 1,
+   "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E6%8E%A8%E5%8A%A8%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91",
+   "board": "百度热搜",
+   "tokens": [
+    "推动",
+    "亚太",
+    "合作",
+    "行稳",
+    "致远",
+    "指明方向"
+   ]
+  },
+  {
    "title": "羽绒服生意变天了",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 1520000,
+   "heat": 1350000,
    "rank": 1,
    "url": "https://s.weibo.com/weibo?q=%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86",
    "board": "微博热搜榜",
@@ -98,40 +101,41 @@
    ]
   },
   {
-   "title": "央视揭秘网络女主播真实生态",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 7809000,
-   "rank": 2,
-   "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BB%9C%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81",
-   "board": "百度热搜",
-   "tokens": [
-    "揭秘",
-    "网络",
-    "女主播",
-    "真实",
-    "生态"
-   ]
-  },
-  {
-   "title": "如何看待 11 月 21 日三维 ns 方程有限时间爆破的形式化证明疑似已经完成？",
+   "title": "荷兰法院裁定比亚迪 Ti7 抄袭路虎卫士，颁布销售禁令，对此怎么看？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 3450000,
+   "heat": 11560000,
    "rank": 2,
-   "url": "https://www.zhihu.com/question/2107281397077500209",
+   "url": "https://www.zhihu.com/question/2107417541236805904",
    "board": "知乎热榜",
    "tokens": [
-    "看待",
-    "三维",
-    "ns",
-    "方程",
-    "有限",
-    "时间",
-    "爆破",
-    "形式化"
+    "荷兰",
+    "法院",
+    "裁定",
+    "比亚迪",
+    "Ti7",
+    "抄袭",
+    "路虎",
+    "卫士"
+   ]
+  },
+  {
+   "title": "后劲太大 特朗普连发30多张APEC照片",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7808000,
+   "rank": 2,
+   "url": "https://www.baidu.com/s?wd=%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%A7+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9130%E5%A4%9A%E5%BC%A0APEC%E7%85%A7%E7%89%87",
+   "board": "百度热搜",
+   "tokens": [
+    "后劲",
+    "特朗普",
+    "连发",
+    "多张",
+    "APEC",
+    "照片"
    ]
   },
   {
@@ -139,7 +143,7 @@
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 880000,
+   "heat": 900000,
    "rank": 2,
    "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BB%9C%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81",
    "board": "微博热搜榜",
@@ -185,72 +189,67 @@
    ]
   },
   {
-   "title": "Michigan",
+   "title": "Mikal Bridges",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 2,
-   "url": "https://twitter.com/search?q=Michigan",
+   "url": "https://twitter.com/search?q=Mikal%20Bridges",
    "board": "X Trending (24h)",
    "tokens": [
-    "Michigan"
+    "Mikal",
+    "Bridges"
    ]
   },
   {
-   "title": "金价跌势凌厉 多家银行发紧急提示",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 7713000,
-   "rank": 3,
-   "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%8A%BF%E5%87%8C%E5%8E%89+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E7%B4%A7%E6%80%A5%E6%8F%90%E7%A4%BA",
-   "board": "百度热搜",
-   "tokens": [
-    "金价",
-    "跌势",
-    "凌厉",
-    "多家",
-    "银行",
-    "紧急",
-    "提示"
-   ]
-  },
-  {
-   "title": "20 多天婴儿被喂白开水中毒肾损伤，新生儿为何不能像成年人一样正常喝白开水？该如何科学喂养？",
+   "title": "有比《持械入宋》更好看的短剧吗？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 2340000,
+   "heat": 3750000,
    "rank": 3,
-   "url": "https://www.zhihu.com/question/2106868147718284246",
+   "url": "https://www.zhihu.com/question/2103550053273149533",
    "board": "知乎热榜",
    "tokens": [
-    "多天",
-    "婴儿",
-    "白开水",
-    "中毒",
-    "损伤",
-    "新生儿",
-    "为何",
-    "不能"
+    "持械",
+    "入宋",
+    "更好",
+    "短剧"
    ]
   },
   {
-   "title": "图览APEC中国年75项主要成果",
+   "title": "女博士卧底体验当主播 至今心有余悸",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7714000,
+   "rank": 3,
+   "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%8D%A7%E5%BA%95%E4%BD%93%E9%AA%8C%E5%BD%93%E4%B8%BB%E6%92%AD+%E8%87%B3%E4%BB%8A%E5%BF%83%E6%9C%89%E4%BD%99%E6%82%B8",
+   "board": "百度热搜",
+   "tokens": [
+    "女博士",
+    "卧底",
+    "体验",
+    "当主播",
+    "至今",
+    "心有余悸"
+   ]
+  },
+  {
+   "title": "从琼崖烽火到开放自贸港",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 870000,
+   "heat": 720000,
    "rank": 3,
-   "url": "https://s.weibo.com/weibo?q=%E5%9B%BE%E8%A7%88APEC%E4%B8%AD%E5%9B%BD%E5%B9%B475%E9%A1%B9%E4%B8%BB%E8%A6%81%E6%88%90%E6%9E%9C",
+   "url": "https://s.weibo.com/weibo?q=%E4%BB%8E%E7%90%BC%E5%B4%96%E7%83%BD%E7%81%AB%E5%88%B0%E5%BC%80%E6%94%BE%E8%87%AA%E8%B4%B8%E6%B8%AF",
    "board": "微博热搜榜",
    "tokens": [
-    "图览",
-    "APEC",
-    "中国",
-    "主要",
-    "成果"
+    "琼崖",
+    "烽火",
+    "开放",
+    "自贸港"
    ]
   },
   {
@@ -283,53 +282,54 @@
    ]
   },
   {
-   "title": "Rutgers",
+   "title": "Drummond",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 3,
-   "url": "https://twitter.com/search?q=Rutgers",
+   "url": "https://twitter.com/search?q=Drummond",
    "board": "X Trending (24h)",
    "tokens": [
-    "Rutgers"
+    "Drummond"
    ]
   },
   {
-   "title": "深圳展望”为何成APEC新的里程碑",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 7616000,
-   "rank": 4,
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B7%B1%E5%9C%B3%E5%B1%95%E6%9C%9B%E2%80%9D%E4%B8%BA%E4%BD%95%E6%88%90APEC%E6%96%B0%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91",
-   "board": "百度热搜",
-   "tokens": [
-    "深圳",
-    "展望",
-    "为何",
-    "APEC",
-    "里程碑"
-   ]
-  },
-  {
-   "title": "菲尔兹奖得主邓煜称「人类不能放弃自主思考给 AI 当狗」，如何看待这一观点？",
+   "title": "贾国龙新创品牌「天边」一年内从砂锅焖面转向冰煮鲜羊，频繁调整经营方向背后有哪些考量？他能翻身吗？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 1860000,
+   "heat": 1460000,
    "rank": 4,
-   "url": "https://www.zhihu.com/question/2099876169013258150",
+   "url": "https://www.zhihu.com/question/2106862061669934684",
    "board": "知乎热榜",
    "tokens": [
-    "菲尔",
-    "奖得主",
-    "邓煜称",
-    "人类",
-    "不能",
-    "放弃",
-    "自主",
-    "思考"
+    "贾国龙",
+    "新创",
+    "品牌",
+    "天边",
+    "一年",
+    "砂锅",
+    "转向",
+    "冰煮"
+   ]
+  },
+  {
+   "title": "APEC“中国年”留下这些珍贵瞬间",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7617000,
+   "rank": 4,
+   "url": "https://www.baidu.com/s?wd=APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E7%95%99%E4%B8%8B%E8%BF%99%E4%BA%9B%E7%8F%8D%E8%B4%B5%E7%9E%AC%E9%97%B4",
+   "board": "百度热搜",
+   "tokens": [
+    "APEC",
+    "中国",
+    "留下",
+    "这些",
+    "珍贵",
+    "瞬间"
    ]
   },
   {
@@ -337,7 +337,7 @@
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 870000,
+   "heat": 710000,
    "rank": 4,
    "url": "https://s.weibo.com/weibo?q=%E4%BD%99%E6%96%87%E4%B9%90%E8%BA%AF%E4%BD%93%E5%8C%96%E4%B8%A5%E9%87%8D%E5%88%B0%E4%B8%8D%E8%83%BD%E5%BC%80%E8%BD%A6",
    "board": "微博热搜榜",
@@ -387,68 +387,72 @@
    ]
   },
   {
-   "title": "Penn State",
+   "title": "#AEWCollision",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 4,
-   "url": "https://twitter.com/search?q=Penn%20State",
+   "url": "https://twitter.com/search?q=%23AEWCollision",
    "board": "X Trending (24h)",
    "tokens": [
-    "Penn",
-    "State"
+    "AEWCollision"
    ]
   },
   {
-   "title": "特朗普晒和普京深圳会晤照片",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 7522000,
-   "rank": 5,
-   "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%92%E5%92%8C%E6%99%AE%E4%BA%AC%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4%E7%85%A7%E7%89%87",
-   "board": "百度热搜",
-   "tokens": [
-    "特朗普",
-    "和普京",
-    "深圳",
-    "会晤",
-    "照片"
-   ]
-  },
-  {
-   "title": "如何看待韩国高考中国史题正确率不足一成？这道题难度究竟如何？",
+   "title": "如何评价华为星芒 O1 Pro 定价 5499 元起引争议，总经理刘赫回应称「我们选择创新优先」？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 1730000,
+   "heat": 1090000,
    "rank": 5,
-   "url": "https://www.zhihu.com/question/2107440924695291008",
+   "url": "https://www.zhihu.com/question/2107408889713115755",
    "board": "知乎热榜",
    "tokens": [
-    "看待",
-    "韩国",
-    "高考",
-    "中国史",
-    "正确率",
-    "不足",
-    "这道题",
-    "难度"
+    "评价",
+    "华为",
+    "星芒",
+    "O1",
+    "Pro",
+    "定价",
+    "元起",
+    "争议"
    ]
   },
   {
-   "title": "朱瞻基 扫黄",
+   "title": "金价跌势凌厉 多家银行发紧急提示",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7523000,
+   "rank": 5,
+   "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%8A%BF%E5%87%8C%E5%8E%89+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E7%B4%A7%E6%80%A5%E6%8F%90%E7%A4%BA",
+   "board": "百度热搜",
+   "tokens": [
+    "金价",
+    "跌势",
+    "凌厉",
+    "多家",
+    "银行",
+    "紧急",
+    "提示"
+   ]
+  },
+  {
+   "title": "张雪峰的接班人武亮回母校演讲",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 870000,
+   "heat": 670000,
    "rank": 5,
-   "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E7%9E%BB%E5%9F%BA+%E6%89%AB%E9%BB%84",
+   "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%9A%84%E6%8E%A5%E7%8F%AD%E4%BA%BA%E6%AD%A6%E4%BA%AE%E5%9B%9E%E6%AF%8D%E6%A0%A1%E6%BC%94%E8%AE%B2",
    "board": "微博热搜榜",
    "tokens": [
-    "朱瞻基",
-    "扫黄"
+    "雪峰",
+    "接班人",
+    "武亮",
+    "回母校",
+    "演讲"
    ]
   },
   {
@@ -485,70 +489,68 @@
    ]
   },
   {
-   "title": "Lane Kiffin",
+   "title": "Michigan",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 5,
-   "url": "https://twitter.com/search?q=Lane%20Kiffin",
+   "url": "https://twitter.com/search?q=Michigan",
    "board": "X Trending (24h)",
    "tokens": [
-    "Lane",
-    "Kiffin"
+    "Michigan"
    ]
   },
   {
-   "title": "卸任人艺院长后 冯远征现身观众席",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 7429000,
-   "rank": 55,
-   "url": "https://www.baidu.com/s?wd=%E5%8D%B8%E4%BB%BB%E4%BA%BA%E8%89%BA%E9%99%A2%E9%95%BF%E5%90%8E+%E5%86%AF%E8%BF%9C%E5%BE%81%E7%8E%B0%E8%BA%AB%E8%A7%82%E4%BC%97%E5%B8%AD",
-   "board": "百度热搜",
-   "tokens": [
-    "卸任",
-    "人艺",
-    "院长",
-    "冯远征",
-    "现身",
-    "观众席"
-   ]
-  },
-  {
-   "title": "如何看待截至 2026 年 5 月 11 日，米哈游 57810 颗英伟达 H200 获批却未发货，这意味着什么？",
+   "title": "如何评价米哈游电子科技大学校招宣讲会技术负责人曝光原神 IP 未来的研发方向？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 1660000,
+   "heat": 1060000,
    "rank": 6,
-   "url": "https://www.zhihu.com/question/2107534705163777162",
+   "url": "https://www.zhihu.com/question/2107022824976159802",
    "board": "知乎热榜",
    "tokens": [
-    "看待",
-    "截至",
+    "评价",
     "米哈",
-    "颗英",
-    "伟达",
-    "H200",
-    "获批",
-    "发货"
+    "电子科技",
+    "学校",
+    "宣讲会",
+    "技术",
+    "负责人",
+    "原神"
    ]
   },
   {
-   "title": "白小纯粉丝群发言",
+   "title": "原价129万一针的药 为啥能进基本医保",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7426000,
+   "rank": 6,
+   "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E4%BB%B7129%E4%B8%87%E4%B8%80%E9%92%88%E7%9A%84%E8%8D%AF+%E4%B8%BA%E5%95%A5%E8%83%BD%E8%BF%9B%E5%9F%BA%E6%9C%AC%E5%8C%BB%E4%BF%9D",
+   "board": "百度热搜",
+   "tokens": [
+    "原价",
+    "万一",
+    "为啥",
+    "能进",
+    "基本",
+    "医保"
+   ]
+  },
+  {
+   "title": "这居然是王子璇",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 410000,
+   "heat": 640000,
    "rank": 6,
-   "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%B2%89%E4%B8%9D%E7%BE%A4%E5%8F%91%E8%A8%80",
+   "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E7%8E%8B%E5%AD%90%E7%92%87",
    "board": "微博热搜榜",
    "tokens": [
-    "白小纯",
-    "粉丝",
-    "发言"
+    "居然",
+    "王子"
    ]
   },
   {
@@ -588,72 +590,67 @@
    ]
   },
   {
-   "title": "Tennessee",
+   "title": "Rutgers",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 6,
-   "url": "https://twitter.com/search?q=Tennessee",
+   "url": "https://twitter.com/search?q=Rutgers",
    "board": "X Trending (24h)",
    "tokens": [
-    "Tennessee"
+    "Rutgers"
    ]
   },
   {
-   "title": "邓煜谈AI证明黎曼猜想：25万页不可读",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 7427000,
-   "rank": 6,
-   "url": "https://www.baidu.com/s?wd=%E9%82%93%E7%85%9C%E8%B0%88AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%EF%BC%9A25%E4%B8%87%E9%A1%B5%E4%B8%8D%E5%8F%AF%E8%AF%BB",
-   "board": "百度热搜",
-   "tokens": [
-    "邓煜谈",
-    "AI",
-    "证明",
-    "黎曼",
-    "猜想",
-    "万页",
-    "不可"
-   ]
-  },
-  {
-   "title": "黄金一周大跌近 9%，考验 3500 美元关口，现在适合抄底黄金吗？",
+   "title": "怎么看陶哲轩博客下针对 AI 完成黎曼猜想评论：数学变成 F1 赛车，不进 AI 车队都看不到后尾灯？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 1370000,
+   "heat": 1010000,
    "rank": 7,
-   "url": "https://www.zhihu.com/question/2107401788676743518",
+   "url": "https://www.zhihu.com/question/2107581968296760732",
    "board": "知乎热榜",
    "tokens": [
-    "黄金",
-    "一周",
-    "大跌",
-    "9%",
-    "考验",
-    "美元",
-    "关口",
-    "现在"
+    "陶哲轩",
+    "博客",
+    "针对",
+    "AI",
+    "完成",
+    "黎曼",
+    "猜想",
+    "评论"
    ]
   },
   {
-   "title": "榜一大哥的占有欲从屏幕爬进现实",
+   "title": "特朗普回应深圳乘车时不拉窗帘",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7334000,
+   "rank": 7,
+   "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E4%B9%98%E8%BD%A6%E6%97%B6%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98",
+   "board": "百度热搜",
+   "tokens": [
+    "特朗普",
+    "深圳",
+    "乘车",
+    "时不拉",
+    "窗帘"
+   ]
+  },
+  {
+   "title": "朱瞻基 扫黄",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 340000,
+   "heat": 610000,
    "rank": 7,
-   "url": "https://s.weibo.com/weibo?q=%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E7%9A%84%E5%8D%A0%E6%9C%89%E6%AC%B2%E4%BB%8E%E5%B1%8F%E5%B9%95%E7%88%AC%E8%BF%9B%E7%8E%B0%E5%AE%9E",
+   "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E7%9E%BB%E5%9F%BA+%E6%89%AB%E9%BB%84",
    "board": "微博热搜榜",
    "tokens": [
-    "大哥",
-    "占有欲",
-    "屏幕",
-    "爬进",
-    "现实"
+    "朱瞻基",
+    "扫黄"
    ]
   },
   {
@@ -691,69 +688,69 @@
    ]
   },
   {
-   "title": "Iowa",
+   "title": "Penn State",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 7,
-   "url": "https://twitter.com/search?q=Iowa",
+   "url": "https://twitter.com/search?q=Penn%20State",
    "board": "X Trending (24h)",
    "tokens": [
-    "Iowa"
+    "Penn",
+    "State"
    ]
   },
   {
-   "title": "特朗普回应深圳乘车时不拉窗帘",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 7328000,
-   "rank": 7,
-   "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E4%B9%98%E8%BD%A6%E6%97%B6%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98",
-   "board": "百度热搜",
-   "tokens": [
-    "特朗普",
-    "深圳",
-    "乘车",
-    "时不拉",
-    "窗帘"
-   ]
-  },
-  {
-   "title": "特朗普返美后召开新闻发布会，称中俄美元首会晤「史无前例」「意义重大」，哪些信息值得关注？",
+   "title": "为啥北方人没有吐槽供暖费很贵的？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 1340000,
+   "heat": 980000,
    "rank": 8,
-   "url": "https://www.zhihu.com/question/2107175088915050633",
+   "url": "https://www.zhihu.com/question/1992264026315571821",
    "board": "知乎热榜",
    "tokens": [
-    "特朗普",
-    "返美",
-    "召开",
-    "新闻",
-    "发布会",
-    "称中",
-    "美元",
-    "会晤"
+    "为啥",
+    "北方",
+    "吐槽",
+    "供暖费",
+    "很贵"
    ]
   },
   {
-   "title": "两京十五日口碑两极分化",
+   "title": "李亚鹏直播提王菲 称呼分寸感拉满",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7232000,
+   "rank": 8,
+   "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E4%BA%9A%E9%B9%8F%E7%9B%B4%E6%92%AD%E6%8F%90%E7%8E%8B%E8%8F%B2+%E7%A7%B0%E5%91%BC%E5%88%86%E5%AF%B8%E6%84%9F%E6%8B%89%E6%BB%A1",
+   "board": "百度热搜",
+   "tokens": [
+    "李亚鹏",
+    "王菲",
+    "称呼",
+    "分寸",
+    "感拉满"
+   ]
+  },
+  {
+   "title": "存脐带血公司注销断联老板被限消",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 250000,
+   "heat": 300000,
    "rank": 8,
-   "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E5%8F%A3%E7%A2%91%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96",
+   "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E8%84%90%E5%B8%A6%E8%A1%80%E5%85%AC%E5%8F%B8%E6%B3%A8%E9%94%80%E6%96%AD%E8%81%94%E8%80%81%E6%9D%BF%E8%A2%AB%E9%99%90%E6%B6%88",
    "board": "微博热搜榜",
    "tokens": [
-    "两京",
-    "十五日",
-    "口碑",
-    "两极分化"
+    "脐带血",
+    "公司",
+    "注销",
+    "断联",
+    "老板",
+    "被限消"
    ]
   },
   {
@@ -793,71 +790,68 @@
    ]
   },
   {
-   "title": "Ohio State",
+   "title": "Iowa",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 8,
-   "url": "https://twitter.com/search?q=Ohio%20State",
+   "url": "https://twitter.com/search?q=Iowa",
    "board": "X Trending (24h)",
    "tokens": [
-    "Ohio",
-    "State"
+    "Iowa"
    ]
   },
   {
-   "title": "小雪养生 做好这几件事很重要",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 7238000,
-   "rank": 8,
-   "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E9%9B%AA%E5%85%BB%E7%94%9F+%E5%81%9A%E5%A5%BD%E8%BF%99%E5%87%A0%E4%BB%B6%E4%BA%8B%E5%BE%88%E9%87%8D%E8%A6%81",
-   "board": "百度热搜",
-   "tokens": [
-    "小雪",
-    "养生",
-    "做好",
-    "几件事",
-    "重要"
-   ]
-  },
-  {
-   "title": "山东威海发现加拿大飞来的干饭雪雁，威海不是号称雪窝子吗？为啥候鸟会选择在这过冬？",
+   "title": "如何看待“老婆嫌老公熬夜打游戏，发「追杀令」求助网友狙击老公 ID，大哥「你们找不到我」被各路玩家围剿？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 1250000,
+   "heat": 970000,
    "rank": 9,
-   "url": "https://www.zhihu.com/question/2106702040785339278",
+   "url": "https://www.zhihu.com/question/2106418067513386152",
    "board": "知乎热榜",
    "tokens": [
-    "山东",
-    "威海",
-    "加拿大",
-    "飞来",
-    "干饭",
-    "雪雁",
-    "威海",
-    "号称"
+    "看待",
+    "老婆",
+    "老公",
+    "熬夜",
+    "打游戏",
+    "追杀令",
+    "求助",
+    "狙击"
    ]
   },
   {
-   "title": "王楚钦孙颖莎外卡引公平争议",
+   "title": "十年后重看《欢乐颂》比恨海情天还好嗑",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7140000,
+   "rank": 9,
+   "url": "https://www.baidu.com/s?wd=%E5%8D%81%E5%B9%B4%E5%90%8E%E9%87%8D%E7%9C%8B%E3%80%8A%E6%AC%A2%E4%B9%90%E9%A2%82%E3%80%8B%E6%AF%94%E6%81%A8%E6%B5%B7%E6%83%85%E5%A4%A9%E8%BF%98%E5%A5%BD%E5%97%91",
+   "board": "百度热搜",
+   "tokens": [
+    "十年",
+    "后重",
+    "欢乐颂",
+    "比恨",
+    "海情",
+    "还好"
+   ]
+  },
+  {
+   "title": "金价连跌想买想卖的都急了",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 220000,
+   "heat": 250000,
    "rank": 9,
-   "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%96%E5%8D%A1%E5%BC%95%E5%85%AC%E5%B9%B3%E4%BA%89%E8%AE%AE",
+   "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%BF%9E%E8%B7%8C%E6%83%B3%E4%B9%B0%E6%83%B3%E5%8D%96%E7%9A%84%E9%83%BD%E6%80%A5%E4%BA%86",
    "board": "微博热搜榜",
    "tokens": [
-    "王楚",
-    "孙颖莎",
-    "外卡",
-    "公平",
-    "争议"
+    "金价",
+    "连跌"
    ]
   },
   {
@@ -895,71 +889,70 @@
    ]
   },
   {
-   "title": "#AEWCollision",
+   "title": "James Franklin",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 9,
-   "url": "https://twitter.com/search?q=%23AEWCollision",
+   "url": "https://twitter.com/search?q=James%20Franklin",
    "board": "X Trending (24h)",
    "tokens": [
-    "AEWCollision"
+    "James",
+    "Franklin"
    ]
   },
   {
-   "title": "林忆莲演唱会一句话没说先唱两小时",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 7143000,
-   "rank": 9,
-   "url": "https://www.baidu.com/s?wd=%E6%9E%97%E5%BF%86%E8%8E%B2%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%80%E5%8F%A5%E8%AF%9D%E6%B2%A1%E8%AF%B4%E5%85%88%E5%94%B1%E4%B8%A4%E5%B0%8F%E6%97%B6",
-   "board": "百度热搜",
-   "tokens": [
-    "林忆莲",
-    "演唱会",
-    "一句",
-    "先唱",
-    "小时"
-   ]
-  },
-  {
-   "title": "如何评价米哈游电子科技大学校招宣讲会技术负责人曝光原神 IP 未来的研发方向？",
+   "title": "为啥我军没有名满天下的特种部队？比如海豹部队什么的？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 1240000,
+   "heat": 960000,
    "rank": 10,
-   "url": "https://www.zhihu.com/question/2107022824976159802",
+   "url": "https://www.zhihu.com/question/2107046874389729356",
    "board": "知乎热榜",
    "tokens": [
-    "评价",
-    "米哈",
-    "电子科技",
-    "学校",
-    "宣讲会",
-    "技术",
-    "负责人",
-    "原神"
+    "为啥",
+    "我军",
+    "名满天下",
+    "特种部队",
+    "比如",
+    "海豹",
+    "部队"
    ]
   },
   {
-   "title": "特朗普深圳不拉窗帘原因找到了",
+   "title": "文班亚马狂砍50分19篮板5盖帽4抢断",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7044000,
+   "rank": 10,
+   "url": "https://www.baidu.com/s?wd=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E7%8B%82%E7%A0%8D50%E5%88%8619%E7%AF%AE%E6%9D%BF5%E7%9B%96%E5%B8%BD4%E6%8A%A2%E6%96%AD",
+   "board": "百度热搜",
+   "tokens": [
+    "文班",
+    "亚马",
+    "篮板",
+    "盖帽",
+    "抢断"
+   ]
+  },
+  {
+   "title": "王楚钦孙颖莎外卡引公平争议",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 210000,
-   "rank": 10,
-   "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86",
+   "heat": 220000,
+   "rank": 51,
+   "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%96%E5%8D%A1%E5%BC%95%E5%85%AC%E5%B9%B3%E4%BA%89%E8%AE%AE",
    "board": "微博热搜榜",
    "tokens": [
-    "特朗普",
-    "深圳",
-    "不拉",
-    "窗帘",
-    "原因",
-    "找到"
+    "王楚",
+    "孙颖莎",
+    "外卡",
+    "公平",
+    "争议"
    ]
   },
   {
@@ -992,41 +985,26 @@
    ]
   },
   {
-   "title": "Big 10",
+   "title": "Kirby",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 10,
-   "url": "https://twitter.com/search?q=Big%2010",
+   "url": "https://twitter.com/search?q=Kirby",
    "board": "X Trending (24h)",
    "tokens": [
-    "Big"
+    "Kirby"
    ]
   }
  ],
  "ranking": [
   {
-   "title": "看五十年的中国就来深圳",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 7904000,
-   "rank": 1,
-   "url": "https://www.baidu.com/s?wd=%E7%9C%8B%E4%BA%94%E5%8D%81%E5%B9%B4%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B0%B1%E6%9D%A5%E6%B7%B1%E5%9C%B3",
-   "board": "百度热搜",
-   "tokens": [
-    "五十年",
-    "中国",
-    "深圳"
-   ]
-  },
-  {
    "title": "Lean 与 Mathlib 社区联合声明，正式确认 Alpöge 对黎曼猜想的证明正确，这意味着什么？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 6550000,
+   "heat": 42430000,
    "rank": 1,
    "url": "https://www.zhihu.com/question/2107620110105932525",
    "board": "知乎热榜",
@@ -1042,11 +1020,29 @@
    ]
   },
   {
+   "title": "为推动亚太合作行稳致远指明方向",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7905000,
+   "rank": 1,
+   "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E6%8E%A8%E5%8A%A8%E4%BA%9A%E5%A4%AA%E5%90%88%E4%BD%9C%E8%A1%8C%E7%A8%B3%E8%87%B4%E8%BF%9C%E6%8C%87%E6%98%8E%E6%96%B9%E5%90%91",
+   "board": "百度热搜",
+   "tokens": [
+    "推动",
+    "亚太",
+    "合作",
+    "行稳",
+    "致远",
+    "指明方向"
+   ]
+  },
+  {
    "title": "羽绒服生意变天了",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 1520000,
+   "heat": 1350000,
    "rank": 1,
    "url": "https://s.weibo.com/weibo?q=%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%94%9F%E6%84%8F%E5%8F%98%E5%A4%A9%E4%BA%86",
    "board": "微博热搜榜",
@@ -1057,16 +1053,20 @@
    ]
   },
   {
-   "title": "今日小雪",
+   "title": "波兰称两枚俄导弹击中波领土",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 522000,
+   "heat": 959000,
    "rank": 1,
-   "url": "https://so.toutiao.com/search?keyword=%23%E4%BB%8A%E6%97%A5%E5%B0%8F%E9%9B%AA%23",
+   "url": "https://so.toutiao.com/search?keyword=%23%E6%B3%A2%E5%85%B0%E7%A7%B0%E4%B8%A4%E6%9E%9A%E4%BF%84%E5%AF%BC%E5%BC%B9%E5%87%BB%E4%B8%AD%E6%B3%A2%E9%A2%86%E5%9C%9F%23",
    "board": "今日头条热榜",
    "tokens": [
-    "小雪"
+    "波兰",
+    "两枚",
+    "导弹",
+    "击中",
+    "领土"
    ]
   },
   {
@@ -1155,73 +1155,75 @@
    ]
   },
   {
-   "title": "世界各国都有哪些奇葩的法律法规？",
+   "title": "猫和老鼠》为何能风靡全球？",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
    "heat": 0,
    "rank": 1,
-   "url": "https://daily.zhihu.com/story/9794139",
+   "url": "https://daily.zhihu.com/story/9794172",
    "board": "知乎日报",
    "tokens": [
-    "世界",
-    "各国",
-    "奇葩",
-    "法律法规"
+    "猫和老鼠",
+    "为何",
+    "风靡",
+    "全球"
    ]
   },
   {
-   "title": "央视揭秘网络女主播真实生态",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 7809000,
-   "rank": 2,
-   "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BB%9C%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81",
-   "board": "百度热搜",
-   "tokens": [
-    "揭秘",
-    "网络",
-    "女主播",
-    "真实",
-    "生态"
-   ]
-  },
-  {
-   "title": "如何看待 11 月 21 日三维 ns 方程有限时间爆破的形式化证明疑似已经完成？",
+   "title": "荷兰法院裁定比亚迪 Ti7 抄袭路虎卫士，颁布销售禁令，对此怎么看？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 3450000,
+   "heat": 11560000,
    "rank": 2,
-   "url": "https://www.zhihu.com/question/2107281397077500209",
+   "url": "https://www.zhihu.com/question/2107417541236805904",
    "board": "知乎热榜",
    "tokens": [
-    "看待",
-    "三维",
-    "ns",
-    "方程",
-    "有限",
-    "时间",
-    "爆破",
-    "形式化"
+    "荷兰",
+    "法院",
+    "裁定",
+    "比亚迪",
+    "Ti7",
+    "抄袭",
+    "路虎",
+    "卫士"
    ]
   },
   {
-   "title": "特朗普回应深圳乘车时不拉窗帘",
+   "title": "后劲太大 特朗普连发30多张APEC照片",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 951000,
+   "heat": 7808000,
    "rank": 2,
-   "url": "https://so.toutiao.com/search?keyword=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E4%B9%98%E8%BD%A6%E6%97%B6%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98%23",
+   "url": "https://www.baidu.com/s?wd=%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%A7+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9130%E5%A4%9A%E5%BC%A0APEC%E7%85%A7%E7%89%87",
+   "board": "百度热搜",
+   "tokens": [
+    "后劲",
+    "特朗普",
+    "连发",
+    "多张",
+    "APEC",
+    "照片"
+   ]
+  },
+  {
+   "title": "特朗普连发30多张照片回味APEC",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 1060000,
+   "rank": 2,
+   "url": "https://so.toutiao.com/search?keyword=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%9E%E5%8F%9130%E5%A4%9A%E5%BC%A0%E7%85%A7%E7%89%87%E5%9B%9E%E5%91%B3APEC%23",
    "board": "今日头条热榜",
    "tokens": [
     "特朗普",
-    "深圳",
-    "乘车",
-    "时不拉",
-    "窗帘"
+    "连发",
+    "多张",
+    "照片",
+    "回味",
+    "APEC"
    ]
   },
   {
@@ -1229,7 +1231,7 @@
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 880000,
+   "heat": 900000,
    "rank": 2,
    "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%A7%98%E7%BD%91%E7%BB%9C%E5%A5%B3%E4%B8%BB%E6%92%AD%E7%9C%9F%E5%AE%9E%E7%94%9F%E6%80%81",
    "board": "微博热搜榜",
@@ -1295,16 +1297,17 @@
    ]
   },
   {
-   "title": "Michigan",
+   "title": "Mikal Bridges",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 2,
-   "url": "https://twitter.com/search?q=Michigan",
+   "url": "https://twitter.com/search?q=Mikal%20Bridges",
    "board": "X Trending (24h)",
    "tokens": [
-    "Michigan"
+    "Mikal",
+    "Bridges"
    ]
   },
   {
@@ -1328,74 +1331,53 @@
    ]
   },
   {
-   "title": "为什么草原只长草不长树呢？",
+   "title": "有什么有意思的大学名称缩写？",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
    "heat": 0,
    "rank": 2,
-   "url": "https://daily.zhihu.com/story/9794149",
+   "url": "https://daily.zhihu.com/story/9794164",
    "board": "知乎日报",
    "tokens": [
-    "草原",
-    "只长",
-    "草不长"
+    "有意思",
+    "大学",
+    "名称",
+    "缩写"
    ]
   },
   {
-   "title": "金价跌势凌厉 多家银行发紧急提示",
+   "title": "女博士卧底体验当主播 至今心有余悸",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 7713000,
+   "heat": 7714000,
    "rank": 3,
-   "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%8A%BF%E5%87%8C%E5%8E%89+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E7%B4%A7%E6%80%A5%E6%8F%90%E7%A4%BA",
+   "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%8D%A7%E5%BA%95%E4%BD%93%E9%AA%8C%E5%BD%93%E4%B8%BB%E6%92%AD+%E8%87%B3%E4%BB%8A%E5%BF%83%E6%9C%89%E4%BD%99%E6%82%B8",
    "board": "百度热搜",
    "tokens": [
-    "金价",
-    "跌势",
-    "凌厉",
-    "多家",
-    "银行",
-    "紧急",
-    "提示"
+    "女博士",
+    "卧底",
+    "体验",
+    "当主播",
+    "至今",
+    "心有余悸"
    ]
   },
   {
-   "title": "20 多天婴儿被喂白开水中毒肾损伤，新生儿为何不能像成年人一样正常喝白开水？该如何科学喂养？",
+   "title": "有比《持械入宋》更好看的短剧吗？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 2340000,
+   "heat": 3750000,
    "rank": 3,
-   "url": "https://www.zhihu.com/question/2106868147718284246",
+   "url": "https://www.zhihu.com/question/2103550053273149533",
    "board": "知乎热榜",
    "tokens": [
-    "多天",
-    "婴儿",
-    "白开水",
-    "中毒",
-    "损伤",
-    "新生儿",
-    "为何",
-    "不能"
-   ]
-  },
-  {
-   "title": "图览APEC中国年75项主要成果",
-   "platform": "weibo",
-   "platformName": "微博",
-   "emoji": "🐦",
-   "heat": 870000,
-   "rank": 3,
-   "url": "https://s.weibo.com/weibo?q=%E5%9B%BE%E8%A7%88APEC%E4%B8%AD%E5%9B%BD%E5%B9%B475%E9%A1%B9%E4%B8%BB%E8%A6%81%E6%88%90%E6%9E%9C",
-   "board": "微博热搜榜",
-   "tokens": [
-    "图览",
-    "APEC",
-    "中国",
-    "主要",
-    "成果"
+    "持械",
+    "入宋",
+    "更好",
+    "短剧"
    ]
   },
   {
@@ -1403,7 +1385,7 @@
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 860000,
+   "heat": 868000,
    "rank": 3,
    "url": "https://so.toutiao.com/search?keyword=%23%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E6%9C%89%E5%BA%8F%E6%8E%A8%E8%BF%9B+%E5%8A%A9%E5%8A%9B%E7%BB%8F%E6%B5%8E%E6%B0%91%E7%94%9F%E5%8F%91%E5%B1%95%23",
    "board": "今日头条热榜",
@@ -1416,6 +1398,22 @@
     "经济",
     "民生",
     "发展"
+   ]
+  },
+  {
+   "title": "从琼崖烽火到开放自贸港",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 720000,
+   "rank": 3,
+   "url": "https://s.weibo.com/weibo?q=%E4%BB%8E%E7%90%BC%E5%B4%96%E7%83%BD%E7%81%AB%E5%88%B0%E5%BC%80%E6%94%BE%E8%87%AA%E8%B4%B8%E6%B8%AF",
+   "board": "微博热搜榜",
+   "tokens": [
+    "琼崖",
+    "烽火",
+    "开放",
+    "自贸港"
    ]
   },
   {
@@ -1465,16 +1463,16 @@
    ]
   },
   {
-   "title": "Rutgers",
+   "title": "Drummond",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 3,
-   "url": "https://twitter.com/search?q=Rutgers",
+   "url": "https://twitter.com/search?q=Drummond",
    "board": "X Trending (24h)",
    "tokens": [
-    "Rutgers"
+    "Drummond"
    ]
   },
   {
@@ -1498,60 +1496,58 @@
    ]
   },
   {
-   "title": "我国战国秦汉的盾牌为什么要设计成这么奇怪的形状？",
+   "title": "清朝王爷们没有手机如何打发时间？",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
    "heat": 0,
    "rank": 3,
-   "url": "https://daily.zhihu.com/story/9794153",
+   "url": "https://daily.zhihu.com/story/9794174",
    "board": "知乎日报",
    "tokens": [
-    "我国",
-    "战国",
-    "秦汉",
-    "盾牌",
-    "设计",
-    "这么",
-    "奇怪",
-    "形状"
+    "清朝",
+    "王爷",
+    "手机",
+    "打发",
+    "时间"
    ]
   },
   {
-   "title": "深圳展望”为何成APEC新的里程碑",
+   "title": "APEC“中国年”留下这些珍贵瞬间",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 7616000,
+   "heat": 7617000,
    "rank": 4,
-   "url": "https://www.baidu.com/s?wd=%E2%80%9C%E6%B7%B1%E5%9C%B3%E5%B1%95%E6%9C%9B%E2%80%9D%E4%B8%BA%E4%BD%95%E6%88%90APEC%E6%96%B0%E7%9A%84%E9%87%8C%E7%A8%8B%E7%A2%91",
+   "url": "https://www.baidu.com/s?wd=APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D%E7%95%99%E4%B8%8B%E8%BF%99%E4%BA%9B%E7%8F%8D%E8%B4%B5%E7%9E%AC%E9%97%B4",
    "board": "百度热搜",
    "tokens": [
-    "深圳",
-    "展望",
-    "为何",
     "APEC",
-    "里程碑"
+    "中国",
+    "留下",
+    "这些",
+    "珍贵",
+    "瞬间"
    ]
   },
   {
-   "title": "菲尔兹奖得主邓煜称「人类不能放弃自主思考给 AI 当狗」，如何看待这一观点？",
+   "title": "贾国龙新创品牌「天边」一年内从砂锅焖面转向冰煮鲜羊，频繁调整经营方向背后有哪些考量？他能翻身吗？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 1860000,
+   "heat": 1460000,
    "rank": 4,
-   "url": "https://www.zhihu.com/question/2099876169013258150",
+   "url": "https://www.zhihu.com/question/2106862061669934684",
    "board": "知乎热榜",
    "tokens": [
-    "菲尔",
-    "奖得主",
-    "邓煜称",
-    "人类",
-    "不能",
-    "放弃",
-    "自主",
-    "思考"
+    "贾国龙",
+    "新创",
+    "品牌",
+    "天边",
+    "一年",
+    "砂锅",
+    "转向",
+    "冰煮"
    ]
   },
   {
@@ -1559,7 +1555,7 @@
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 870000,
+   "heat": 710000,
    "rank": 4,
    "url": "https://s.weibo.com/weibo?q=%E4%BD%99%E6%96%87%E4%B9%90%E8%BA%AF%E4%BD%93%E5%8C%96%E4%B8%A5%E9%87%8D%E5%88%B0%E4%B8%8D%E8%83%BD%E5%BC%80%E8%BD%A6",
    "board": "微博热搜榜",
@@ -1572,20 +1568,19 @@
    ]
   },
   {
-   "title": "特朗普称将与伊朗达成永久性协议",
+   "title": "中国石油副总经理谢军被查",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 704000,
+   "heat": 643000,
    "rank": 4,
-   "url": "https://so.toutiao.com/search?keyword=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%BE%BE%E6%88%90%E6%B0%B8%E4%B9%85%E6%80%A7%E5%8D%8F%E8%AE%AE%23",
+   "url": "https://so.toutiao.com/search?keyword=%23%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%89%AF%E6%80%BB%E7%BB%8F%E7%90%86%E8%B0%A2%E5%86%9B%E8%A2%AB%E6%9F%A5%23",
    "board": "今日头条热榜",
    "tokens": [
-    "特朗普",
-    "伊朗",
-    "达成",
-    "永久性",
-    "协议"
+    "中国",
+    "石油",
+    "副总经理",
+    "谢军"
    ]
   },
   {
@@ -1646,17 +1641,16 @@
    ]
   },
   {
-   "title": "Penn State",
+   "title": "#AEWCollision",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 4,
-   "url": "https://twitter.com/search?q=Penn%20State",
+   "url": "https://twitter.com/search?q=%23AEWCollision",
    "board": "X Trending (24h)",
    "tokens": [
-    "Penn",
-    "State"
+    "AEWCollision"
    ]
   },
   {
@@ -1680,90 +1674,92 @@
    ]
   },
   {
-   "title": "有机化学中，反应容器的形状是否会影响反应产物的种类？",
+   "title": "你见过最抽象的城市道路设计是什么样子的？",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
    "heat": 0,
    "rank": 4,
-   "url": "https://daily.zhihu.com/story/9794159",
+   "url": "https://daily.zhihu.com/story/9794176",
    "board": "知乎日报",
    "tokens": [
-    "有机化学",
-    "反应",
-    "容器",
-    "形状",
-    "是否",
-    "影响",
-    "反应",
-    "产物"
+    "抽象",
+    "城市道路",
+    "设计",
+    "样子"
    ]
   },
   {
-   "title": "特朗普晒和普京深圳会晤照片",
+   "title": "金价跌势凌厉 多家银行发紧急提示",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 7522000,
+   "heat": 7523000,
    "rank": 5,
-   "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%92%E5%92%8C%E6%99%AE%E4%BA%AC%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4%E7%85%A7%E7%89%87",
+   "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%B7%8C%E5%8A%BF%E5%87%8C%E5%8E%89+%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%91%E7%B4%A7%E6%80%A5%E6%8F%90%E7%A4%BA",
    "board": "百度热搜",
    "tokens": [
-    "特朗普",
-    "和普京",
-    "深圳",
-    "会晤",
-    "照片"
+    "金价",
+    "跌势",
+    "凌厉",
+    "多家",
+    "银行",
+    "紧急",
+    "提示"
    ]
   },
   {
-   "title": "如何看待韩国高考中国史题正确率不足一成？这道题难度究竟如何？",
+   "title": "如何评价华为星芒 O1 Pro 定价 5499 元起引争议，总经理刘赫回应称「我们选择创新优先」？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 1730000,
+   "heat": 1090000,
    "rank": 5,
-   "url": "https://www.zhihu.com/question/2107440924695291008",
+   "url": "https://www.zhihu.com/question/2107408889713115755",
    "board": "知乎热榜",
    "tokens": [
-    "看待",
-    "韩国",
-    "高考",
-    "中国史",
-    "正确率",
-    "不足",
-    "这道题",
-    "难度"
+    "评价",
+    "华为",
+    "星芒",
+    "O1",
+    "Pro",
+    "定价",
+    "元起",
+    "争议"
    ]
   },
   {
-   "title": "朱瞻基 扫黄",
-   "platform": "weibo",
-   "platformName": "微博",
-   "emoji": "🐦",
-   "heat": 870000,
-   "rank": 5,
-   "url": "https://s.weibo.com/weibo?q=%E6%9C%B1%E7%9E%BB%E5%9F%BA+%E6%89%AB%E9%BB%84",
-   "board": "微博热搜榜",
-   "tokens": [
-    "朱瞻基",
-    "扫黄"
-   ]
-  },
-  {
-   "title": "张雪骑机车没上赛道就摔车",
+   "title": "特朗普回应深圳乘车时不拉窗帘",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 637000,
+   "heat": 710000,
    "rank": 5,
-   "url": "https://so.toutiao.com/search?keyword=%23%E5%BC%A0%E9%9B%AA%E9%AA%91%E6%9C%BA%E8%BD%A6%E6%B2%A1%E4%B8%8A%E8%B5%9B%E9%81%93%E5%B0%B1%E6%91%94%E8%BD%A6%23",
+   "url": "https://so.toutiao.com/search?keyword=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E4%B9%98%E8%BD%A6%E6%97%B6%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98%23",
    "board": "今日头条热榜",
    "tokens": [
-    "张雪骑",
-    "机车",
-    "赛道",
-    "摔车"
+    "特朗普",
+    "深圳",
+    "乘车",
+    "时不拉",
+    "窗帘"
+   ]
+  },
+  {
+   "title": "张雪峰的接班人武亮回母校演讲",
+   "platform": "weibo",
+   "platformName": "微博",
+   "emoji": "🐦",
+   "heat": 670000,
+   "rank": 5,
+   "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%9A%84%E6%8E%A5%E7%8F%AD%E4%BA%BA%E6%AD%A6%E4%BA%AE%E5%9B%9E%E6%AF%8D%E6%A0%A1%E6%BC%94%E8%AE%B2",
+   "board": "微博热搜榜",
+   "tokens": [
+    "雪峰",
+    "接班人",
+    "武亮",
+    "回母校",
+    "演讲"
    ]
   },
   {
@@ -1815,17 +1811,16 @@
    ]
   },
   {
-   "title": "Lane Kiffin",
+   "title": "Michigan",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 5,
-   "url": "https://twitter.com/search?q=Lane%20Kiffin",
+   "url": "https://twitter.com/search?q=Michigan",
    "board": "X Trending (24h)",
    "tokens": [
-    "Lane",
-    "Kiffin"
+    "Michigan"
    ]
   },
   {
@@ -1849,72 +1844,72 @@
    ]
   },
   {
-   "title": "邓煜谈AI证明黎曼猜想：25万页不可读",
+   "title": "原价129万一针的药 为啥能进基本医保",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 7427000,
+   "heat": 7426000,
    "rank": 6,
-   "url": "https://www.baidu.com/s?wd=%E9%82%93%E7%85%9C%E8%B0%88AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%EF%BC%9A25%E4%B8%87%E9%A1%B5%E4%B8%8D%E5%8F%AF%E8%AF%BB",
+   "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E4%BB%B7129%E4%B8%87%E4%B8%80%E9%92%88%E7%9A%84%E8%8D%AF+%E4%B8%BA%E5%95%A5%E8%83%BD%E8%BF%9B%E5%9F%BA%E6%9C%AC%E5%8C%BB%E4%BF%9D",
    "board": "百度热搜",
    "tokens": [
-    "邓煜谈",
-    "AI",
-    "证明",
-    "黎曼",
-    "猜想",
-    "万页",
-    "不可"
+    "原价",
+    "万一",
+    "为啥",
+    "能进",
+    "基本",
+    "医保"
    ]
   },
   {
-   "title": "如何看待截至 2026 年 5 月 11 日，米哈游 57810 颗英伟达 H200 获批却未发货，这意味着什么？",
+   "title": "如何评价米哈游电子科技大学校招宣讲会技术负责人曝光原神 IP 未来的研发方向？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 1660000,
+   "heat": 1060000,
    "rank": 6,
-   "url": "https://www.zhihu.com/question/2107534705163777162",
+   "url": "https://www.zhihu.com/question/2107022824976159802",
    "board": "知乎热榜",
    "tokens": [
-    "看待",
-    "截至",
+    "评价",
     "米哈",
-    "颗英",
-    "伟达",
-    "H200",
-    "获批",
-    "发货"
+    "电子科技",
+    "学校",
+    "宣讲会",
+    "技术",
+    "负责人",
+    "原神"
    ]
   },
   {
-   "title": "特朗普回应普京是朋友",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 472000,
-   "rank": 6,
-   "url": "https://so.toutiao.com/search?keyword=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E6%99%AE%E4%BA%AC%E6%98%AF%E6%9C%8B%E5%8F%8B%23",
-   "board": "今日头条热榜",
-   "tokens": [
-    "特朗普",
-    "普京",
-    "朋友"
-   ]
-  },
-  {
-   "title": "白小纯粉丝群发言",
+   "title": "这居然是王子璇",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 410000,
+   "heat": 640000,
    "rank": 6,
-   "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%B2%89%E4%B8%9D%E7%BE%A4%E5%8F%91%E8%A8%80",
+   "url": "https://s.weibo.com/weibo?q=%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E7%8E%8B%E5%AD%90%E7%92%87",
    "board": "微博热搜榜",
    "tokens": [
-    "白小纯",
-    "粉丝",
-    "发言"
+    "居然",
+    "王子"
+   ]
+  },
+  {
+   "title": "女博士卧底6个月当主播仍有心理阴影",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 582000,
+   "rank": 6,
+   "url": "https://so.toutiao.com/search?keyword=%23%E5%A5%B3%E5%8D%9A%E5%A3%AB%E5%8D%A7%E5%BA%956%E4%B8%AA%E6%9C%88%E5%BD%93%E4%B8%BB%E6%92%AD%E4%BB%8D%E6%9C%89%E5%BF%83%E7%90%86%E9%98%B4%E5%BD%B1%23",
+   "board": "今日头条热榜",
+   "tokens": [
+    "女博士",
+    "卧底",
+    "当主播",
+    "心理",
+    "阴影"
    ]
   },
   {
@@ -1974,35 +1969,36 @@
    ]
   },
   {
-   "title": "Tennessee",
+   "title": "Rutgers",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 6,
-   "url": "https://twitter.com/search?q=Tennessee",
+   "url": "https://twitter.com/search?q=Rutgers",
    "board": "X Trending (24h)",
    "tokens": [
-    "Tennessee"
+    "Rutgers"
    ]
   },
   {
-   "title": "马上评｜AI证明黎曼猜想，数学家该恐慌吗？",
+   "title": "官方核实为假！“北京教师飞贵阳”背后是AI造谣流水线",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
    "heat": 0,
    "rank": 6,
-   "url": "https://www.thepaper.cn/newsDetail_forward_34527175",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34528498",
    "board": "澎湃新闻",
    "tokens": [
-    "马上",
+    "核实",
+    "北京",
+    "教师",
+    "贵阳",
+    "背后",
     "AI",
-    "证明",
-    "黎曼",
-    "猜想",
-    "数学家",
-    "恐慌"
+    "造谣",
+    "流水线"
    ]
   },
   {
@@ -2010,7 +2006,7 @@
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 7328000,
+   "heat": 7334000,
    "rank": 7,
    "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E4%B9%98%E8%BD%A6%E6%97%B6%E4%B8%8D%E6%8B%89%E7%AA%97%E5%B8%98",
    "board": "百度热搜",
@@ -2023,53 +2019,27 @@
    ]
   },
   {
-   "title": "黄金一周大跌近 9%，考验 3500 美元关口，现在适合抄底黄金吗？",
+   "title": "怎么看陶哲轩博客下针对 AI 完成黎曼猜想评论：数学变成 F1 赛车，不进 AI 车队都看不到后尾灯？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 1370000,
+   "heat": 1010000,
    "rank": 7,
-   "url": "https://www.zhihu.com/question/2107401788676743518",
+   "url": "https://www.zhihu.com/question/2107581968296760732",
    "board": "知乎热榜",
    "tokens": [
-    "黄金",
-    "一周",
-    "大跌",
-    "9%",
-    "考验",
-    "美元",
-    "关口",
-    "现在"
+    "陶哲轩",
+    "博客",
+    "针对",
+    "AI",
+    "完成",
+    "黎曼",
+    "猜想",
+    "评论"
    ]
   }
  ],
- "resonance": [
-  {
-   "token": "特朗普",
-   "platforms": [
-    "news",
-    "weibo",
-    "zhihu"
-   ],
-   "count": 4
-  },
-  {
-   "token": "女主播",
-   "platforms": [
-    "news",
-    "weibo"
-   ],
-   "count": 2
-  },
-  {
-   "token": "APEC",
-   "platforms": [
-    "news",
-    "weibo"
-   ],
-   "count": 2
-  }
- ],
+ "resonance": [],
  "slang": [
   {
    "word": "慌啥子嘛",
