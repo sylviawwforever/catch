@@ -1,18 +1,18 @@
 /* CATCH · 自动生成，请勿手工修改 —— 由 tools/build_site.py 装配 */
 window.CATCH_DATA = {
  "meta": {
-  "generatedAt": "2026-11-23T06:40:38.994330+08:00",
+  "generatedAt": "2026-11-23T11:32:30.926713+08:00",
   "issueDate": "2026-11-23",
   "issueNo": "003",
   "dateLabel": "2026 年 11 月 23 日",
   "weekday": "星期一",
-  "mode": "full",
+  "mode": "hourly",
   "lastFullRun": "2026-11-23",
-  "durationSec": 1293.1,
+  "durationSec": 45.1,
   "platformStatus": {
    "weibo": {
     "source": "tophub.today · weibo",
-    "items": 51,
+    "items": 50,
     "ok": true,
     "error": null,
     "name": "微博",
@@ -20,7 +20,7 @@ window.CATCH_DATA = {
    },
    "douyin": {
     "source": "tophub.today · douyin",
-    "items": 46,
+    "items": 47,
     "ok": true,
     "error": null,
     "name": "抖音",
@@ -54,7 +54,7 @@ window.CATCH_DATA = {
    },
    "news": {
     "source": "tophub.today · news",
-    "items": 125,
+    "items": 148,
     "ok": true,
     "error": null,
     "name": "新闻",
@@ -79,7 +79,7 @@ window.CATCH_DATA = {
    "bili"
   ],
   "freshness": {
-   "generatedAt": "2026-11-23T06:40:38.994381+08:00",
+   "generatedAt": "2026-11-23T11:32:30.926827+08:00",
    "maxExpectedAgeMinutes": 90,
    "note": "页面展示最近一次成功发布的云端快照；单个平台失败会明确标记"
   },
@@ -99,7 +99,7 @@ window.CATCH_DATA = {
    "hotItems": 60,
    "events": 5,
    "comments": 4152,
-   "rawScanned": 342,
+   "rawScanned": 365,
    "slang": 5
   },
   "source": "微博 / 抖音 / 小红书 / X / 知乎 / 新闻 / B站 公开榜单与真实接口"
@@ -107,57 +107,58 @@ window.CATCH_DATA = {
  "hotspots": {
   "text": [
    {
-    "title": "创业板将引入做市商制度：有哪些亮点安排，市场影响几何？",
+    "title": "香港艺人方力申刷新吉尼斯世界纪录，8小时半从香港游到澳门",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 4600000000,
-    "rank": 14,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34535483",
+    "rank": 16,
+    "url": "https://www.thepaper.cn/newsDetail_forward_34534313",
     "board": "澎湃新闻",
     "tokens": [
-     "创业板",
-     "引入",
-     "做市商",
-     "制度",
-     "亮点",
-     "安排",
-     "市场",
-     "影响"
+     "香港艺人",
+     "方力申",
+     "刷新",
+     "吉尼斯世界纪录",
+     "小时",
+     "半从",
+     "香港游",
+     "澳门"
     ]
    },
    {
-    "title": "交易所打出稳市「组合拳」，沪深北交易所降低融资保证金比例下限至 80%，意味着什么？释放了哪些信号？",
+    "title": "方力申耗时 8 小时 37 分 24 秒从香港游到澳门破吉尼斯纪录，完成这样的挑战难度有多大？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 4740000,
+    "heat": 9600000,
     "rank": 1,
-    "url": "https://www.zhihu.com/question/2107908002430677964",
+    "url": "https://www.zhihu.com/question/2107848989819326753",
     "board": "知乎热榜",
     "tokens": [
-     "交易所",
-     "打出",
-     "稳市",
-     "组合拳",
-     "深北",
-     "交易所",
-     "降低",
-     "融资"
+     "方力申",
+     "耗时",
+     "小时",
+     "香港游",
+     "澳门",
+     "吉尼斯",
+     "纪录",
+     "完成"
     ]
    },
    {
-    "title": "樊振东1比3约内斯库",
+    "title": "曝青稚榜一送了38w",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 120000,
+    "heat": 1340000,
     "rank": 1,
-    "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C1%E6%AF%943%E7%BA%A6%E5%86%85%E6%96%AF%E5%BA%93",
+    "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9D%92%E7%A8%9A%E6%A6%9C%E4%B8%80%E9%80%81%E4%BA%8638w",
     "board": "微博热搜榜",
     "tokens": [
-     "樊振东",
-     "内斯库"
+     "曝青稚",
+     "一送",
+     "38w"
     ]
    },
    {
@@ -195,71 +196,75 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Steelers",
+    "title": "Giants",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 1,
-    "url": "https://twitter.com/search?q=Steelers",
+    "url": "https://twitter.com/search?q=Giants",
     "board": "X Trending (24h)",
     "tokens": [
-     "Steelers"
+     "Giants"
     ]
    },
    {
-    "title": "花五六十万连麦越聊越焦虑？“测测”被指诱导消费，平台坚称计费已明示",
+    "title": "百万粉丝主播被指私闯果园带货糟蹋苹果？官方通报：系误入相邻果园，已赔偿并道歉",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 4600000000,
-    "rank": 15,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34534267",
+    "rank": 17,
+    "url": "https://www.thepaper.cn/newsDetail_forward_34537047",
     "board": "澎湃新闻",
     "tokens": [
-     "五六十万",
-     "连麦越",
-     "聊越",
-     "焦虑",
-     "测测",
-     "诱导",
-     "消费",
-     "平台"
+     "百万",
+     "粉丝",
+     "主播",
+     "指私",
+     "果园",
+     "带货",
+     "糟蹋",
+     "苹果"
     ]
    },
    {
-    "title": "方力申耗时 8 小时 37 分 24 秒从香港游到澳门破吉尼斯纪录，完成这样的挑战难度有多大？",
+    "title": "在黎曼猜想被声称证明后，如何理解袁新意所说的「或许我们高估了黎曼猜想的难度」？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 3630000,
+    "heat": 9260000,
     "rank": 2,
-    "url": "https://www.zhihu.com/question/2107848989819326753",
+    "url": "https://www.zhihu.com/question/2107618428508792525",
     "board": "知乎热榜",
     "tokens": [
-     "方力申",
-     "耗时",
-     "小时",
-     "香港游",
-     "澳门",
-     "吉尼斯",
-     "纪录",
-     "完成"
+     "黎曼",
+     "猜想",
+     "声称",
+     "证明",
+     "理解",
+     "新意",
+     "所说",
+     "或许"
     ]
    },
    {
-    "title": "央视主持人录节目假牙丢了",
+    "title": "某部委员工与间谍合作泄密被判死刑",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 90000,
+    "heat": 870000,
     "rank": 2,
-    "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%BD%95%E8%8A%82%E7%9B%AE%E5%81%87%E7%89%99%E4%B8%A2%E4%BA%86",
+    "url": "https://s.weibo.com/weibo?q=%E6%9F%90%E9%83%A8%E5%A7%94%E5%91%98%E5%B7%A5%E4%B8%8E%E9%97%B4%E8%B0%8D%E5%90%88%E4%BD%9C%E6%B3%84%E5%AF%86%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91",
     "board": "微博热搜榜",
     "tokens": [
-     "主持人",
-     "节目",
-     "假牙"
+     "部委",
+     "员工",
+     "间谍",
+     "合作",
+     "泄密",
+     "被判",
+     "死刑"
     ]
    },
    {
@@ -296,68 +301,73 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "DK Metcalf",
+    "title": "Jags",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 2,
-    "url": "https://twitter.com/search?q=DK%20Metcalf",
+    "url": "https://twitter.com/search?q=Jags",
     "board": "X Trending (24h)",
     "tokens": [
-     "DK",
-     "Metcalf"
+     "Jags"
     ]
    },
    {
-    "title": "三个时间坐标 读懂APEC“中国年”",
+    "title": "纪念｜与赵无极同窗的张功慤，看他七十年的探索与隐身",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7904000,
-    "rank": 1,
-    "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%B8%AA%E6%97%B6%E9%97%B4%E5%9D%90%E6%A0%87+%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D",
-    "board": "百度热搜",
+    "heat": 4600000000,
+    "rank": 22,
+    "url": "https://www.thepaper.cn/newsDetail_forward_34535293",
+    "board": "澎湃新闻",
     "tokens": [
-     "三个",
-     "时间",
-     "坐标",
-     "读懂",
-     "APEC",
-     "中国"
+     "纪念",
+     "赵无极",
+     "同窗",
+     "张功",
+     "七十年",
+     "探索",
+     "隐身"
     ]
    },
    {
-    "title": "如何评价《侠盗猎车手 VI》（GTA 6）的结局？",
+    "title": "编剧芦苇评价《给阿嬷的情书》是合格水准，但很难成为经典，劣币驱逐良币时代是良心之作，怎样理解这一说法？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 3370000,
+    "heat": 7290000,
     "rank": 3,
-    "url": "https://www.zhihu.com/question/2107491544735470766",
+    "url": "https://www.zhihu.com/question/2107906248599234133",
     "board": "知乎热榜",
     "tokens": [
+     "编剧",
+     "芦苇",
      "评价",
-     "侠盗",
-     "车手",
-     "VI",
-     "GTA",
-     "结局"
+     "阿嬷",
+     "情书",
+     "合格",
+     "水准",
+     "成为"
     ]
    },
    {
-    "title": "诗词里的千年文脉",
+    "title": "一图解读我国消费市场多元图景",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 80000,
+    "heat": 830000,
     "rank": 3,
-    "url": "https://s.weibo.com/weibo?q=%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E5%8D%83%E5%B9%B4%E6%96%87%E8%84%89",
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%9B%BE%E8%A7%A3%E8%AF%BB%E6%88%91%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E5%A4%9A%E5%85%83%E5%9B%BE%E6%99%AF",
     "board": "微博热搜榜",
     "tokens": [
-     "诗词",
-     "千年",
-     "文脉"
+     "一图",
+     "解读",
+     "我国",
+     "消费市场",
+     "多元",
+     "图景"
     ]
    },
    {
@@ -390,69 +400,70 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Ravens",
+    "title": "Parker Washington",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 3,
-    "url": "https://twitter.com/search?q=Ravens",
+    "url": "https://twitter.com/search?q=Parker%20Washington",
     "board": "X Trending (24h)",
     "tokens": [
-     "Ravens"
+     "Parker",
+     "Washington"
     ]
    },
    {
-    "title": "亚洲市场集体打响保卫战",
+    "title": "央视主持人录节目假牙丢了",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7809000,
-    "rank": 2,
-    "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E6%B4%B2%E5%B8%82%E5%9C%BA%E9%9B%86%E4%BD%93%E6%89%93%E5%93%8D%E4%BF%9D%E5%8D%AB%E6%88%98",
-    "board": "百度热搜",
+    "heat": 8914000,
+    "rank": 21,
+    "url": "https://so.toutiao.com/search?keyword=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%BD%95%E8%8A%82%E7%9B%AE%E5%81%87%E7%89%99%E4%B8%A2%E4%BA%86%23",
+    "board": "今日头条热榜",
     "tokens": [
-     "亚洲",
-     "市场",
-     "集体",
-     "打响",
-     "保卫战"
+     "主持人",
+     "节目",
+     "假牙"
     ]
    },
    {
-    "title": "编剧芦苇评价《给阿嬷的情书》是合格水准，但很难成为经典，劣币驱逐良币时代是良心之作，怎样理解这一说法？",
+    "title": "张水华黄石马拉松破个人纪录夺冠，6 周连跑 6 场获 5 冠 1 亚，如何评价她的表现？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 2390000,
+    "heat": 2820000,
     "rank": 4,
-    "url": "https://www.zhihu.com/question/2107906248599234133",
+    "url": "https://www.zhihu.com/question/2107832295511913619",
     "board": "知乎热榜",
     "tokens": [
-     "编剧",
-     "芦苇",
-     "评价",
-     "阿嬷",
-     "情书",
-     "合格",
-     "水准",
-     "成为"
+     "张水华",
+     "黄石",
+     "马拉松",
+     "个人",
+     "纪录",
+     "夺冠",
+     "周连",
+     "场获"
     ]
    },
    {
-    "title": "荣耀700系列新品发布会",
+    "title": "许昌外卖小哥一句脆脆的带火炸鸡",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 70000,
+    "heat": 800000,
     "rank": 4,
-    "url": "https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80700%E7%B3%BB%E5%88%97%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
+    "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%8C%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%80%E5%8F%A5%E8%84%86%E8%84%86%E7%9A%84%E5%B8%A6%E7%81%AB%E7%82%B8%E9%B8%A1",
     "board": "微博热搜榜",
     "tokens": [
-     "荣耀",
-     "系列",
-     "新品",
-     "发布会"
+     "许昌",
+     "外卖",
+     "小哥",
+     "一句",
+     "脆脆",
+     "炸鸡"
     ]
    },
    {
@@ -493,67 +504,73 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Eagles",
+    "title": "Mets",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 4,
-    "url": "https://twitter.com/search?q=Eagles",
+    "url": "https://twitter.com/search?q=Mets",
     "board": "X Trending (24h)",
     "tokens": [
-     "Eagles"
+     "Mets"
     ]
    },
    {
-    "title": "600块吃好喝好玩好 年轻人羡慕疯了",
+    "title": "特朗普深圳行照片14张是中美元首互动",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7715000,
-    "rank": 3,
-    "url": "https://www.baidu.com/s?wd=600%E5%9D%97%E5%90%83%E5%A5%BD%E5%96%9D%E5%A5%BD%E7%8E%A9%E5%A5%BD+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BE%A1%E6%85%95%E7%96%AF%E4%BA%86",
-    "board": "百度热搜",
+    "heat": 8066000,
+    "rank": 2,
+    "url": "https://so.toutiao.com/search?keyword=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E8%A1%8C%E7%85%A7%E7%89%8714%E5%BC%A0%E6%98%AF%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BA%92%E5%8A%A8%23",
+    "board": "今日头条热榜",
     "tokens": [
-     "好喝",
-     "好玩",
-     "年轻人",
-     "羡慕"
+     "特朗普",
+     "深圳",
+     "照片",
+     "张是",
+     "美元",
+     "互动"
     ]
    },
    {
-    "title": "同样是蛋白质，为什么提倡喝牛奶而不是吃鸡蛋?",
+    "title": "主播私闯果园直播带货糟蹋近 200 斤苹果，官方通报其系误入，相关损失应如何认定和赔偿？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1770000,
+    "heat": 2410000,
     "rank": 5,
-    "url": "https://www.zhihu.com/question/623251460",
+    "url": "https://www.zhihu.com/question/2107832519722791972",
     "board": "知乎热榜",
     "tokens": [
-     "同样",
-     "蛋白质",
-     "提倡",
-     "喝牛奶",
-     "鸡蛋"
+     "主播",
+     "果园",
+     "带货",
+     "糟蹋",
+     "苹果",
+     "其系",
+     "误入",
+     "损失"
     ]
    },
    {
-    "title": "私闯果园糟蹋水果主播下架所有视频",
+    "title": "treetree的炸鸡外卖火到被迫成为门店",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 70000,
+    "heat": 770000,
     "rank": 5,
-    "url": "https://s.weibo.com/weibo?q=%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E7%B3%9F%E8%B9%8B%E6%B0%B4%E6%9E%9C%E4%B8%BB%E6%92%AD%E4%B8%8B%E6%9E%B6%E6%89%80%E6%9C%89%E8%A7%86%E9%A2%91",
+    "url": "https://s.weibo.com/weibo?q=treetree%E7%9A%84%E7%82%B8%E9%B8%A1%E5%A4%96%E5%8D%96%E7%81%AB%E5%88%B0%E8%A2%AB%E8%BF%AB%E6%88%90%E4%B8%BA%E9%97%A8%E5%BA%97",
     "board": "微博热搜榜",
     "tokens": [
-     "私闯",
-     "果园",
-     "糟蹋",
-     "水果",
-     "播下",
-     "所有"
+     "treetree",
+     "炸鸡",
+     "外卖",
+     "火到",
+     "被迫",
+     "成为",
+     "门店"
     ]
    },
    {
@@ -590,69 +607,68 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Panthers",
+    "title": "Mendoza",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 5,
-    "url": "https://twitter.com/search?q=Panthers",
+    "url": "https://twitter.com/search?q=Mendoza",
     "board": "X Trending (24h)",
     "tokens": [
-     "Panthers"
+     "Mendoza"
     ]
    },
    {
-    "title": "智能穿戴打开消费新空间",
+    "title": "三个时间坐标 读懂APEC“中国年”",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7618000,
-    "rank": 4,
-    "url": "https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E6%89%93%E5%BC%80%E6%B6%88%E8%B4%B9%E6%96%B0%E7%A9%BA%E9%97%B4",
+    "heat": 7905000,
+    "rank": 1,
+    "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%B8%AA%E6%97%B6%E9%97%B4%E5%9D%90%E6%A0%87+%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D",
     "board": "百度热搜",
     "tokens": [
-     "智能",
-     "穿戴",
-     "打开",
-     "消费",
-     "空间"
+     "三个",
+     "时间",
+     "坐标",
+     "读懂",
+     "APEC",
+     "中国"
     ]
    },
    {
-    "title": "曝 ShowMaker 宁愿大幅度降薪也希望留在 DK，如何评价他的选择？DK 目前情况有多糟？",
+    "title": "27 岁庞众望完成博士论文答辩，即将从清华毕业，未来有望朝什么方向发展？他的求学之路给我们什么启示？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1170000,
+    "heat": 2410000,
     "rank": 6,
-    "url": "https://www.zhihu.com/question/2105979786103191265",
+    "url": "https://www.zhihu.com/question/2107184597846975042",
     "board": "知乎热榜",
     "tokens": [
-     "ShowMaker",
-     "宁愿",
-     "大幅度",
-     "降薪",
-     "希望",
-     "留在",
-     "DK",
-     "评价"
+     "众望",
+     "完成",
+     "博士",
+     "论文答辩",
+     "即将",
+     "清华",
+     "毕业",
+     "未来"
     ]
    },
    {
-    "title": "阿尔卡拉斯首夺总决赛冠军",
+    "title": "人民日报评1991年张大爷烂梗",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 70000,
+    "heat": 700000,
     "rank": 6,
-    "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%B0%94%E5%8D%A1%E6%8B%89%E6%96%AF%E9%A6%96%E5%A4%BA%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B",
+    "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%841991%E5%B9%B4%E5%BC%A0%E5%A4%A7%E7%88%B7%E7%83%82%E6%A2%97",
     "board": "微博热搜榜",
     "tokens": [
-     "阿尔卡拉",
-     "首夺",
-     "总决赛",
-     "冠军"
+     "人民日报",
+     "大爷"
     ]
    },
    {
@@ -692,68 +708,71 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Bears",
+    "title": "Jaguars",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 6,
-    "url": "https://twitter.com/search?q=Bears",
+    "url": "https://twitter.com/search?q=Jaguars",
     "board": "X Trending (24h)",
     "tokens": [
-     "Bears"
+     "Jaguars"
     ]
    },
    {
-    "title": "A股利好来了 三箭齐发",
+    "title": "某部委机关干部因犯间谍罪被判死刑",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7520000,
-    "rank": 5,
-    "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86+%E4%B8%89%E7%AE%AD%E9%BD%90%E5%8F%91",
+    "heat": 7809000,
+    "rank": 2,
+    "url": "https://www.baidu.com/s?wd=%E6%9F%90%E9%83%A8%E5%A7%94%E6%9C%BA%E5%85%B3%E5%B9%B2%E9%83%A8%E5%9B%A0%E7%8A%AF%E9%97%B4%E8%B0%8D%E7%BD%AA%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91",
     "board": "百度热搜",
     "tokens": [
-     "A股",
-     "利好",
-     "三箭",
-     "齐发"
+     "部委",
+     "机关干部",
+     "因犯",
+     "间谍罪",
+     "被判",
+     "死刑"
     ]
    },
    {
-    "title": "2026 年乒乓球德甲联赛第九轮，樊振东 1：3 负于约内斯库，怎么评价樊振东代表杜塞尔多夫的这一场失利？",
+    "title": "芜湖一住户割断高空作业工人安全绳，警方正在侦办，该住户需承担哪些法律责任？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1160000,
+    "heat": 2280000,
     "rank": 7,
-    "url": "https://www.zhihu.com/question/2107985884800984526",
+    "url": "https://www.zhihu.com/question/2105992057642865192",
     "board": "知乎热榜",
     "tokens": [
-     "乒乓球",
-     "德甲联赛",
-     "第九轮",
-     "樊振东",
-     "负于",
-     "内斯库",
-     "评价",
-     "樊振东"
+     "芜湖",
+     "住户",
+     "割断",
+     "高空作业",
+     "工人",
+     "安全",
+     "警方",
+     "正在"
     ]
    },
    {
-    "title": "赵本山女儿和老公两地分居",
+    "title": "官方通报百万粉丝主播被指私闯果园",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 60000,
+    "heat": 350000,
     "rank": 7,
-    "url": "https://s.weibo.com/weibo?q=%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%A5%B3%E5%84%BF%E5%92%8C%E8%80%81%E5%85%AC%E4%B8%A4%E5%9C%B0%E5%88%86%E5%B1%85",
+    "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%99%BE%E4%B8%87%E7%B2%89%E4%B8%9D%E4%B8%BB%E6%92%AD%E8%A2%AB%E6%8C%87%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD",
     "board": "微博热搜榜",
     "tokens": [
-     "赵本山",
-     "女儿",
-     "老公",
-     "两地分居"
+     "百万",
+     "粉丝",
+     "主播",
+     "指私",
+     "果园"
     ]
    },
    {
@@ -791,69 +810,67 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Rodgers",
+    "title": "#MemT",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 7,
-    "url": "https://twitter.com/search?q=Rodgers",
+    "url": "https://twitter.com/search?q=%23MemT",
     "board": "X Trending (24h)",
     "tokens": [
-     "Rodgers"
+     "MemT"
     ]
    },
    {
-    "title": "村委会回应“去世到安葬不超24小时”",
+    "title": "130/80不再列为“正常血压”",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7428000,
-    "rank": 6,
-    "url": "https://www.baidu.com/s?wd=%E6%9D%91%E5%A7%94%E4%BC%9A%E5%9B%9E%E5%BA%94%E2%80%9C%E5%8E%BB%E4%B8%96%E5%88%B0%E5%AE%89%E8%91%AC%E4%B8%8D%E8%B6%8524%E5%B0%8F%E6%97%B6%E2%80%9D",
+    "heat": 7713000,
+    "rank": 3,
+    "url": "https://www.baidu.com/s?wd=130%2F80%E4%B8%8D%E5%86%8D%E5%88%97%E4%B8%BA%E2%80%9C%E6%AD%A3%E5%B8%B8%E8%A1%80%E5%8E%8B%E2%80%9D",
     "board": "百度热搜",
     "tokens": [
-     "村委会",
-     "去世",
-     "安葬",
-     "不超",
-     "小时"
+     "不再",
+     "列为",
+     "正常",
+     "血压"
     ]
    },
    {
-    "title": "日媒逐帧解析高市早苗遭特朗普无视，直呼耻辱，为何日本对此如此破防？反映了日本舆论对日美互动怎样的心态？",
+    "title": "如何看待曝 Tarzan 向 AL 提出解约？若 Tarzan 离队成功将会对 AL 产生哪些影响？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1130000,
+    "heat": 2070000,
     "rank": 8,
-    "url": "https://www.zhihu.com/question/2107806853543322888",
+    "url": "https://www.zhihu.com/question/2107535407227172231",
     "board": "知乎热榜",
     "tokens": [
-     "日媒",
-     "逐帧",
-     "解析",
-     "高市",
-     "早苗",
-     "特朗普",
-     "无视",
-     "直呼"
+     "看待",
+     "Tarzan",
+     "AL",
+     "提出",
+     "解约",
+     "Tarzan",
+     "离队",
+     "成功"
     ]
    },
    {
-    "title": "中戏同学成顶流男演员却当NPC",
+    "title": "行李箱也能自己上楼了",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 60000,
+    "heat": 330000,
     "rank": 8,
-    "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E6%88%8F%E5%90%8C%E5%AD%A6%E6%88%90%E9%A1%B6%E6%B5%81%E7%94%B7%E6%BC%94%E5%91%98%E5%8D%B4%E5%BD%93NPC",
+    "url": "https://s.weibo.com/weibo?q=%E8%A1%8C%E6%9D%8E%E7%AE%B1%E4%B9%9F%E8%83%BD%E8%87%AA%E5%B7%B1%E4%B8%8A%E6%A5%BC%E4%BA%86",
     "board": "微博热搜榜",
     "tokens": [
-     "同学",
-     "成顶流",
-     "男演员",
-     "NPC"
+     "行李箱",
+     "自己",
+     "上楼"
     ]
    },
    {
@@ -893,68 +910,69 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Titans",
+    "title": "Trevor Lawrence",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 8,
-    "url": "https://twitter.com/search?q=Titans",
+    "url": "https://twitter.com/search?q=Trevor%20Lawrence",
     "board": "X Trending (24h)",
     "tokens": [
-     "Titans"
+     "Trevor",
+     "Lawrence"
     ]
    },
    {
-    "title": "做饭前一个改变 血压炎症指标降了",
+    "title": "智能穿戴打开消费新空间",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7331000,
-    "rank": 7,
-    "url": "https://www.baidu.com/s?wd=%E5%81%9A%E9%A5%AD%E5%89%8D%E4%B8%80%E4%B8%AA%E6%94%B9%E5%8F%98+%E8%A1%80%E5%8E%8B%E7%82%8E%E7%97%87%E6%8C%87%E6%A0%87%E9%99%8D%E4%BA%86",
+    "heat": 7619000,
+    "rank": 4,
+    "url": "https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E6%89%93%E5%BC%80%E6%B6%88%E8%B4%B9%E6%96%B0%E7%A9%BA%E9%97%B4",
     "board": "百度热搜",
     "tokens": [
-     "做饭",
-     "改变",
-     "血压",
-     "炎症",
-     "指标"
+     "智能",
+     "穿戴",
+     "打开",
+     "消费",
+     "空间"
     ]
    },
    {
-    "title": "AI 短剧、 AI 漫剧现在这么火爆，为什么我感觉大多数角色的脸都一样？大家不会视觉疲劳吗？",
+    "title": "2026 年乒乓球德甲联赛第九轮，樊振东 1：3 负于约内斯库，怎么评价本场比赛？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1090000,
+    "heat": 1810000,
     "rank": 9,
-    "url": "https://www.zhihu.com/question/2079246734493066423",
+    "url": "https://www.zhihu.com/question/2107985884800984526",
     "board": "知乎热榜",
     "tokens": [
-     "AI",
-     "短剧",
-     "AI",
-     "漫剧",
-     "现在",
-     "这么",
-     "火爆",
-     "感觉"
+     "乒乓球",
+     "德甲联赛",
+     "第九轮",
+     "樊振东",
+     "负于",
+     "内斯库",
+     "评价",
+     "本场"
     ]
    },
    {
-    "title": "青稚夺冠后直播热度",
+    "title": "厉娜 拍完了然后放我回家",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 50000,
+    "heat": 330000,
     "rank": 9,
-    "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%A4%BA%E5%86%A0%E5%90%8E%E7%9B%B4%E6%92%AD%E7%83%AD%E5%BA%A6",
+    "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C+%E6%8B%8D%E5%AE%8C%E4%BA%86%E7%84%B6%E5%90%8E%E6%94%BE%E6%88%91%E5%9B%9E%E5%AE%B6",
     "board": "微博热搜榜",
     "tokens": [
-     "青稚",
-     "夺冠",
-     "热度"
+     "厉娜",
+     "然后",
+     "回家"
     ]
    },
    {
@@ -992,67 +1010,70 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Joe Milton",
+    "title": "#RHOP",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 9,
-    "url": "https://twitter.com/search?q=Joe%20Milton",
+    "url": "https://twitter.com/search?q=%23RHOP",
     "board": "X Trending (24h)",
     "tokens": [
-     "Joe",
-     "Milton"
+     "RHOP"
     ]
    },
    {
-    "title": "建议焦虑的人听听这段话",
+    "title": "老人将1万多现金埋地下碳化无法兑换",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7234000,
-    "rank": 8,
-    "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E7%84%A6%E8%99%91%E7%9A%84%E4%BA%BA%E5%90%AC%E5%90%AC%E8%BF%99%E6%AE%B5%E8%AF%9D",
+    "heat": 7522000,
+    "rank": 5,
+    "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%B0%861%E4%B8%87%E5%A4%9A%E7%8E%B0%E9%87%91%E5%9F%8B%E5%9C%B0%E4%B8%8B%E7%A2%B3%E5%8C%96%E6%97%A0%E6%B3%95%E5%85%91%E6%8D%A2",
     "board": "百度热搜",
     "tokens": [
-     "建议",
-     "焦虑",
-     "听听",
-     "这段话"
+     "老人",
+     "万多",
+     "现金",
+     "地下",
+     "碳化",
+     "无法",
+     "兑换"
     ]
    },
    {
-    "title": "长安大学回应「14 日面试 13 日出结果」，公告误带后台草稿的创建日期，三名人事干部被处分，如何看待此事？",
+    "title": "为什么大便之前体重和大便之后的体重一样？难道排泄物没有重量吗？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1090000,
+    "heat": 1710000,
     "rank": 10,
-    "url": "https://www.zhihu.com/question/2107570779529529086",
+    "url": "https://www.zhihu.com/question/2105195950671245354",
     "board": "知乎热榜",
     "tokens": [
-     "长安",
-     "大学",
-     "面试",
-     "日出",
-     "结果",
-     "公告",
-     "误带",
-     "后台"
+     "大便",
+     "之前",
+     "体重",
+     "大便",
+     "体重",
+     "一样",
+     "难道",
+     "排泄物"
     ]
    },
    {
-    "title": "利物浦4比0曼联",
+    "title": "两京十五日第7集封神",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 50000,
+    "heat": 320000,
     "rank": 10,
-    "url": "https://s.weibo.com/weibo?q=%E5%88%A9%E7%89%A9%E6%B5%A64%E6%AF%940%E6%9B%BC%E8%81%94",
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E7%AC%AC7%E9%9B%86%E5%B0%81%E7%A5%9E",
     "board": "微博热搜榜",
     "tokens": [
-     "利物浦",
-     "曼联"
+     "两京",
+     "十五日",
+     "封神"
     ]
    },
    {
@@ -1085,26 +1106,46 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "#KeepPounding",
+    "title": "Raiders",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 10,
-    "url": "https://twitter.com/search?q=%23KeepPounding",
+    "url": "https://twitter.com/search?q=Raiders",
     "board": "X Trending (24h)",
     "tokens": [
-     "KeepPounding"
+     "Raiders"
     ]
    }
   ],
   "ranking": [
    {
+    "title": "方力申耗时 8 小时 37 分 24 秒从香港游到澳门破吉尼斯纪录，完成这样的挑战难度有多大？",
+    "platform": "zhihu",
+    "platformName": "知乎",
+    "emoji": "💡",
+    "heat": 9600000,
+    "rank": 1,
+    "url": "https://www.zhihu.com/question/2107848989819326753",
+    "board": "知乎热榜",
+    "tokens": [
+     "方力申",
+     "耗时",
+     "小时",
+     "香港游",
+     "澳门",
+     "吉尼斯",
+     "纪录",
+     "完成"
+    ]
+   },
+   {
     "title": "三个时间坐标 读懂APEC“中国年”",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7904000,
+    "heat": 7905000,
     "rank": 1,
     "url": "https://www.baidu.com/s?wd=%E4%B8%89%E4%B8%AA%E6%97%B6%E9%97%B4%E5%9D%90%E6%A0%87+%E8%AF%BB%E6%87%82APEC%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%B9%B4%E2%80%9D",
     "board": "百度热搜",
@@ -1118,53 +1159,37 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "黄金这波暴跌割了谁的韭菜",
+    "title": "部委干部窃取我国百余份情报获死刑",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7056000,
+    "heat": 6604000,
     "rank": 1,
-    "url": "https://so.toutiao.com/search?keyword=%23%E9%BB%84%E9%87%91%E8%BF%99%E6%B3%A2%E6%9A%B4%E8%B7%8C%E5%89%B2%E4%BA%86%E8%B0%81%E7%9A%84%E9%9F%AD%E8%8F%9C%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E9%83%A8%E5%A7%94%E5%B9%B2%E9%83%A8%E7%AA%83%E5%8F%96%E6%88%91%E5%9B%BD%E7%99%BE%E4%BD%99%E4%BB%BD%E6%83%85%E6%8A%A5%E8%8E%B7%E6%AD%BB%E5%88%91%23",
     "board": "今日头条热榜",
     "tokens": [
-     "黄金",
-     "这波",
-     "暴跌",
-     "韭菜"
+     "部委",
+     "干部",
+     "窃取",
+     "我国",
+     "百余",
+     "情报",
+     "死刑"
     ]
    },
    {
-    "title": "交易所打出稳市「组合拳」，沪深北交易所降低融资保证金比例下限至 80%，意味着什么？释放了哪些信号？",
-    "platform": "zhihu",
-    "platformName": "知乎",
-    "emoji": "💡",
-    "heat": 4740000,
-    "rank": 1,
-    "url": "https://www.zhihu.com/question/2107908002430677964",
-    "board": "知乎热榜",
-    "tokens": [
-     "交易所",
-     "打出",
-     "稳市",
-     "组合拳",
-     "深北",
-     "交易所",
-     "降低",
-     "融资"
-    ]
-   },
-   {
-    "title": "樊振东1比3约内斯库",
+    "title": "曝青稚榜一送了38w",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 120000,
+    "heat": 1340000,
     "rank": 1,
-    "url": "https://s.weibo.com/weibo?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C1%E6%AF%943%E7%BA%A6%E5%86%85%E6%96%AF%E5%BA%93",
+    "url": "https://s.weibo.com/weibo?q=%E6%9B%9D%E9%9D%92%E7%A8%9A%E6%A6%9C%E4%B8%80%E9%80%81%E4%BA%8638w",
     "board": "微博热搜榜",
     "tokens": [
-     "樊振东",
-     "内斯库"
+     "曝青稚",
+     "一送",
+     "38w"
     ]
    },
    {
@@ -1184,23 +1209,23 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "重温大郎和金莲摔跤精彩瞬间！#民间摔跤 #看一遍笑一遍",
+    "title": "娃娃机里真是啥都能抓啊 #抓娃娃 #娃娃机 #盲盒 #拆箱 #抓娃娃砖家 我真服了",
     "platform": "douyin",
     "platformName": "抖音",
     "emoji": "🎵",
     "heat": 0,
     "rank": 1,
-    "url": "https://www.douyin.com/video/7710483664232353915",
+    "url": "https://www.douyin.com/video/7710873939878087946",
     "board": "抖音热点榜",
     "tokens": [
-     "重温",
-     "大郎",
-     "金莲",
-     "摔跤",
-     "精彩",
-     "瞬间",
-     "民间",
-     "摔跤"
+     "娃娃",
+     "机里",
+     "真是",
+     "娃娃",
+     "娃娃",
+     "盲盒",
+     "拆箱",
+     "娃娃"
     ]
    },
    {
@@ -1222,118 +1247,131 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Steelers",
+    "title": "Giants",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 1,
-    "url": "https://twitter.com/search?q=Steelers",
+    "url": "https://twitter.com/search?q=Giants",
     "board": "X Trending (24h)",
     "tokens": [
-     "Steelers"
+     "Giants"
     ]
    },
    {
-    "title": "美方拟禁止中国电信运营商直接获取美国互联网电话号码资源，商务部回应",
+    "title": "100%降至80%！融资保证金比例下调，预计4000亿增量资金在路上",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 1,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34532695",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34534889",
     "board": "澎湃新闻",
     "tokens": [
-     "美方",
-     "禁止",
-     "中国电信",
-     "运营商",
-     "直接",
-     "获取",
-     "美国",
-     "互联网"
+     "100%",
+     "降至",
+     "80%",
+     "融资",
+     "保证金",
+     "比例",
+     "下调",
+     "预计"
     ]
    },
    {
-    "title": "猫和老鼠》为何能风靡全球？",
+    "title": "一块顶级的墨在古代有多贵？真的像《家业》中一样千金难求吗？",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 1,
-    "url": "https://daily.zhihu.com/story/9794172",
+    "url": "https://daily.zhihu.com/story/9794180",
     "board": "知乎日报",
     "tokens": [
-     "猫和老鼠",
-     "为何",
-     "风靡",
-     "全球"
+     "一块",
+     "顶级",
+     "古代",
+     "有多贵",
+     "真的",
+     "家业",
+     "一样",
+     "千金"
     ]
    },
    {
-    "title": "亚洲市场集体打响保卫战",
+    "title": "在黎曼猜想被声称证明后，如何理解袁新意所说的「或许我们高估了黎曼猜想的难度」？",
+    "platform": "zhihu",
+    "platformName": "知乎",
+    "emoji": "💡",
+    "heat": 9260000,
+    "rank": 2,
+    "url": "https://www.zhihu.com/question/2107618428508792525",
+    "board": "知乎热榜",
+    "tokens": [
+     "黎曼",
+     "猜想",
+     "声称",
+     "证明",
+     "理解",
+     "新意",
+     "所说",
+     "或许"
+    ]
+   },
+   {
+    "title": "特朗普深圳行照片14张是中美元首互动",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 8066000,
+    "rank": 2,
+    "url": "https://so.toutiao.com/search?keyword=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%B7%B1%E5%9C%B3%E8%A1%8C%E7%85%A7%E7%89%8714%E5%BC%A0%E6%98%AF%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BA%92%E5%8A%A8%23",
+    "board": "今日头条热榜",
+    "tokens": [
+     "特朗普",
+     "深圳",
+     "照片",
+     "张是",
+     "美元",
+     "互动"
+    ]
+   },
+   {
+    "title": "某部委机关干部因犯间谍罪被判死刑",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 7809000,
     "rank": 2,
-    "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E6%B4%B2%E5%B8%82%E5%9C%BA%E9%9B%86%E4%BD%93%E6%89%93%E5%93%8D%E4%BF%9D%E5%8D%AB%E6%88%98",
+    "url": "https://www.baidu.com/s?wd=%E6%9F%90%E9%83%A8%E5%A7%94%E6%9C%BA%E5%85%B3%E5%B9%B2%E9%83%A8%E5%9B%A0%E7%8A%AF%E9%97%B4%E8%B0%8D%E7%BD%AA%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91",
     "board": "百度热搜",
     "tokens": [
-     "亚洲",
-     "市场",
-     "集体",
-     "打响",
-     "保卫战"
+     "部委",
+     "机关干部",
+     "因犯",
+     "间谍罪",
+     "被判",
+     "死刑"
     ]
    },
    {
-    "title": "稳股市”组合拳来了",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 6385000,
-    "rank": 2,
-    "url": "https://so.toutiao.com/search?keyword=%23%E2%80%9C%E7%A8%B3%E8%82%A1%E5%B8%82%E2%80%9D%E7%BB%84%E5%90%88%E6%8B%B3%E6%9D%A5%E4%BA%86%23",
-    "board": "今日头条热榜",
-    "tokens": [
-     "股市",
-     "组合拳"
-    ]
-   },
-   {
-    "title": "方力申耗时 8 小时 37 分 24 秒从香港游到澳门破吉尼斯纪录，完成这样的挑战难度有多大？",
-    "platform": "zhihu",
-    "platformName": "知乎",
-    "emoji": "💡",
-    "heat": 3630000,
-    "rank": 2,
-    "url": "https://www.zhihu.com/question/2107848989819326753",
-    "board": "知乎热榜",
-    "tokens": [
-     "方力申",
-     "耗时",
-     "小时",
-     "香港游",
-     "澳门",
-     "吉尼斯",
-     "纪录",
-     "完成"
-    ]
-   },
-   {
-    "title": "央视主持人录节目假牙丢了",
+    "title": "某部委员工与间谍合作泄密被判死刑",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 90000,
+    "heat": 870000,
     "rank": 2,
-    "url": "https://s.weibo.com/weibo?q=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%BD%95%E8%8A%82%E7%9B%AE%E5%81%87%E7%89%99%E4%B8%A2%E4%BA%86",
+    "url": "https://s.weibo.com/weibo?q=%E6%9F%90%E9%83%A8%E5%A7%94%E5%91%98%E5%B7%A5%E4%B8%8E%E9%97%B4%E8%B0%8D%E5%90%88%E4%BD%9C%E6%B3%84%E5%AF%86%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91",
     "board": "微博热搜榜",
     "tokens": [
-     "主持人",
-     "节目",
-     "假牙"
+     "部委",
+     "员工",
+     "间谍",
+     "合作",
+     "泄密",
+     "被判",
+     "死刑"
     ]
    },
    {
@@ -1354,23 +1392,21 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "司仪栋仔做好事儿从来不留名😂#司仪培训@静姐(栋仔助理) #司仪栋仔",
+    "title": "今天的大肘子有味道！#农村大席 #大肘子",
     "platform": "douyin",
     "platformName": "抖音",
     "emoji": "🎵",
     "heat": 0,
     "rank": 2,
-    "url": "https://www.douyin.com/video/7710423007302682985",
+    "url": "https://www.douyin.com/video/7710132714536263865",
     "board": "抖音热点榜",
     "tokens": [
-     "司仪",
-     "做好",
-     "事儿",
-     "从来不",
-     "留名",
-     "司仪",
-     "培训",
-     "静姐"
+     "今天",
+     "肘子",
+     "味道",
+     "农村",
+     "大席",
+     "肘子"
     ]
    },
    {
@@ -1390,69 +1426,68 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "DK Metcalf",
+    "title": "Jags",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 2,
-    "url": "https://twitter.com/search?q=DK%20Metcalf",
+    "url": "https://twitter.com/search?q=Jags",
     "board": "X Trending (24h)",
     "tokens": [
-     "DK",
-     "Metcalf"
+     "Jags"
     ]
    },
    {
-    "title": "学习时报》刊文梳理“伪史论”传播路径：算法机制放大高冲突、高争议内容",
+    "title": "创业板将引入做市商制度：有哪些亮点安排，市场影响几何？",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 2,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34533204",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34535483",
     "board": "澎湃新闻",
     "tokens": [
-     "学习",
-     "时报",
-     "刊文",
-     "梳理",
-     "史论",
-     "传播",
-     "路径",
-     "算法"
+     "创业板",
+     "引入",
+     "做市商",
+     "制度",
+     "亮点",
+     "安排",
+     "市场",
+     "影响"
     ]
    },
    {
-    "title": "有什么有意思的大学名称缩写？",
+    "title": "为什么一斤粮食还没有一瓶瓶装水贵？",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 2,
-    "url": "https://daily.zhihu.com/story/9794164",
+    "url": "https://daily.zhihu.com/story/9794186",
     "board": "知乎日报",
     "tokens": [
-     "有意思",
-     "大学",
-     "名称",
-     "缩写"
+     "一斤",
+     "粮食",
+     "一瓶",
+     "瓶装水"
     ]
    },
    {
-    "title": "600块吃好喝好玩好 年轻人羡慕疯了",
+    "title": "130/80不再列为“正常血压”",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7715000,
+    "heat": 7713000,
     "rank": 3,
-    "url": "https://www.baidu.com/s?wd=600%E5%9D%97%E5%90%83%E5%A5%BD%E5%96%9D%E5%A5%BD%E7%8E%A9%E5%A5%BD+%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BE%A1%E6%85%95%E7%96%AF%E4%BA%86",
+    "url": "https://www.baidu.com/s?wd=130%2F80%E4%B8%8D%E5%86%8D%E5%88%97%E4%B8%BA%E2%80%9C%E6%AD%A3%E5%B8%B8%E8%A1%80%E5%8E%8B%E2%80%9D",
     "board": "百度热搜",
     "tokens": [
-     "好喝",
-     "好玩",
-     "年轻人",
-     "羡慕"
+     "不再",
+     "列为",
+     "正常",
+     "血压"
     ]
    },
    {
@@ -1460,7 +1495,7 @@ window.CATCH_DATA = {
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 5777000,
+    "heat": 7298000,
     "rank": 3,
     "url": "https://so.toutiao.com/search?keyword=%23%E6%9D%83%E5%A8%81%E6%95%B0%E8%AF%BB%E8%A7%82%E4%B8%AD%E5%9B%BD%23",
     "board": "今日头条热榜",
@@ -1471,36 +1506,41 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "如何评价《侠盗猎车手 VI》（GTA 6）的结局？",
+    "title": "编剧芦苇评价《给阿嬷的情书》是合格水准，但很难成为经典，劣币驱逐良币时代是良心之作，怎样理解这一说法？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 3370000,
+    "heat": 7290000,
     "rank": 3,
-    "url": "https://www.zhihu.com/question/2107491544735470766",
+    "url": "https://www.zhihu.com/question/2107906248599234133",
     "board": "知乎热榜",
     "tokens": [
+     "编剧",
+     "芦苇",
      "评价",
-     "侠盗",
-     "车手",
-     "VI",
-     "GTA",
-     "结局"
+     "阿嬷",
+     "情书",
+     "合格",
+     "水准",
+     "成为"
     ]
    },
    {
-    "title": "诗词里的千年文脉",
+    "title": "一图解读我国消费市场多元图景",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 80000,
+    "heat": 830000,
     "rank": 3,
-    "url": "https://s.weibo.com/weibo?q=%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E5%8D%83%E5%B9%B4%E6%96%87%E8%84%89",
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E5%9B%BE%E8%A7%A3%E8%AF%BB%E6%88%91%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E5%A4%9A%E5%85%83%E5%9B%BE%E6%99%AF",
     "board": "微博热搜榜",
     "tokens": [
-     "诗词",
-     "千年",
-     "文脉"
+     "一图",
+     "解读",
+     "我国",
+     "消费市场",
+     "多元",
+     "图景"
     ]
    },
    {
@@ -1520,20 +1560,23 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "还真有个苍蝇#拼豆#拼豆 #进宝手作店",
+    "title": "牛约堡太好吃了 #我的牛约堡搭子 #牛约堡 #牛约堡饱腹力max #牛约堡测评",
     "platform": "douyin",
     "platformName": "抖音",
     "emoji": "🎵",
     "heat": 0,
     "rank": 3,
-    "url": "https://www.douyin.com/video/7702758499399586042",
+    "url": "https://www.douyin.com/video/7688019187171910291",
     "board": "抖音热点榜",
     "tokens": [
-     "苍蝇",
-     "拼豆",
-     "拼豆",
-     "进宝",
-     "手作店"
+     "约堡",
+     "好吃",
+     "约堡",
+     "搭子",
+     "约堡",
+     "约堡",
+     "饱腹",
+     "max"
     ]
    },
    {
@@ -1550,53 +1593,57 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Ravens",
+    "title": "Parker Washington",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 3,
-    "url": "https://twitter.com/search?q=Ravens",
+    "url": "https://twitter.com/search?q=Parker%20Washington",
     "board": "X Trending (24h)",
     "tokens": [
-     "Ravens"
+     "Parker",
+     "Washington"
     ]
    },
    {
-    "title": "影子调查｜清理入侵物种“加拿大一枝黄花”10年，仍在蔓延",
+    "title": "花五六十万连麦越聊越焦虑？“测测”被指诱导消费，平台坚称计费已明示",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 3,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34491597",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34534267",
     "board": "澎湃新闻",
     "tokens": [
-     "影子",
-     "调查",
-     "清理",
-     "入侵",
-     "物种",
-     "加拿大",
-     "一枝黄花",
-     "蔓延"
+     "五六十万",
+     "连麦越",
+     "聊越",
+     "焦虑",
+     "测测",
+     "诱导",
+     "消费",
+     "平台"
     ]
    },
    {
-    "title": "清朝王爷们没有手机如何打发时间？",
+    "title": "为什么许多科普书经常用「高尔夫球车」「甜甜圈」「咖啡杯」这些中国人日常生活中几乎不接触的东西作比喻？",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 3,
-    "url": "https://daily.zhihu.com/story/9794174",
+    "url": "https://daily.zhihu.com/story/9794192",
     "board": "知乎日报",
     "tokens": [
-     "清朝",
-     "王爷",
-     "手机",
-     "打发",
-     "时间"
+     "许多",
+     "科普",
+     "经常",
+     "高尔夫球",
+     "甜甜",
+     "咖啡杯",
+     "这些",
+     "中国"
     ]
    },
    {
@@ -1604,7 +1651,7 @@ window.CATCH_DATA = {
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7618000,
+    "heat": 7619000,
     "rank": 4,
     "url": "https://www.baidu.com/s?wd=%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E6%89%93%E5%BC%80%E6%B6%88%E8%B4%B9%E6%96%B0%E7%A9%BA%E9%97%B4",
     "board": "百度热搜",
@@ -1617,56 +1664,59 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "菲律宾8名警察绑架中国女富商",
+    "title": "金价大跌后中国大妈高调出手",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 4730000,
+    "heat": 5975000,
     "rank": 4,
-    "url": "https://so.toutiao.com/search?keyword=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE8%E5%90%8D%E8%AD%A6%E5%AF%9F%E7%BB%91%E6%9E%B6%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AF%8C%E5%95%86%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%90%8E%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%A6%88%E9%AB%98%E8%B0%83%E5%87%BA%E6%89%8B%23",
     "board": "今日头条热榜",
     "tokens": [
-     "菲律宾",
-     "警察",
-     "绑架",
+     "金价",
+     "大跌",
      "中国",
-     "富商"
+     "大妈",
+     "高调",
+     "出手"
     ]
    },
    {
-    "title": "编剧芦苇评价《给阿嬷的情书》是合格水准，但很难成为经典，劣币驱逐良币时代是良心之作，怎样理解这一说法？",
+    "title": "张水华黄石马拉松破个人纪录夺冠，6 周连跑 6 场获 5 冠 1 亚，如何评价她的表现？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 2390000,
+    "heat": 2820000,
     "rank": 4,
-    "url": "https://www.zhihu.com/question/2107906248599234133",
+    "url": "https://www.zhihu.com/question/2107832295511913619",
     "board": "知乎热榜",
     "tokens": [
-     "编剧",
-     "芦苇",
-     "评价",
-     "阿嬷",
-     "情书",
-     "合格",
-     "水准",
-     "成为"
+     "张水华",
+     "黄石",
+     "马拉松",
+     "个人",
+     "纪录",
+     "夺冠",
+     "周连",
+     "场获"
     ]
    },
    {
-    "title": "荣耀700系列新品发布会",
+    "title": "许昌外卖小哥一句脆脆的带火炸鸡",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 70000,
+    "heat": 800000,
     "rank": 4,
-    "url": "https://s.weibo.com/weibo?q=%E8%8D%A3%E8%80%80700%E7%B3%BB%E5%88%97%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A",
+    "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E6%98%8C%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%80%E5%8F%A5%E8%84%86%E8%84%86%E7%9A%84%E5%B8%A6%E7%81%AB%E7%82%B8%E9%B8%A1",
     "board": "微博热搜榜",
     "tokens": [
-     "荣耀",
-     "系列",
-     "新品",
-     "发布会"
+     "许昌",
+     "外卖",
+     "小哥",
+     "一句",
+     "脆脆",
+     "炸鸡"
     ]
    },
    {
@@ -1690,23 +1740,23 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "记录电影人的点点滴滴 #每个动作都是戏 #危险动作请勿模仿 @抖加小助手+上热门",
+    "title": "其实我也不知道该怎么处理这种情况 我跟爸爸去接他放学 眼看着跟同学说再见的时候 女同学牵着他的手出来并且在分开时凑上来摸他的脸 我跟老父亲两眼震惊，不知所措 但是对于他们二年级小学生来说 好像还没意识到 我一时不知道该怎么做#第一次经历这种事不知道怎么办了 #在线求助怎么解决 #这种情况怎么办 #有时候真的挺无助的",
     "platform": "douyin",
     "platformName": "抖音",
     "emoji": "🎵",
     "heat": 0,
     "rank": 4,
-    "url": "https://www.douyin.com/video/7710089043644973642",
+    "url": "https://www.douyin.com/video/7710862559961217891",
     "board": "抖音热点榜",
     "tokens": [
-     "记录",
-     "电影",
-     "点点滴滴",
-     "每个",
-     "动作",
-     "危险",
-     "动作",
-     "请勿"
+     "其实",
+     "知道",
+     "处理",
+     "这种",
+     "爸爸",
+     "放学",
+     "眼看",
+     "同学"
     ]
    },
    {
@@ -1727,119 +1777,122 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Eagles",
+    "title": "Mets",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 4,
-    "url": "https://twitter.com/search?q=Eagles",
+    "url": "https://twitter.com/search?q=Mets",
     "board": "X Trending (24h)",
     "tokens": [
-     "Eagles"
+     "Mets"
     ]
    },
    {
-    "title": "中国石油天然气集团有限公司党组成员、副总经理谢军被查",
+    "title": "用事实回击！唱空中国经济者终会落空",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 4,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34533075",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34535694",
     "board": "澎湃新闻",
     "tokens": [
-     "中国石油天然气集团",
-     "有限公司",
-     "党组",
-     "成员",
-     "副总经理",
-     "谢军"
+     "事实",
+     "回击",
+     "唱空",
+     "中国",
+     "经济",
+     "终会",
+     "落空"
     ]
    },
    {
-    "title": "你见过最抽象的城市道路设计是什么样子的？",
+    "title": "瞎扯 · 如何正确地吐槽",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 4,
-    "url": "https://daily.zhihu.com/story/9794176",
+    "url": "https://daily.zhihu.com/story/9794202",
     "board": "知乎日报",
     "tokens": [
-     "抽象",
-     "城市道路",
-     "设计",
-     "样子"
+     "瞎扯",
+     "正确",
+     "地吐槽"
     ]
    },
    {
-    "title": "A股利好来了 三箭齐发",
+    "title": "老人将1万多现金埋地下碳化无法兑换",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7520000,
+    "heat": 7522000,
     "rank": 5,
-    "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86+%E4%B8%89%E7%AE%AD%E9%BD%90%E5%8F%91",
+    "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E5%B0%861%E4%B8%87%E5%A4%9A%E7%8E%B0%E9%87%91%E5%9F%8B%E5%9C%B0%E4%B8%8B%E7%A2%B3%E5%8C%96%E6%97%A0%E6%B3%95%E5%85%91%E6%8D%A2",
     "board": "百度热搜",
     "tokens": [
-     "A股",
-     "利好",
-     "三箭",
-     "齐发"
+     "老人",
+     "万多",
+     "现金",
+     "地下",
+     "碳化",
+     "无法",
+     "兑换"
     ]
    },
    {
-    "title": "日媒逐帧解析特朗普无视高市",
+    "title": "人民日报评1991年张大爷烂梗",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 4280000,
+    "heat": 5407000,
     "rank": 5,
-    "url": "https://so.toutiao.com/search?keyword=%23%E6%97%A5%E5%AA%92%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%A0%E8%A7%86%E9%AB%98%E5%B8%82%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%841991%E5%B9%B4%E5%BC%A0%E5%A4%A7%E7%88%B7%E7%83%82%E6%A2%97%23",
     "board": "今日头条热榜",
     "tokens": [
-     "日媒",
-     "逐帧",
-     "解析",
-     "特朗普",
-     "无视",
-     "高市"
+     "人民日报",
+     "大爷"
     ]
    },
    {
-    "title": "同样是蛋白质，为什么提倡喝牛奶而不是吃鸡蛋?",
+    "title": "主播私闯果园直播带货糟蹋近 200 斤苹果，官方通报其系误入，相关损失应如何认定和赔偿？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1770000,
+    "heat": 2410000,
     "rank": 5,
-    "url": "https://www.zhihu.com/question/623251460",
+    "url": "https://www.zhihu.com/question/2107832519722791972",
     "board": "知乎热榜",
     "tokens": [
-     "同样",
-     "蛋白质",
-     "提倡",
-     "喝牛奶",
-     "鸡蛋"
+     "主播",
+     "果园",
+     "带货",
+     "糟蹋",
+     "苹果",
+     "其系",
+     "误入",
+     "损失"
     ]
    },
    {
-    "title": "私闯果园糟蹋水果主播下架所有视频",
+    "title": "treetree的炸鸡外卖火到被迫成为门店",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 70000,
+    "heat": 770000,
     "rank": 5,
-    "url": "https://s.weibo.com/weibo?q=%E7%A7%81%E9%97%AF%E6%9E%9C%E5%9B%AD%E7%B3%9F%E8%B9%8B%E6%B0%B4%E6%9E%9C%E4%B8%BB%E6%92%AD%E4%B8%8B%E6%9E%B6%E6%89%80%E6%9C%89%E8%A7%86%E9%A2%91",
+    "url": "https://s.weibo.com/weibo?q=treetree%E7%9A%84%E7%82%B8%E9%B8%A1%E5%A4%96%E5%8D%96%E7%81%AB%E5%88%B0%E8%A2%AB%E8%BF%AB%E6%88%90%E4%B8%BA%E9%97%A8%E5%BA%97",
     "board": "微博热搜榜",
     "tokens": [
-     "私闯",
-     "果园",
-     "糟蹋",
-     "水果",
-     "播下",
-     "所有"
+     "treetree",
+     "炸鸡",
+     "外卖",
+     "火到",
+     "被迫",
+     "成为",
+     "门店"
     ]
    },
    {
@@ -1860,18 +1913,20 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "婚礼现场 #每晚七点半直播",
+    "title": "还真有个苍蝇#拼豆#拼豆 #进宝手作店",
     "platform": "douyin",
     "platformName": "抖音",
     "emoji": "🎵",
     "heat": 0,
     "rank": 5,
-    "url": "https://www.douyin.com/video/7710479683474033506",
+    "url": "https://www.douyin.com/video/7702758499399586042",
     "board": "抖音热点榜",
     "tokens": [
-     "婚礼",
-     "每晚",
-     "七点"
+     "苍蝇",
+     "拼豆",
+     "拼豆",
+     "进宝",
+     "手作店"
     ]
    },
    {
@@ -1891,16 +1946,104 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Panthers",
+    "title": "Mendoza",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 5,
-    "url": "https://twitter.com/search?q=Panthers",
+    "url": "https://twitter.com/search?q=Mendoza",
     "board": "X Trending (24h)",
     "tokens": [
-     "Panthers"
+     "Mendoza"
+    ]
+   },
+   {
+    "title": "学习时报》刊文梳理“伪史论”传播路径：算法机制放大高冲突、高争议内容",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 0,
+    "rank": 5,
+    "url": "https://www.thepaper.cn/newsDetail_forward_34533204",
+    "board": "澎湃新闻",
+    "tokens": [
+     "学习",
+     "时报",
+     "刊文",
+     "梳理",
+     "史论",
+     "传播",
+     "路径",
+     "算法"
+    ]
+   },
+   {
+    "title": "女教师公园拉二胡被质疑“有失身份”",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 7424000,
+    "rank": 6,
+    "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E6%95%99%E5%B8%88%E5%85%AC%E5%9B%AD%E6%8B%89%E4%BA%8C%E8%83%A1%E8%A2%AB%E8%B4%A8%E7%96%91%E2%80%9C%E6%9C%89%E5%A4%B1%E8%BA%AB%E4%BB%BD%E2%80%9D",
+    "board": "百度热搜",
+    "tokens": [
+     "教师",
+     "公园",
+     "二胡",
+     "质疑",
+     "有失身份"
+    ]
+   },
+   {
+    "title": "麻阳县委书记称红糖欠货请多包容",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 4892000,
+    "rank": 6,
+    "url": "https://so.toutiao.com/search?keyword=%23%E9%BA%BB%E9%98%B3%E5%8E%BF%E5%A7%94%E4%B9%A6%E8%AE%B0%E7%A7%B0%E7%BA%A2%E7%B3%96%E6%AC%A0%E8%B4%A7%E8%AF%B7%E5%A4%9A%E5%8C%85%E5%AE%B9%23",
+    "board": "今日头条热榜",
+    "tokens": [
+     "麻阳",
+     "县委书记",
+     "红糖",
+     "欠货",
+     "包容"
+    ]
+   },
+   {
+    "title": "27 岁庞众望完成博士论文答辩，即将从清华毕业，未来有望朝什么方向发展？他的求学之路给我们什么启示？",
+    "platform": "zhihu",
+    "platformName": "知乎",
+    "emoji": "💡",
+    "heat": 2410000,
+    "rank": 6,
+    "url": "https://www.zhihu.com/question/2107184597846975042",
+    "board": "知乎热榜",
+    "tokens": [
+     "众望",
+     "完成",
+     "博士",
+     "论文答辩",
+     "即将",
+     "清华",
+     "毕业",
+     "未来"
+    ]
+   },
+   {
+    "title": "人民日报评1991年张大爷烂梗",
+    "platform": "weibo",
+    "platformName": "微博",
+    "emoji": "🐦",
+    "heat": 700000,
+    "rank": 6,
+    "url": "https://s.weibo.com/weibo?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%841991%E5%B9%B4%E5%BC%A0%E5%A4%A7%E7%88%B7%E7%83%82%E6%A2%97",
+    "board": "微博热搜榜",
+    "tokens": [
+     "人民日报",
+     "大爷"
     ]
    },
    {
@@ -1908,8 +2051,8 @@ window.CATCH_DATA = {
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 0,
-    "rank": 5,
+    "heat": 260000,
+    "rank": 6,
     "url": "https://www.thepaper.cn/newsDetail_forward_34533407",
     "board": "澎湃新闻",
     "tokens": [
@@ -1921,97 +2064,6 @@ window.CATCH_DATA = {
      "如果",
      "重新",
      "走一遍"
-    ]
-   },
-   {
-    "title": "村委会回应“去世到安葬不超24小时”",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 7428000,
-    "rank": 6,
-    "url": "https://www.baidu.com/s?wd=%E6%9D%91%E5%A7%94%E4%BC%9A%E5%9B%9E%E5%BA%94%E2%80%9C%E5%8E%BB%E4%B8%96%E5%88%B0%E5%AE%89%E8%91%AC%E4%B8%8D%E8%B6%8524%E5%B0%8F%E6%97%B6%E2%80%9D",
-    "board": "百度热搜",
-    "tokens": [
-     "村委会",
-     "去世",
-     "安葬",
-     "不超",
-     "小时"
-    ]
-   },
-   {
-    "title": "去世到安葬不超24小时？山东一地回应",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 5227000,
-    "rank": 6,
-    "url": "https://so.toutiao.com/search?keyword=%23%E5%8E%BB%E4%B8%96%E5%88%B0%E5%AE%89%E8%91%AC%E4%B8%8D%E8%B6%8524%E5%B0%8F%E6%97%B6%EF%BC%9F%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%9C%B0%E5%9B%9E%E5%BA%94%23",
-    "board": "今日头条热榜",
-    "tokens": [
-     "去世",
-     "安葬",
-     "不超",
-     "小时",
-     "山东",
-     "一地"
-    ]
-   },
-   {
-    "title": "曝 ShowMaker 宁愿大幅度降薪也希望留在 DK，如何评价他的选择？DK 目前情况有多糟？",
-    "platform": "zhihu",
-    "platformName": "知乎",
-    "emoji": "💡",
-    "heat": 1170000,
-    "rank": 6,
-    "url": "https://www.zhihu.com/question/2105979786103191265",
-    "board": "知乎热榜",
-    "tokens": [
-     "ShowMaker",
-     "宁愿",
-     "大幅度",
-     "降薪",
-     "希望",
-     "留在",
-     "DK",
-     "评价"
-    ]
-   },
-   {
-    "title": "郎平获国际排联最高荣誉“排球勋章”：全球排球偶像，成就激励几代人",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 260000,
-    "rank": 6,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34533102",
-    "board": "澎湃新闻",
-    "tokens": [
-     "郎平",
-     "国际排联",
-     "最高",
-     "荣誉",
-     "排球",
-     "勋章",
-     "全球",
-     "排球"
-    ]
-   },
-   {
-    "title": "阿尔卡拉斯首夺总决赛冠军",
-    "platform": "weibo",
-    "platformName": "微博",
-    "emoji": "🐦",
-    "heat": 70000,
-    "rank": 6,
-    "url": "https://s.weibo.com/weibo?q=%E9%98%BF%E5%B0%94%E5%8D%A1%E6%8B%89%E6%96%AF%E9%A6%96%E5%A4%BA%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B",
-    "board": "微博热搜榜",
-    "tokens": [
-     "阿尔卡拉",
-     "首夺",
-     "总决赛",
-     "冠军"
     ]
    },
    {
@@ -2035,23 +2087,23 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "改口敬茶环节 新娘妈妈讲话祝福儿女 感动全场#改口敬茶 #妈妈 #女儿出嫁 #主持人王斌 #王斌婚礼服务",
+    "title": "勇敢的人先享受世界！ #大学生 #高铁 #万万没想到 #整活",
     "platform": "douyin",
     "platformName": "抖音",
     "emoji": "🎵",
     "heat": 0,
     "rank": 6,
-    "url": "https://www.douyin.com/video/7708960638798523897",
+    "url": "https://www.douyin.com/video/7710135138989968655",
     "board": "抖音热点榜",
     "tokens": [
-     "改口",
-     "敬茶",
-     "环节",
-     "新娘",
-     "妈妈",
-     "讲话",
-     "祝福",
-     "儿女"
+     "勇敢的人",
+     "享受",
+     "世界",
+     "大学生",
+     "高铁",
+     "万万",
+     "没想到",
+     "整活"
     ]
    },
    {
@@ -2071,65 +2123,64 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Bears",
+    "title": "Jaguars",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 6,
-    "url": "https://twitter.com/search?q=Bears",
+    "url": "https://twitter.com/search?q=Jaguars",
     "board": "X Trending (24h)",
     "tokens": [
-     "Bears"
+     "Jaguars"
     ]
    },
    {
-    "title": "做饭前一个改变 血压炎症指标降了",
+    "title": "樊少皇大女儿中基因彩票了",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7331000,
+    "heat": 7329000,
     "rank": 7,
-    "url": "https://www.baidu.com/s?wd=%E5%81%9A%E9%A5%AD%E5%89%8D%E4%B8%80%E4%B8%AA%E6%94%B9%E5%8F%98+%E8%A1%80%E5%8E%8B%E7%82%8E%E7%97%87%E6%8C%87%E6%A0%87%E9%99%8D%E4%BA%86",
+    "url": "https://www.baidu.com/s?wd=%E6%A8%8A%E5%B0%91%E7%9A%87%E5%A4%A7%E5%A5%B3%E5%84%BF%E4%B8%AD%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8%E4%BA%86",
     "board": "百度热搜",
     "tokens": [
-     "做饭",
-     "改变",
-     "血压",
-     "炎症",
-     "指标"
+     "樊少皇",
+     "女儿",
+     "基因",
+     "彩票"
     ]
    },
    {
-    "title": "小区277户只有约100家一直交物业费",
+    "title": "俄军舰在利比亚遭袭击疑沉没",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 3504000,
+    "heat": 4427000,
     "rank": 7,
-    "url": "https://so.toutiao.com/search?keyword=%23%E5%B0%8F%E5%8C%BA277%E6%88%B7%E5%8F%AA%E6%9C%89%E7%BA%A6100%E5%AE%B6%E4%B8%80%E7%9B%B4%E4%BA%A4%E7%89%A9%E4%B8%9A%E8%B4%B9%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E4%BF%84%E5%86%9B%E8%88%B0%E5%9C%A8%E5%88%A9%E6%AF%94%E4%BA%9A%E9%81%AD%E8%A2%AD%E5%87%BB%E7%96%91%E6%B2%89%E6%B2%A1%23",
     "board": "今日头条热榜",
     "tokens": [
-     "小区",
-     "只有",
-     "一直",
-     "物业费"
+     "军舰",
+     "利比亚",
+     "袭击",
+     "沉没"
     ]
    }
   ],
   "resonance": [
    {
-    "token": "内斯库",
+    "token": "香港游",
     "platforms": [
-     "weibo",
+     "news",
      "zhihu"
     ],
     "count": 2
    },
    {
-    "token": "樊振东",
+    "token": "方力申",
     "platforms": [
-     "weibo",
+     "news",
      "zhihu"
     ],
     "count": 2
@@ -2323,11 +2374,10 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "news": 11072000,
-    "zhihu": 1130000,
-    "weibo": 40000
+    "zhihu": 1660000,
+    "news": 43766000
    },
-   "heat": 12242000,
+   "heat": 45426000,
    "members": [
     {
      "platform": "news",
@@ -3061,24 +3111,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 26,
-    "videos_skipped": 47,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "特朗普",
-     "时不拉",
-     "APEC",
-     "GOAT"
-    ],
-    "cached": 257,
-    "fresh": 743,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "cached_rejected": 1486,
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 10.8,
@@ -3392,17 +3428,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T20:00:00+08:00",
-      "label": "20:00",
-      "total": 136613000,
-      "platforms": {
-       "weibo": 2440000,
-       "zhihu": 12420000,
-       "news": 121753000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T21:00:00+08:00",
       "label": "21:00",
       "total": 105747000,
@@ -3619,16 +3644,26 @@ window.CATCH_DATA = {
        "weibo": 40000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-23T11:00:00+08:00",
+      "label": "11:00",
+      "total": 45426000,
+      "platforms": {
+       "zhihu": 1660000,
+       "news": 43766000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-23T06:37:43.119557+08:00",
+    "updatedAt": "2026-11-23T11:32:30.066194+08:00",
     "measuredPoints": 24
    },
    "risk": {
     "score": 25,
     "level": "低"
    },
-   "summary": "本事件由 3 个平台共振（news / weibo / zhihu），综合热度约 12,242,000，各平台分项为 news 11072000 + zhihu 1130000 + weibo 40000。本轮触发条目共 6 条，热度居前的是「日媒逐帧解析特朗普无视高市」等。系统抓取的真实热评样本 1000 条，其中 1000 条与本事件相关，近 30 天内发布的有 425 条；情绪分布为积极 10.8%、中性 86.6%、消极 2.6%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
+   "summary": "本事件由 3 个平台共振（news / weibo / zhihu），综合热度约 45,426,000，各平台分项为 zhihu 1660000 + news 43766000。本轮触发条目共 6 条，热度居前的是「日媒逐帧解析特朗普无视高市」等。系统抓取的真实热评样本 1000 条，其中 1000 条与本事件相关，近 30 天内发布的有 425 条；情绪分布为积极 10.8%、中性 86.6%、消极 2.6%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
@@ -3640,7 +3675,7 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 12,242,000（news 11072000 + zhihu 1130000 + weibo 40000）"
+     "value": "约 45,426,000（zhihu 1660000 + news 43766000）"
     },
     {
      "label": "触发条目",
@@ -3679,8 +3714,8 @@ window.CATCH_DATA = {
      "日媒逐帧解析",
      "特朗普无视",
      "特朗普回应",
-     "高市",
-     "日本"
+     "日本",
+     "高市"
     ],
     "total": 1000,
     "relevant": 1000,
@@ -3707,10 +3742,9 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "news": 6400000,
-    "zhihu": 4740000
+    "news": 16341000
    },
-   "heat": 11140000,
+   "heat": 16341000,
    "members": [
     {
      "platform": "news",
@@ -4436,24 +4470,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 62,
-    "videos_skipped": 311,
     "collected": 794,
-    "want": 1000,
-    "queries": [
-     "组合拳",
-     "交易所",
-     "100%",
-     "80%",
-     "保证金"
-    ],
-    "cached": 0,
-    "fresh": 794,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 10.3,
@@ -4743,16 +4763,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T13:00:00+08:00",
-      "label": "13:00",
-      "total": 35048000,
-      "platforms": {
-       "news": 32748000,
-       "zhihu": 2300000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T15:00:00+08:00",
       "label": "15:00",
       "total": 21028000,
@@ -4971,16 +4981,25 @@ window.CATCH_DATA = {
        "zhihu": 4740000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-23T11:00:00+08:00",
+      "label": "11:00",
+      "total": 16341000,
+      "platforms": {
+       "news": 16341000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-23T06:37:43.325590+08:00",
+    "updatedAt": "2026-11-23T11:32:30.289741+08:00",
     "measuredPoints": 24
    },
    "risk": {
     "score": 23,
     "level": "低"
    },
-   "summary": "本事件由 2 个平台共振（news / zhihu），综合热度约 11,140,000，各平台分项为 news 6400000 + zhihu 4740000。本轮触发条目共 5 条，热度居前的是「稳股市”组合拳来了」等。系统抓取的真实热评样本 794 条，其中 794 条与本事件相关，近 30 天内发布的有 116 条；情绪分布为积极 10.3%、中性 89.7%、消极 0.0%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
+   "summary": "本事件由 2 个平台共振（news / zhihu），综合热度约 16,341,000，各平台分项为 news 16341000。本轮触发条目共 5 条，热度居前的是「稳股市”组合拳来了」等。系统抓取的真实热评样本 794 条，其中 794 条与本事件相关，近 30 天内发布的有 116 条；情绪分布为积极 10.3%、中性 89.7%、消极 0.0%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
@@ -4992,7 +5011,7 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 11,140,000（news 6400000 + zhihu 4740000）"
+     "value": "约 16,341,000（news 16341000）"
     },
     {
      "label": "触发条目",
@@ -5028,12 +5047,12 @@ window.CATCH_DATA = {
    "resonance": 2,
    "commentRelevance": {
     "tokens": [
-     "资保证金比例",
-     "融资保证金比",
-     "稳股市组合拳",
      "股市组合拳来",
      "市组合拳来了",
+     "资保证金比例",
+     "稳股市组合拳",
      "保证金比例下",
+     "融资保证金比",
      "交易所",
      "沪深"
     ],
@@ -5062,10 +5081,11 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "zhihu": 1160000,
-    "weibo": 290000
+    "weibo": 310000,
+    "zhihu": 2400000,
+    "news": 6564000
    },
-   "heat": 1450000,
+   "heat": 9274000,
    "members": [
     {
      "platform": "zhihu",
@@ -5807,27 +5827,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 36,
-    "videos_skipped": 94,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "樊振东",
-     "乒乓球",
-     "德甲联赛",
-     "第九轮",
-     "内斯库",
-     "杜塞尔多夫",
-     "萨尔布吕肯",
-     "弗朗西斯"
-    ],
-    "cached": 0,
-    "fresh": 1000,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 13.8,
@@ -6141,16 +6144,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T13:00:00+08:00",
-      "label": "13:00",
-      "total": 24920000,
-      "platforms": {
-       "news": 24260000,
-       "weibo": 660000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T15:00:00+08:00",
       "label": "15:00",
       "total": 9784000,
@@ -6368,16 +6361,27 @@ window.CATCH_DATA = {
        "weibo": 290000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-23T11:00:00+08:00",
+      "label": "11:00",
+      "total": 9274000,
+      "platforms": {
+       "weibo": 310000,
+       "zhihu": 2400000,
+       "news": 6564000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-23T06:37:43.586476+08:00",
+    "updatedAt": "2026-11-23T11:32:30.544937+08:00",
     "measuredPoints": 24
    },
    "risk": {
     "score": 26,
     "level": "低"
    },
-   "summary": "本事件由 2 个平台共振（weibo / zhihu），综合热度约 1,450,000，各平台分项为 zhihu 1160000 + weibo 290000。本轮触发条目共 7 条，热度居前的是「2026 年乒乓球德甲联赛第九轮，樊振东 1：3 负于约内斯库，怎么评价樊振东代表杜塞尔多夫的这一场失利？」等。系统抓取的真实热评样本 1000 条，其中 1000 条与本事件相关，近 30 天内发布的有 392 条；情绪分布为积极 13.8%、中性 83.7%、消极 2.6%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
+   "summary": "本事件由 2 个平台共振（weibo / zhihu），综合热度约 9,274,000，各平台分项为 weibo 310000 + zhihu 2400000 + news 6564000。本轮触发条目共 7 条，热度居前的是「2026 年乒乓球德甲联赛第九轮，樊振东 1：3 负于约内斯库，怎么评价樊振东代表杜塞尔多夫的这一场失利？」等。系统抓取的真实热评样本 1000 条，其中 1000 条与本事件相关，近 30 天内发布的有 392 条；情绪分布为积极 13.8%、中性 83.7%、消极 2.6%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
@@ -6389,7 +6393,7 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 1,450,000（zhihu 1160000 + weibo 290000）"
+     "value": "约 9,274,000（weibo 310000 + zhihu 2400000 + news 6564000）"
     },
     {
      "label": "触发条目",
@@ -6456,10 +6460,9 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "zhihu": 880000,
-    "weibo": 80000
+    "zhihu": 8410000
    },
-   "heat": 960000,
+   "heat": 8410000,
    "members": [
     {
      "platform": "zhihu",
@@ -7169,20 +7172,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 68,
-    "videos_skipped": 0,
     "collected": 358,
-    "want": 1000,
-    "queries": [
-     "利物浦"
-    ],
-    "cached": 0,
-    "fresh": 358,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 10.6,
@@ -7496,16 +7489,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T13:00:00+08:00",
-      "label": "13:00",
-      "total": 10246000,
-      "platforms": {
-       "news": 8076000,
-       "zhihu": 2170000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T15:00:00+08:00",
       "label": "15:00",
       "total": 6001000,
@@ -7713,16 +7696,25 @@ window.CATCH_DATA = {
        "weibo": 80000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-23T11:00:00+08:00",
+      "label": "11:00",
+      "total": 8410000,
+      "platforms": {
+       "zhihu": 8410000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-23T06:37:43.668491+08:00",
+    "updatedAt": "2026-11-23T11:32:30.630872+08:00",
     "measuredPoints": 24
    },
    "risk": {
     "score": 28,
     "level": "低"
    },
-   "summary": "本事件由 2 个平台共振（weibo / zhihu），综合热度约 960,000，各平台分项为 zhihu 880000 + weibo 80000。本轮触发条目共 3 条，热度居前的是「2627 赛季英超联赛英超第 11 轮利物浦 4:0 曼联，如何评价这场比赛？」等。系统抓取的真实热评样本 358 条，其中 358 条与本事件相关，近 30 天内发布的有 358 条；情绪分布为积极 10.6%、中性 86.9%、消极 2.5%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
+   "summary": "本事件由 2 个平台共振（weibo / zhihu），综合热度约 8,410,000，各平台分项为 zhihu 8410000。本轮触发条目共 3 条，热度居前的是「2627 赛季英超联赛英超第 11 轮利物浦 4:0 曼联，如何评价这场比赛？」等。系统抓取的真实热评样本 358 条，其中 358 条与本事件相关，近 30 天内发布的有 358 条；情绪分布为积极 10.6%、中性 86.9%、消极 2.5%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
@@ -7734,7 +7726,7 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 960,000（zhihu 880000 + weibo 80000）"
+     "value": "约 8,410,000（zhihu 8410000）"
     },
     {
      "label": "触发条目",
@@ -7799,10 +7791,10 @@ window.CATCH_DATA = {
     "weibo"
    ],
    "platformHeat": {
-    "news": 707000,
-    "weibo": 20000
+    "zhihu": 2400000,
+    "news": 3879000
    },
-   "heat": 727000,
+   "heat": 6279000,
    "members": [
     {
      "platform": "news",
@@ -8504,20 +8496,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 35,
-    "videos_skipped": 8,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "高血压"
-    ],
-    "cached": 0,
-    "fresh": 1000,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 11.1,
@@ -8811,16 +8793,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-18T15:00:00+08:00",
-      "label": "15:00",
-      "total": 1270000,
-      "platforms": {
-       "zhihu": 960000,
-       "weibo": 310000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-18T16:00:00+08:00",
       "label": "16:00",
       "total": 2770000,
@@ -9035,16 +9007,26 @@ window.CATCH_DATA = {
        "weibo": 20000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-23T11:00:00+08:00",
+      "label": "11:00",
+      "total": 6279000,
+      "platforms": {
+       "zhihu": 2400000,
+       "news": 3879000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-23T06:37:43.969228+08:00",
+    "updatedAt": "2026-11-23T11:32:30.879422+08:00",
     "measuredPoints": 24
    },
    "risk": {
     "score": 25,
     "level": "低"
    },
-   "summary": "本事件由 2 个平台共振（news / weibo），综合热度约 727,000，各平台分项为 news 707000 + weibo 20000。本轮触发条目共 2 条，热度居前的是「高血压患者到底能不能吃苹果」等。系统抓取的真实热评样本 1000 条，其中 1000 条与本事件相关，近 30 天内发布的有 63 条；情绪分布为积极 11.1%、中性 85.7%、消极 3.2%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
+   "summary": "本事件由 2 个平台共振（news / weibo），综合热度约 6,279,000，各平台分项为 zhihu 2400000 + news 3879000。本轮触发条目共 2 条，热度居前的是「高血压患者到底能不能吃苹果」等。系统抓取的真实热评样本 1000 条，其中 1000 条与本事件相关，近 30 天内发布的有 63 条；情绪分布为积极 11.1%、中性 85.7%、消极 3.2%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
@@ -9056,7 +9038,7 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 727,000（news 707000 + weibo 20000）"
+     "value": "约 6,279,000（zhihu 2400000 + news 3879000）"
     },
     {
      "label": "触发条目",
@@ -9110,5 +9092,5 @@ window.CATCH_DATA = {
    "commentsFile": "assets/data/comments/E05.json"
   }
  ],
- "builtAt": "2026-11-23T06:40:41.239863+08:00"
+ "builtAt": "2026-11-23T11:32:32.863287+08:00"
 };
