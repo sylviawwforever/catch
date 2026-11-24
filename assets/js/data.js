@@ -1,18 +1,18 @@
 /* CATCH · 自动生成，请勿手工修改 —— 由 tools/build_site.py 装配 */
 window.CATCH_DATA = {
  "meta": {
-  "generatedAt": "2026-11-24T11:31:55.552724+08:00",
+  "generatedAt": "2026-11-24T23:33:31.775624+08:00",
   "issueDate": "2026-11-24",
   "issueNo": "004",
   "dateLabel": "2026 年 11 月 24 日",
   "weekday": "星期二",
-  "mode": "full",
+  "mode": "hourly",
   "lastFullRun": "2026-11-24",
-  "durationSec": 1297.3,
+  "durationSec": 77.1,
   "platformStatus": {
    "weibo": {
     "source": "tophub.today · weibo",
-    "items": 51,
+    "items": 52,
     "ok": true,
     "error": null,
     "name": "微博",
@@ -54,7 +54,7 @@ window.CATCH_DATA = {
    },
    "news": {
     "source": "tophub.today · news",
-    "items": 138,
+    "items": 150,
     "ok": true,
     "error": null,
     "name": "新闻",
@@ -79,7 +79,7 @@ window.CATCH_DATA = {
    "bili"
   ],
   "freshness": {
-   "generatedAt": "2026-11-24T11:31:55.552761+08:00",
+   "generatedAt": "2026-11-24T23:33:31.775725+08:00",
    "maxExpectedAgeMinutes": 90,
    "note": "页面展示最近一次成功发布的云端快照；单个平台失败会明确标记"
   },
@@ -99,7 +99,7 @@ window.CATCH_DATA = {
    "hotItems": 60,
    "events": 5,
    "comments": 4056,
-   "rawScanned": 356,
+   "rawScanned": 369,
    "slang": 5
   },
   "source": "微博 / 抖音 / 小红书 / X / 知乎 / 新闻 / B站 公开榜单与真实接口"
@@ -107,55 +107,53 @@ window.CATCH_DATA = {
  "hotspots": {
   "text": [
    {
-    "title": "英伟达卖空者单日浮亏122亿美元",
+    "title": "上海就陈吉宁被查表态",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 52581000,
+    "heat": 75602000,
     "rank": 1,
-    "url": "https://so.toutiao.com/search?keyword=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8D%96%E7%A9%BA%E8%80%85%E5%8D%95%E6%97%A5%E6%B5%AE%E4%BA%8F122%E4%BA%BF%E7%BE%8E%E5%85%83%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E4%B8%8A%E6%B5%B7%E5%B0%B1%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5%E8%A1%A8%E6%80%81%23",
     "board": "今日头条热榜",
     "tokens": [
-     "伟达",
-     "卖空",
-     "单日",
-     "浮亏",
-     "亿美元"
+     "上海",
+     "陈吉宁",
+     "表态"
     ]
    },
    {
-    "title": "懂车帝回应「测试内容大调整」，称不再开放对比类内容等信息失实，具体是怎么回事？实际有哪些调整？",
+    "title": "美股集体大幅收高，英伟达暴涨超 31%，单日市值大增 9500 亿美元创全球纪录，如何理解？行情能持续多久？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 9730000,
+    "heat": 12990000,
     "rank": 1,
-    "url": "https://www.zhihu.com/question/2108257367678613356",
+    "url": "https://www.zhihu.com/question/2108463757307240853",
     "board": "知乎热榜",
     "tokens": [
-     "懂车帝",
-     "测试",
-     "内容",
-     "调整",
-     "不再",
-     "开放",
-     "对比",
-     "内容"
+     "美股",
+     "集体",
+     "大幅",
+     "收高",
+     "伟达",
+     "暴涨",
+     "31%",
+     "单日"
     ]
    },
    {
-    "title": "34米路仅12秒绿灯已调整为28秒",
+    "title": "陈吉宁被查上海表态",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 1110000,
+    "heat": 2830000,
     "rank": 1,
-    "url": "https://s.weibo.com/weibo?q=34%E7%B1%B3%E8%B7%AF%E4%BB%8512%E7%A7%92%E7%BB%BF%E7%81%AF%E5%B7%B2%E8%B0%83%E6%95%B4%E4%B8%BA28%E7%A7%92",
+    "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5%E4%B8%8A%E6%B5%B7%E8%A1%A8%E6%80%81",
     "board": "微博热搜榜",
     "tokens": [
-     "米路",
-     "绿灯",
-     "调整"
+     "陈吉宁",
+     "上海",
+     "表态"
     ]
    },
    {
@@ -193,71 +191,63 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "#WWERaw",
+    "title": "Good Tuesday",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 1,
-    "url": "https://twitter.com/search?q=%23WWERaw",
+    "url": "https://twitter.com/search?q=Good%20Tuesday",
     "board": "X Trending (24h)",
     "tokens": [
-     "WWERaw"
+     "Good",
+     "Tuesday"
     ]
    },
    {
-    "title": "谁在黄仁勋复职前精准买入英伟达",
+    "title": "陈吉宁被查",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 47577000,
+    "heat": 68407000,
     "rank": 4,
-    "url": "https://so.toutiao.com/search?keyword=%23%E8%B0%81%E5%9C%A8%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E5%89%8D%E7%B2%BE%E5%87%86%E4%B9%B0%E5%85%A5%E8%8B%B1%E4%BC%9F%E8%BE%BE%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5%23",
     "board": "今日头条热榜",
     "tokens": [
-     "黄仁勋",
-     "复职",
-     "精准",
-     "买入",
-     "伟达"
+     "陈吉宁"
     ]
    },
    {
-    "title": "美股集体大幅收高，英伟达暴涨超 31%，单日市值大增 9500 亿美元创全球纪录，如何理解？行情能持续多久？",
+    "title": "懂车帝回应「测试内容大调整」，称不再开放对比类内容等信息失实，具体是怎么回事？实际有哪些调整？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 6270000,
+    "heat": 12100000,
     "rank": 2,
-    "url": "https://www.zhihu.com/question/2108463757307240853",
+    "url": "https://www.zhihu.com/question/2108257367678613356",
     "board": "知乎热榜",
     "tokens": [
-     "美股",
-     "集体",
-     "大幅",
-     "收高",
-     "伟达",
-     "暴涨",
-     "31%",
-     "单日"
+     "懂车帝",
+     "测试",
+     "内容",
+     "调整",
+     "不再",
+     "开放",
+     "对比",
+     "内容"
     ]
    },
    {
-    "title": "年轻人开始劝父母卖县城空房收息",
+    "title": "陈吉宁被查",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 800000,
+    "heat": 1030000,
     "rank": 2,
-    "url": "https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8A%9D%E7%88%B6%E6%AF%8D%E5%8D%96%E5%8E%BF%E5%9F%8E%E7%A9%BA%E6%88%BF%E6%94%B6%E6%81%AF",
+    "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5",
     "board": "微博热搜榜",
     "tokens": [
-     "年轻人",
-     "开始",
-     "父母",
-     "县城",
-     "空房",
-     "收息"
+     "陈吉宁"
     ]
    },
    {
@@ -294,33 +284,33 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Bengals",
+    "title": "#BBNaija",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 2,
-    "url": "https://twitter.com/search?q=Bengals",
+    "url": "https://twitter.com/search?q=%23BBNaija",
     "board": "X Trending (24h)",
     "tokens": [
-     "Bengals"
+     "BBNaija"
     ]
    },
    {
-    "title": "黄仁勋说我犯了一些非常严重的错误",
+    "title": "神舟二十四号任务看点拉满",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 44996000,
-    "rank": 54,
-    "url": "https://so.toutiao.com/search?keyword=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%AF%B4%E6%88%91%E7%8A%AF%E4%BA%86%E4%B8%80%E4%BA%9B%E9%9D%9E%E5%B8%B8%E4%B8%A5%E9%87%8D%E7%9A%84%E9%94%99%E8%AF%AF%23",
+    "heat": 61898000,
+    "rank": 3,
+    "url": "https://so.toutiao.com/search?keyword=%23%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E4%BB%BB%E5%8A%A1%E7%9C%8B%E7%82%B9%E6%8B%89%E6%BB%A1%23",
     "board": "今日头条热榜",
     "tokens": [
-     "黄仁勋",
-     "一些",
-     "非常",
-     "严重",
-     "错误"
+     "神舟",
+     "二十四",
+     "任务",
+     "看点",
+     "拉满"
     ]
    },
    {
@@ -328,7 +318,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 4990000,
+    "heat": 6220000,
     "rank": 3,
     "url": "https://www.zhihu.com/question/2108198291775165166",
     "board": "知乎热榜",
@@ -344,20 +334,20 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "智能穿戴打开消费新空间",
+    "title": "绿色智引擎驱动低碳出海",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 620000,
+    "heat": 820000,
     "rank": 3,
-    "url": "https://s.weibo.com/weibo?q=%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E6%89%93%E5%BC%80%E6%B6%88%E8%B4%B9%E6%96%B0%E7%A9%BA%E9%97%B4",
+    "url": "https://s.weibo.com/weibo?q=%E7%BB%BF%E8%89%B2%E6%99%BA%E5%BC%95%E6%93%8E%E9%A9%B1%E5%8A%A8%E4%BD%8E%E7%A2%B3%E5%87%BA%E6%B5%B7",
     "board": "微博热搜榜",
     "tokens": [
-     "智能",
-     "穿戴",
-     "打开",
-     "消费",
-     "空间"
+     "绿色",
+     "引擎",
+     "驱动",
+     "低碳",
+     "出海"
     ]
    },
    {
@@ -390,35 +380,34 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Boye Mafe",
+    "title": "Taco Tuesday",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 3,
-    "url": "https://twitter.com/search?q=Boye%20Mafe",
+    "url": "https://twitter.com/search?q=Taco%20Tuesday",
     "board": "X Trending (24h)",
     "tokens": [
-     "Boye",
-     "Mafe"
+     "Taco",
+     "Tuesday"
     ]
    },
    {
-    "title": "关心照护一老一小 让朝夕更美好",
+    "title": "年轻人开始劝父母卖空房收息",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 43050000,
-    "rank": 3,
-    "url": "https://so.toutiao.com/search?keyword=%23%E5%85%B3%E5%BF%83%E7%85%A7%E6%8A%A4%E4%B8%80%E8%80%81%E4%B8%80%E5%B0%8F+%E8%AE%A9%E6%9C%9D%E5%A4%95%E6%9B%B4%E7%BE%8E%E5%A5%BD%23",
+    "heat": 56007000,
+    "rank": 2,
+    "url": "https://so.toutiao.com/search?keyword=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8A%9D%E7%88%B6%E6%AF%8D%E5%8D%96%E7%A9%BA%E6%88%BF%E6%94%B6%E6%81%AF%23",
     "board": "今日头条热榜",
     "tokens": [
-     "关心",
-     "照护",
-     "一老",
-     "一小",
-     "朝夕",
-     "美好"
+     "年轻人",
+     "开始",
+     "父母",
+     "空房",
+     "收息"
     ]
    },
    {
@@ -426,7 +415,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 2600000,
+    "heat": 5460000,
     "rank": 4,
     "url": "https://www.zhihu.com/question/2108201156111327398",
     "board": "知乎热榜",
@@ -442,20 +431,18 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "网购裤子扯出内裤平台仅退款",
+    "title": "我的两京闯关搭子",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 440000,
+    "heat": 820000,
     "rank": 4,
-    "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E8%B4%AD%E8%A3%A4%E5%AD%90%E6%89%AF%E5%87%BA%E5%86%85%E8%A3%A4%E5%B9%B3%E5%8F%B0%E4%BB%85%E9%80%80%E6%AC%BE",
+    "url": "https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E4%B8%A4%E4%BA%AC%E9%97%AF%E5%85%B3%E6%90%AD%E5%AD%90",
     "board": "微博热搜榜",
     "tokens": [
-     "网购",
-     "裤子",
-     "内裤",
-     "平台",
-     "退款"
+     "两京",
+     "闯关",
+     "搭子"
     ]
    },
    {
@@ -496,70 +483,65 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Blough",
+    "title": "#BB20",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 4,
-    "url": "https://twitter.com/search?q=Blough",
+    "url": "https://twitter.com/search?q=%23BB20",
     "board": "X Trending (24h)",
     "tokens": [
-     "Blough"
+     "BB20"
     ]
    },
    {
-    "title": "首位到访天宫的外籍航天员公布",
+    "title": "中方回应黄仁勋复职",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 38953000,
-    "rank": 2,
-    "url": "https://so.toutiao.com/search?keyword=%23%E9%A6%96%E4%BD%8D%E5%88%B0%E8%AE%BF%E5%A4%A9%E5%AE%AB%E7%9A%84%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%85%AC%E5%B8%83%23",
+    "heat": 50677000,
+    "rank": 5,
+    "url": "https://so.toutiao.com/search?keyword=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%23",
     "board": "今日头条热榜",
     "tokens": [
-     "首位",
-     "到访",
-     "天宫",
-     "外籍",
-     "航天员",
-     "公布"
+     "中方",
+     "黄仁勋",
+     "复职"
     ]
    },
    {
-    "title": "U17 世界杯小组赛，中国 U17 男足补时读秒阶段遭绝平，最终 2 比 2 摩洛哥，怎样评价本场比赛？",
+    "title": "为什么现在高铁、火车不能开窗，以前火车却可以？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 2300000,
+    "heat": 4030000,
     "rank": 5,
-    "url": "https://www.zhihu.com/question/2108346189238067728",
+    "url": "https://www.zhihu.com/question/11998951249",
     "board": "知乎热榜",
     "tokens": [
-     "U17",
-     "世界杯",
-     "小组赛",
-     "中国",
-     "U17",
-     "男足",
-     "补时",
-     "读秒阶段"
+     "现在",
+     "高铁",
+     "火车",
+     "不能",
+     "开窗",
+     "以前",
+     "火车"
     ]
    },
    {
-    "title": "文吉儿迟到一直在说对不起",
+    "title": "旺仔牛奶更不好卖了",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 420000,
+    "heat": 810000,
     "rank": 5,
-    "url": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF%E8%BF%9F%E5%88%B0%E4%B8%80%E7%9B%B4%E5%9C%A8%E8%AF%B4%E5%AF%B9%E4%B8%8D%E8%B5%B7",
+    "url": "https://s.weibo.com/weibo?q=%E6%97%BA%E4%BB%94%E7%89%9B%E5%A5%B6%E6%9B%B4%E4%B8%8D%E5%A5%BD%E5%8D%96%E4%BA%86",
     "board": "微博热搜榜",
     "tokens": [
-     "文吉儿",
-     "迟到",
-     "一直",
-     "对不起"
+     "旺仔",
+     "牛奶",
+     "不好"
     ]
    },
    {
@@ -596,34 +578,34 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "#RaiseHail",
+    "title": "#TejRan",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 5,
-    "url": "https://twitter.com/search?q=%23RaiseHail",
+    "url": "https://twitter.com/search?q=%23TejRan",
     "board": "X Trending (24h)",
     "tokens": [
-     "RaiseHail"
+     "TejRan"
     ]
    },
    {
-    "title": "中国首位太空出差一年航天员",
+    "title": "超级厄尔尼诺发威 暴雪袭击日本",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 35246000,
-    "rank": 5,
-    "url": "https://so.toutiao.com/search?keyword=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BD%8D%E5%A4%AA%E7%A9%BA%E5%87%BA%E5%B7%AE%E4%B8%80%E5%B9%B4%E8%88%AA%E5%A4%A9%E5%91%98%23",
+    "heat": 45855000,
+    "rank": 6,
+    "url": "https://so.toutiao.com/search?keyword=%23%E8%B6%85%E7%BA%A7%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%8F%91%E5%A8%81+%E6%9A%B4%E9%9B%AA%E8%A2%AD%E5%87%BB%E6%97%A5%E6%9C%AC%23",
     "board": "今日头条热榜",
     "tokens": [
-     "中国",
-     "首位",
-     "太空",
-     "出差",
-     "一年",
-     "航天员"
+     "超级",
+     "厄尔尼诺",
+     "发威",
+     "暴雪",
+     "袭击",
+     "日本"
     ]
    },
    {
@@ -631,7 +613,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 2220000,
+    "heat": 3330000,
     "rank": 6,
     "url": "https://www.zhihu.com/question/2108335183820579086",
     "board": "知乎热榜",
@@ -647,19 +629,19 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "AI短剧丑狐爆火",
+    "title": "特朗普对一道中国菜念念不忘",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 390000,
+    "heat": 770000,
     "rank": 6,
-    "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%B8%91%E7%8B%90%E7%88%86%E7%81%AB",
+    "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%B8%80%E9%81%93%E4%B8%AD%E5%9B%BD%E8%8F%9C%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98",
     "board": "微博热搜榜",
     "tokens": [
-     "AI",
-     "短剧",
-     "丑狐",
-     "爆火"
+     "特朗普",
+     "一道",
+     "中国",
+     "念念不忘"
     ]
    },
    {
@@ -699,34 +681,32 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Nvidia",
+    "title": "#UditiSingh",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 6,
-    "url": "https://twitter.com/search?q=Nvidia",
+    "url": "https://twitter.com/search?q=%23UditiSingh",
     "board": "X Trending (24h)",
     "tokens": [
-     "Nvidia"
+     "UditiSingh"
     ]
    },
    {
-    "title": "数年炸鸡无人识 一句treetree全网知",
+    "title": "李维嘉200平的家干净得找不出1根头发",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 31892000,
-    "rank": 6,
-    "url": "https://so.toutiao.com/search?keyword=%23%E6%95%B0%E5%B9%B4%E7%82%B8%E9%B8%A1%E6%97%A0%E4%BA%BA%E8%AF%86+%E4%B8%80%E5%8F%A5treetree%E5%85%A8%E7%BD%91%E7%9F%A5%23",
+    "heat": 41491000,
+    "rank": 11,
+    "url": "https://so.toutiao.com/search?keyword=%23%E6%9D%8E%E7%BB%B4%E5%98%89200%E5%B9%B3%E7%9A%84%E5%AE%B6%E5%B9%B2%E5%87%80%E5%BE%97%E6%89%BE%E4%B8%8D%E5%87%BA1%E6%A0%B9%E5%A4%B4%E5%8F%91%23",
     "board": "今日头条热榜",
     "tokens": [
-     "数年",
-     "炸鸡",
-     "无人",
-     "一句",
-     "treetree",
-     "全网"
+     "李维嘉",
+     "干净",
+     "找不出",
+     "头发"
     ]
    },
    {
@@ -734,7 +714,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 2140000,
+    "heat": 2640000,
     "rank": 7,
     "url": "https://www.zhihu.com/question/2108143417800615253",
     "board": "知乎热榜",
@@ -750,20 +730,18 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "新大众文艺在厦门自成风景",
+    "title": "我的有罪之人大结局",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 390000,
+    "heat": 270000,
     "rank": 7,
-    "url": "https://s.weibo.com/weibo?q=%E6%96%B0%E5%A4%A7%E4%BC%97%E6%96%87%E8%89%BA%E5%9C%A8%E5%8E%A6%E9%97%A8%E8%87%AA%E6%88%90%E9%A3%8E%E6%99%AF",
+    "url": "https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E6%9C%89%E7%BD%AA%E4%B9%8B%E4%BA%BA%E5%A4%A7%E7%BB%93%E5%B1%80",
     "board": "微博热搜榜",
     "tokens": [
-     "大众",
-     "文艺",
-     "厦门",
-     "自成",
-     "风景"
+     "有罪",
+     "人大",
+     "结局"
     ]
    },
    {
@@ -801,70 +779,71 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "#LaCasaDeAlofoke3",
+    "title": "Ansem",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 7,
-    "url": "https://twitter.com/search?q=%23LaCasaDeAlofoke3",
+    "url": "https://twitter.com/search?q=Ansem",
     "board": "X Trending (24h)",
     "tokens": [
-     "LaCasaDeAlofoke3"
+     "Ansem"
     ]
    },
    {
-    "title": "中国天宫首位外籍航天员任务公布",
+    "title": "张纪中妻子自曝领证时才得知丈夫年龄",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 28857000,
-    "rank": 8,
-    "url": "https://so.toutiao.com/search?keyword=%23%E4%B8%AD%E5%9B%BD%E5%A4%A9%E5%AE%AB%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98%E4%BB%BB%E5%8A%A1%E5%85%AC%E5%B8%83%23",
+    "heat": 37543000,
+    "rank": 14,
+    "url": "https://so.toutiao.com/search?keyword=%23%E5%BC%A0%E7%BA%AA%E4%B8%AD%E5%A6%BB%E5%AD%90%E8%87%AA%E6%9B%9D%E9%A2%86%E8%AF%81%E6%97%B6%E6%89%8D%E5%BE%97%E7%9F%A5%E4%B8%88%E5%A4%AB%E5%B9%B4%E9%BE%84%23",
     "board": "今日头条热榜",
     "tokens": [
-     "中国",
-     "天宫",
-     "首位",
-     "外籍",
-     "航天员",
-     "任务",
-     "公布"
+     "张纪中",
+     "妻子",
+     "领证",
+     "时才",
+     "得知",
+     "丈夫",
+     "年龄"
     ]
    },
    {
-    "title": "Digital Foundry 称《GTA6》即便高端 PC 也难稳 60 帧，其核心瓶颈要如何解决？",
+    "title": "后会友期》第六期马天宇爆哭，他的问题好像和友情无关了，他不能和任何人建立亲密关系，根本问题是什么？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1910000,
+    "heat": 2410000,
     "rank": 8,
-    "url": "https://www.zhihu.com/question/2107441603245876469",
+    "url": "https://www.zhihu.com/question/2107131481713815700",
     "board": "知乎热榜",
     "tokens": [
-     "Digital",
-     "Foundry",
-     "GTA6",
-     "即便",
-     "高端",
-     "PC",
-     "难稳",
-     "核心"
+     "会友",
+     "第六期",
+     "天宇",
+     "爆哭",
+     "问题",
+     "好像",
+     "友情",
+     "无关"
     ]
    },
    {
-    "title": "黄仁勋复职原因",
+    "title": "一校一主题消谣育青年",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 390000,
+    "heat": 270000,
     "rank": 8,
-    "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E5%8E%9F%E5%9B%A0",
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E6%A0%A1%E4%B8%80%E4%B8%BB%E9%A2%98%E6%B6%88%E8%B0%A3%E8%82%B2%E9%9D%92%E5%B9%B4",
     "board": "微博热搜榜",
     "tokens": [
-     "黄仁勋",
-     "复职",
-     "原因"
+     "一校",
+     "主题",
+     "消谣育",
+     "青年"
     ]
    },
    {
@@ -904,70 +883,70 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Burrow",
+    "title": "#BiggBoss20",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 8,
-    "url": "https://twitter.com/search?q=Burrow",
+    "url": "https://twitter.com/search?q=%23BiggBoss20",
     "board": "X Trending (24h)",
     "tokens": [
-     "Burrow"
+     "BiggBoss20"
     ]
    },
    {
-    "title": "日本前驻华大使：与华关系不好没出路",
+    "title": "第三代唐搭载比亚迪线控底盘",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 26111000,
+    "heat": 33970000,
     "rank": 7,
-    "url": "https://so.toutiao.com/search?keyword=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%EF%BC%9A%E4%B8%8E%E5%8D%8E%E5%85%B3%E7%B3%BB%E4%B8%8D%E5%A5%BD%E6%B2%A1%E5%87%BA%E8%B7%AF%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E7%AC%AC%E4%B8%89%E4%BB%A3%E5%94%90%E6%90%AD%E8%BD%BD%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%BA%BF%E6%8E%A7%E5%BA%95%E7%9B%98%23",
     "board": "今日头条热榜",
     "tokens": [
-     "日本",
-     "驻华大使",
-     "与华",
-     "关系",
-     "不好",
-     "出路"
+     "第三代",
+     "搭载",
+     "比亚迪",
+     "线控",
+     "底盘"
     ]
    },
    {
-    "title": "后会友期》第六期马天宇爆哭，他的问题好像和友情无关了，他不能和任何人建立亲密关系，根本问题是什么？",
+    "title": "如何看待刚炒完黎曼猜想的 Anthropic，在美股借黄仁勋回归反弹时独自下跌？黄仁勋与达里奥有何竞合？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1720000,
+    "heat": 2110000,
     "rank": 9,
-    "url": "https://www.zhihu.com/question/2107131481713815700",
+    "url": "https://www.zhihu.com/question/2108353238521201953",
     "board": "知乎热榜",
     "tokens": [
-     "会友",
-     "第六期",
-     "天宇",
-     "爆哭",
-     "问题",
-     "好像",
-     "友情",
-     "无关"
+     "看待",
+     "黎曼",
+     "猜想",
+     "Anthropic",
+     "美股",
+     "黄仁勋",
+     "回归",
+     "反弹"
     ]
    },
    {
-    "title": "巴基斯坦航天员随神23返回",
+    "title": "19楼落地窗底部装无限位外凸窗",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 340000,
+    "heat": 270000,
     "rank": 9,
-    "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%88%AA%E5%A4%A9%E5%91%98%E9%9A%8F%E7%A5%9E23%E8%BF%94%E5%9B%9E",
+    "url": "https://s.weibo.com/weibo?q=19%E6%A5%BC%E8%90%BD%E5%9C%B0%E7%AA%97%E5%BA%95%E9%83%A8%E8%A3%85%E6%97%A0%E9%99%90%E4%BD%8D%E5%A4%96%E5%87%B8%E7%AA%97",
     "board": "微博热搜榜",
     "tokens": [
-     "巴基斯坦",
-     "航天员",
-     "随神",
-     "返回"
+     "落地窗",
+     "底部",
+     "无限",
+     "位外",
+     "凸窗"
     ]
    },
    {
@@ -1005,67 +984,69 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Commanders",
+    "title": "Pope Francis",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 9,
-    "url": "https://twitter.com/search?q=Commanders",
+    "url": "https://twitter.com/search?q=Pope%20Francis",
     "board": "X Trending (24h)",
     "tokens": [
-     "Commanders"
+     "Pope",
+     "Francis"
     ]
    },
    {
-    "title": "神23将返回东风着陆场",
+    "title": "余承东：华为首创磁控展平技术",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 23626000,
-    "rank": 12,
-    "url": "https://so.toutiao.com/search?keyword=%23%E7%A5%9E23%E5%B0%86%E8%BF%94%E5%9B%9E%E4%B8%9C%E9%A3%8E%E7%9D%80%E9%99%86%E5%9C%BA%23",
+    "heat": 30737000,
+    "rank": 8,
+    "url": "https://so.toutiao.com/search?keyword=%23%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E5%8D%8E%E4%B8%BA%E9%A6%96%E5%88%9B%E7%A3%81%E6%8E%A7%E5%B1%95%E5%B9%B3%E6%8A%80%E6%9C%AF%23",
     "board": "今日头条热榜",
     "tokens": [
-     "返回",
-     "东风",
-     "着陆场"
+     "余承东",
+     "华为",
+     "首创",
+     "磁控",
+     "展平",
+     "技术"
     ]
    },
    {
-    "title": "骑手一句「treetree 的」带火披萨店炸鸡，老板直言爆单做不过来，为啥此类视频能迅速调起大众购买欲？",
+    "title": "魏建军自曝这几年焦虑，称「长城汽车曾经是中国自主品牌的销冠，如今已滑到了第九」，你觉得问题出在哪？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1670000,
+    "heat": 2060000,
     "rank": 10,
-    "url": "https://www.zhihu.com/question/2108166891873072954",
+    "url": "https://www.zhihu.com/question/2108263058791571653",
     "board": "知乎热榜",
     "tokens": [
-     "骑手",
-     "一句",
-     "treetree",
-     "带火",
-     "披萨",
-     "炸鸡",
-     "老板",
-     "直言"
+     "建军",
+     "几年",
+     "焦虑",
+     "长城汽车",
+     "曾经",
+     "中国",
+     "自主",
+     "品牌"
     ]
    },
    {
-    "title": "黄仁勋回归后纽约时报遭群嘲",
+    "title": "超级月亮",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 340000,
+    "heat": 270000,
     "rank": 10,
-    "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92%E5%90%8E%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5%E9%81%AD%E7%BE%A4%E5%98%B2",
+    "url": "https://s.weibo.com/weibo?q=%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE",
     "board": "微博热搜榜",
     "tokens": [
-     "黄仁勋",
-     "回归",
-     "纽约时报",
-     "遭群嘲"
+     "超级",
+     "月亮"
     ]
    },
    {
@@ -1098,89 +1079,86 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Dexter Lawrence",
+    "title": "Pearl Jam",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 10,
-    "url": "https://twitter.com/search?q=Dexter%20Lawrence",
+    "url": "https://twitter.com/search?q=Pearl%20Jam",
     "board": "X Trending (24h)",
     "tokens": [
-     "Dexter",
-     "Lawrence"
+     "Pearl",
+     "Jam"
     ]
    }
   ],
   "ranking": [
    {
-    "title": "英伟达卖空者单日浮亏122亿美元",
+    "title": "上海就陈吉宁被查表态",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 52581000,
+    "heat": 75602000,
     "rank": 1,
-    "url": "https://so.toutiao.com/search?keyword=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8D%96%E7%A9%BA%E8%80%85%E5%8D%95%E6%97%A5%E6%B5%AE%E4%BA%8F122%E4%BA%BF%E7%BE%8E%E5%85%83%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E4%B8%8A%E6%B5%B7%E5%B0%B1%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5%E8%A1%A8%E6%80%81%23",
     "board": "今日头条热榜",
     "tokens": [
-     "伟达",
-     "卖空",
-     "单日",
-     "浮亏",
-     "亿美元"
+     "上海",
+     "陈吉宁",
+     "表态"
     ]
    },
    {
-    "title": "懂车帝回应「测试内容大调整」，称不再开放对比类内容等信息失实，具体是怎么回事？实际有哪些调整？",
+    "title": "美股集体大幅收高，英伟达暴涨超 31%，单日市值大增 9500 亿美元创全球纪录，如何理解？行情能持续多久？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 9730000,
+    "heat": 12990000,
     "rank": 1,
-    "url": "https://www.zhihu.com/question/2108257367678613356",
+    "url": "https://www.zhihu.com/question/2108463757307240853",
     "board": "知乎热榜",
     "tokens": [
-     "懂车帝",
-     "测试",
-     "内容",
-     "调整",
-     "不再",
-     "开放",
-     "对比",
-     "内容"
+     "美股",
+     "集体",
+     "大幅",
+     "收高",
+     "伟达",
+     "暴涨",
+     "31%",
+     "单日"
     ]
    },
    {
-    "title": "亚太经合组织深圳会议蕴含深刻启迪",
+    "title": "培养更多高技能人才和大国工匠",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 7905000,
     "rank": 1,
-    "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E5%A4%AA%E7%BB%8F%E5%90%88%E7%BB%84%E7%BB%87%E6%B7%B1%E5%9C%B3%E4%BC%9A%E8%AE%AE%E8%95%B4%E5%90%AB%E6%B7%B1%E5%88%BB%E5%90%AF%E8%BF%AA",
+    "url": "https://www.baidu.com/s?wd=%E5%9F%B9%E5%85%BB%E6%9B%B4%E5%A4%9A%E9%AB%98%E6%8A%80%E8%83%BD%E4%BA%BA%E6%89%8D%E5%92%8C%E5%A4%A7%E5%9B%BD%E5%B7%A5%E5%8C%A0",
     "board": "百度热搜",
     "tokens": [
-     "亚太经合组织",
-     "深圳",
-     "会议",
-     "蕴含",
-     "深刻",
-     "启迪"
+     "培养",
+     "高技能",
+     "人才",
+     "大国",
+     "工匠"
     ]
    },
    {
-    "title": "34米路仅12秒绿灯已调整为28秒",
+    "title": "陈吉宁被查上海表态",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 1110000,
+    "heat": 2830000,
     "rank": 1,
-    "url": "https://s.weibo.com/weibo?q=34%E7%B1%B3%E8%B7%AF%E4%BB%8512%E7%A7%92%E7%BB%BF%E7%81%AF%E5%B7%B2%E8%B0%83%E6%95%B4%E4%B8%BA28%E7%A7%92",
+    "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5%E4%B8%8A%E6%B5%B7%E8%A1%A8%E6%80%81",
     "board": "微博热搜榜",
     "tokens": [
-     "米路",
-     "绿灯",
-     "调整"
+     "陈吉宁",
+     "上海",
+     "表态"
     ]
    },
    {
@@ -1238,34 +1216,37 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "#WWERaw",
+    "title": "Good Tuesday",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 1,
-    "url": "https://twitter.com/search?q=%23WWERaw",
+    "url": "https://twitter.com/search?q=Good%20Tuesday",
     "board": "X Trending (24h)",
     "tokens": [
-     "WWERaw"
+     "Good",
+     "Tuesday"
     ]
    },
    {
-    "title": "首批18只主动ETF上市，360亿增量资金来了",
+    "title": "陈吉宁涉嫌严重违纪违法正接受中央纪委国家监委审查调查",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 1,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34539385",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34548826",
     "board": "澎湃新闻",
     "tokens": [
-     "首批",
-     "主动",
-     "ETF",
-     "上市",
-     "增量",
-     "资金"
+     "陈吉宁",
+     "涉嫌",
+     "严重",
+     "违纪",
+     "违法",
+     "接受",
+     "中央纪委",
+     "国家"
     ]
    },
    {
@@ -1286,77 +1267,68 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "首位到访天宫的外籍航天员公布",
+    "title": "年轻人开始劝父母卖空房收息",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 38953000,
+    "heat": 56007000,
     "rank": 2,
-    "url": "https://so.toutiao.com/search?keyword=%23%E9%A6%96%E4%BD%8D%E5%88%B0%E8%AE%BF%E5%A4%A9%E5%AE%AB%E7%9A%84%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%85%AC%E5%B8%83%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8A%9D%E7%88%B6%E6%AF%8D%E5%8D%96%E7%A9%BA%E6%88%BF%E6%94%B6%E6%81%AF%23",
     "board": "今日头条热榜",
-    "tokens": [
-     "首位",
-     "到访",
-     "天宫",
-     "外籍",
-     "航天员",
-     "公布"
-    ]
-   },
-   {
-    "title": "神二十四乘组：外籍航天员首次入选",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 7809000,
-    "rank": 2,
-    "url": "https://www.baidu.com/s?wd=%E7%A5%9E%E4%BA%8C%E5%8D%81%E5%9B%9B%E4%B9%98%E7%BB%84%EF%BC%9A%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98%E9%A6%96%E6%AC%A1%E5%85%A5%E9%80%89",
-    "board": "百度热搜",
-    "tokens": [
-     "二十四",
-     "乘组",
-     "外籍",
-     "航天员",
-     "首次",
-     "入选"
-    ]
-   },
-   {
-    "title": "美股集体大幅收高，英伟达暴涨超 31%，单日市值大增 9500 亿美元创全球纪录，如何理解？行情能持续多久？",
-    "platform": "zhihu",
-    "platformName": "知乎",
-    "emoji": "💡",
-    "heat": 6270000,
-    "rank": 2,
-    "url": "https://www.zhihu.com/question/2108463757307240853",
-    "board": "知乎热榜",
-    "tokens": [
-     "美股",
-     "集体",
-     "大幅",
-     "收高",
-     "伟达",
-     "暴涨",
-     "31%",
-     "单日"
-    ]
-   },
-   {
-    "title": "年轻人开始劝父母卖县城空房收息",
-    "platform": "weibo",
-    "platformName": "微博",
-    "emoji": "🐦",
-    "heat": 800000,
-    "rank": 2,
-    "url": "https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8A%9D%E7%88%B6%E6%AF%8D%E5%8D%96%E5%8E%BF%E5%9F%8E%E7%A9%BA%E6%88%BF%E6%94%B6%E6%81%AF",
-    "board": "微博热搜榜",
     "tokens": [
      "年轻人",
      "开始",
      "父母",
-     "县城",
      "空房",
      "收息"
+    ]
+   },
+   {
+    "title": "懂车帝回应「测试内容大调整」，称不再开放对比类内容等信息失实，具体是怎么回事？实际有哪些调整？",
+    "platform": "zhihu",
+    "platformName": "知乎",
+    "emoji": "💡",
+    "heat": 12100000,
+    "rank": 2,
+    "url": "https://www.zhihu.com/question/2108257367678613356",
+    "board": "知乎热榜",
+    "tokens": [
+     "懂车帝",
+     "测试",
+     "内容",
+     "调整",
+     "不再",
+     "开放",
+     "对比",
+     "内容"
+    ]
+   },
+   {
+    "title": "上海市委书记陈吉宁被查",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 7808000,
+    "rank": 2,
+    "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5",
+    "board": "百度热搜",
+    "tokens": [
+     "上海市委",
+     "书记",
+     "陈吉宁"
+    ]
+   },
+   {
+    "title": "陈吉宁被查",
+    "platform": "weibo",
+    "platformName": "微博",
+    "emoji": "🐦",
+    "heat": 1030000,
+    "rank": 2,
+    "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5",
+    "board": "微博热搜榜",
+    "tokens": [
+     "陈吉宁"
     ]
    },
    {
@@ -1413,36 +1385,34 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Bengals",
+    "title": "#BBNaija",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 2,
-    "url": "https://twitter.com/search?q=Bengals",
+    "url": "https://twitter.com/search?q=%23BBNaija",
     "board": "X Trending (24h)",
     "tokens": [
-     "Bengals"
+     "BBNaija"
     ]
    },
    {
-    "title": "从哈德逊河到“一江一河”，《奔流》第三季上海场续谈未来合作",
+    "title": "马上评丨价值20万摩托车隔空被盗，货拉拉“贼货”也拉？",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 2,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34538199",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34542062",
     "board": "澎湃新闻",
     "tokens": [
-     "哈德逊",
-     "河到",
-     "一江",
-     "一河",
-     "奔流",
-     "第三季",
-     "上海",
-     "场续"
+     "马上",
+     "价值",
+     "摩托车",
+     "隔空",
+     "被盗",
+     "拉拉"
     ]
    },
    {
@@ -1464,38 +1434,35 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "关心照护一老一小 让朝夕更美好",
+    "title": "神舟二十四号任务看点拉满",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 43050000,
+    "heat": 61898000,
     "rank": 3,
-    "url": "https://so.toutiao.com/search?keyword=%23%E5%85%B3%E5%BF%83%E7%85%A7%E6%8A%A4%E4%B8%80%E8%80%81%E4%B8%80%E5%B0%8F+%E8%AE%A9%E6%9C%9D%E5%A4%95%E6%9B%B4%E7%BE%8E%E5%A5%BD%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E4%BB%BB%E5%8A%A1%E7%9C%8B%E7%82%B9%E6%8B%89%E6%BB%A1%23",
     "board": "今日头条热榜",
     "tokens": [
-     "关心",
-     "照护",
-     "一老",
-     "一小",
-     "朝夕",
-     "美好"
+     "神舟",
+     "二十四",
+     "任务",
+     "看点",
+     "拉满"
     ]
    },
    {
-    "title": "关乎“养老钱” 人社部公开征求意见",
+    "title": "陈吉宁被查 上海表态",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7713000,
+    "heat": 7712000,
     "rank": 3,
-    "url": "https://www.baidu.com/s?wd=%E5%85%B3%E4%B9%8E%E2%80%9C%E5%85%BB%E8%80%81%E9%92%B1%E2%80%9D+%E4%BA%BA%E7%A4%BE%E9%83%A8%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81",
+    "url": "https://www.baidu.com/s?wd=%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5+%E4%B8%8A%E6%B5%B7%E8%A1%A8%E6%80%81",
     "board": "百度热搜",
     "tokens": [
-     "关乎",
-     "养老",
-     "社部",
-     "公开",
-     "征求意见"
+     "陈吉宁",
+     "上海",
+     "表态"
     ]
    },
    {
@@ -1503,7 +1470,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 4990000,
+    "heat": 6220000,
     "rank": 3,
     "url": "https://www.zhihu.com/question/2108198291775165166",
     "board": "知乎热榜",
@@ -1519,20 +1486,20 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "智能穿戴打开消费新空间",
+    "title": "绿色智引擎驱动低碳出海",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 620000,
+    "heat": 820000,
     "rank": 3,
-    "url": "https://s.weibo.com/weibo?q=%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E6%89%93%E5%BC%80%E6%B6%88%E8%B4%B9%E6%96%B0%E7%A9%BA%E9%97%B4",
+    "url": "https://s.weibo.com/weibo?q=%E7%BB%BF%E8%89%B2%E6%99%BA%E5%BC%95%E6%93%8E%E9%A9%B1%E5%8A%A8%E4%BD%8E%E7%A2%B3%E5%87%BA%E6%B5%B7",
     "board": "微博热搜榜",
     "tokens": [
-     "智能",
-     "穿戴",
-     "打开",
-     "消费",
-     "空间"
+     "绿色",
+     "引擎",
+     "驱动",
+     "低碳",
+     "出海"
     ]
    },
    {
@@ -1585,37 +1552,37 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Boye Mafe",
+    "title": "Taco Tuesday",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 3,
-    "url": "https://twitter.com/search?q=Boye%20Mafe",
+    "url": "https://twitter.com/search?q=Taco%20Tuesday",
     "board": "X Trending (24h)",
     "tokens": [
-     "Boye",
-     "Mafe"
+     "Taco",
+     "Tuesday"
     ]
    },
    {
-    "title": "叛变投敌人员何畏竟被一些自媒体演绎为“悲情将领”，琼海市委党史研究中心澄清",
+    "title": "大学应有的模样｜三十年过去，大学生活为何变了",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 3,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34540979",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34539199",
     "board": "澎湃新闻",
     "tokens": [
-     "叛变",
-     "投敌",
-     "人员",
-     "何畏",
-     "一些",
-     "媒体",
-     "演绎",
-     "悲情"
+     "大学",
+     "应有",
+     "模样",
+     "三十年",
+     "过去",
+     "大学",
+     "生活",
+     "为何"
     ]
    },
    {
@@ -1638,37 +1605,31 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "谁在黄仁勋复职前精准买入英伟达",
+    "title": "陈吉宁被查",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 47577000,
+    "heat": 68407000,
     "rank": 4,
-    "url": "https://so.toutiao.com/search?keyword=%23%E8%B0%81%E5%9C%A8%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E5%89%8D%E7%B2%BE%E5%87%86%E4%B9%B0%E5%85%A5%E8%8B%B1%E4%BC%9F%E8%BE%BE%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5%23",
     "board": "今日头条热榜",
     "tokens": [
-     "黄仁勋",
-     "复职",
-     "精准",
-     "买入",
-     "伟达"
+     "陈吉宁"
     ]
    },
    {
-    "title": "探秘中国高铁的强大“内核”",
+    "title": "中国人登月又近一步",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7616000,
+    "heat": 7618000,
     "rank": 4,
-    "url": "https://www.baidu.com/s?wd=%E6%8E%A2%E7%A7%98%E4%B8%AD%E5%9B%BD%E9%AB%98%E9%93%81%E7%9A%84%E5%BC%BA%E5%A4%A7%E2%80%9C%E5%86%85%E6%A0%B8%E2%80%9D",
+    "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E5%8F%88%E8%BF%91%E4%B8%80%E6%AD%A5",
     "board": "百度热搜",
     "tokens": [
-     "探秘",
      "中国",
-     "高铁",
-     "强大",
-     "内核"
+     "登月",
+     "一步"
     ]
    },
    {
@@ -1676,7 +1637,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 2600000,
+    "heat": 5460000,
     "rank": 4,
     "url": "https://www.zhihu.com/question/2108201156111327398",
     "board": "知乎热榜",
@@ -1692,20 +1653,18 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "网购裤子扯出内裤平台仅退款",
+    "title": "我的两京闯关搭子",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 440000,
+    "heat": 820000,
     "rank": 4,
-    "url": "https://s.weibo.com/weibo?q=%E7%BD%91%E8%B4%AD%E8%A3%A4%E5%AD%90%E6%89%AF%E5%87%BA%E5%86%85%E8%A3%A4%E5%B9%B3%E5%8F%B0%E4%BB%85%E9%80%80%E6%AC%BE",
+    "url": "https://s.weibo.com/weibo?q=%E6%88%91%E7%9A%84%E4%B8%A4%E4%BA%AC%E9%97%AF%E5%85%B3%E6%90%AD%E5%AD%90",
     "board": "微博热搜榜",
     "tokens": [
-     "网购",
-     "裤子",
-     "内裤",
-     "平台",
-     "退款"
+     "两京",
+     "闯关",
+     "搭子"
     ]
    },
    {
@@ -1766,36 +1725,36 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Blough",
+    "title": "#BB20",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 4,
-    "url": "https://twitter.com/search?q=Blough",
+    "url": "https://twitter.com/search?q=%23BB20",
     "board": "X Trending (24h)",
     "tokens": [
-     "Blough"
+     "BB20"
     ]
    },
    {
-    "title": "山东13岁少年被控杀害5岁男孩案一审开庭，被害人家属：作案前曾踩点并画逃跑路线",
+    "title": "117起典型案例中的“虚假住院骗保”：违规与违法的边界在哪",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 4,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34540649",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34450989",
     "board": "澎湃新闻",
     "tokens": [
-     "山东",
-     "少年",
-     "被控",
-     "杀害",
-     "男孩",
-     "案一审",
-     "开庭",
-     "被害人"
+     "典型",
+     "案例",
+     "虚假",
+     "住院",
+     "骗保",
+     "违规",
+     "违法",
+     "边界"
     ]
    },
    {
@@ -1814,75 +1773,69 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "中国首位太空出差一年航天员",
+    "title": "中方回应黄仁勋复职",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 35246000,
+    "heat": 50677000,
     "rank": 5,
-    "url": "https://so.toutiao.com/search?keyword=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BD%8D%E5%A4%AA%E7%A9%BA%E5%87%BA%E5%B7%AE%E4%B8%80%E5%B9%B4%E8%88%AA%E5%A4%A9%E5%91%98%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%23",
     "board": "今日头条热榜",
     "tokens": [
-     "中国",
-     "首位",
-     "太空",
-     "出差",
-     "一年",
-     "航天员"
+     "中方",
+     "黄仁勋",
+     "复职"
     ]
    },
    {
-    "title": "BBC应向被冒犯的深圳市民道歉",
+    "title": "中国城市 重排全球座次",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7522000,
+    "heat": 7523000,
     "rank": 5,
-    "url": "https://www.baidu.com/s?wd=BBC%E5%BA%94%E5%90%91%E8%A2%AB%E5%86%92%E7%8A%AF%E7%9A%84%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%91%E9%81%93%E6%AD%89",
+    "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%9F%8E%E5%B8%82+%E9%87%8D%E6%8E%92%E5%85%A8%E7%90%83%E5%BA%A7%E6%AC%A1",
     "board": "百度热搜",
     "tokens": [
-     "BBC",
-     "应向",
-     "冒犯",
-     "深圳",
-     "市民",
-     "道歉"
+     "中国",
+     "城市",
+     "重排",
+     "全球",
+     "座次"
     ]
    },
    {
-    "title": "U17 世界杯小组赛，中国 U17 男足补时读秒阶段遭绝平，最终 2 比 2 摩洛哥，怎样评价本场比赛？",
+    "title": "为什么现在高铁、火车不能开窗，以前火车却可以？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 2300000,
+    "heat": 4030000,
     "rank": 5,
-    "url": "https://www.zhihu.com/question/2108346189238067728",
+    "url": "https://www.zhihu.com/question/11998951249",
     "board": "知乎热榜",
     "tokens": [
-     "U17",
-     "世界杯",
-     "小组赛",
-     "中国",
-     "U17",
-     "男足",
-     "补时",
-     "读秒阶段"
+     "现在",
+     "高铁",
+     "火车",
+     "不能",
+     "开窗",
+     "以前",
+     "火车"
     ]
    },
    {
-    "title": "文吉儿迟到一直在说对不起",
+    "title": "旺仔牛奶更不好卖了",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 420000,
+    "heat": 810000,
     "rank": 5,
-    "url": "https://s.weibo.com/weibo?q=%E6%96%87%E5%90%89%E5%84%BF%E8%BF%9F%E5%88%B0%E4%B8%80%E7%9B%B4%E5%9C%A8%E8%AF%B4%E5%AF%B9%E4%B8%8D%E8%B5%B7",
+    "url": "https://s.weibo.com/weibo?q=%E6%97%BA%E4%BB%94%E7%89%9B%E5%A5%B6%E6%9B%B4%E4%B8%8D%E5%A5%BD%E5%8D%96%E4%BA%86",
     "board": "微博热搜榜",
     "tokens": [
-     "文吉儿",
-     "迟到",
-     "一直",
-     "对不起"
+     "旺仔",
+     "牛奶",
+     "不好"
     ]
    },
    {
@@ -1939,66 +1892,69 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "#RaiseHail",
+    "title": "#TejRan",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 5,
-    "url": "https://twitter.com/search?q=%23RaiseHail",
+    "url": "https://twitter.com/search?q=%23TejRan",
     "board": "X Trending (24h)",
     "tokens": [
-     "RaiseHail"
+     "TejRan"
     ]
    },
    {
-    "title": "马上评丨价值20万摩托车隔空被盗，货拉拉“贼货”也拉？",
+    "title": "英伟达市值暴增近万亿美元！黄仁勋如何上演王者归来，他会成为更好的CEO吗？",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 5,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34542062",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34544383",
     "board": "澎湃新闻",
     "tokens": [
-     "马上",
-     "价值",
-     "摩托车",
-     "隔空",
-     "被盗",
-     "拉拉"
+     "伟达",
+     "市值",
+     "暴增",
+     "万亿美元",
+     "黄仁勋",
+     "上演",
+     "王者",
+     "归来"
     ]
    },
    {
-    "title": "数年炸鸡无人识 一句treetree全网知",
+    "title": "超级厄尔尼诺发威 暴雪袭击日本",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 31892000,
+    "heat": 45855000,
     "rank": 6,
-    "url": "https://so.toutiao.com/search?keyword=%23%E6%95%B0%E5%B9%B4%E7%82%B8%E9%B8%A1%E6%97%A0%E4%BA%BA%E8%AF%86+%E4%B8%80%E5%8F%A5treetree%E5%85%A8%E7%BD%91%E7%9F%A5%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E8%B6%85%E7%BA%A7%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA%E5%8F%91%E5%A8%81+%E6%9A%B4%E9%9B%AA%E8%A2%AD%E5%87%BB%E6%97%A5%E6%9C%AC%23",
     "board": "今日头条热榜",
     "tokens": [
-     "数年",
-     "炸鸡",
-     "无人",
-     "一句",
-     "treetree",
-     "全网"
+     "超级",
+     "厄尔尼诺",
+     "发威",
+     "暴雪",
+     "袭击",
+     "日本"
     ]
    },
    {
-    "title": "甲亢哥百米跑出10秒35",
+    "title": "车企老板娘女装卖了30亿",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7424000,
+    "heat": 7427000,
     "rank": 6,
-    "url": "https://www.baidu.com/s?wd=%E7%94%B2%E4%BA%A2%E5%93%A5%E7%99%BE%E7%B1%B3%E8%B7%91%E5%87%BA10%E7%A7%9235",
+    "url": "https://www.baidu.com/s?wd=%E8%BD%A6%E4%BC%81%E8%80%81%E6%9D%BF%E5%A8%98%E5%A5%B3%E8%A3%85%E5%8D%96%E4%BA%8630%E4%BA%BF",
     "board": "百度热搜",
     "tokens": [
-     "甲亢",
-     "百米"
+     "车企",
+     "老板娘",
+     "女装"
     ]
    },
    {
@@ -2006,7 +1962,7 @@ window.CATCH_DATA = {
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 2220000,
+    "heat": 3330000,
     "rank": 6,
     "url": "https://www.zhihu.com/question/2108335183820579086",
     "board": "知乎热榜",
@@ -2022,19 +1978,19 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "AI短剧丑狐爆火",
+    "title": "特朗普对一道中国菜念念不忘",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 390000,
+    "heat": 770000,
     "rank": 6,
-    "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%B8%91%E7%8B%90%E7%88%86%E7%81%AB",
+    "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%B8%80%E9%81%93%E4%B8%AD%E5%9B%BD%E8%8F%9C%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98",
     "board": "微博热搜榜",
     "tokens": [
-     "AI",
-     "短剧",
-     "丑狐",
-     "爆火"
+     "特朗普",
+     "一道",
+     "中国",
+     "念念不忘"
     ]
    },
    {
@@ -2094,86 +2050,77 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Nvidia",
+    "title": "#UditiSingh",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 6,
-    "url": "https://twitter.com/search?q=Nvidia",
+    "url": "https://twitter.com/search?q=%23UditiSingh",
     "board": "X Trending (24h)",
     "tokens": [
-     "Nvidia"
+     "UditiSingh"
     ]
    },
    {
-    "title": "黄仁勋回归，重任CEO！英伟达盘前暴涨超26%",
+    "title": "中国载人航天工程首位外籍航天员，主要承担任务有这些",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 6,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34541483",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34544928",
     "board": "澎湃新闻",
     "tokens": [
-     "黄仁勋",
-     "回归",
-     "重任",
-     "CEO",
-     "伟达",
-     "盘前",
-     "暴涨",
-     "26%"
+     "中国",
+     "载人",
+     "航天",
+     "工程",
+     "首位",
+     "外籍",
+     "航天员",
+     "主要"
     ]
    },
    {
-    "title": "日本前驻华大使：与华关系不好没出路",
+    "title": "第三代唐搭载比亚迪线控底盘",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 26111000,
+    "heat": 33970000,
     "rank": 7,
-    "url": "https://so.toutiao.com/search?keyword=%23%E6%97%A5%E6%9C%AC%E5%89%8D%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%EF%BC%9A%E4%B8%8E%E5%8D%8E%E5%85%B3%E7%B3%BB%E4%B8%8D%E5%A5%BD%E6%B2%A1%E5%87%BA%E8%B7%AF%23",
+    "url": "https://so.toutiao.com/search?keyword=%23%E7%AC%AC%E4%B8%89%E4%BB%A3%E5%94%90%E6%90%AD%E8%BD%BD%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%BA%BF%E6%8E%A7%E5%BA%95%E7%9B%98%23",
     "board": "今日头条热榜",
     "tokens": [
-     "日本",
-     "驻华大使",
-     "与华",
-     "关系",
-     "不好",
-     "出路"
+     "第三代",
+     "搭载",
+     "比亚迪",
+     "线控",
+     "底盘"
     ]
    },
    {
-    "title": "特朗普评价黄仁勋复职决定",
+    "title": "纳指低开1.5% 英伟达跌超3%",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7329000,
+    "heat": 7328000,
     "rank": 7,
-    "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%84%E4%BB%B7%E9%BB%84%E4%BB%81%E5%8B%8B%E5%A4%8D%E8%81%8C%E5%86%B3%E5%AE%9A",
+    "url": "https://www.baidu.com/s?wd=%E7%BA%B3%E6%8C%87%E4%BD%8E%E5%BC%801.5%25+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%B6%853%25",
     "board": "百度热搜",
     "tokens": [
-     "特朗普",
-     "评价",
-     "黄仁勋",
-     "复职",
-     "决定"
+     "纳指",
+     "低开",
+     "1.5%",
+     "伟达",
+     "跌超",
+     "3%"
     ]
    }
   ],
   "resonance": [
    {
-    "token": "黄仁勋",
-    "platforms": [
-     "news",
-     "weibo",
-     "zhihu"
-    ],
-    "count": 5
-   },
-   {
-    "token": "航天员",
+    "token": "陈吉宁",
     "platforms": [
      "news",
      "weibo"
@@ -2181,12 +2128,12 @@ window.CATCH_DATA = {
     "count": 4
    },
    {
-    "token": "treetree",
+    "token": "黄仁勋",
     "platforms": [
      "news",
      "zhihu"
     ],
-    "count": 2
+    "count": 3
    }
   ],
   "slang": [
@@ -2397,11 +2344,11 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "news": 53423000,
-    "zhihu": 6880000,
-    "weibo": 1270000
+    "weibo": 300000,
+    "zhihu": 11810000,
+    "news": 69060000
    },
-   "heat": 61573000,
+   "heat": 81170000,
    "members": [
     {
      "platform": "news",
@@ -3167,26 +3114,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 39,
-    "videos_skipped": 60,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "黄仁勋",
-     "特朗普",
-     "NVIDIA",
-     "董事会",
-     "即日起",
-     "民主党"
-    ],
-    "cached": 0,
-    "fresh": 1000,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "cached_rejected": 1000,
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 7.7,
@@ -3500,17 +3431,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T23:00:00+08:00",
-      "label": "23:00",
-      "total": 117482000,
-      "platforms": {
-       "weibo": 3510000,
-       "zhihu": 12420000,
-       "news": 101552000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-20T13:00:00+08:00",
       "label": "13:00",
       "total": 83797000,
@@ -3725,16 +3645,27 @@ window.CATCH_DATA = {
        "weibo": 1270000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-24T23:00:00+08:00",
+      "label": "23:00",
+      "total": 81170000,
+      "platforms": {
+       "weibo": 300000,
+       "zhihu": 11810000,
+       "news": 69060000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-24T11:28:42.231381+08:00",
+    "updatedAt": "2026-11-24T23:33:31.019366+08:00",
     "measuredPoints": 24
    },
    "risk": {
     "score": 26,
     "level": "低"
    },
-   "summary": "本事件由 3 个平台共振（news / weibo / zhihu），综合热度约 61,573,000，各平台分项为 news 53423000 + zhihu 6880000 + weibo 1270000。本轮触发条目共 10 条，热度居前的是「谁在黄仁勋复职前精准买入英伟达」等。系统抓取的真实热评样本 1000 条，其中 934 条与本事件相关，近 30 天内发布的有 976 条；情绪分布为积极 7.7%、中性 88.9%、消极 3.4%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
+   "summary": "本事件由 3 个平台共振（news / weibo / zhihu），综合热度约 81,170,000，各平台分项为 weibo 300000 + zhihu 11810000 + news 69060000。本轮触发条目共 10 条，热度居前的是「谁在黄仁勋复职前精准买入英伟达」等。系统抓取的真实热评样本 1000 条，其中 934 条与本事件相关，近 30 天内发布的有 976 条；情绪分布为积极 7.7%、中性 88.9%、消极 3.4%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
@@ -3746,7 +3677,7 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 61,573,000（news 53423000 + zhihu 6880000 + weibo 1270000）"
+     "value": "约 81,170,000（weibo 300000 + zhihu 11810000 + news 69060000）"
     },
     {
      "label": "触发条目",
@@ -3778,20 +3709,20 @@ window.CATCH_DATA = {
     "methods": []
    },
    "timeline": [],
-   "sourceCount": 16,
+   "sourceCount": 10,
    "resonance": 3,
    "commentRelevance": {
     "tokens": [
-     "圳照片打印出",
-     "深圳照片打印",
      "达深圳照片打",
      "照片打印出来",
-     "朗普把抵达深",
      "普把抵达深圳",
+     "抵达深圳照片",
+     "深圳照片打印",
+     "圳照片打印出",
+     "把抵达深圳照",
      "片打印出来了",
      "特朗普把抵达",
-     "把抵达深圳照",
-     "抵达深圳照片",
+     "朗普把抵达深",
      "黄仁勋复职",
      "黄仁勋回归"
     ],
@@ -3820,10 +3751,10 @@ window.CATCH_DATA = {
     "weibo"
    ],
    "platformHeat": {
-    "news": 120526000,
-    "weibo": 340000
+    "zhihu": 1850000,
+    "news": 17634000
    },
-   "heat": 120866000,
+   "heat": 19484000,
    "members": [
     {
      "platform": "news",
@@ -4557,29 +4488,17 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 58,
-    "videos_skipped": 46,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "航天员",
-     "汤洪波",
-     "巴基斯坦"
-    ],
-    "cached": 0,
-    "fresh": 1000,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
-    "positive": 9.4,
-    "neutral": 86.4,
-    "negative": 4.1,
+    "positive": 9.5,
+    "neutral": 86.3,
+    "negative": 4.2,
     "anger": 0.0,
-    "samples": 339,
+    "samples": 336,
     "keywords": [
      {
       "word": "好",
@@ -4643,12 +4562,12 @@ window.CATCH_DATA = {
    "wordcloud": [
     {
      "word": "回复",
-     "weight": 96.0,
+     "weight": 93.0,
      "sentiment": "中性"
     },
     {
      "word": "doge",
-     "weight": 45.0,
+     "weight": 44.0,
      "sentiment": "中性"
     },
     {
@@ -4663,7 +4582,7 @@ window.CATCH_DATA = {
     },
     {
      "word": "航天员",
-     "weight": 21.0,
+     "weight": 20.0,
      "sentiment": "中性"
     },
     {
@@ -4852,11 +4771,6 @@ window.CATCH_DATA = {
      "sentiment": "中性"
     },
     {
-     "word": "看看",
-     "weight": 6.0,
-     "sentiment": "中性"
-    },
-    {
      "word": "宇宙",
      "weight": 6.0,
      "sentiment": "中性"
@@ -4880,21 +4794,16 @@ window.CATCH_DATA = {
      "word": "开始",
      "weight": 5.0,
      "sentiment": "中性"
+    },
+    {
+     "word": "多少",
+     "weight": 5.0,
+     "sentiment": "中性"
     }
    ],
    "wordcloudBasis": "真实热评 + 榜单标题",
    "trend": {
     "series": [
-     {
-      "t": "2026-11-19T17:00:00+08:00",
-      "label": "17:00",
-      "total": 13516000,
-      "platforms": {
-       "zhihu": 2300000,
-       "news": 11216000
-      },
-      "type": "measured"
-     },
      {
       "t": "2026-11-19T18:00:00+08:00",
       "label": "18:00",
@@ -5112,16 +5021,26 @@ window.CATCH_DATA = {
        "weibo": 340000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-24T23:00:00+08:00",
+      "label": "23:00",
+      "total": 19484000,
+      "platforms": {
+       "zhihu": 1850000,
+       "news": 17634000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-24T11:28:42.381086+08:00",
+    "updatedAt": "2026-11-24T23:33:31.258589+08:00",
     "measuredPoints": 24
    },
    "risk": {
     "score": 25,
     "level": "低"
    },
-   "summary": "本事件由 2 个平台共振（news / weibo），综合热度约 120,866,000，各平台分项为 news 120526000 + weibo 340000。本轮触发条目共 6 条，热度居前的是「首位到访天宫的外籍航天员公布」等。系统抓取的真实热评样本 1000 条，其中 1000 条与本事件相关，近 30 天内发布的有 339 条；情绪分布为积极 9.4%、中性 86.4%、消极 4.1%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
+   "summary": "本事件由 2 个平台共振（news / weibo），综合热度约 19,484,000，各平台分项为 zhihu 1850000 + news 17634000。本轮触发条目共 6 条，热度居前的是「首位到访天宫的外籍航天员公布」等。系统抓取的真实热评样本 1000 条，其中 1000 条与本事件相关，近 30 天内发布的有 336 条；情绪分布为积极 9.5%、中性 86.3%、消极 4.2%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
@@ -5133,7 +5052,7 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 120,866,000（news 120526000 + weibo 340000）"
+     "value": "约 19,484,000（zhihu 1850000 + news 17634000）"
     },
     {
      "label": "触发条目",
@@ -5141,11 +5060,11 @@ window.CATCH_DATA = {
     },
     {
      "label": "情绪基调",
-     "value": "积极 9.4% / 中性 86.4% / 消极 4.1% / 愤怒 0.0%"
+     "value": "积极 9.5% / 中性 86.3% / 消极 4.2% / 愤怒 0.0%"
     },
     {
      "label": "热评样本与相关性",
-     "value": "1000 条真实热评中 1000 条相关（相关率 100.0%）；近 30 天样本 339 条"
+     "value": "1000 条真实热评中 1000 条相关（相关率 100.0%）；近 30 天样本 336 条"
     },
     {
      "label": "风险等级",
@@ -5170,10 +5089,10 @@ window.CATCH_DATA = {
    "commentRelevance": {
     "tokens": [
      "外籍航天员",
-     "首位",
      "中国",
-     "天宫",
-     "公布"
+     "首位",
+     "公布",
+     "天宫"
     ],
     "total": 1000,
     "relevant": 1000,
@@ -5184,8 +5103,8 @@ window.CATCH_DATA = {
    "commentRecency": {
     "windowDays": 30,
     "total": 1000,
-    "recent": 339,
-    "ratio": 0.339
+    "recent": 336,
+    "ratio": 0.336
    },
    "commentCount": 1000,
    "commentsFile": "assets/data/comments/E02.json"
@@ -5200,10 +5119,10 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "news": 52581000,
-    "zhihu": 7660000
+    "zhihu": 18630000,
+    "news": 5000
    },
-   "heat": 60241000,
+   "heat": 18635000,
    "members": [
     {
      "platform": "news",
@@ -5913,22 +5832,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 35,
-    "videos_skipped": 42,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "亿美元",
-     "GTA6",
-     "销售额"
-    ],
-    "cached": 0,
-    "fresh": 1000,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 12.8,
@@ -6242,17 +6149,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T17:00:00+08:00",
-      "label": "17:00",
-      "total": 19868000,
-      "platforms": {
-       "weibo": 190000,
-       "zhihu": 9340000,
-       "news": 10338000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T18:00:00+08:00",
       "label": "18:00",
       "total": 18387000,
@@ -6468,16 +6364,26 @@ window.CATCH_DATA = {
        "zhihu": 7660000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-24T23:00:00+08:00",
+      "label": "23:00",
+      "total": 18635000,
+      "platforms": {
+       "zhihu": 18630000,
+       "news": 5000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-24T11:28:42.518213+08:00",
+    "updatedAt": "2026-11-24T23:33:31.471404+08:00",
     "measuredPoints": 24
    },
    "risk": {
     "score": 27,
     "level": "低"
    },
-   "summary": "本事件由 2 个平台共振（news / zhihu），综合热度约 60,241,000，各平台分项为 news 52581000 + zhihu 7660000。本轮触发条目共 3 条，热度居前的是「英伟达卖空者单日浮亏122亿美元」等。系统抓取的真实热评样本 1000 条，其中 1000 条与本事件相关，近 30 天内发布的有 1000 条；情绪分布为积极 12.8%、中性 83.9%、消极 3.3%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
+   "summary": "本事件由 2 个平台共振（news / zhihu），综合热度约 18,635,000，各平台分项为 zhihu 18630000 + news 5000。本轮触发条目共 3 条，热度居前的是「英伟达卖空者单日浮亏122亿美元」等。系统抓取的真实热评样本 1000 条，其中 1000 条与本事件相关，近 30 天内发布的有 1000 条；情绪分布为积极 12.8%、中性 83.9%、消极 3.3%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
@@ -6489,7 +6395,7 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 60,241,000（news 52581000 + zhihu 7660000）"
+     "value": "约 18,635,000（zhihu 18630000 + news 5000）"
     },
     {
      "label": "触发条目",
@@ -6553,11 +6459,8 @@ window.CATCH_DATA = {
     "news",
     "zhihu"
    ],
-   "platformHeat": {
-    "news": 43624000,
-    "zhihu": 1670000
-   },
-   "heat": 45294000,
+   "platformHeat": {},
+   "heat": 0,
    "members": [
     {
      "platform": "news",
@@ -7267,20 +7170,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 18,
-    "videos_skipped": 39,
     "collected": 84,
-    "want": 1000,
-    "queries": [
-     "treetree"
-    ],
-    "cached": 0,
-    "fresh": 84,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 22.9,
@@ -7578,16 +7471,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T17:00:00+08:00",
-      "label": "17:00",
-      "total": 275000,
-      "platforms": {
-       "weibo": 270000,
-       "news": 5000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T18:00:00+08:00",
       "label": "18:00",
       "total": 315000,
@@ -7793,16 +7676,23 @@ window.CATCH_DATA = {
        "zhihu": 1670000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-24T23:00:00+08:00",
+      "label": "23:00",
+      "total": 0,
+      "platforms": {},
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-24T11:28:42.530008+08:00",
+    "updatedAt": "2026-11-24T23:33:31.520752+08:00",
     "measuredPoints": 24
    },
    "risk": {
     "score": 20,
     "level": "低"
    },
-   "summary": "本事件由 2 个平台共振（news / zhihu），综合热度约 45,294,000，各平台分项为 news 43624000 + zhihu 1670000。本轮触发条目共 3 条，热度居前的是「数年炸鸡无人识 一句treetree全网知」等。系统抓取的真实热评样本 84 条，其中 84 条与本事件相关，近 30 天内发布的有 70 条；情绪分布为积极 22.9%、中性 77.1%、消极 0.0%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
+   "summary": "本事件由 2 个平台共振（news / zhihu），综合热度约 0，各平台分项为 未拆分。本轮触发条目共 3 条，热度居前的是「数年炸鸡无人识 一句treetree全网知」等。系统抓取的真实热评样本 84 条，其中 84 条与本事件相关，近 30 天内发布的有 70 条；情绪分布为积极 22.9%、中性 77.1%、消极 0.0%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
@@ -7814,7 +7704,7 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 45,294,000（news 43624000 + zhihu 1670000）"
+     "value": "约 0（未拆分）"
     },
     {
      "label": "触发条目",
@@ -7878,10 +7768,10 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "news": 33340000,
-    "zhihu": 2300000
+    "zhihu": 660000,
+    "news": 1385000
    },
-   "heat": 35640000,
+   "heat": 2045000,
    "members": [
     {
      "platform": "news",
@@ -8591,23 +8481,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 78,
-    "videos_skipped": 195,
     "collected": 972,
-    "want": 1000,
-    "queries": [
-     "U17",
-     "国字号",
-     "世界杯",
-     "小组赛"
-    ],
-    "cached": 0,
-    "fresh": 972,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 13.5,
@@ -8921,16 +8798,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-18T18:00:00+08:00",
-      "label": "18:00",
-      "total": 1430000,
-      "platforms": {
-       "zhihu": 1230000,
-       "weibo": 200000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-18T19:00:00+08:00",
       "label": "19:00",
       "total": 1740000,
@@ -9142,16 +9009,26 @@ window.CATCH_DATA = {
        "zhihu": 2300000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-24T23:00:00+08:00",
+      "label": "23:00",
+      "total": 2045000,
+      "platforms": {
+       "zhihu": 660000,
+       "news": 1385000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-24T11:28:42.672157+08:00",
+    "updatedAt": "2026-11-24T23:33:31.736772+08:00",
     "measuredPoints": 24
    },
    "risk": {
     "score": 32,
     "level": "中"
    },
-   "summary": "本事件由 2 个平台共振（news / zhihu），综合热度约 35,640,000，各平台分项为 news 33340000 + zhihu 2300000。本轮触发条目共 3 条，热度居前的是「国字号男足时隔21年再获世界杯积分」等。系统抓取的真实热评样本 972 条，其中 972 条与本事件相关，近 30 天内发布的有 972 条；情绪分布为积极 13.5%、中性 81.2%、消极 5.3%、愤怒 0.0%，风险等级 中。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
+   "summary": "本事件由 2 个平台共振（news / zhihu），综合热度约 2,045,000，各平台分项为 zhihu 660000 + news 1385000。本轮触发条目共 3 条，热度居前的是「国字号男足时隔21年再获世界杯积分」等。系统抓取的真实热评样本 972 条，其中 972 条与本事件相关，近 30 天内发布的有 972 条；情绪分布为积极 13.5%、中性 81.2%、消极 5.3%、愤怒 0.0%，风险等级 中。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
@@ -9163,7 +9040,7 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 35,640,000（news 33340000 + zhihu 2300000）"
+     "value": "约 2,045,000（zhihu 660000 + news 1385000）"
     },
     {
      "label": "触发条目",
@@ -9219,5 +9096,5 @@ window.CATCH_DATA = {
    "commentsFile": "assets/data/comments/E05.json"
   }
  ],
- "builtAt": "2026-11-24T11:31:57.162470+08:00"
+ "builtAt": "2026-11-24T23:33:33.788493+08:00"
 };

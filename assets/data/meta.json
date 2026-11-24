@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-11-24T11:31:55.552724+08:00",
+ "generatedAt": "2026-11-24T23:33:31.775624+08:00",
  "issueDate": "2026-11-24",
  "issueNo": "004",
  "dateLabel": "2026 年 11 月 24 日",
  "weekday": "星期二",
- "mode": "full",
+ "mode": "hourly",
  "lastFullRun": "2026-11-24",
- "durationSec": 1297.3,
+ "durationSec": 77.1,
  "platformStatus": {
   "weibo": {
    "source": "tophub.today · weibo",
-   "items": 51,
+   "items": 52,
    "ok": true,
    "error": null,
    "name": "微博",
@@ -52,7 +52,7 @@
   },
   "news": {
    "source": "tophub.today · news",
-   "items": 138,
+   "items": 150,
    "ok": true,
    "error": null,
    "name": "新闻",
@@ -77,7 +77,7 @@
   "bili"
  ],
  "freshness": {
-  "generatedAt": "2026-11-24T11:31:55.552761+08:00",
+  "generatedAt": "2026-11-24T23:33:31.775725+08:00",
   "maxExpectedAgeMinutes": 90,
   "note": "页面展示最近一次成功发布的云端快照；单个平台失败会明确标记"
  },
@@ -97,7 +97,7 @@
   "hotItems": 60,
   "events": 5,
   "comments": 4056,
-  "rawScanned": 356,
+  "rawScanned": 369,
   "slang": 5
  },
  "source": "微博 / 抖音 / 小红书 / X / 知乎 / 新闻 / B站 公开榜单与真实接口"

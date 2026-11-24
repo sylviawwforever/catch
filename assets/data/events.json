@@ -11,11 +11,11 @@
     "zhihu"
    ],
    "platformHeat": {
-    "news": 53423000,
-    "zhihu": 6880000,
-    "weibo": 1270000
+    "weibo": 300000,
+    "zhihu": 11810000,
+    "news": 69060000
    },
-   "heat": 61573000,
+   "heat": 81170000,
    "members": [
     {
      "platform": "news",
@@ -15101,26 +15101,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 39,
-    "videos_skipped": 60,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "黄仁勋",
-     "特朗普",
-     "NVIDIA",
-     "董事会",
-     "即日起",
-     "民主党"
-    ],
-    "cached": 0,
-    "fresh": 1000,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "cached_rejected": 1000,
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 7.9,
@@ -15200,17 +15184,17 @@
     },
     {
      "word": "黄仁勋",
-     "weight": 82.0,
-     "sentiment": "中性"
-    },
-    {
-     "word": "伟达",
      "weight": 76.0,
      "sentiment": "中性"
     },
     {
      "word": "美国",
      "weight": 76.0,
+     "sentiment": "中性"
+    },
+    {
+     "word": "伟达",
+     "weight": 72.0,
      "sentiment": "中性"
     },
     {
@@ -15234,13 +15218,13 @@
      "sentiment": "中性"
     },
     {
-     "word": "特朗普",
-     "weight": 38.0,
+     "word": "自己",
+     "weight": 36.0,
      "sentiment": "中性"
     },
     {
-     "word": "自己",
-     "weight": 36.0,
+     "word": "特朗普",
+     "weight": 35.0,
      "sentiment": "中性"
     },
     {
@@ -15369,11 +15353,6 @@
      "sentiment": "中性"
     },
     {
-     "word": "CEO",
-     "weight": 17.0,
-     "sentiment": "中性"
-    },
-    {
      "word": "ai",
      "weight": 17.0,
      "sentiment": "中性"
@@ -15427,22 +15406,16 @@
      "word": "这样",
      "weight": 16.0,
      "sentiment": "中性"
+    },
+    {
+     "word": "多少",
+     "weight": 16.0,
+     "sentiment": "中性"
     }
    ],
    "wordcloudBasis": "真实热评 + 榜单标题",
    "trend": {
     "series": [
-     {
-      "t": "2026-11-19T23:00:00+08:00",
-      "label": "23:00",
-      "total": 117482000,
-      "platforms": {
-       "weibo": 3510000,
-       "zhihu": 12420000,
-       "news": 101552000
-      },
-      "type": "measured"
-     },
      {
       "t": "2026-11-20T13:00:00+08:00",
       "label": "13:00",
@@ -15658,9 +15631,20 @@
        "weibo": 1270000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-24T23:00:00+08:00",
+      "label": "23:00",
+      "total": 81170000,
+      "platforms": {
+       "weibo": 300000,
+       "zhihu": 11810000,
+       "news": 69060000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-24T11:28:42.231381+08:00",
+    "updatedAt": "2026-11-24T23:33:31.019366+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -15672,7 +15656,7 @@
    "phases": [],
    "analysis": {},
    "timeline": [],
-   "sourceCount": 16,
+   "sourceCount": 10,
    "resonance": 3
   },
   {
@@ -15685,10 +15669,10 @@
     "weibo"
    ],
    "platformHeat": {
-    "news": 120526000,
-    "weibo": 340000
+    "zhihu": 1850000,
+    "news": 17634000
    },
-   "heat": 120866000,
+   "heat": 19484000,
    "members": [
     {
      "platform": "news",
@@ -30742,22 +30726,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 58,
-    "videos_skipped": 46,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "航天员",
-     "汤洪波",
-     "巴基斯坦"
-    ],
-    "cached": 0,
-    "fresh": 1000,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 13.3,
@@ -31070,16 +31042,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T17:00:00+08:00",
-      "label": "17:00",
-      "total": 13516000,
-      "platforms": {
-       "zhihu": 2300000,
-       "news": 11216000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T18:00:00+08:00",
       "label": "18:00",
       "total": 13891000,
@@ -31296,9 +31258,19 @@
        "weibo": 340000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-24T23:00:00+08:00",
+      "label": "23:00",
+      "total": 19484000,
+      "platforms": {
+       "zhihu": 1850000,
+       "news": 17634000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-24T11:28:42.381086+08:00",
+    "updatedAt": "2026-11-24T23:33:31.258589+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -31323,10 +31295,10 @@
     "zhihu"
    ],
    "platformHeat": {
-    "news": 52581000,
-    "zhihu": 7660000
+    "zhihu": 18630000,
+    "news": 5000
    },
-   "heat": 60241000,
+   "heat": 18635000,
    "members": [
     {
      "platform": "news",
@@ -46356,22 +46328,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 35,
-    "videos_skipped": 42,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "亿美元",
-     "GTA6",
-     "销售额"
-    ],
-    "cached": 0,
-    "fresh": 1000,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 12.8,
@@ -46684,17 +46644,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T17:00:00+08:00",
-      "label": "17:00",
-      "total": 19868000,
-      "platforms": {
-       "weibo": 190000,
-       "zhihu": 9340000,
-       "news": 10338000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T18:00:00+08:00",
       "label": "18:00",
       "total": 18387000,
@@ -46910,9 +46859,19 @@
        "zhihu": 7660000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-24T23:00:00+08:00",
+      "label": "23:00",
+      "total": 18635000,
+      "platforms": {
+       "zhihu": 18630000,
+       "news": 5000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-24T11:28:42.518213+08:00",
+    "updatedAt": "2026-11-24T23:33:31.471404+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -46936,11 +46895,8 @@
     "news",
     "zhihu"
    ],
-   "platformHeat": {
-    "news": 43624000,
-    "zhihu": 1670000
-   },
-   "heat": 45294000,
+   "platformHeat": {},
+   "heat": 0,
    "members": [
     {
      "platform": "news",
@@ -48230,20 +48186,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 18,
-    "videos_skipped": 39,
     "collected": 84,
-    "want": 1000,
-    "queries": [
-     "treetree"
-    ],
-    "cached": 0,
-    "fresh": 84,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 26.2,
@@ -48540,16 +48486,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T17:00:00+08:00",
-      "label": "17:00",
-      "total": 275000,
-      "platforms": {
-       "weibo": 270000,
-       "news": 5000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T18:00:00+08:00",
       "label": "18:00",
       "total": 315000,
@@ -48755,9 +48691,16 @@
        "zhihu": 1670000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-24T23:00:00+08:00",
+      "label": "23:00",
+      "total": 0,
+      "platforms": {},
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-24T11:28:42.530008+08:00",
+    "updatedAt": "2026-11-24T23:33:31.520752+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -48782,10 +48725,10 @@
     "zhihu"
    ],
    "platformHeat": {
-    "news": 33340000,
-    "zhihu": 2300000
+    "zhihu": 660000,
+    "news": 1385000
    },
-   "heat": 35640000,
+   "heat": 2045000,
    "members": [
     {
      "platform": "news",
@@ -63395,23 +63338,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 78,
-    "videos_skipped": 195,
     "collected": 972,
-    "want": 1000,
-    "queries": [
-     "U17",
-     "国字号",
-     "世界杯",
-     "小组赛"
-    ],
-    "cached": 0,
-    "fresh": 972,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 13.5,
@@ -63724,16 +63654,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-18T18:00:00+08:00",
-      "label": "18:00",
-      "total": 1430000,
-      "platforms": {
-       "zhihu": 1230000,
-       "weibo": 200000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-18T19:00:00+08:00",
       "label": "19:00",
       "total": 1740000,
@@ -63945,9 +63865,19 @@
        "zhihu": 2300000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-24T23:00:00+08:00",
+      "label": "23:00",
+      "total": 2045000,
+      "platforms": {
+       "zhihu": 660000,
+       "news": 1385000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-24T11:28:42.672157+08:00",
+    "updatedAt": "2026-11-24T23:33:31.736772+08:00",
     "measuredPoints": 24
    },
    "risk": {
