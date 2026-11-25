@@ -5084,7 +5084,7 @@
    "sentiment": "中性",
    "score": 0.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "回复 @禚禚同学 :拆那",
@@ -5526,7 +5526,7 @@
    "sentiment": "中性",
    "score": 0.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "回复 @馒头吾爱 :米的888确实是最激进的888。[doge]",
@@ -5968,7 +5968,7 @@
    "sentiment": "消极",
    "score": -2.4,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "还真不管，只要把车卖出去，他们都皆大欢喜，受伤的是消费者[doge]",
@@ -5985,7 +5985,7 @@
    "sentiment": "消极",
    "score": -1.2,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "回复 @冀中IPA :所有领域第一出处是？怎么搜不到阿[吃瓜]另外，先搞懂端到端是啥意思再来反驳吧",
@@ -7413,7 +7413,7 @@
    "sentiment": "积极",
    "score": 1.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "回复 @吃蒜也不辣 :很难不点赞",
@@ -8620,7 +8620,7 @@
    "sentiment": "中性",
    "score": -0.72,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "⏰：啊，你敢管我的人？",
@@ -8637,7 +8637,7 @@
    "sentiment": "中性",
    "score": 0.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "回复 @久九的鱼 :开车睡觉，l2.999智驾，余承东的字典里没有第二只有第一是谁说的[吃瓜]",
@@ -12139,7 +12139,7 @@
    "sentiment": "中性",
    "score": 0.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "最好的柱子已经没了[大哭]",
@@ -16865,7 +16865,7 @@
    "sentiment": "中性",
    "score": 0.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "还是空心管",
@@ -16933,7 +16933,7 @@
    "sentiment": "中性",
    "score": 0.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "整备重量3T+ 139的时速 路灯只是受一点皮外伤[笑哭][笑哭][笑哭]",

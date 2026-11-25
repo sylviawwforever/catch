@@ -11,11 +11,9 @@
     "zhihu"
    ],
    "platformHeat": {
-    "news": 31799000,
-    "zhihu": 2490000,
-    "weibo": 810000
+    "zhihu": 11860000
    },
-   "heat": 35099000,
+   "heat": 11860000,
    "members": [
     {
      "platform": "news",
@@ -15093,24 +15091,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 24,
-    "videos_skipped": 12,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "特朗普",
-     "黄仁勋",
-     "念念不忘",
-     "民主党"
-    ],
-    "cached": 568,
-    "fresh": 432,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "cached_rejected": 1296,
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 9.1,
@@ -15423,18 +15407,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-20T14:00:00+08:00",
-      "label": "14:00",
-      "total": 77344000,
-      "platforms": {
-       "weibo": 2580000,
-       "douyin": 5000,
-       "zhihu": 12420000,
-       "news": 62339000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-20T17:00:00+08:00",
       "label": "17:00",
       "total": 0,
@@ -15649,9 +15621,18 @@
        "weibo": 810000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-25T23:00:00+08:00",
+      "label": "23:00",
+      "total": 11860000,
+      "platforms": {
+       "zhihu": 11860000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-25T09:25:45.824233+08:00",
+    "updatedAt": "2026-11-25T23:19:59.684773+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -15676,10 +15657,9 @@
     "weibo"
    ],
    "platformHeat": {
-    "news": 142964000,
-    "weibo": 190000
+    "news": 22620000
    },
-   "heat": 143154000,
+   "heat": 22620000,
    "members": [
     {
      "platform": "news",
@@ -21763,22 +21743,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 32,
-    "videos_skipped": 109,
     "collected": 402,
-    "want": 1000,
-    "queries": [
-     "陈吉宁",
-     "上海市委",
-     "常委会"
-    ],
-    "cached": 0,
-    "fresh": 402,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 14.2,
@@ -22091,16 +22059,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T19:00:00+08:00",
-      "label": "19:00",
-      "total": 13891000,
-      "platforms": {
-       "zhihu": 2300000,
-       "news": 11591000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T20:00:00+08:00",
       "label": "20:00",
       "total": 6862000,
@@ -22317,9 +22275,18 @@
        "weibo": 190000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-25T23:00:00+08:00",
+      "label": "23:00",
+      "total": 22620000,
+      "platforms": {
+       "news": 22620000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-25T09:25:45.908241+08:00",
+    "updatedAt": "2026-11-25T23:19:59.760967+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -22344,10 +22311,11 @@
     "zhihu"
    ],
    "platformHeat": {
-    "news": 117056000,
-    "zhihu": 1160000
+    "weibo": 190000,
+    "zhihu": 6460000,
+    "news": 36951000
    },
-   "heat": 118216000,
+   "heat": 43601000,
    "members": [
     {
      "platform": "news",
@@ -37401,27 +37369,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 8,
-    "videos_skipped": 8,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "二十四",
-     "汤洪波",
-     "穆罕默德",
-     "更上一层楼",
-     "巴基斯坦",
-     "航天员",
-     "普通话"
-    ],
-    "cached": 827,
-    "fresh": 173,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "cached_rejected": 519,
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 12.8,
@@ -37734,16 +37685,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T19:00:00+08:00",
-      "label": "19:00",
-      "total": 18387000,
-      "platforms": {
-       "zhihu": 9340000,
-       "news": 9047000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T20:00:00+08:00",
       "label": "20:00",
       "total": 13337000,
@@ -37959,9 +37900,20 @@
        "zhihu": 1160000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-25T23:00:00+08:00",
+      "label": "23:00",
+      "total": 43601000,
+      "platforms": {
+       "weibo": 190000,
+       "zhihu": 6460000,
+       "news": 36951000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-25T09:25:46.195805+08:00",
+    "updatedAt": "2026-11-25T23:19:59.961731+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -37985,11 +37937,8 @@
     "news",
     "zhihu"
    ],
-   "platformHeat": {
-    "news": 11225000,
-    "zhihu": 590000
-   },
-   "heat": 11815000,
+   "platformHeat": {},
+   "heat": 0,
    "members": [
     {
      "platform": "news",
@@ -53011,22 +52960,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 6,
-    "videos_skipped": 19,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "余承东",
-     "发布会"
-    ],
-    "cached": 787,
-    "fresh": 213,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "cached_rejected": 943,
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 13.1,
@@ -53339,15 +53276,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T19:00:00+08:00",
-      "label": "19:00",
-      "total": 5000,
-      "platforms": {
-       "news": 5000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T20:00:00+08:00",
       "label": "20:00",
       "total": 5000,
@@ -53551,9 +53479,16 @@
        "zhihu": 590000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-25T23:00:00+08:00",
+      "label": "23:00",
+      "total": 0,
+      "platforms": {},
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-25T09:25:46.448116+08:00",
+    "updatedAt": "2026-11-25T23:20:00.112874+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -53578,10 +53513,10 @@
     "zhihu"
    ],
    "platformHeat": {
-    "zhihu": 1190000,
-    "weibo": 40000
+    "zhihu": 8050000,
+    "news": 177000
    },
-   "heat": 1230000,
+   "heat": 8227000,
    "members": [
     {
      "platform": "zhihu",
@@ -67508,21 +67443,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 51,
-    "videos_skipped": 3,
     "collected": 927,
-    "want": 1000,
-    "queries": [
-     "Anthropic"
-    ],
-    "cached": 365,
-    "fresh": 562,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "cached_rejected": 635,
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 12.0,
@@ -67835,15 +67759,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-18T22:00:00+08:00",
-      "label": "22:00",
-      "total": 36000,
-      "platforms": {
-       "news": 5000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-18T23:00:00+08:00",
       "label": "23:00",
       "total": 635000,
@@ -68056,9 +67971,19 @@
        "weibo": 40000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-25T23:00:00+08:00",
+      "label": "23:00",
+      "total": 8227000,
+      "platforms": {
+       "zhihu": 8050000,
+       "news": 177000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-25T09:25:46.721365+08:00",
+    "updatedAt": "2026-11-25T23:20:00.263745+08:00",
     "measuredPoints": 24
    },
    "risk": {
