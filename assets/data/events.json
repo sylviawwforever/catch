@@ -11,11 +11,9 @@
     "zhihu"
    ],
    "platformHeat": {
-    "news": 35167000,
-    "zhihu": 5130000,
-    "weibo": 100000
+    "news": 932000
    },
-   "heat": 40397000,
+   "heat": 932000,
    "members": [
     {
      "platform": "news",
@@ -15069,25 +15067,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 2,
-    "videos_skipped": 4,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "巴基斯坦",
-     "航天员",
-     "空间站",
-     "二十四",
-     "主持人"
-    ],
-    "cached": 920,
-    "fresh": 80,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "cached_rejected": 240,
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 13.1,
@@ -15400,16 +15383,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-20T18:00:00+08:00",
-      "label": "18:00",
-      "total": 75285000,
-      "platforms": {
-       "zhihu": 22270000,
-       "news": 53015000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-20T20:00:00+08:00",
       "label": "20:00",
       "total": 66186000,
@@ -15627,9 +15600,18 @@
        "weibo": 100000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-26T22:00:00+08:00",
+      "label": "22:00",
+      "total": 932000,
+      "platforms": {
+       "news": 932000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-26T09:03:55.828411+08:00",
+    "updatedAt": "2026-11-26T22:44:40.253397+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -15654,10 +15636,9 @@
     "zhihu"
    ],
    "platformHeat": {
-    "news": 30811000,
-    "zhihu": 680000
+    "weibo": 490000
    },
-   "heat": 31491000,
+   "heat": 490000,
    "members": [
     {
      "platform": "news",
@@ -30432,21 +30413,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 93,
-    "videos_skipped": 52,
     "collected": 983,
-    "want": 1000,
-    "queries": [
-     "刘亦菲",
-     "VOGUE"
-    ],
-    "cached": 0,
-    "fresh": 983,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 23.5,
@@ -30759,15 +30729,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T21:00:00+08:00",
-      "label": "21:00",
-      "total": 2300000,
-      "platforms": {
-       "zhihu": 2300000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T22:00:00+08:00",
       "label": "22:00",
       "total": 2300000,
@@ -30984,9 +30945,18 @@
        "zhihu": 680000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-26T22:00:00+08:00",
+      "label": "22:00",
+      "total": 490000,
+      "platforms": {
+       "weibo": 490000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-26T09:03:55.962084+08:00",
+    "updatedAt": "2026-11-26T22:44:40.451657+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -31011,10 +30981,10 @@
     "weibo"
    ],
    "platformHeat": {
-    "news": 19302000,
-    "weibo": 130000
+    "zhihu": 930000,
+    "news": 5000
    },
-   "heat": 19432000,
+   "heat": 935000,
    "members": [
     {
      "platform": "news",
@@ -46060,23 +46030,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 17,
-    "videos_skipped": 25,
     "collected": 1000,
-    "want": 1000,
-    "queries": [
-     "谷爱凌",
-     "U17",
-     "世界杯"
-    ],
-    "cached": 537,
-    "fresh": 463,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "cached_rejected": 870,
-    "complete": true,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 16.2,
@@ -46389,15 +46346,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T21:00:00+08:00",
-      "label": "21:00",
-      "total": 9340000,
-      "platforms": {
-       "zhihu": 9340000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T22:00:00+08:00",
       "label": "22:00",
       "total": 9340000,
@@ -46615,9 +46563,19 @@
        "weibo": 130000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-26T22:00:00+08:00",
+      "label": "22:00",
+      "total": 935000,
+      "platforms": {
+       "zhihu": 930000,
+       "news": 5000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-26T09:03:56.132242+08:00",
+    "updatedAt": "2026-11-26T22:44:40.708418+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -46642,10 +46600,9 @@
     "weibo"
    ],
    "platformHeat": {
-    "news": 3884000,
-    "weibo": 90000
+    "news": 3903000
    },
-   "heat": 3974000,
+   "heat": 3903000,
    "members": [
     {
      "platform": "news",
@@ -49907,21 +49864,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 40,
-    "videos_skipped": 83,
     "collected": 216,
-    "want": 1000,
-    "queries": [
-     "王玉雯",
-     "工作室"
-    ],
-    "cached": 0,
-    "fresh": 216,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 19.9,
@@ -50234,13 +50180,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T21:00:00+08:00",
-      "label": "21:00",
-      "total": 0,
-      "platforms": {},
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T22:00:00+08:00",
       "label": "22:00",
       "total": 5000,
@@ -50445,9 +50384,18 @@
        "weibo": 90000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-26T22:00:00+08:00",
+      "label": "22:00",
+      "total": 3903000,
+      "platforms": {
+       "news": 3903000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-26T09:03:56.154509+08:00",
+    "updatedAt": "2026-11-26T22:44:40.751628+08:00",
     "measuredPoints": 24
    },
    "risk": {
@@ -50471,11 +50419,8 @@
     "news",
     "weibo"
    ],
-   "platformHeat": {
-    "news": 2131000,
-    "weibo": 80000
-   },
-   "heat": 2211000,
+   "platformHeat": {},
+   "heat": 0,
    "members": [
     {
      "platform": "news",
@@ -55507,22 +55452,10 @@
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 40,
-    "videos_skipped": 184,
     "collected": 334,
-    "want": 1000,
-    "queries": [
-     "中国男篮",
-     "窗口期",
-     "世亚预"
-    ],
-    "cached": 0,
-    "fresh": 334,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 15.0,
@@ -55835,16 +55768,6 @@
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T00:00:00+08:00",
-      "label": "00:00",
-      "total": 1070000,
-      "platforms": {
-       "zhihu": 890000,
-       "weibo": 180000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T01:00:00+08:00",
       "label": "01:00",
       "total": 1660000,
@@ -56057,9 +55980,16 @@
        "weibo": 80000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-26T22:00:00+08:00",
+      "label": "22:00",
+      "total": 0,
+      "platforms": {},
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-26T09:03:56.206732+08:00",
+    "updatedAt": "2026-11-26T22:44:40.838730+08:00",
     "measuredPoints": 24
    },
    "risk": {
