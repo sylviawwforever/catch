@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-11-25T23:20:00.293251+08:00",
- "issueDate": "2026-11-25",
- "issueNo": "005",
- "dateLabel": "2026 年 11 月 25 日",
- "weekday": "星期三",
- "mode": "hourly",
- "lastFullRun": "2026-11-25",
- "durationSec": 69.1,
+ "generatedAt": "2026-11-26T09:06:07.380090+08:00",
+ "issueDate": "2026-11-26",
+ "issueNo": "006",
+ "dateLabel": "2026 年 11 月 26 日",
+ "weekday": "星期四",
+ "mode": "full",
+ "lastFullRun": "2026-11-26",
+ "durationSec": 906.8,
  "platformStatus": {
   "weibo": {
    "source": "tophub.today · weibo",
-   "items": 53,
+   "items": 56,
    "ok": true,
    "error": null,
    "name": "微博",
@@ -52,7 +52,7 @@
   },
   "news": {
    "source": "tophub.today · news",
-   "items": 151,
+   "items": 147,
    "ok": true,
    "error": null,
    "name": "新闻",
@@ -60,7 +60,7 @@
   },
   "bili": {
    "source": "B站公开搜索与评论接口",
-   "items": 4329,
+   "items": 3533,
    "ok": true,
    "error": null,
    "name": "哔哩哔哩",
@@ -77,27 +77,27 @@
   "bili"
  ],
  "freshness": {
-  "generatedAt": "2026-11-25T23:20:00.293332+08:00",
+  "generatedAt": "2026-11-26T09:06:07.380129+08:00",
   "maxExpectedAgeMinutes": 90,
   "note": "页面展示最近一次成功发布的云端快照；单个平台失败会明确标记"
  },
  "slangStatus": {
   "source": "近 7 天公开热榜逐日归档 · 微博 / 抖音 / 知乎 / 百度 / 今日头条",
-  "window": "2026-11-19 ~ 2026-11-25",
+  "window": "2026-11-20 ~ 2026-11-26",
   "days": 7,
-  "corpus": 2518,
-  "candidates": 464,
+  "corpus": 2543,
+  "candidates": 475,
   "items": 5,
   "ok": true,
-  "note": "7 天 × 5 平台，候选 464 词，经可复用句式与百科类别仲裁后收录 5 词"
+  "note": "7 天 × 5 平台，候选 475 词，经可复用句式与百科类别仲裁后收录 5 词"
  },
  "commentTarget": 1000,
  "eventsPerDay": 5,
  "counts": {
   "hotItems": 60,
   "events": 5,
-  "comments": 4329,
-  "rawScanned": 369,
+  "comments": 3533,
+  "rawScanned": 368,
   "slang": 5
  },
  "source": "微博 / 抖音 / 小红书 / X / 知乎 / 新闻 / B站 公开榜单与真实接口"
