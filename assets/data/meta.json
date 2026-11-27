@@ -1,16 +1,16 @@
 {
- "generatedAt": "2026-11-27T09:10:09.381084+08:00",
+ "generatedAt": "2026-11-27T22:43:36.036994+08:00",
  "issueDate": "2026-11-27",
  "issueNo": "007",
  "dateLabel": "2026 年 11 月 27 日",
  "weekday": "星期五",
- "mode": "full",
+ "mode": "hourly",
  "lastFullRun": "2026-11-27",
- "durationSec": 784.6,
+ "durationSec": 45.3,
  "platformStatus": {
   "weibo": {
    "source": "tophub.today · weibo",
-   "items": 58,
+   "items": 52,
    "ok": true,
    "error": null,
    "name": "微博",
@@ -36,7 +36,7 @@
   },
   "x": {
    "source": "trends24.in · X 24h 趋势",
-   "items": 50,
+   "items": 34,
    "ok": true,
    "error": null,
    "name": "X",
@@ -52,7 +52,7 @@
   },
   "news": {
    "source": "tophub.today · news",
-   "items": 131,
+   "items": 152,
    "ok": true,
    "error": null,
    "name": "新闻",
@@ -77,7 +77,7 @@
   "bili"
  ],
  "freshness": {
-  "generatedAt": "2026-11-27T09:10:09.381121+08:00",
+  "generatedAt": "2026-11-27T22:43:36.037128+08:00",
   "maxExpectedAgeMinutes": 90,
   "note": "页面展示最近一次成功发布的云端快照；单个平台失败会明确标记"
  },
@@ -97,7 +97,7 @@
   "hotItems": 60,
   "events": 5,
   "comments": 4148,
-  "rawScanned": 354,
+  "rawScanned": 353,
   "slang": 5
  },
  "source": "微博 / 抖音 / 小红书 / X / 知乎 / 新闻 / B站 公开榜单与真实接口"

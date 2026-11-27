@@ -571,6 +571,16 @@
      "weibo": 130000
     },
     "type": "measured"
+   },
+   {
+    "t": "2026-11-27T22:00:00+08:00",
+    "label": "22:00",
+    "total": 6080000,
+    "platforms": {
+     "zhihu": 6070000,
+     "news": 10000
+    },
+    "type": "measured"
    }
   ],
   "E02": [
@@ -1061,6 +1071,16 @@
      "zhihu": 7100000,
      "news": 6474000,
      "weibo": 620000
+    },
+    "type": "measured"
+   },
+   {
+    "t": "2026-11-27T22:00:00+08:00",
+    "label": "22:00",
+    "total": 18837000,
+    "platforms": {
+     "zhihu": 6660000,
+     "news": 12177000
     },
     "type": "measured"
    }
@@ -1555,6 +1575,13 @@
      "weibo": 90000
     },
     "type": "measured"
+   },
+   {
+    "t": "2026-11-27T22:00:00+08:00",
+    "label": "22:00",
+    "total": 0,
+    "platforms": {},
+    "type": "measured"
    }
   ],
   "E04": [
@@ -2024,6 +2051,15 @@
      "weibo": 40000
     },
     "type": "measured"
+   },
+   {
+    "t": "2026-11-27T22:00:00+08:00",
+    "label": "22:00",
+    "total": 5989000,
+    "platforms": {
+     "news": 5989000
+    },
+    "type": "measured"
    }
   ],
   "E05": [
@@ -2344,6 +2380,15 @@
     "platforms": {
      "zhihu": 680000,
      "news": 5000
+    },
+    "type": "measured"
+   },
+   {
+    "t": "2026-11-27T22:00:00+08:00",
+    "label": "22:00",
+    "total": 4766000,
+    "platforms": {
+     "news": 4766000
     },
     "type": "measured"
    }

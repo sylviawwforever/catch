@@ -1191,7 +1191,7 @@
    "sentiment": "积极",
    "score": 1.4,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "中纪委国监委又发力了[支持][支持][支持]",
@@ -3537,7 +3537,7 @@
    "sentiment": "中性",
    "score": 0.0,
    "relevant": true,
-   "recent": true
+   "recent": false
   },
   {
    "text": "没有问题！[支持]",
