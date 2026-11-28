@@ -1,53 +1,58 @@
 {
  "text": [
   {
-   "title": "A 股迎史诗级暴涨，沪深两市成交额重回 2 万亿，创业板指放量大涨超 11%，超 400 只个股涨停，发生了什么？",
-   "platform": "zhihu",
-   "platformName": "知乎",
-   "emoji": "💡",
-   "heat": 18470000,
-   "rank": 1,
-   "url": "https://www.zhihu.com/question/2109643924381726663",
-   "board": "知乎热榜",
-   "tokens": [
-    "股迎",
-    "史诗",
-    "暴涨",
-    "两市",
-    "成交额",
-    "重回",
-    "万亿",
-    "创业板"
-   ]
-  },
-  {
-   "title": "国家队抄底力度已超“924”",
+   "title": "经纬度｜引资结构优化绝不等于 “外资跑路”",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 11781000,
+   "heat": 800000000000,
    "rank": 1,
-   "url": "https://so.toutiao.com/search?keyword=%23%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%8A%84%E5%BA%95%E5%8A%9B%E5%BA%A6%E5%B7%B2%E8%B6%85%E2%80%9C924%E2%80%9D%23",
-   "board": "今日头条热榜",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34556525",
+   "board": "澎湃新闻",
    "tokens": [
-    "国家队",
-    "抄底",
-    "力度",
-    "已超"
+    "经纬度",
+    "引资",
+    "结构",
+    "优化",
+    "绝不",
+    "等于",
+    "外资"
    ]
   },
   {
-   "title": "闪电 还是前任好",
+   "title": "后会友期》「告密门」播出后，厉娜风评光速下滑，网友要求她向许飞道歉，她们的矛盾真的只是友情问题吗？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 5100000,
+   "rank": 1,
+   "url": "https://www.zhihu.com/question/2109309669831172560",
+   "board": "知乎热榜",
+   "tokens": [
+    "会友",
+    "告密",
+    "播出",
+    "厉娜",
+    "风评",
+    "光速",
+    "下滑",
+    "要求"
+   ]
+  },
+  {
+   "title": "董明珠现场发火魏建军解围",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 1110000,
+   "heat": 590000,
    "rank": 1,
-   "url": "https://s.weibo.com/weibo?q=%E9%97%AA%E7%94%B5+%E8%BF%98%E6%98%AF%E5%89%8D%E4%BB%BB%E5%A5%BD",
+   "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%81%AB%E9%AD%8F%E5%BB%BA%E5%86%9B%E8%A7%A3%E5%9B%B4",
    "board": "微博热搜榜",
    "tokens": [
-    "闪电",
-    "前任"
+    "董明珠",
+    "发火",
+    "建军",
+    "解围"
    ]
   },
   {
@@ -85,72 +90,73 @@
    ]
   },
   {
-   "title": "Black Friday",
+   "title": "Bo Nix",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 1,
-   "url": "https://twitter.com/search?q=Black%20Friday",
+   "url": "https://twitter.com/search?q=Bo%20Nix",
    "board": "X Trending (24h)",
    "tokens": [
-    "Black",
-    "Friday"
+    "Bo",
+    "Nix"
    ]
   },
   {
-   "title": "如何看待蔡磊进入渐冻症终末期，其妻子称上次与蔡磊见面全程没有说话而是一直在哭？",
-   "platform": "zhihu",
-   "platformName": "知乎",
-   "emoji": "💡",
-   "heat": 6500000,
-   "rank": 2,
-   "url": "https://www.zhihu.com/question/2109172404547228699",
-   "board": "知乎热榜",
-   "tokens": [
-    "看待",
-    "蔡磊",
-    "进入",
-    "渐冻症",
-    "终末期",
-    "妻子",
-    "上次",
-    "蔡磊"
-   ]
-  },
-  {
-   "title": "董明珠当魏建军面数次训斥员工",
+   "title": "央行发布人民币存贷款利率管理新规：取消贷款罚息利率的上下限",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 10660000,
+   "heat": 800000000000,
    "rank": 2,
-   "url": "https://so.toutiao.com/search?keyword=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E5%BD%93%E9%AD%8F%E5%BB%BA%E5%86%9B%E9%9D%A2%E6%95%B0%E6%AC%A1%E8%AE%AD%E6%96%A5%E5%91%98%E5%B7%A5%23",
-   "board": "今日头条热榜",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34576324",
+   "board": "澎湃新闻",
    "tokens": [
-    "董明珠",
-    "当魏",
-    "建军",
-    "数次",
-    "训斥",
-    "员工"
+    "央行",
+    "人民币",
+    "存贷款",
+    "利率",
+    "管理",
+    "新规",
+    "取消",
+    "贷款"
    ]
   },
   {
-   "title": "医保局工作人员直播间辱骂咨询者",
+   "title": "国常会的通稿首次使用了「国家队」、类「平准基金」这些提法，释放了哪些信号？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 1970000,
+   "rank": 2,
+   "url": "https://www.zhihu.com/question/2109697976268321407",
+   "board": "知乎热榜",
+   "tokens": [
+    "常会",
+    "通稿",
+    "首次",
+    "使用",
+    "国家队",
+    "平准基金",
+    "这些",
+    "提法"
+   ]
+  },
+  {
+   "title": "千万不要用纸巾包贵重物品",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 810000,
+   "heat": 410000,
    "rank": 2,
-   "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BE%B1%E9%AA%82%E5%92%A8%E8%AF%A2%E8%80%85",
+   "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%94%A8%E7%BA%B8%E5%B7%BE%E5%8C%85%E8%B4%B5%E9%87%8D%E7%89%A9%E5%93%81",
    "board": "微博热搜榜",
    "tokens": [
-    "医保",
-    "工作人员",
-    "直播间",
-    "辱骂",
-    "咨询者"
+    "千万",
+    "不要",
+    "纸巾",
+    "贵重物品"
    ]
   },
   {
@@ -187,73 +193,67 @@
    ]
   },
   {
-   "title": "Good Friday",
+   "title": "Broncos",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 2,
-   "url": "https://twitter.com/search?q=Good%20Friday",
+   "url": "https://twitter.com/search?q=Broncos",
    "board": "X Trending (24h)",
    "tokens": [
-    "Good",
-    "Friday"
+    "Broncos"
    ]
   },
   {
-   "title": "商务部开新闻发布会称机关单位带头过紧日子，透露了什么信号？可能有哪些影响？",
-   "platform": "zhihu",
-   "platformName": "知乎",
-   "emoji": "💡",
-   "heat": 5390000,
-   "rank": 3,
-   "url": "https://www.zhihu.com/question/2109592991497189095",
-   "board": "知乎热榜",
-   "tokens": [
-    "商务部",
-    "新闻",
-    "发布会",
-    "机关",
-    "单位",
-    "带头",
-    "紧日子",
-    "透露"
-   ]
-  },
-  {
-   "title": "我国知识产权创造量质齐升",
+   "title": "孔子其实根本不姓孔",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 9645000,
-   "rank": 3,
-   "url": "https://so.toutiao.com/search?keyword=%23%E6%88%91%E5%9B%BD%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%88%9B%E9%80%A0%E9%87%8F%E8%B4%A8%E9%BD%90%E5%8D%87%23",
+   "heat": 9873000,
+   "rank": 2,
+   "url": "https://so.toutiao.com/search?keyword=%23%E5%AD%94%E5%AD%90%E5%85%B6%E5%AE%9E%E6%A0%B9%E6%9C%AC%E4%B8%8D%E5%A7%93%E5%AD%94%23",
    "board": "今日头条热榜",
    "tokens": [
-    "我国",
-    "知识产权",
-    "创造",
-    "量质",
-    "齐升"
+    "孔子",
+    "其实",
+    "根本",
+    "不姓"
    ]
   },
   {
-   "title": "以新型能源体系建设筑牢能源安全根基",
+   "title": "如何评价冯骥在《后 AI 时代最重要的问题》一文中的思考和想法？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 1490000,
+   "rank": 3,
+   "url": "https://www.zhihu.com/question/2109705664087816135",
+   "board": "知乎热榜",
+   "tokens": [
+    "评价",
+    "冯骥",
+    "AI",
+    "时代",
+    "重要",
+    "问题",
+    "一文",
+    "思考"
+   ]
+  },
+  {
+   "title": "180秒回顾神24发射任务",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 610000,
+   "heat": 350000,
    "rank": 3,
-   "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E6%96%B0%E5%9E%8B%E8%83%BD%E6%BA%90%E4%BD%93%E7%B3%BB%E5%BB%BA%E8%AE%BE%E7%AD%91%E7%89%A2%E8%83%BD%E6%BA%90%E5%AE%89%E5%85%A8%E6%A0%B9%E5%9F%BA",
+   "url": "https://s.weibo.com/weibo?q=180%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E24%E5%8F%91%E5%B0%84%E4%BB%BB%E5%8A%A1",
    "board": "微博热搜榜",
    "tokens": [
-    "新型",
-    "能源",
-    "体系",
-    "建设",
-    "筑牢",
-    "能源安全",
-    "根基"
+    "回顾",
+    "发射",
+    "任务"
    ]
   },
   {
@@ -286,72 +286,71 @@
    ]
   },
   {
-   "title": "Cloud One",
+   "title": "Steelers",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 3,
-   "url": "https://twitter.com/search?q=Cloud%20One",
+   "url": "https://twitter.com/search?q=Steelers",
    "board": "X Trending (24h)",
    "tokens": [
-    "Cloud",
-    "One"
+    "Steelers"
    ]
   },
   {
-   "title": "女子入住上海四千一晚酒店，孩子不慎碰坏一摆件被索赔三千元，远高于采购价，这一索赔标准合理吗？",
-   "platform": "zhihu",
-   "platformName": "知乎",
-   "emoji": "💡",
-   "heat": 4630000,
-   "rank": 4,
-   "url": "https://www.zhihu.com/question/2109291472705033135",
-   "board": "知乎热榜",
-   "tokens": [
-    "入住",
-    "上海",
-    "四千",
-    "酒店",
-    "孩子",
-    "不慎",
-    "碰坏",
-    "摆件"
-   ]
-  },
-  {
-   "title": "武契奇称一旦绝食将不接受救治",
+   "title": "U17世界杯亚洲9队出战7队晋级",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 8727000,
-   "rank": 4,
-   "url": "https://so.toutiao.com/search?keyword=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E7%A7%B0%E4%B8%80%E6%97%A6%E7%BB%9D%E9%A3%9F%E5%B0%86%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%95%91%E6%B2%BB%23",
+   "heat": 8933000,
+   "rank": 1,
+   "url": "https://so.toutiao.com/search?keyword=%23U17%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%9A%E6%B4%B29%E9%98%9F%E5%87%BA%E6%88%987%E9%98%9F%E6%99%8B%E7%BA%A7%23",
    "board": "今日头条热榜",
    "tokens": [
-    "武契奇",
-    "一旦",
-    "绝食",
-    "接受",
-    "救治"
+    "U17",
+    "世界杯",
+    "亚洲",
+    "出战",
+    "晋级"
    ]
   },
   {
-   "title": "广州车展热门新车比亚迪第三代唐",
+   "title": "模特七海发博表示 「我的脸已经成 AI 短剧里的赛博恶役」，AI 融脸为什么维权难？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 1390000,
+   "rank": 4,
+   "url": "https://www.zhihu.com/question/2109242936701478494",
+   "board": "知乎热榜",
+   "tokens": [
+    "模特",
+    "七海",
+    "发博",
+    "AI",
+    "短剧",
+    "赛博恶役",
+    "AI",
+    "融脸"
+   ]
+  },
+  {
+   "title": "30万级唯一四激光千伏奕境X9",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 600000,
+   "heat": 200000,
    "rank": 4,
-   "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E8%BD%A6%E5%B1%95%E7%83%AD%E9%97%A8%E6%96%B0%E8%BD%A6%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%AC%AC%E4%B8%89%E4%BB%A3%E5%94%90",
+   "url": "https://s.weibo.com/weibo?q=30%E4%B8%87%E7%BA%A7%E5%94%AF%E4%B8%80%E5%9B%9B%E6%BF%80%E5%85%89%E5%8D%83%E4%BC%8F%E5%A5%95%E5%A2%83X9",
    "board": "微博热搜榜",
    "tokens": [
-    "广州",
-    "车展",
-    "热门",
-    "新车",
-    "比亚迪",
-    "第三代"
+    "万级",
+    "唯一",
+    "激光",
+    "千伏",
+    "奕境",
+    "X9"
    ]
   },
   {
@@ -392,70 +391,69 @@
    ]
   },
   {
-   "title": "RED Friday",
+   "title": "Black Friday",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 4,
-   "url": "https://twitter.com/search?q=RED%20Friday",
+   "url": "https://twitter.com/search?q=Black%20Friday",
    "board": "X Trending (24h)",
    "tokens": [
-    "RED",
+    "Black",
     "Friday"
    ]
   },
   {
-   "title": "中国标准化研究院发布十大最宜居城市，北京、济南、青岛排前三，怎样看待这份榜单？你心中的宜居城市是哪些？",
-   "platform": "zhihu",
-   "platformName": "知乎",
-   "emoji": "💡",
-   "heat": 3580000,
-   "rank": 5,
-   "url": "https://www.zhihu.com/question/2109591033314894380",
-   "board": "知乎热榜",
-   "tokens": [
-    "中国",
-    "标准化",
-    "研究院",
-    "十大",
-    "宜居城市",
-    "北京",
-    "济南",
-    "青岛"
-   ]
-  },
-  {
-   "title": "展现公道正义 彰显大国担当",
+   "title": "我国知识产权创造量质齐升",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 7904000,
-   "rank": 1,
-   "url": "https://www.baidu.com/s?wd=%E5%B1%95%E7%8E%B0%E5%85%AC%E9%81%93%E6%AD%A3%E4%B9%89+%E5%BD%B0%E6%98%BE%E5%A4%A7%E5%9B%BD%E6%8B%85%E5%BD%93",
-   "board": "百度热搜",
+   "heat": 8083000,
+   "rank": 3,
+   "url": "https://so.toutiao.com/search?keyword=%23%E6%88%91%E5%9B%BD%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%88%9B%E9%80%A0%E9%87%8F%E8%B4%A8%E9%BD%90%E5%8D%87%23",
+   "board": "今日头条热榜",
    "tokens": [
-    "展现",
-    "公道",
-    "正义",
-    "彰显",
-    "大国",
-    "担当"
+    "我国",
+    "知识产权",
+    "创造",
+    "量质",
+    "齐升"
    ]
   },
   {
-   "title": "法医刘良自曝被悬赏",
+   "title": "A 股迎史诗级暴涨，沪深两市成交额重回 2 万亿，创业板指放量大涨超 11%，超 400 只个股涨停，发生了什么？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 1390000,
+   "rank": 5,
+   "url": "https://www.zhihu.com/question/2109643924381726663",
+   "board": "知乎热榜",
+   "tokens": [
+    "股迎",
+    "史诗",
+    "暴涨",
+    "两市",
+    "成交额",
+    "重回",
+    "万亿",
+    "创业板"
+   ]
+  },
+  {
+   "title": "许飞 天娱前员工",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 600000,
+   "heat": 100000,
    "rank": 5,
-   "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%8C%BB%E5%88%98%E8%89%AF%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%82%AC%E8%B5%8F",
+   "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E+%E5%A4%A9%E5%A8%B1%E5%89%8D%E5%91%98%E5%B7%A5",
    "board": "微博热搜榜",
    "tokens": [
-    "法医",
-    "刘良",
-    "悬赏"
+    "许飞",
+    "天娱",
+    "员工"
    ]
   },
   {
@@ -492,68 +490,70 @@
    ]
   },
   {
-   "title": "EvaFarmSight",
+   "title": "#HereWeGo",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 5,
-   "url": "https://twitter.com/search?q=EvaFarmSight",
+   "url": "https://twitter.com/search?q=%23HereWeGo",
    "board": "X Trending (24h)",
    "tokens": [
-    "EvaFarmSight"
+    "HereWeGo"
    ]
   },
   {
-   "title": "能拍出《大明王朝 1566》的导演为什么会在《两京十五日》翻车了？",
-   "platform": "zhihu",
-   "platformName": "知乎",
-   "emoji": "💡",
-   "heat": 3220000,
-   "rank": 6,
-   "url": "https://www.zhihu.com/question/2108875718960617190",
-   "board": "知乎热榜",
-   "tokens": [
-    "拍出",
-    "明王朝",
-    "导演",
-    "两京",
-    "十五日",
-    "翻车"
-   ]
-  },
-  {
-   "title": "正部级蓝天立被判死缓",
+   "title": "展现公道正义 彰显大国担当",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 7897000,
-   "rank": 5,
-   "url": "https://so.toutiao.com/search?keyword=%23%E6%AD%A3%E9%83%A8%E7%BA%A7%E8%93%9D%E5%A4%A9%E7%AB%8B%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23",
-   "board": "今日头条热榜",
+   "heat": 7904000,
+   "rank": 1,
+   "url": "https://www.baidu.com/s?wd=%E5%B1%95%E7%8E%B0%E5%85%AC%E9%81%93%E6%AD%A3%E4%B9%89+%E5%BD%B0%E6%98%BE%E5%A4%A7%E5%9B%BD%E6%8B%85%E5%BD%93",
+   "board": "百度热搜",
    "tokens": [
-    "部级",
-    "蓝天",
-    "被判",
-    "死缓"
+    "展现",
+    "公道",
+    "正义",
+    "彰显",
+    "大国",
+    "担当"
    ]
   },
   {
-   "title": "三只松鼠20亿园区容不下一间好宿舍",
+   "title": "特斯拉和 SpaceX 冲刺年底合并，将成人类史上最大并购案，马斯克为何要合并两家公司？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 1360000,
+   "rank": 6,
+   "url": "https://www.zhihu.com/question/2109592384853861548",
+   "board": "知乎热榜",
+   "tokens": [
+    "特斯拉",
+    "SpaceX",
+    "冲刺",
+    "年底",
+    "合并",
+    "将成",
+    "人类史上",
+    "最大"
+   ]
+  },
+  {
+   "title": "见到真正的非暴力沟通了",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 590000,
+   "heat": 100000,
    "rank": 6,
-   "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A020%E4%BA%BF%E5%9B%AD%E5%8C%BA%E5%AE%B9%E4%B8%8D%E4%B8%8B%E4%B8%80%E9%97%B4%E5%A5%BD%E5%AE%BF%E8%88%8D",
+   "url": "https://s.weibo.com/weibo?q=%E8%A7%81%E5%88%B0%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E4%BA%86",
    "board": "微博热搜榜",
    "tokens": [
-    "三只",
-    "松鼠",
-    "园区",
-    "容不下",
-    "一间",
-    "宿舍"
+    "见到",
+    "真正",
+    "非暴力",
+    "沟通"
    ]
   },
   {
@@ -593,36 +593,16 @@
    ]
   },
   {
-   "title": "#PercyJackson",
+   "title": "#DENvsPIT",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 6,
-   "url": "https://twitter.com/search?q=%23PercyJackson",
+   "url": "https://twitter.com/search?q=%23DENvsPIT",
    "board": "X Trending (24h)",
    "tokens": [
-    "PercyJackson"
-   ]
-  },
-  {
-   "title": "北大教师右眼被注入工业气体获赔 388 万，顶格惩罚性赔偿的依据是什么？",
-   "platform": "zhihu",
-   "platformName": "知乎",
-   "emoji": "💡",
-   "heat": 2890000,
-   "rank": 7,
-   "url": "https://www.zhihu.com/question/2109322061701177833",
-   "board": "知乎热榜",
-   "tokens": [
-    "北大",
-    "教师",
-    "右眼",
-    "注入",
-    "工业气体",
-    "获赔",
-    "顶格",
-    "惩罚性"
+    "DENvsPIT"
    ]
   },
   {
@@ -642,20 +622,39 @@
    ]
   },
   {
-   "title": "厉娜重新跟你做朋友原话被删",
+   "title": "商务部开新闻发布会称机关单位带头过紧日子，透露了什么信号？可能有哪些影响？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 1210000,
+   "rank": 7,
+   "url": "https://www.zhihu.com/question/2109592991497189095",
+   "board": "知乎热榜",
+   "tokens": [
+    "商务部",
+    "新闻",
+    "发布会",
+    "机关",
+    "单位",
+    "带头",
+    "紧日子",
+    "透露"
+   ]
+  },
+  {
+   "title": "厉娜前经纪人张阿瞳发文",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 560000,
+   "heat": 90000,
    "rank": 7,
-   "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E9%87%8D%E6%96%B0%E8%B7%9F%E4%BD%A0%E5%81%9A%E6%9C%8B%E5%8F%8B%E5%8E%9F%E8%AF%9D%E8%A2%AB%E5%88%A0",
+   "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%89%8D%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%BC%A0%E9%98%BF%E7%9E%B3%E5%8F%91%E6%96%87",
    "board": "微博热搜榜",
    "tokens": [
     "厉娜",
-    "重新",
-    "朋友",
-    "原话",
-    "被删"
+    "经纪人",
+    "张阿瞳",
+    "发文"
    ]
   },
   {
@@ -693,37 +692,17 @@
    ]
   },
   {
-   "title": "U.S. Air Force",
+   "title": "Mason Rudolph",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 7,
-   "url": "https://twitter.com/search?q=U.S.%20Air%20Force",
+   "url": "https://twitter.com/search?q=Mason%20Rudolph",
    "board": "X Trending (24h)",
    "tokens": [
-    "Air",
-    "Force"
-   ]
-  },
-  {
-   "title": "如何看待有人质疑老款问界 M9 使用圆线电机引发高价低配争议？",
-   "platform": "zhihu",
-   "platformName": "知乎",
-   "emoji": "💡",
-   "heat": 2800000,
-   "rank": 8,
-   "url": "https://www.zhihu.com/question/2108966270058108469",
-   "board": "知乎热榜",
-   "tokens": [
-    "看待",
-    "有人",
-    "质疑",
-    "老款",
-    "问界",
-    "M9",
-    "使用",
-    "圆线"
+    "Mason",
+    "Rudolph"
    ]
   },
   {
@@ -746,20 +725,41 @@
    ]
   },
   {
-   "title": "入冬仪式感是第一桶炸鸡给的",
+   "title": "三只松鼠被曝 CEO 与员工薪资相差 23 倍，这个薪资差距在行业里属于什么水平？算高吗？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 1110000,
+   "rank": 8,
+   "url": "https://www.zhihu.com/question/2109669812406334189",
+   "board": "知乎热榜",
+   "tokens": [
+    "三只",
+    "松鼠",
+    "CEO",
+    "员工",
+    "薪资",
+    "相差",
+    "薪资",
+    "差距"
+   ]
+  },
+  {
+   "title": "纵横新派越野标配华为乾崑技术",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 510000,
+   "heat": 90000,
    "rank": 8,
-   "url": "https://s.weibo.com/weibo?q=%E5%85%A5%E5%86%AC%E4%BB%AA%E5%BC%8F%E6%84%9F%E6%98%AF%E7%AC%AC%E4%B8%80%E6%A1%B6%E7%82%B8%E9%B8%A1%E7%BB%99%E7%9A%84",
+   "url": "https://s.weibo.com/weibo?q=%E7%BA%B5%E6%A8%AA%E6%96%B0%E6%B4%BE%E8%B6%8A%E9%87%8E%E6%A0%87%E9%85%8D%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E6%8A%80%E6%9C%AF",
    "board": "微博热搜榜",
    "tokens": [
-    "入冬",
-    "仪式",
-    "感是",
-    "第一桶",
-    "炸鸡"
+    "纵横",
+    "新派",
+    "越野",
+    "标配",
+    "华为",
+    "技术"
    ]
   },
   {
@@ -799,38 +799,17 @@
    ]
   },
   {
-   "title": "Remember Everyone Deployed",
+   "title": "Sean Payton",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 8,
-   "url": "https://twitter.com/search?q=Remember%20Everyone%20Deployed",
+   "url": "https://twitter.com/search?q=Sean%20Payton",
    "board": "X Trending (24h)",
    "tokens": [
-    "Remember",
-    "Everyone",
-    "Deployed"
-   ]
-  },
-  {
-   "title": "如何评价文章《我疆画地为牢》？文章中写员工离职后遭竞业索赔 250 万，真实情况是这样吗？",
-   "platform": "zhihu",
-   "platformName": "知乎",
-   "emoji": "💡",
-   "heat": 2620000,
-   "rank": 9,
-   "url": "https://www.zhihu.com/question/2109630564487492762",
-   "board": "知乎热榜",
-   "tokens": [
-    "评价",
-    "文章",
-    "我疆",
-    "画地为牢",
-    "文章",
-    "中写",
-    "员工",
-    "离职"
+    "Sean",
+    "Payton"
    ]
   },
   {
@@ -850,20 +829,39 @@
    ]
   },
   {
-   "title": "科创板一天收复全年跌幅",
+   "title": "武汉一烧烤店员工餐有鲍鱼生蚝，大闸蟹基围虾随便吃，老板称「吃饱才有力气干活」，这个福利怎么样？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 980000,
+   "rank": 9,
+   "url": "https://www.zhihu.com/question/2108558920985863590",
+   "board": "知乎热榜",
+   "tokens": [
+    "武汉",
+    "烧烤店",
+    "员工",
+    "餐有",
+    "鲍鱼",
+    "大闸蟹",
+    "基围",
+    "随便"
+   ]
+  },
+  {
+   "title": "马天宇 我都40了肯定有过亲密关系啊",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 480000,
+   "heat": 90000,
    "rank": 9,
-   "url": "https://s.weibo.com/weibo?q=%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%80%E5%A4%A9%E6%94%B6%E5%A4%8D%E5%85%A8%E5%B9%B4%E8%B7%8C%E5%B9%85",
+   "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87+%E6%88%91%E9%83%BD40%E4%BA%86%E8%82%AF%E5%AE%9A%E6%9C%89%E8%BF%87%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E5%95%8A",
    "board": "微博热搜榜",
    "tokens": [
-    "科创板",
-    "一天",
-    "收复",
-    "全年",
-    "跌幅"
+    "天宇",
+    "肯定",
+    "有过",
+    "亲密关系"
    ]
   },
   {
@@ -901,36 +899,17 @@
    ]
   },
   {
-   "title": "#FridayVibes",
+   "title": "Al Michaels",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 9,
-   "url": "https://twitter.com/search?q=%23FridayVibes",
+   "url": "https://twitter.com/search?q=Al%20Michaels",
    "board": "X Trending (24h)",
    "tokens": [
-    "FridayVibes"
-   ]
-  },
-  {
-   "title": "狮子并非中国的产物，为何石狮子却成了中国的守门神？",
-   "platform": "zhihu",
-   "platformName": "知乎",
-   "emoji": "💡",
-   "heat": 2440000,
-   "rank": 10,
-   "url": "https://www.zhihu.com/question/565692238",
-   "board": "知乎热榜",
-   "tokens": [
-    "狮子",
-    "并非",
-    "中国",
-    "产物",
-    "为何",
-    "石狮子",
-    "却成",
-    "中国"
+    "Al",
+    "Michaels"
    ]
   },
   {
@@ -951,22 +930,40 @@
    ]
   },
   {
-   "title": "梅毒阳性育儿嫂手渗血时仍护理婴儿",
+   "title": "女子入住上海四千一晚酒店，孩子不慎碰坏一摆件被索赔三千元，远高于采购价，这一索赔标准合理吗？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 960000,
+   "rank": 10,
+   "url": "https://www.zhihu.com/question/2109291472705033135",
+   "board": "知乎热榜",
+   "tokens": [
+    "入住",
+    "上海",
+    "四千",
+    "酒店",
+    "孩子",
+    "不慎",
+    "碰坏",
+    "摆件"
+   ]
+  },
+  {
+   "title": "后会友期第三次飞行嘉宾阵容",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 480000,
+   "heat": 80000,
    "rank": 10,
-   "url": "https://s.weibo.com/weibo?q=%E6%A2%85%E6%AF%92%E9%98%B3%E6%80%A7%E8%82%B2%E5%84%BF%E5%AB%82%E6%89%8B%E6%B8%97%E8%A1%80%E6%97%B6%E4%BB%8D%E6%8A%A4%E7%90%86%E5%A9%B4%E5%84%BF",
+   "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%AC%AC%E4%B8%89%E6%AC%A1%E9%A3%9E%E8%A1%8C%E5%98%89%E5%AE%BE%E9%98%B5%E5%AE%B9",
    "board": "微博热搜榜",
    "tokens": [
-    "梅毒",
-    "阳性",
-    "育儿",
-    "嫂手",
-    "渗血时",
-    "护理",
-    "婴儿"
+    "会友",
+    "第三次",
+    "飞行",
+    "嘉宾",
+    "阵容"
    ]
   },
   {
@@ -999,55 +996,54 @@
    ]
   },
   {
-   "title": "Victory Friday",
+   "title": "Chelsea",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 10,
-   "url": "https://twitter.com/search?q=Victory%20Friday",
+   "url": "https://twitter.com/search?q=Chelsea",
    "board": "X Trending (24h)",
    "tokens": [
-    "Victory",
-    "Friday"
+    "Chelsea"
    ]
   }
  ],
  "ranking": [
   {
-   "title": "A 股迎史诗级暴涨，沪深两市成交额重回 2 万亿，创业板指放量大涨超 11%，超 400 只个股涨停，发生了什么？",
-   "platform": "zhihu",
-   "platformName": "知乎",
-   "emoji": "💡",
-   "heat": 18470000,
-   "rank": 1,
-   "url": "https://www.zhihu.com/question/2109643924381726663",
-   "board": "知乎热榜",
-   "tokens": [
-    "股迎",
-    "史诗",
-    "暴涨",
-    "两市",
-    "成交额",
-    "重回",
-    "万亿",
-    "创业板"
-   ]
-  },
-  {
-   "title": "国家队抄底力度已超“924”",
+   "title": "经纬度｜引资结构优化绝不等于 “外资跑路”",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 11781000,
+   "heat": 800000000000,
    "rank": 1,
-   "url": "https://so.toutiao.com/search?keyword=%23%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%8A%84%E5%BA%95%E5%8A%9B%E5%BA%A6%E5%B7%B2%E8%B6%85%E2%80%9C924%E2%80%9D%23",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34556525",
+   "board": "澎湃新闻",
+   "tokens": [
+    "经纬度",
+    "引资",
+    "结构",
+    "优化",
+    "绝不",
+    "等于",
+    "外资"
+   ]
+  },
+  {
+   "title": "U17世界杯亚洲9队出战7队晋级",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 8933000,
+   "rank": 1,
+   "url": "https://so.toutiao.com/search?keyword=%23U17%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%9A%E6%B4%B29%E9%98%9F%E5%87%BA%E6%88%987%E9%98%9F%E6%99%8B%E7%BA%A7%23",
    "board": "今日头条热榜",
    "tokens": [
-    "国家队",
-    "抄底",
-    "力度",
-    "已超"
+    "U17",
+    "世界杯",
+    "亚洲",
+    "出战",
+    "晋级"
    ]
   },
   {
@@ -1069,17 +1065,39 @@
    ]
   },
   {
-   "title": "闪电 还是前任好",
+   "title": "后会友期》「告密门」播出后，厉娜风评光速下滑，网友要求她向许飞道歉，她们的矛盾真的只是友情问题吗？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 5100000,
+   "rank": 1,
+   "url": "https://www.zhihu.com/question/2109309669831172560",
+   "board": "知乎热榜",
+   "tokens": [
+    "会友",
+    "告密",
+    "播出",
+    "厉娜",
+    "风评",
+    "光速",
+    "下滑",
+    "要求"
+   ]
+  },
+  {
+   "title": "董明珠现场发火魏建军解围",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 1110000,
+   "heat": 590000,
    "rank": 1,
-   "url": "https://s.weibo.com/weibo?q=%E9%97%AA%E7%94%B5+%E8%BF%98%E6%98%AF%E5%89%8D%E4%BB%BB%E5%A5%BD",
+   "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%81%AB%E9%AD%8F%E5%BB%BA%E5%86%9B%E8%A7%A3%E5%9B%B4",
    "board": "微博热搜榜",
    "tokens": [
-    "闪电",
-    "前任"
+    "董明珠",
+    "发火",
+    "建军",
+    "解围"
    ]
   },
   {
@@ -1096,26 +1114,6 @@
     "所有",
     "炮火",
     "%%"
-   ]
-  },
-  {
-   "title": "这个世界上“好看的皮囊千篇一律，而有趣的灵魂百里挑一”在茫茫人海中，能遇到一位同频的朋友，大抵就是高山流水遇知音#音乐 #治愈 #解压",
-   "platform": "douyin",
-   "platformName": "抖音",
-   "emoji": "🎵",
-   "heat": 0,
-   "rank": 1,
-   "url": "https://www.douyin.com/video/7712111975694550122",
-   "board": "抖音热点榜",
-   "tokens": [
-    "世界",
-    "好看",
-    "皮囊",
-    "千篇一律",
-    "有趣",
-    "灵魂",
-    "百里挑一",
-    "茫茫人海"
    ]
   },
   {
@@ -1137,74 +1135,73 @@
    ]
   },
   {
-   "title": "Black Friday",
+   "title": "Bo Nix",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 1,
-   "url": "https://twitter.com/search?q=Black%20Friday",
+   "url": "https://twitter.com/search?q=Bo%20Nix",
    "board": "X Trending (24h)",
    "tokens": [
-    "Black",
-    "Friday"
+    "Bo",
+    "Nix"
    ]
   },
   {
-   "title": "言短意长｜让家长自我贬损的家庭教育，都要高度警惕",
+   "title": "氮气是惰性气体，为什么大豆等植物能够通过固氮作用将氮气转化为土壤中的养分？",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
    "heat": 0,
    "rank": 1,
-   "url": "https://www.thepaper.cn/newsDetail_forward_34568217",
-   "board": "澎湃新闻",
-   "tokens": [
-    "言短",
-    "意长",
-    "家长",
-    "自我",
-    "贬损",
-    "家庭教育",
-    "高度",
-    "警惕"
-   ]
-  },
-  {
-   "title": "能不能说一个「就是为了这点醋，才包了这顿饺子」的典型事例？",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 0,
-   "rank": 1,
-   "url": "https://daily.zhihu.com/story/9794273",
+   "url": "https://daily.zhihu.com/story/9794300",
    "board": "知乎日报",
    "tokens": [
-    "不能",
-    "为了",
-    "这点",
-    "这顿",
-    "饺子",
-    "典型",
-    "事例"
+    "氮气",
+    "惰性气体",
+    "大豆",
+    "植物",
+    "能够",
+    "通过",
+    "固氮作用",
+    "氮气"
    ]
   },
   {
-   "title": "董明珠当魏建军面数次训斥员工",
+   "title": "央行发布人民币存贷款利率管理新规：取消贷款罚息利率的上下限",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 10660000,
+   "heat": 800000000000,
    "rank": 2,
-   "url": "https://so.toutiao.com/search?keyword=%23%E8%91%A3%E6%98%8E%E7%8F%A0%E5%BD%93%E9%AD%8F%E5%BB%BA%E5%86%9B%E9%9D%A2%E6%95%B0%E6%AC%A1%E8%AE%AD%E6%96%A5%E5%91%98%E5%B7%A5%23",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34576324",
+   "board": "澎湃新闻",
+   "tokens": [
+    "央行",
+    "人民币",
+    "存贷款",
+    "利率",
+    "管理",
+    "新规",
+    "取消",
+    "贷款"
+   ]
+  },
+  {
+   "title": "孔子其实根本不姓孔",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 9873000,
+   "rank": 2,
+   "url": "https://so.toutiao.com/search?keyword=%23%E5%AD%94%E5%AD%90%E5%85%B6%E5%AE%9E%E6%A0%B9%E6%9C%AC%E4%B8%8D%E5%A7%93%E5%AD%94%23",
    "board": "今日头条热榜",
    "tokens": [
-    "董明珠",
-    "当魏",
-    "建军",
-    "数次",
-    "训斥",
-    "员工"
+    "孔子",
+    "其实",
+    "根本",
+    "不姓"
    ]
   },
   {
@@ -1224,40 +1221,39 @@
    ]
   },
   {
-   "title": "如何看待蔡磊进入渐冻症终末期，其妻子称上次与蔡磊见面全程没有说话而是一直在哭？",
+   "title": "国常会的通稿首次使用了「国家队」、类「平准基金」这些提法，释放了哪些信号？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 6500000,
+   "heat": 1970000,
    "rank": 2,
-   "url": "https://www.zhihu.com/question/2109172404547228699",
+   "url": "https://www.zhihu.com/question/2109697976268321407",
    "board": "知乎热榜",
    "tokens": [
-    "看待",
-    "蔡磊",
-    "进入",
-    "渐冻症",
-    "终末期",
-    "妻子",
-    "上次",
-    "蔡磊"
+    "常会",
+    "通稿",
+    "首次",
+    "使用",
+    "国家队",
+    "平准基金",
+    "这些",
+    "提法"
    ]
   },
   {
-   "title": "医保局工作人员直播间辱骂咨询者",
+   "title": "千万不要用纸巾包贵重物品",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 810000,
+   "heat": 410000,
    "rank": 2,
-   "url": "https://s.weibo.com/weibo?q=%E5%8C%BB%E4%BF%9D%E5%B1%80%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%9B%B4%E6%92%AD%E9%97%B4%E8%BE%B1%E9%AA%82%E5%92%A8%E8%AF%A2%E8%80%85",
+   "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%94%A8%E7%BA%B8%E5%B7%BE%E5%8C%85%E8%B4%B5%E9%87%8D%E7%89%A9%E5%93%81",
    "board": "微博热搜榜",
    "tokens": [
-    "医保",
-    "工作人员",
-    "直播间",
-    "辱骂",
-    "咨询者"
+    "千万",
+    "不要",
+    "纸巾",
+    "贵重物品"
    ]
   },
   {
@@ -1278,23 +1274,23 @@
    ]
   },
   {
-   "title": "我有点好奇，怎么全网的爸爸都这么喜欢这个女孩？#老实人说老实话 #抖音记录平凡生活 #谁不想拥有这么可爱的女儿呢",
+   "title": "为探头的兄弟点赞 #狂想中国主持人刘允乐#聊城婚礼主持人刘允乐#幸福感爆棚的瞬间 #接亲#堵门",
    "platform": "douyin",
    "platformName": "抖音",
    "emoji": "🎵",
    "heat": 0,
    "rank": 2,
-   "url": "https://www.douyin.com/video/7711626653386559210",
+   "url": "https://www.douyin.com/video/7712647777256724454",
    "board": "抖音热点榜",
    "tokens": [
-    "有点",
-    "好奇",
-    "全网",
-    "爸爸",
-    "这么",
-    "喜欢",
-    "女孩",
-    "老实人"
+    "探头",
+    "兄弟",
+    "点赞",
+    "狂想",
+    "中国",
+    "主持人",
+    "刘允乐",
+    "聊城"
    ]
   },
   {
@@ -1314,54 +1310,36 @@
    ]
   },
   {
-   "title": "Good Friday",
+   "title": "Broncos",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 2,
-   "url": "https://twitter.com/search?q=Good%20Friday",
+   "url": "https://twitter.com/search?q=Broncos",
    "board": "X Trending (24h)",
    "tokens": [
-    "Good",
-    "Friday"
+    "Broncos"
    ]
   },
   {
-   "title": "周琦挥肘被驱逐，中国男篮80比82不敌沙特",
+   "title": "人类现有技术能够建造深度达到1000米的水库么?",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
    "heat": 0,
    "rank": 2,
-   "url": "https://www.thepaper.cn/newsDetail_forward_34568104",
-   "board": "澎湃新闻",
-   "tokens": [
-    "周琦挥",
-    "驱逐",
-    "中国男篮",
-    "不敌",
-    "沙特"
-   ]
-  },
-  {
-   "title": "大运河江南段为何不直接取道太湖而要围着太湖绕个大弯？",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 0,
-   "rank": 2,
-   "url": "https://daily.zhihu.com/story/9794279",
+   "url": "https://daily.zhihu.com/story/9794304",
    "board": "知乎日报",
    "tokens": [
-    "大运河",
-    "江南",
-    "为何",
-    "直接",
-    "取道",
-    "太湖",
-    "围着",
-    "太湖"
+    "人类",
+    "现有",
+    "技术",
+    "能够",
+    "建造",
+    "深度",
+    "达到",
+    "水库"
    ]
   },
   {
@@ -1369,7 +1347,7 @@
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 9645000,
+   "heat": 8083000,
    "rank": 3,
    "url": "https://so.toutiao.com/search?keyword=%23%E6%88%91%E5%9B%BD%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%88%9B%E9%80%A0%E9%87%8F%E8%B4%A8%E9%BD%90%E5%8D%87%23",
    "board": "今日头条热榜",
@@ -1401,42 +1379,38 @@
    ]
   },
   {
-   "title": "商务部开新闻发布会称机关单位带头过紧日子，透露了什么信号？可能有哪些影响？",
+   "title": "如何评价冯骥在《后 AI 时代最重要的问题》一文中的思考和想法？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 5390000,
+   "heat": 1490000,
    "rank": 3,
-   "url": "https://www.zhihu.com/question/2109592991497189095",
+   "url": "https://www.zhihu.com/question/2109705664087816135",
    "board": "知乎热榜",
    "tokens": [
-    "商务部",
-    "新闻",
-    "发布会",
-    "机关",
-    "单位",
-    "带头",
-    "紧日子",
-    "透露"
+    "评价",
+    "冯骥",
+    "AI",
+    "时代",
+    "重要",
+    "问题",
+    "一文",
+    "思考"
    ]
   },
   {
-   "title": "以新型能源体系建设筑牢能源安全根基",
+   "title": "180秒回顾神24发射任务",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 610000,
+   "heat": 350000,
    "rank": 3,
-   "url": "https://s.weibo.com/weibo?q=%E4%BB%A5%E6%96%B0%E5%9E%8B%E8%83%BD%E6%BA%90%E4%BD%93%E7%B3%BB%E5%BB%BA%E8%AE%BE%E7%AD%91%E7%89%A2%E8%83%BD%E6%BA%90%E5%AE%89%E5%85%A8%E6%A0%B9%E5%9F%BA",
+   "url": "https://s.weibo.com/weibo?q=180%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E24%E5%8F%91%E5%B0%84%E4%BB%BB%E5%8A%A1",
    "board": "微博热搜榜",
    "tokens": [
-    "新型",
-    "能源",
-    "体系",
-    "建设",
-    "筑牢",
-    "能源安全",
-    "根基"
+    "回顾",
+    "发射",
+    "任务"
    ]
   },
   {
@@ -1456,6 +1430,26 @@
    ]
   },
   {
+   "title": "这个世界上“好看的皮囊千篇一律，而有趣的灵魂百里挑一”在茫茫人海中，能遇到一位同频的朋友，大抵就是高山流水遇知音#音乐 #治愈 #解压",
+   "platform": "douyin",
+   "platformName": "抖音",
+   "emoji": "🎵",
+   "heat": 0,
+   "rank": 3,
+   "url": "https://www.douyin.com/video/7712111975694550122",
+   "board": "抖音热点榜",
+   "tokens": [
+    "世界",
+    "好看",
+    "皮囊",
+    "千篇一律",
+    "有趣",
+    "灵魂",
+    "百里挑一",
+    "茫茫人海"
+   ]
+  },
+  {
    "title": "我拍到了海鸥雨",
    "platform": "xhs",
    "platformName": "小红书",
@@ -1469,71 +1463,56 @@
    ]
   },
   {
-   "title": "Cloud One",
+   "title": "Steelers",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 3,
-   "url": "https://twitter.com/search?q=Cloud%20One",
+   "url": "https://twitter.com/search?q=Steelers",
    "board": "X Trending (24h)",
    "tokens": [
-    "Cloud",
-    "One"
+    "Steelers"
    ]
   },
   {
-   "title": "大学应有的模样｜大学，该让青年从容栖居",
+   "title": "合力稳市！“国家队”护盘过程中各类机构均为净买入，股票型ETF十月以来净申购近8000亿",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
    "heat": 0,
    "rank": 3,
-   "url": "https://www.thepaper.cn/newsDetail_forward_34554351",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34576889",
    "board": "澎湃新闻",
    "tokens": [
-    "大学",
-    "应有",
-    "模样",
-    "大学",
-    "青年",
-    "从容",
-    "栖居"
+    "合力",
+    "稳市",
+    "国家队",
+    "护盘",
+    "过程",
+    "各类",
+    "机构",
+    "买入"
    ]
   },
   {
-   "title": "想看看大家用Vibe Coding做了什么好玩的东西？",
+   "title": "汉字简化的过程中，为何很多汉字的部首被用「又」字和叉代替？",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
    "heat": 0,
    "rank": 3,
-   "url": "https://daily.zhihu.com/story/9794282",
+   "url": "https://daily.zhihu.com/story/9794313",
    "board": "知乎日报",
    "tokens": [
-    "看看",
-    "大家",
-    "Vibe",
-    "Coding",
-    "好玩",
-    "东西"
-   ]
-  },
-  {
-   "title": "武契奇称一旦绝食将不接受救治",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 8727000,
-   "rank": 4,
-   "url": "https://so.toutiao.com/search?keyword=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E7%A7%B0%E4%B8%80%E6%97%A6%E7%BB%9D%E9%A3%9F%E5%B0%86%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%95%91%E6%B2%BB%23",
-   "board": "今日头条热榜",
-   "tokens": [
-    "武契奇",
-    "一旦",
-    "绝食",
-    "接受",
-    "救治"
+    "汉字",
+    "简化",
+    "过程",
+    "为何",
+    "很多",
+    "汉字",
+    "部首",
+    "代替"
    ]
   },
   {
@@ -1553,41 +1532,56 @@
    ]
   },
   {
-   "title": "女子入住上海四千一晚酒店，孩子不慎碰坏一摆件被索赔三千元，远高于采购价，这一索赔标准合理吗？",
-   "platform": "zhihu",
-   "platformName": "知乎",
-   "emoji": "💡",
-   "heat": 4630000,
+   "title": "媒体：跳槽不是“偷人”",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 7314000,
    "rank": 4,
-   "url": "https://www.zhihu.com/question/2109291472705033135",
-   "board": "知乎热榜",
+   "url": "https://so.toutiao.com/search?keyword=%23%E5%AA%92%E4%BD%93%EF%BC%9A%E8%B7%B3%E6%A7%BD%E4%B8%8D%E6%98%AF%E2%80%9C%E5%81%B7%E4%BA%BA%E2%80%9D%23",
+   "board": "今日头条热榜",
    "tokens": [
-    "入住",
-    "上海",
-    "四千",
-    "酒店",
-    "孩子",
-    "不慎",
-    "碰坏",
-    "摆件"
+    "媒体",
+    "跳槽",
+    "偷人"
    ]
   },
   {
-   "title": "广州车展热门新车比亚迪第三代唐",
+   "title": "模特七海发博表示 「我的脸已经成 AI 短剧里的赛博恶役」，AI 融脸为什么维权难？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 1390000,
+   "rank": 4,
+   "url": "https://www.zhihu.com/question/2109242936701478494",
+   "board": "知乎热榜",
+   "tokens": [
+    "模特",
+    "七海",
+    "发博",
+    "AI",
+    "短剧",
+    "赛博恶役",
+    "AI",
+    "融脸"
+   ]
+  },
+  {
+   "title": "30万级唯一四激光千伏奕境X9",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 600000,
+   "heat": 200000,
    "rank": 4,
-   "url": "https://s.weibo.com/weibo?q=%E5%B9%BF%E5%B7%9E%E8%BD%A6%E5%B1%95%E7%83%AD%E9%97%A8%E6%96%B0%E8%BD%A6%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%AC%AC%E4%B8%89%E4%BB%A3%E5%94%90",
+   "url": "https://s.weibo.com/weibo?q=30%E4%B8%87%E7%BA%A7%E5%94%AF%E4%B8%80%E5%9B%9B%E6%BF%80%E5%85%89%E5%8D%83%E4%BC%8F%E5%A5%95%E5%A2%83X9",
    "board": "微博热搜榜",
    "tokens": [
-    "广州",
-    "车展",
-    "热门",
-    "新车",
-    "比亚迪",
-    "第三代"
+    "万级",
+    "唯一",
+    "激光",
+    "千伏",
+    "奕境",
+    "X9"
    ]
   },
   {
@@ -1611,23 +1605,23 @@
    ]
   },
   {
-   "title": "重温大郎摔跤精彩片段！#民间娱乐 #看一遍笑一遍",
+   "title": "来到安徽怀宁，没想到第一句泱泱华夏能引发这么多共鸣，希望传统文化能被更好的弘扬，希望大美怀宁越来越好。#重庆主持人李佳岷 #怀宁龙哥大舞台 #怀宁 @DOU+小助手 @抖音小助手",
    "platform": "douyin",
    "platformName": "抖音",
    "emoji": "🎵",
    "heat": 0,
    "rank": 4,
-   "url": "https://www.douyin.com/video/7712048079499668403",
+   "url": "https://www.douyin.com/video/7712489957675702985",
    "board": "抖音热点榜",
    "tokens": [
-    "重温",
-    "大郎",
-    "摔跤",
-    "精彩",
-    "民间",
-    "娱乐",
-    "看一遍",
-    "一遍"
+    "来到",
+    "安徽",
+    "怀宁",
+    "没想到",
+    "第一句",
+    "泱泱",
+    "华夏",
+    "引发"
    ]
   },
   {
@@ -1648,64 +1642,57 @@
    ]
   },
   {
-   "title": "RED Friday",
+   "title": "Black Friday",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 4,
-   "url": "https://twitter.com/search?q=RED%20Friday",
+   "url": "https://twitter.com/search?q=Black%20Friday",
    "board": "X Trending (24h)",
    "tokens": [
-    "RED",
+    "Black",
     "Friday"
    ]
   },
   {
-   "title": "拜托，中国男篮别再给解说员出难题了",
+   "title": "受贿5.87亿余元，广西自治区政府原主席蓝天立一审被判死缓",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
    "heat": 0,
    "rank": 4,
-   "url": "https://www.thepaper.cn/newsDetail_forward_34568938",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34574989",
    "board": "澎湃新闻",
    "tokens": [
-    "拜托",
-    "中国男篮",
-    "解说员",
-    "出难题"
+    "受贿",
+    "5.87",
+    "亿余元",
+    "广西",
+    "自治区",
+    "政府",
+    "主席",
+    "蓝天"
    ]
   },
   {
-   "title": "瞎扯 · 如何正确地吐槽",
+   "title": "中国古代城市的城墙内一定是填满建筑的「建成区」吗？",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
    "heat": 0,
    "rank": 4,
-   "url": "https://daily.zhihu.com/story/9794283",
+   "url": "https://daily.zhihu.com/story/9794320",
    "board": "知乎日报",
    "tokens": [
-    "瞎扯",
-    "正确",
-    "地吐槽"
-   ]
-  },
-  {
-   "title": "正部级蓝天立被判死缓",
-   "platform": "news",
-   "platformName": "新闻",
-   "emoji": "📰",
-   "heat": 7897000,
-   "rank": 5,
-   "url": "https://so.toutiao.com/search?keyword=%23%E6%AD%A3%E9%83%A8%E7%BA%A7%E8%93%9D%E5%A4%A9%E7%AB%8B%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23",
-   "board": "今日头条热榜",
-   "tokens": [
-    "部级",
-    "蓝天",
-    "被判",
-    "死缓"
+    "中国",
+    "古代",
+    "城市",
+    "城墙",
+    "一定",
+    "填满",
+    "建筑",
+    "建成区"
    ]
   },
   {
@@ -1726,38 +1713,55 @@
    ]
   },
   {
-   "title": "中国标准化研究院发布十大最宜居城市，北京、济南、青岛排前三，怎样看待这份榜单？你心中的宜居城市是哪些？",
-   "platform": "zhihu",
-   "platformName": "知乎",
-   "emoji": "💡",
-   "heat": 3580000,
+   "title": "哈尔滨清雪大军执行力拉满",
+   "platform": "news",
+   "platformName": "新闻",
+   "emoji": "📰",
+   "heat": 6618000,
    "rank": 5,
-   "url": "https://www.zhihu.com/question/2109591033314894380",
-   "board": "知乎热榜",
+   "url": "https://so.toutiao.com/search?keyword=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%B8%85%E9%9B%AA%E5%A4%A7%E5%86%9B%E6%89%A7%E8%A1%8C%E5%8A%9B%E6%8B%89%E6%BB%A1%23",
+   "board": "今日头条热榜",
    "tokens": [
-    "中国",
-    "标准化",
-    "研究院",
-    "十大",
-    "宜居城市",
-    "北京",
-    "济南",
-    "青岛"
+    "哈尔滨",
+    "清雪",
+    "大军",
+    "执行力",
+    "拉满"
    ]
   },
   {
-   "title": "法医刘良自曝被悬赏",
+   "title": "A 股迎史诗级暴涨，沪深两市成交额重回 2 万亿，创业板指放量大涨超 11%，超 400 只个股涨停，发生了什么？",
+   "platform": "zhihu",
+   "platformName": "知乎",
+   "emoji": "💡",
+   "heat": 1390000,
+   "rank": 5,
+   "url": "https://www.zhihu.com/question/2109643924381726663",
+   "board": "知乎热榜",
+   "tokens": [
+    "股迎",
+    "史诗",
+    "暴涨",
+    "两市",
+    "成交额",
+    "重回",
+    "万亿",
+    "创业板"
+   ]
+  },
+  {
+   "title": "许飞 天娱前员工",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 600000,
+   "heat": 100000,
    "rank": 5,
-   "url": "https://s.weibo.com/weibo?q=%E6%B3%95%E5%8C%BB%E5%88%98%E8%89%AF%E8%87%AA%E6%9B%9D%E8%A2%AB%E6%82%AC%E8%B5%8F",
+   "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E+%E5%A4%A9%E5%A8%B1%E5%89%8D%E5%91%98%E5%B7%A5",
    "board": "微博热搜榜",
    "tokens": [
-    "法医",
-    "刘良",
-    "悬赏"
+    "许飞",
+    "天娱",
+    "员工"
    ]
   },
   {
@@ -1778,23 +1782,18 @@
    ]
   },
   {
-   "title": "在医院陪护的日子 #老人需要关爱更需要陪伴 ，希望天下所有老人都被善待",
+   "title": "这次，我帮你重拼。#拼豆",
    "platform": "douyin",
    "platformName": "抖音",
    "emoji": "🎵",
    "heat": 0,
    "rank": 5,
-   "url": "https://www.douyin.com/video/7712251234094286976",
+   "url": "https://www.douyin.com/video/7707947157471844090",
    "board": "抖音热点榜",
    "tokens": [
-    "医院",
-    "陪护",
-    "日子",
-    "老人",
-    "需要",
-    "关爱",
-    "需要",
-    "陪伴"
+    "这次",
+    "重拼",
+    "拼豆"
    ]
   },
   {
@@ -1814,35 +1813,36 @@
    ]
   },
   {
-   "title": "EvaFarmSight",
+   "title": "#HereWeGo",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 5,
-   "url": "https://twitter.com/search?q=EvaFarmSight",
+   "url": "https://twitter.com/search?q=%23HereWeGo",
    "board": "X Trending (24h)",
    "tokens": [
-    "EvaFarmSight"
+    "HereWeGo"
    ]
   },
   {
-   "title": "经纬度｜引资结构优化绝不等于 “外资跑路”",
+   "title": "雅迪、台铃、爱玛、小牛等15家电动自行车企业被集中约谈",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
    "heat": 0,
    "rank": 5,
-   "url": "https://www.thepaper.cn/newsDetail_forward_34556525",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34574923",
    "board": "澎湃新闻",
    "tokens": [
-    "经纬度",
-    "引资",
-    "结构",
-    "优化",
-    "绝不",
-    "等于",
-    "外资"
+    "雅迪",
+    "台铃",
+    "爱玛",
+    "小牛",
+    "电动",
+    "自行车",
+    "企业",
+    "集中"
    ]
   },
   {
@@ -1862,55 +1862,56 @@
    ]
   },
   {
-   "title": "孕妇生下裹着完整胎膜的宝宝",
+   "title": "武契奇称一旦绝食将不接受救治",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 7145000,
+   "heat": 5988000,
    "rank": 6,
-   "url": "https://so.toutiao.com/search?keyword=%23%E5%AD%95%E5%A6%87%E7%94%9F%E4%B8%8B%E8%A3%B9%E7%9D%80%E5%AE%8C%E6%95%B4%E8%83%8E%E8%86%9C%E7%9A%84%E5%AE%9D%E5%AE%9D%23",
+   "url": "https://so.toutiao.com/search?keyword=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E7%A7%B0%E4%B8%80%E6%97%A6%E7%BB%9D%E9%A3%9F%E5%B0%86%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%95%91%E6%B2%BB%23",
    "board": "今日头条热榜",
    "tokens": [
-    "孕妇",
-    "生下",
-    "胎膜",
-    "宝宝"
+    "武契奇",
+    "一旦",
+    "绝食",
+    "接受",
+    "救治"
    ]
   },
   {
-   "title": "能拍出《大明王朝 1566》的导演为什么会在《两京十五日》翻车了？",
+   "title": "特斯拉和 SpaceX 冲刺年底合并，将成人类史上最大并购案，马斯克为何要合并两家公司？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 3220000,
+   "heat": 1360000,
    "rank": 6,
-   "url": "https://www.zhihu.com/question/2108875718960617190",
+   "url": "https://www.zhihu.com/question/2109592384853861548",
    "board": "知乎热榜",
    "tokens": [
-    "拍出",
-    "明王朝",
-    "导演",
-    "两京",
-    "十五日",
-    "翻车"
+    "特斯拉",
+    "SpaceX",
+    "冲刺",
+    "年底",
+    "合并",
+    "将成",
+    "人类史上",
+    "最大"
    ]
   },
   {
-   "title": "三只松鼠20亿园区容不下一间好宿舍",
+   "title": "见到真正的非暴力沟通了",
    "platform": "weibo",
    "platformName": "微博",
    "emoji": "🐦",
-   "heat": 590000,
+   "heat": 100000,
    "rank": 6,
-   "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A020%E4%BA%BF%E5%9B%AD%E5%8C%BA%E5%AE%B9%E4%B8%8D%E4%B8%8B%E4%B8%80%E9%97%B4%E5%A5%BD%E5%AE%BF%E8%88%8D",
+   "url": "https://s.weibo.com/weibo?q=%E8%A7%81%E5%88%B0%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E4%BA%86",
    "board": "微博热搜榜",
    "tokens": [
-    "三只",
-    "松鼠",
-    "园区",
-    "容不下",
-    "一间",
-    "宿舍"
+    "见到",
+    "真正",
+    "非暴力",
+    "沟通"
    ]
   },
   {
@@ -1934,18 +1935,17 @@
    ]
   },
   {
-   "title": "结婚就要热热闹闹",
+   "title": "漏水检测",
    "platform": "douyin",
    "platformName": "抖音",
    "emoji": "🎵",
    "heat": 0,
    "rank": 6,
-   "url": "https://www.douyin.com/video/7712329959314308849",
+   "url": "https://www.douyin.com/video/7712406590825333169",
    "board": "抖音热点榜",
    "tokens": [
-    "结婚",
-    "就要",
-    "热热闹闹"
+    "漏水",
+    "检测"
    ]
   },
   {
@@ -1965,36 +1965,36 @@
    ]
   },
   {
-   "title": "#PercyJackson",
+   "title": "#DENvsPIT",
    "platform": "x",
    "platformName": "X",
    "emoji": "✳️",
    "heat": 0,
    "rank": 6,
-   "url": "https://twitter.com/search?q=%23PercyJackson",
+   "url": "https://twitter.com/search?q=%23DENvsPIT",
    "board": "X Trending (24h)",
    "tokens": [
-    "PercyJackson"
+    "DENvsPIT"
    ]
   },
   {
-   "title": "受贿5.87亿余元，广西自治区政府原主席蓝天立一审被判死缓",
+   "title": "四川德阳一体校回应“教练当学生面连摔多部手机”：可能处理问题比较简单粗暴",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
    "heat": 0,
    "rank": 6,
-   "url": "https://www.thepaper.cn/newsDetail_forward_34574989",
+   "url": "https://www.thepaper.cn/newsDetail_forward_34572642",
    "board": "澎湃新闻",
    "tokens": [
-    "受贿",
-    "5.87",
-    "亿余元",
-    "广西",
-    "自治区",
-    "政府",
-    "主席",
-    "蓝天"
+    "四川",
+    "德阳",
+    "体校",
+    "教练",
+    "学生",
+    "面连",
+    "部手机",
+    "可能"
    ]
   },
   {
@@ -2016,39 +2016,39 @@
    ]
   },
   {
-   "title": "又一家车企宣布停产燃油车",
+   "title": "国家队抄底力度已超“924”",
    "platform": "news",
    "platformName": "新闻",
    "emoji": "📰",
-   "heat": 6465000,
+   "heat": 4436000,
    "rank": 7,
-   "url": "https://so.toutiao.com/search?keyword=%23%E5%8F%88%E4%B8%80%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%AE%A3%E5%B8%83%E5%81%9C%E4%BA%A7%E7%87%83%E6%B2%B9%E8%BD%A6%23",
+   "url": "https://so.toutiao.com/search?keyword=%23%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%8A%84%E5%BA%95%E5%8A%9B%E5%BA%A6%E5%B7%B2%E8%B6%85%E2%80%9C924%E2%80%9D%23",
    "board": "今日头条热榜",
    "tokens": [
-    "一家",
-    "车企",
-    "停产",
-    "燃油"
+    "国家队",
+    "抄底",
+    "力度",
+    "已超"
    ]
   },
   {
-   "title": "北大教师右眼被注入工业气体获赔 388 万，顶格惩罚性赔偿的依据是什么？",
+   "title": "商务部开新闻发布会称机关单位带头过紧日子，透露了什么信号？可能有哪些影响？",
    "platform": "zhihu",
    "platformName": "知乎",
    "emoji": "💡",
-   "heat": 2890000,
+   "heat": 1210000,
    "rank": 7,
-   "url": "https://www.zhihu.com/question/2109322061701177833",
+   "url": "https://www.zhihu.com/question/2109592991497189095",
    "board": "知乎热榜",
    "tokens": [
-    "北大",
-    "教师",
-    "右眼",
-    "注入",
-    "工业气体",
-    "获赔",
-    "顶格",
-    "惩罚性"
+    "商务部",
+    "新闻",
+    "发布会",
+    "机关",
+    "单位",
+    "带头",
+    "紧日子",
+    "透露"
    ]
   }
  ],
@@ -2065,10 +2065,10 @@
  "slang": [
   {
    "word": "画地为牢",
-   "desc": "近 7 天在微博、抖音等平台热榜被反复提及，共 8 次，覆盖 4 天、2 个平台；在热榜中以「在贺峻霖视频里画地为牢、换我画地为牢了」等不同句式出现，属当下在流通的可套用表达。",
+   "desc": "近 7 天在微博、抖音、知乎等平台热榜被反复提及，共 9 次，覆盖 4 天、3 个平台；在热榜中以「在贺峻霖视频里画地为牢、换我画地为牢了」等不同句式出现，属当下在流通的可套用表达。",
    "defSource": "本轮据近 7 天热榜语境归纳",
    "kind": "新词（百科未收录）",
-   "mentions": 8,
+   "mentions": 9,
    "days": 4,
    "dayList": [
     "2026-11-23",
@@ -2078,10 +2078,11 @@
    ],
    "platforms": [
     "微博",
-    "抖音"
+    "抖音",
+    "知乎"
    ],
-   "platformCount": 2,
-   "variants": 7,
+   "platformCount": 3,
+   "variants": 8,
    "samples": [
     {
      "platform": "抖音",
@@ -2109,11 +2110,12 @@
    "desc": "问题很多、意见很多，很挑的意思",
    "defSource": "百度百科",
    "kind": "网络用语",
-   "mentions": 5,
-   "days": 2,
+   "mentions": 6,
+   "days": 3,
    "dayList": [
     "2026-11-22",
-    "2026-11-23"
+    "2026-11-23",
+    "2026-11-27"
    ],
    "platforms": [
     "今日头条"
@@ -2143,14 +2145,53 @@
    "url": "http://baike.baidu.com/item/%E6%9C%BA%E8%BD%A6/23519790"
   },
   {
-   "word": "巅峰挑战赛",
-   "desc": "近 7 天在微博、抖音等平台热榜被反复提及，共 4 次，覆盖 3 天、2 个平台；在热榜中以「PEL巅峰挑战赛神图有了、天霸巅峰挑战赛总决赛冠军」等不同句式出现，属当下在流通的可套用表达。",
+   "word": "势舞",
+   "desc": "近 7 天在抖音等平台热榜被反复提及，共 6 次，覆盖 4 天、1 个平台；在热榜中以「kissmysoul手势舞挑战、白小纯收藏了青稚手势舞歌曲」等不同句式出现，属当下在流通的可套用表达。",
    "defSource": "本轮据近 7 天热榜语境归纳",
    "kind": "新词（百科未收录）",
-   "mentions": 4,
-   "days": 3,
+   "mentions": 6,
+   "days": 4,
    "dayList": [
-    "2026-11-21",
+    "2026-11-22",
+    "2026-11-23",
+    "2026-11-24",
+    "2026-11-25"
+   ],
+   "platforms": [
+    "抖音"
+   ],
+   "platformCount": 1,
+   "variants": 3,
+   "samples": [
+    {
+     "platform": "抖音",
+     "day": "2026-11-22",
+     "title": "试试看手势舞",
+     "url": "https://www.douyin.com/search/%E8%AF%95%E8%AF%95%E7%9C%8B%E6%89%8B%E5%8A%BF%E8%88%9E"
+    },
+    {
+     "platform": "抖音",
+     "day": "2026-11-22",
+     "title": "kissmysoul手势舞挑战",
+     "url": "https://www.douyin.com/search/kissmysoul%E6%89%8B%E5%8A%BF%E8%88%9E%E6%8C%91%E6%88%98"
+    },
+    {
+     "platform": "抖音",
+     "day": "2026-11-24",
+     "title": "翟一莹茉茉手势舞来了",
+     "url": "https://www.douyin.com/search/%E7%BF%9F%E4%B8%80%E8%8E%B9%E8%8C%89%E8%8C%89%E6%89%8B%E5%8A%BF%E8%88%9E%E6%9D%A5%E4%BA%86"
+    }
+   ],
+   "url": "https://baike.baidu.com/item/%E5%8A%BF%E8%88%9E"
+  },
+  {
+   "word": "现发",
+   "desc": "近 7 天在微博、抖音等平台热榜被反复提及，共 5 次，覆盖 2 天、2 个平台；在热榜中以「沈腾摔倒现发所有人都在扶、王楚然泰国录现发的一天」等不同句式出现，属当下在流通的可套用表达。",
+   "defSource": "本轮据近 7 天热榜语境归纳",
+   "kind": "新词（百科未收录）",
+   "mentions": 5,
+   "days": 2,
+   "dayList": [
     "2026-11-22",
     "2026-11-23"
    ],
@@ -2159,62 +2200,28 @@
     "抖音"
    ],
    "platformCount": 2,
-   "variants": 3,
+   "variants": 4,
    "samples": [
     {
      "platform": "微博",
-     "day": "2026-11-21",
-     "title": "青稚巅峰挑战赛淘汰榜第五",
-     "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E5%B7%85%E5%B3%B0%E6%8C%91%E6%88%98%E8%B5%9B%E6%B7%98%E6%B1%B0%E6%A6%9C%E7%AC%AC%E4%BA%94&t=31&band_rank=13&Refer=top"
+     "day": "2026-11-22",
+     "title": "沈腾摔倒现发所有人都在扶",
+     "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E6%91%94%E5%80%92%E7%8E%B0%E5%8F%91%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E5%9C%A8%E6%89%B6%23&t=31&band_rank=21&Refer=top"
     },
     {
      "platform": "抖音",
      "day": "2026-11-22",
-     "title": "PEL巅峰挑战赛神图有了",
-     "url": "https://www.douyin.com/search/PEL%E5%B7%85%E5%B3%B0%E6%8C%91%E6%88%98%E8%B5%9B%E7%A5%9E%E5%9B%BE%E6%9C%89%E4%BA%86"
+     "title": "终于等到贾冰现发冷面教程",
+     "url": "https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E8%B4%BE%E5%86%B0%E7%8E%B0%E5%8F%91%E5%86%B7%E9%9D%A2%E6%95%99%E7%A8%8B"
     },
-    {
-     "platform": "微博",
-     "day": "2026-11-23",
-     "title": "天霸巅峰挑战赛总决赛冠军",
-     "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%9C%B8%E5%B7%85%E5%B3%B0%E6%8C%91%E6%88%98%E8%B5%9B%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B%23&t=31&band_rank=26&Refer=top"
-    }
-   ],
-   "url": "https://baike.baidu.com/item/%E5%B7%85%E5%B3%B0%E6%8C%91%E6%88%98%E8%B5%9B"
-  },
-  {
-   "word": "排面",
-   "desc": "指排场加面子",
-   "defSource": "百度百科",
-   "kind": "网络流行语，指排场加面子",
-   "mentions": 3,
-   "days": 3,
-   "dayList": [
-    "2026-11-21",
-    "2026-11-22",
-    "2026-11-23"
-   ],
-   "platforms": [
-    "今日头条",
-    "抖音"
-   ],
-   "platformCount": 2,
-   "variants": 2,
-   "samples": [
     {
      "platform": "抖音",
-     "day": "2026-11-21",
-     "title": "带领百官上朝就是排面",
-     "url": "https://www.douyin.com/search/%E5%B8%A6%E9%A2%86%E7%99%BE%E5%AE%98%E4%B8%8A%E6%9C%9D%E5%B0%B1%E6%98%AF%E6%8E%92%E9%9D%A2"
-    },
-    {
-     "platform": "今日头条",
-     "day": "2026-11-23",
-     "title": "七兄弟给姐姐送嫁排面拉满",
-     "url": "https://www.toutiao.com/trending/7710885577256141363/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227710885577256141363%22%2C%22hot_board_impr_id%22%3A%22202611231126243167E25B2C6A01F52D50%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%83%E5%85%84%E5%BC%9F%E7%BB%99%E5%A7%90%E5%A7%90%E9%80%81%E5%AB%81%E6%8E%92%E9%9D%A2%E6%8B%89%E6%BB%A1%22%7D&rank=&style_id=40132&topic_id=7710885577256141363"
+     "day": "2026-11-22",
+     "title": "现发团大片看不过来了",
+     "url": "https://www.douyin.com/search/%E7%8E%B0%E5%8F%91%E5%9B%A2%E5%A4%A7%E7%89%87%E7%9C%8B%E4%B8%8D%E8%BF%87%E6%9D%A5%E4%BA%86"
     }
    ],
-   "url": "http://baike.baidu.com/view/8751273.htm"
+   "url": "https://baike.baidu.com/item/%E7%8E%B0%E5%8F%91"
   },
   {
    "word": "松弛感",
