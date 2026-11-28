@@ -1,14 +1,14 @@
 /* CATCH · 自动生成，请勿手工修改 —— 由 tools/build_site.py 装配 */
 window.CATCH_DATA = {
  "meta": {
-  "generatedAt": "2026-11-28T08:35:56.734724+08:00",
+  "generatedAt": "2026-11-28T21:55:11.098843+08:00",
   "issueDate": "2026-11-28",
   "issueNo": "008",
   "dateLabel": "2026 年 11 月 28 日",
   "weekday": "星期六",
-  "mode": "full",
+  "mode": "hourly",
   "lastFullRun": "2026-11-28",
-  "durationSec": 825.9,
+  "durationSec": 57.6,
   "platformStatus": {
    "weibo": {
     "source": "tophub.today · weibo",
@@ -54,7 +54,7 @@ window.CATCH_DATA = {
    },
    "news": {
     "source": "tophub.today · news",
-    "items": 125,
+    "items": 145,
     "ok": true,
     "error": null,
     "name": "新闻",
@@ -79,7 +79,7 @@ window.CATCH_DATA = {
    "bili"
   ],
   "freshness": {
-   "generatedAt": "2026-11-28T08:35:56.734767+08:00",
+   "generatedAt": "2026-11-28T21:55:11.098945+08:00",
    "maxExpectedAgeMinutes": 90,
    "note": "页面展示最近一次成功发布的云端快照；单个平台失败会明确标记"
   },
@@ -99,7 +99,7 @@ window.CATCH_DATA = {
    "hotItems": 60,
    "events": 5,
    "comments": 3757,
-   "rawScanned": 342,
+   "rawScanned": 362,
    "slang": 5
   },
   "source": "微博 / 抖音 / 小红书 / X / 知乎 / 新闻 / B站 公开榜单与真实接口"
@@ -107,58 +107,58 @@ window.CATCH_DATA = {
  "hotspots": {
   "text": [
    {
-    "title": "经纬度｜引资结构优化绝不等于 “外资跑路”",
+    "title": "央行发布人民币存贷款利率管理新规：取消贷款罚息利率的上下限",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 800000000000,
     "rank": 1,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34556525",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34576324",
     "board": "澎湃新闻",
     "tokens": [
-     "经纬度",
-     "引资",
-     "结构",
-     "优化",
-     "绝不",
-     "等于",
-     "外资"
+     "央行",
+     "人民币",
+     "存贷款",
+     "利率",
+     "管理",
+     "新规",
+     "取消",
+     "贷款"
     ]
    },
    {
-    "title": "后会友期》「告密门」播出后，厉娜风评光速下滑，网友要求她向许飞道歉，她们的矛盾真的只是友情问题吗？",
+    "title": "怎么看 DeepSeek 将多个核心算子优化至华为昇腾 950 的硬件极限，这对国产算力意味着什么？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 5100000,
+    "heat": 11590000,
     "rank": 1,
-    "url": "https://www.zhihu.com/question/2109309669831172560",
+    "url": "https://www.zhihu.com/question/2110027159284863346",
     "board": "知乎热榜",
     "tokens": [
-     "会友",
-     "告密",
-     "播出",
-     "厉娜",
-     "风评",
-     "光速",
-     "下滑",
-     "要求"
+     "DeepSeek",
+     "多个",
+     "核心",
+     "算子",
+     "优化",
+     "华为",
+     "硬件",
+     "极限"
     ]
    },
    {
-    "title": "董明珠现场发火魏建军解围",
+    "title": "后会友期未播路透",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 590000,
+    "heat": 1110000,
     "rank": 1,
-    "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%81%AB%E9%AD%8F%E5%BB%BA%E5%86%9B%E8%A7%A3%E5%9B%B4",
+    "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%9C%AA%E6%92%AD%E8%B7%AF%E9%80%8F",
     "board": "微博热搜榜",
     "tokens": [
-     "董明珠",
-     "发火",
-     "建军",
-     "解围"
+     "会友",
+     "期未播",
+     "路透"
     ]
    },
    {
@@ -196,73 +196,71 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Bo Nix",
+    "title": "#GMMTVStarlympics2026",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 1,
-    "url": "https://twitter.com/search?q=Bo%20Nix",
+    "url": "https://twitter.com/search?q=%23GMMTVStarlympics2026",
     "board": "X Trending (24h)",
     "tokens": [
-     "Bo",
-     "Nix"
+     "GMMTVStarlympics2026"
     ]
    },
    {
-    "title": "央行发布人民币存贷款利率管理新规：取消贷款罚息利率的上下限",
+    "title": "暖侬心｜72岁老人跳下3米深河救起6岁幼童：这份善良不声张，也不算账",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 800000000000,
-    "rank": 2,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34576324",
+    "rank": 26,
+    "url": "https://www.thepaper.cn/newsDetail_forward_34541801",
     "board": "澎湃新闻",
     "tokens": [
-     "央行",
-     "人民币",
-     "存贷款",
-     "利率",
-     "管理",
-     "新规",
-     "取消",
-     "贷款"
+     "老人",
+     "跳下",
+     "深河",
+     "救起",
+     "幼童",
+     "这份",
+     "善良",
+     "声张"
     ]
    },
    {
-    "title": "国常会的通稿首次使用了「国家队」、类「平准基金」这些提法，释放了哪些信号？",
+    "title": "如何看待女子称因年龄超 40 岁被酒店拒绝入住？预订平台没有醒目提示，这种规定合法吗？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1970000,
+    "heat": 10770000,
     "rank": 2,
-    "url": "https://www.zhihu.com/question/2109697976268321407",
+    "url": "https://www.zhihu.com/question/2109585824480236082",
     "board": "知乎热榜",
     "tokens": [
-     "常会",
-     "通稿",
-     "首次",
-     "使用",
-     "国家队",
-     "平准基金",
-     "这些",
-     "提法"
+     "看待",
+     "称因",
+     "年龄",
+     "酒店",
+     "拒绝",
+     "入住",
+     "预订",
+     "平台"
     ]
    },
    {
-    "title": "千万不要用纸巾包贵重物品",
+    "title": "原来孔子不姓孔",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 410000,
+    "heat": 800000,
     "rank": 2,
-    "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%94%A8%E7%BA%B8%E5%B7%BE%E5%8C%85%E8%B4%B5%E9%87%8D%E7%89%A9%E5%93%81",
+    "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%AD%94%E5%AD%90%E4%B8%8D%E5%A7%93%E5%AD%94",
     "board": "微博热搜榜",
     "tokens": [
-     "千万",
-     "不要",
-     "纸巾",
-     "贵重物品"
+     "原来",
+     "孔子",
+     "不姓"
     ]
    },
    {
@@ -299,67 +297,74 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Broncos",
+    "title": "Good Saturday",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 2,
-    "url": "https://twitter.com/search?q=Broncos",
+    "url": "https://twitter.com/search?q=Good%20Saturday",
     "board": "X Trending (24h)",
     "tokens": [
-     "Broncos"
+     "Good",
+     "Saturday"
     ]
    },
    {
-    "title": "孔子其实根本不姓孔",
+    "title": "日产汽车在华销量大减，计划首次将与中国合资生产汽车“反向进口”至日本销售",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 9873000,
-    "rank": 2,
-    "url": "https://so.toutiao.com/search?keyword=%23%E5%AD%94%E5%AD%90%E5%85%B6%E5%AE%9E%E6%A0%B9%E6%9C%AC%E4%B8%8D%E5%A7%93%E5%AD%94%23",
-    "board": "今日头条热榜",
+    "heat": 800000000000,
+    "rank": 27,
+    "url": "https://www.thepaper.cn/newsDetail_forward_34572966",
+    "board": "澎湃新闻",
     "tokens": [
-     "孔子",
-     "其实",
-     "根本",
-     "不姓"
+     "日产",
+     "汽车",
+     "销量",
+     "大减",
+     "计划",
+     "首次",
+     "中国",
+     "合资"
     ]
    },
    {
-    "title": "如何评价冯骥在《后 AI 时代最重要的问题》一文中的思考和想法？",
+    "title": "安徽、上海等地借助 AI 抓贪官，具体是怎么抓的？有哪些优点和局限性？该如何应对不断变化的作案手法？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1490000,
+    "heat": 4580000,
     "rank": 3,
-    "url": "https://www.zhihu.com/question/2109705664087816135",
+    "url": "https://www.zhihu.com/question/2109199188017635797",
     "board": "知乎热榜",
     "tokens": [
-     "评价",
-     "冯骥",
+     "安徽",
+     "上海",
+     "借助",
      "AI",
-     "时代",
-     "重要",
-     "问题",
-     "一文",
-     "思考"
+     "贪官",
+     "具体",
+     "优点",
+     "局限性"
     ]
    },
    {
-    "title": "180秒回顾神24发射任务",
+    "title": "三重变化勾勒消费市场新图景",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 350000,
+    "heat": 660000,
     "rank": 3,
-    "url": "https://s.weibo.com/weibo?q=180%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E24%E5%8F%91%E5%B0%84%E4%BB%BB%E5%8A%A1",
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E9%87%8D%E5%8F%98%E5%8C%96%E5%8B%BE%E5%8B%92%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%96%B0%E5%9B%BE%E6%99%AF",
     "board": "微博热搜榜",
     "tokens": [
-     "回顾",
-     "发射",
-     "任务"
+     "三重",
+     "变化",
+     "勾勒",
+     "消费市场",
+     "图景"
     ]
    },
    {
@@ -392,71 +397,70 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Steelers",
+    "title": "Luka",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 3,
-    "url": "https://twitter.com/search?q=Steelers",
+    "url": "https://twitter.com/search?q=Luka",
     "board": "X Trending (24h)",
     "tokens": [
-     "Steelers"
+     "Luka"
     ]
    },
    {
-    "title": "U17世界杯亚洲9队出战7队晋级",
+    "title": "展现公道正义 彰显大国担当",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 8933000,
+    "heat": 7904000,
     "rank": 1,
-    "url": "https://so.toutiao.com/search?keyword=%23U17%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%9A%E6%B4%B29%E9%98%9F%E5%87%BA%E6%88%987%E9%98%9F%E6%99%8B%E7%BA%A7%23",
-    "board": "今日头条热榜",
+    "url": "https://www.baidu.com/s?wd=%E5%B1%95%E7%8E%B0%E5%85%AC%E9%81%93%E6%AD%A3%E4%B9%89+%E5%BD%B0%E6%98%BE%E5%A4%A7%E5%9B%BD%E6%8B%85%E5%BD%93",
+    "board": "百度热搜",
     "tokens": [
-     "U17",
-     "世界杯",
-     "亚洲",
-     "出战",
-     "晋级"
+     "展现",
+     "公道",
+     "正义",
+     "彰显",
+     "大国",
+     "担当"
     ]
    },
    {
-    "title": "模特七海发博表示 「我的脸已经成 AI 短剧里的赛博恶役」，AI 融脸为什么维权难？",
+    "title": "如何看待省文科状元石松称同窗年薪百万，自己月光，普通人参加文科高考的出路是什么?",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1390000,
+    "heat": 2990000,
     "rank": 4,
-    "url": "https://www.zhihu.com/question/2109242936701478494",
+    "url": "https://www.zhihu.com/question/2109360222162764060",
     "board": "知乎热榜",
     "tokens": [
-     "模特",
-     "七海",
-     "发博",
-     "AI",
-     "短剧",
-     "赛博恶役",
-     "AI",
-     "融脸"
+     "看待",
+     "文科",
+     "状元",
+     "石松",
+     "同窗",
+     "年薪",
+     "百万",
+     "自己"
     ]
    },
    {
-    "title": "30万级唯一四激光千伏奕境X9",
+    "title": "一键停洗充用车更轻松",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 200000,
+    "heat": 580000,
     "rank": 4,
-    "url": "https://s.weibo.com/weibo?q=30%E4%B8%87%E7%BA%A7%E5%94%AF%E4%B8%80%E5%9B%9B%E6%BF%80%E5%85%89%E5%8D%83%E4%BC%8F%E5%A5%95%E5%A2%83X9",
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E9%94%AE%E5%81%9C%E6%B4%97%E5%85%85%E7%94%A8%E8%BD%A6%E6%9B%B4%E8%BD%BB%E6%9D%BE",
     "board": "微博热搜榜",
     "tokens": [
-     "万级",
-     "唯一",
-     "激光",
-     "千伏",
-     "奕境",
-     "X9"
+     "一键",
+     "洗充",
+     "用车",
+     "轻松"
     ]
    },
    {
@@ -497,69 +501,65 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Black Friday",
+    "title": "#MacysParade",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 4,
-    "url": "https://twitter.com/search?q=Black%20Friday",
+    "url": "https://twitter.com/search?q=%23MacysParade",
     "board": "X Trending (24h)",
     "tokens": [
-     "Black",
-     "Friday"
+     "MacysParade"
     ]
    },
    {
-    "title": "我国知识产权创造量质齐升",
+    "title": "今晚国内油价下调",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 8083000,
-    "rank": 3,
-    "url": "https://so.toutiao.com/search?keyword=%23%E6%88%91%E5%9B%BD%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%88%9B%E9%80%A0%E9%87%8F%E8%B4%A8%E9%BD%90%E5%8D%87%23",
-    "board": "今日头条热榜",
+    "heat": 7809000,
+    "rank": 2,
+    "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E6%99%9A%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83",
+    "board": "百度热搜",
     "tokens": [
-     "我国",
-     "知识产权",
-     "创造",
-     "量质",
-     "齐升"
+     "今晚",
+     "国内",
+     "油价",
+     "下调"
     ]
    },
    {
-    "title": "A 股迎史诗级暴涨，沪深两市成交额重回 2 万亿，创业板指放量大涨超 11%，超 400 只个股涨停，发生了什么？",
+    "title": "如果把天山凿一个洞，让大西洋水汽进来，能否让新疆变成塞上江南？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1390000,
+    "heat": 2820000,
     "rank": 5,
-    "url": "https://www.zhihu.com/question/2109643924381726663",
+    "url": "https://www.zhihu.com/question/2109560773571777098",
     "board": "知乎热榜",
     "tokens": [
-     "股迎",
-     "史诗",
-     "暴涨",
-     "两市",
-     "成交额",
-     "重回",
-     "万亿",
-     "创业板"
+     "如果",
+     "天山",
+     "大西洋",
+     "水汽",
+     "进来",
+     "能否",
+     "新疆",
+     "变成"
     ]
    },
    {
-    "title": "许飞 天娱前员工",
+    "title": "白小纯的19岁好苦",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 100000,
+    "heat": 520000,
     "rank": 5,
-    "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E+%E5%A4%A9%E5%A8%B1%E5%89%8D%E5%91%98%E5%B7%A5",
+    "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9A%8419%E5%B2%81%E5%A5%BD%E8%8B%A6",
     "board": "微博热搜榜",
     "tokens": [
-     "许飞",
-     "天娱",
-     "员工"
+     "白小纯"
     ]
    },
    {
@@ -596,70 +596,72 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "#HereWeGo",
+    "title": "Small Business Saturday",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 5,
-    "url": "https://twitter.com/search?q=%23HereWeGo",
+    "url": "https://twitter.com/search?q=Small%20Business%20Saturday",
     "board": "X Trending (24h)",
     "tokens": [
-     "HereWeGo"
+     "Small",
+     "Business",
+     "Saturday"
     ]
    },
    {
-    "title": "展现公道正义 彰显大国担当",
+    "title": "商务部：坚决反对美对中国加征关税",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7904000,
-    "rank": 1,
-    "url": "https://www.baidu.com/s?wd=%E5%B1%95%E7%8E%B0%E5%85%AC%E9%81%93%E6%AD%A3%E4%B9%89+%E5%BD%B0%E6%98%BE%E5%A4%A7%E5%9B%BD%E6%8B%85%E5%BD%93",
+    "heat": 7714000,
+    "rank": 3,
+    "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E",
     "board": "百度热搜",
     "tokens": [
-     "展现",
-     "公道",
-     "正义",
-     "彰显",
-     "大国",
-     "担当"
+     "商务部",
+     "坚决",
+     "反对",
+     "美对",
+     "中国",
+     "加征",
+     "关税"
     ]
    },
    {
-    "title": "特斯拉和 SpaceX 冲刺年底合并，将成人类史上最大并购案，马斯克为何要合并两家公司？",
+    "title": "如何看待济南医保官方视频号工作人员误以为直播结束，骂咨询者脑子有病，医保局回应称已批评教育并要求道歉？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1360000,
+    "heat": 2650000,
     "rank": 6,
-    "url": "https://www.zhihu.com/question/2109592384853861548",
+    "url": "https://www.zhihu.com/question/2109655670127605450",
     "board": "知乎热榜",
     "tokens": [
-     "特斯拉",
-     "SpaceX",
-     "冲刺",
-     "年底",
-     "合并",
-     "将成",
-     "人类史上",
-     "最大"
+     "看待",
+     "济南",
+     "医保",
+     "工作人员",
+     "误以为",
+     "结束",
+     "咨询者",
+     "脑子"
     ]
    },
    {
-    "title": "见到真正的非暴力沟通了",
+    "title": "大额存单10万元就能买了",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 100000,
+    "heat": 510000,
     "rank": 6,
-    "url": "https://s.weibo.com/weibo?q=%E8%A7%81%E5%88%B0%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E4%BA%86",
+    "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%9510%E4%B8%87%E5%85%83%E5%B0%B1%E8%83%BD%E4%B9%B0%E4%BA%86",
     "board": "微博热搜榜",
     "tokens": [
-     "见到",
-     "真正",
-     "非暴力",
-     "沟通"
+     "大额",
+     "存单",
+     "万元"
     ]
    },
    {
@@ -699,68 +701,70 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "#DENvsPIT",
+    "title": "#Caturday",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 6,
-    "url": "https://twitter.com/search?q=%23DENvsPIT",
+    "url": "https://twitter.com/search?q=%23Caturday",
     "board": "X Trending (24h)",
     "tokens": [
-     "DENvsPIT"
+     "Caturday"
     ]
    },
    {
-    "title": "今晚国内油价下调",
+    "title": "外国游客为啥爱上“中国购”",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7809000,
-    "rank": 2,
-    "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E6%99%9A%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B0%83",
+    "heat": 7619000,
+    "rank": 4,
+    "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%B8%BA%E5%95%A5%E7%88%B1%E4%B8%8A%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%B4%AD%E2%80%9D",
     "board": "百度热搜",
     "tokens": [
-     "今晚",
-     "国内",
-     "油价",
-     "下调"
+     "外国游客",
+     "为啥",
+     "爱上",
+     "中国"
     ]
    },
    {
-    "title": "商务部开新闻发布会称机关单位带头过紧日子，透露了什么信号？可能有哪些影响？",
+    "title": "央行《大额存单管理办法》公布，个人投资人认购大额存单起点降为不低于 10 万元，如何解读？将带来哪些影响？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1210000,
+    "heat": 2580000,
     "rank": 7,
-    "url": "https://www.zhihu.com/question/2109592991497189095",
+    "url": "https://www.zhihu.com/question/2109719982065940065",
     "board": "知乎热榜",
     "tokens": [
-     "商务部",
-     "新闻",
-     "发布会",
-     "机关",
-     "单位",
-     "带头",
-     "紧日子",
-     "透露"
+     "央行",
+     "大额",
+     "存单",
+     "管理",
+     "办法",
+     "公布",
+     "个人",
+     "投资人"
     ]
    },
    {
-    "title": "厉娜前经纪人张阿瞳发文",
+    "title": "成毅听到两京十五日破万的反应",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 90000,
+    "heat": 510000,
     "rank": 7,
-    "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%89%8D%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%BC%A0%E9%98%BF%E7%9E%B3%E5%8F%91%E6%96%87",
+    "url": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E5%90%AC%E5%88%B0%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E7%A0%B4%E4%B8%87%E7%9A%84%E5%8F%8D%E5%BA%94",
     "board": "微博热搜榜",
     "tokens": [
-     "厉娜",
-     "经纪人",
-     "张阿瞳",
-     "发文"
+     "成毅",
+     "听到",
+     "两京",
+     "十五日",
+     "破万",
+     "反应"
     ]
    },
    {
@@ -798,74 +802,70 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Mason Rudolph",
+    "title": "PERTHSANTA DOMIIA FAMIGNITE",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 7,
-    "url": "https://twitter.com/search?q=Mason%20Rudolph",
+    "url": "https://twitter.com/search?q=PERTHSANTA%20DOMIIA%20FAMIGNITE",
     "board": "X Trending (24h)",
     "tokens": [
-     "Mason",
-     "Rudolph"
+     "PERTHSANTA",
+     "DOMIIA",
+     "FAMIGNITE"
     ]
    },
    {
-    "title": "商务部：坚决反对美对中国加征关税",
+    "title": "9岁孩子手写短文《奶奶的家》看哭全网",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7714000,
-    "rank": 3,
-    "url": "https://www.baidu.com/s?wd=%E5%95%86%E5%8A%A1%E9%83%A8%EF%BC%9A%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E",
+    "heat": 7523000,
+    "rank": 5,
+    "url": "https://www.baidu.com/s?wd=9%E5%B2%81%E5%AD%A9%E5%AD%90%E6%89%8B%E5%86%99%E7%9F%AD%E6%96%87%E3%80%8A%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%AE%B6%E3%80%8B%E7%9C%8B%E5%93%AD%E5%85%A8%E7%BD%91",
     "board": "百度热搜",
     "tokens": [
-     "商务部",
-     "坚决",
-     "反对",
-     "美对",
-     "中国",
-     "加征",
-     "关税"
+     "孩子",
+     "手写",
+     "短文",
+     "奶奶",
+     "全网"
     ]
    },
    {
-    "title": "三只松鼠被曝 CEO 与员工薪资相差 23 倍，这个薪资差距在行业里属于什么水平？算高吗？",
+    "title": "老版《西游记》里车迟国一战，为什么孙悟空会不认得三清雕像？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1110000,
+    "heat": 2470000,
     "rank": 8,
-    "url": "https://www.zhihu.com/question/2109669812406334189",
+    "url": "https://www.zhihu.com/question/483257090",
     "board": "知乎热榜",
     "tokens": [
-     "三只",
-     "松鼠",
-     "CEO",
-     "员工",
-     "薪资",
-     "相差",
-     "薪资",
-     "差距"
+     "老版",
+     "西游记",
+     "里车",
+     "迟国",
+     "一战",
+     "孙悟空",
+     "认得",
+     "三清"
     ]
    },
    {
-    "title": "纵横新派越野标配华为乾崑技术",
+    "title": "张怡宁酷是一种氛围感",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 90000,
+    "heat": 490000,
     "rank": 8,
-    "url": "https://s.weibo.com/weibo?q=%E7%BA%B5%E6%A8%AA%E6%96%B0%E6%B4%BE%E8%B6%8A%E9%87%8E%E6%A0%87%E9%85%8D%E5%8D%8E%E4%B8%BA%E4%B9%BE%E5%B4%91%E6%8A%80%E6%9C%AF",
+    "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%80%A1%E5%AE%81%E9%85%B7%E6%98%AF%E4%B8%80%E7%A7%8D%E6%B0%9B%E5%9B%B4%E6%84%9F",
     "board": "微博热搜榜",
     "tokens": [
-     "纵横",
-     "新派",
-     "越野",
-     "标配",
-     "华为",
-     "技术"
+     "张怡宁",
+     "酷是",
+     "氛围"
     ]
    },
    {
@@ -905,69 +905,69 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Sean Payton",
+    "title": "#SaturdayVibes",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 8,
-    "url": "https://twitter.com/search?q=Sean%20Payton",
+    "url": "https://twitter.com/search?q=%23SaturdayVibes",
     "board": "X Trending (24h)",
     "tokens": [
-     "Sean",
-     "Payton"
+     "SaturdayVibes"
     ]
    },
    {
-    "title": "外国游客为啥爱上“中国购”",
+    "title": "初三男生被清华大学“预定”",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7619000,
-    "rank": 4,
-    "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%B8%BA%E5%95%A5%E7%88%B1%E4%B8%8A%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%B4%AD%E2%80%9D",
+    "heat": 7425000,
+    "rank": 6,
+    "url": "https://www.baidu.com/s?wd=%E5%88%9D%E4%B8%89%E7%94%B7%E7%94%9F%E8%A2%AB%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E2%80%9C%E9%A2%84%E5%AE%9A%E2%80%9D",
     "board": "百度热搜",
     "tokens": [
-     "外国游客",
-     "为啥",
-     "爱上",
-     "中国"
+     "初三",
+     "男生",
+     "清华大学",
+     "预定"
     ]
    },
    {
-    "title": "武汉一烧烤店员工餐有鲍鱼生蚝，大闸蟹基围虾随便吃，老板称「吃饱才有力气干活」，这个福利怎么样？",
+    "title": "马伯庸回应电视剧《两京十五日》争议，自己是用历史逻辑反推朱瞻基的来时路，如何看待这一创作方法？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 980000,
+    "heat": 2410000,
     "rank": 9,
-    "url": "https://www.zhihu.com/question/2108558920985863590",
+    "url": "https://www.zhihu.com/question/2109278882310223800",
     "board": "知乎热榜",
     "tokens": [
-     "武汉",
-     "烧烤店",
-     "员工",
-     "餐有",
-     "鲍鱼",
-     "大闸蟹",
-     "基围",
-     "随便"
+     "马伯庸",
+     "电视剧",
+     "两京",
+     "十五日",
+     "争议",
+     "自己",
+     "历史",
+     "逻辑"
     ]
    },
    {
-    "title": "马天宇 我都40了肯定有过亲密关系啊",
+    "title": "全国电视开机率已降至30%",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 90000,
+    "heat": 490000,
     "rank": 9,
-    "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87+%E6%88%91%E9%83%BD40%E4%BA%86%E8%82%AF%E5%AE%9A%E6%9C%89%E8%BF%87%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E5%95%8A",
+    "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E5%9B%BD%E7%94%B5%E8%A7%86%E5%BC%80%E6%9C%BA%E7%8E%87%E5%B7%B2%E9%99%8D%E8%87%B330%25",
     "board": "微博热搜榜",
     "tokens": [
-     "天宇",
-     "肯定",
-     "有过",
-     "亲密关系"
+     "全国",
+     "电视",
+     "机率",
+     "已降",
+     "30%"
     ]
    },
    {
@@ -1005,71 +1005,70 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Al Michaels",
+    "title": "USAID",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 9,
-    "url": "https://twitter.com/search?q=Al%20Michaels",
+    "url": "https://twitter.com/search?q=USAID",
     "board": "X Trending (24h)",
     "tokens": [
-     "Al",
-     "Michaels"
+     "USAID"
     ]
    },
    {
-    "title": "9岁孩子手写短文《奶奶的家》看哭全网",
+    "title": "普京在深圳下榻酒店留下亲笔签名",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
-    "heat": 7523000,
-    "rank": 5,
-    "url": "https://www.baidu.com/s?wd=9%E5%B2%81%E5%AD%A9%E5%AD%90%E6%89%8B%E5%86%99%E7%9F%AD%E6%96%87%E3%80%8A%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%AE%B6%E3%80%8B%E7%9C%8B%E5%93%AD%E5%85%A8%E7%BD%91",
+    "heat": 7330000,
+    "rank": 7,
+    "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%8B%E6%A6%BB%E9%85%92%E5%BA%97%E7%95%99%E4%B8%8B%E4%BA%B2%E7%AC%94%E7%AD%BE%E5%90%8D",
     "board": "百度热搜",
     "tokens": [
-     "孩子",
-     "手写",
-     "短文",
-     "奶奶",
-     "全网"
+     "普京",
+     "深圳",
+     "下榻",
+     "酒店",
+     "留下",
+     "亲笔签名"
     ]
    },
    {
-    "title": "女子入住上海四千一晚酒店，孩子不慎碰坏一摆件被索赔三千元，远高于采购价，这一索赔标准合理吗？",
+    "title": "中国一旦解决 EUV 光刻机技术，高端芯片能实现白菜价吗？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 960000,
+    "heat": 2380000,
     "rank": 10,
-    "url": "https://www.zhihu.com/question/2109291472705033135",
+    "url": "https://www.zhihu.com/question/2020866489717139044",
     "board": "知乎热榜",
     "tokens": [
-     "入住",
-     "上海",
-     "四千",
-     "酒店",
-     "孩子",
-     "不慎",
-     "碰坏",
-     "摆件"
+     "中国",
+     "一旦",
+     "解决",
+     "EUV",
+     "光刻机",
+     "技术",
+     "高端",
+     "芯片"
     ]
    },
    {
-    "title": "后会友期第三次飞行嘉宾阵容",
+    "title": "中国首位太空常住户",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 80000,
+    "heat": 480000,
     "rank": 10,
-    "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E7%AC%AC%E4%B8%89%E6%AC%A1%E9%A3%9E%E8%A1%8C%E5%98%89%E5%AE%BE%E9%98%B5%E5%AE%B9",
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BD%8D%E5%A4%AA%E7%A9%BA%E5%B8%B8%E4%BD%8F%E6%88%B7",
     "board": "微博热搜榜",
     "tokens": [
-     "会友",
-     "第三次",
-     "飞行",
-     "嘉宾",
-     "阵容"
+     "中国",
+     "首位",
+     "太空",
+     "住户"
     ]
    },
    {
@@ -1102,54 +1101,58 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Chelsea",
+    "title": "WLFI",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 10,
-    "url": "https://twitter.com/search?q=Chelsea",
+    "url": "https://twitter.com/search?q=WLFI",
     "board": "X Trending (24h)",
     "tokens": [
-     "Chelsea"
+     "WLFI"
     ]
    }
   ],
   "ranking": [
    {
-    "title": "经纬度｜引资结构优化绝不等于 “外资跑路”",
+    "title": "央行发布人民币存贷款利率管理新规：取消贷款罚息利率的上下限",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 800000000000,
     "rank": 1,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34556525",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34576324",
     "board": "澎湃新闻",
     "tokens": [
-     "经纬度",
-     "引资",
-     "结构",
-     "优化",
-     "绝不",
-     "等于",
-     "外资"
+     "央行",
+     "人民币",
+     "存贷款",
+     "利率",
+     "管理",
+     "新规",
+     "取消",
+     "贷款"
     ]
    },
    {
-    "title": "U17世界杯亚洲9队出战7队晋级",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 8933000,
+    "title": "怎么看 DeepSeek 将多个核心算子优化至华为昇腾 950 的硬件极限，这对国产算力意味着什么？",
+    "platform": "zhihu",
+    "platformName": "知乎",
+    "emoji": "💡",
+    "heat": 11590000,
     "rank": 1,
-    "url": "https://so.toutiao.com/search?keyword=%23U17%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%9A%E6%B4%B29%E9%98%9F%E5%87%BA%E6%88%987%E9%98%9F%E6%99%8B%E7%BA%A7%23",
-    "board": "今日头条热榜",
+    "url": "https://www.zhihu.com/question/2110027159284863346",
+    "board": "知乎热榜",
     "tokens": [
-     "U17",
-     "世界杯",
-     "亚洲",
-     "出战",
-     "晋级"
+     "DeepSeek",
+     "多个",
+     "核心",
+     "算子",
+     "优化",
+     "华为",
+     "硬件",
+     "极限"
     ]
    },
    {
@@ -1171,39 +1174,35 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "后会友期》「告密门」播出后，厉娜风评光速下滑，网友要求她向许飞道歉，她们的矛盾真的只是友情问题吗？",
-    "platform": "zhihu",
-    "platformName": "知乎",
-    "emoji": "💡",
-    "heat": 5100000,
+    "title": "巴航天员为何只在中国空间站待几天",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 4732000,
     "rank": 1,
-    "url": "https://www.zhihu.com/question/2109309669831172560",
-    "board": "知乎热榜",
+    "url": "https://so.toutiao.com/search?keyword=%23%E5%B7%B4%E8%88%AA%E5%A4%A9%E5%91%98%E4%B8%BA%E4%BD%95%E5%8F%AA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E5%BE%85%E5%87%A0%E5%A4%A9%23",
+    "board": "今日头条热榜",
     "tokens": [
-     "会友",
-     "告密",
-     "播出",
-     "厉娜",
-     "风评",
-     "光速",
-     "下滑",
-     "要求"
+     "航天员",
+     "为何",
+     "中国",
+     "空间站",
+     "几天"
     ]
    },
    {
-    "title": "董明珠现场发火魏建军解围",
+    "title": "后会友期未播路透",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 590000,
+    "heat": 1110000,
     "rank": 1,
-    "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%8E%B0%E5%9C%BA%E5%8F%91%E7%81%AB%E9%AD%8F%E5%BB%BA%E5%86%9B%E8%A7%A3%E5%9B%B4",
+    "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%9C%AA%E6%92%AD%E8%B7%AF%E9%80%8F",
     "board": "微博热搜榜",
     "tokens": [
-     "董明珠",
-     "发火",
-     "建军",
-     "解围"
+     "会友",
+     "期未播",
+     "路透"
     ]
    },
    {
@@ -1241,17 +1240,16 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Bo Nix",
+    "title": "#GMMTVStarlympics2026",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 1,
-    "url": "https://twitter.com/search?q=Bo%20Nix",
+    "url": "https://twitter.com/search?q=%23GMMTVStarlympics2026",
     "board": "X Trending (24h)",
     "tokens": [
-     "Bo",
-     "Nix"
+     "GMMTVStarlympics2026"
     ]
    },
    {
@@ -1275,39 +1273,23 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "央行发布人民币存贷款利率管理新规：取消贷款罚息利率的上下限",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 800000000000,
+    "title": "如何看待女子称因年龄超 40 岁被酒店拒绝入住？预订平台没有醒目提示，这种规定合法吗？",
+    "platform": "zhihu",
+    "platformName": "知乎",
+    "emoji": "💡",
+    "heat": 10770000,
     "rank": 2,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34576324",
-    "board": "澎湃新闻",
+    "url": "https://www.zhihu.com/question/2109585824480236082",
+    "board": "知乎热榜",
     "tokens": [
-     "央行",
-     "人民币",
-     "存贷款",
-     "利率",
-     "管理",
-     "新规",
-     "取消",
-     "贷款"
-    ]
-   },
-   {
-    "title": "孔子其实根本不姓孔",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 9873000,
-    "rank": 2,
-    "url": "https://so.toutiao.com/search?keyword=%23%E5%AD%94%E5%AD%90%E5%85%B6%E5%AE%9E%E6%A0%B9%E6%9C%AC%E4%B8%8D%E5%A7%93%E5%AD%94%23",
-    "board": "今日头条热榜",
-    "tokens": [
-     "孔子",
-     "其实",
-     "根本",
-     "不姓"
+     "看待",
+     "称因",
+     "年龄",
+     "酒店",
+     "拒绝",
+     "入住",
+     "预订",
+     "平台"
     ]
    },
    {
@@ -1327,39 +1309,36 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "国常会的通稿首次使用了「国家队」、类「平准基金」这些提法，释放了哪些信号？",
-    "platform": "zhihu",
-    "platformName": "知乎",
-    "emoji": "💡",
-    "heat": 1970000,
+    "title": "航天员返航为何要等待返回窗口",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 3506000,
     "rank": 2,
-    "url": "https://www.zhihu.com/question/2109697976268321407",
-    "board": "知乎热榜",
+    "url": "https://so.toutiao.com/search?keyword=%23%E8%88%AA%E5%A4%A9%E5%91%98%E8%BF%94%E8%88%AA%E4%B8%BA%E4%BD%95%E8%A6%81%E7%AD%89%E5%BE%85%E8%BF%94%E5%9B%9E%E7%AA%97%E5%8F%A3%23",
+    "board": "今日头条热榜",
     "tokens": [
-     "常会",
-     "通稿",
-     "首次",
-     "使用",
-     "国家队",
-     "平准基金",
-     "这些",
-     "提法"
+     "航天员",
+     "返航",
+     "为何",
+     "等待",
+     "返回",
+     "窗口"
     ]
    },
    {
-    "title": "千万不要用纸巾包贵重物品",
+    "title": "原来孔子不姓孔",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 410000,
+    "heat": 800000,
     "rank": 2,
-    "url": "https://s.weibo.com/weibo?q=%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%94%A8%E7%BA%B8%E5%B7%BE%E5%8C%85%E8%B4%B5%E9%87%8D%E7%89%A9%E5%93%81",
+    "url": "https://s.weibo.com/weibo?q=%E5%8E%9F%E6%9D%A5%E5%AD%94%E5%AD%90%E4%B8%8D%E5%A7%93%E5%AD%94",
     "board": "微博热搜榜",
     "tokens": [
-     "千万",
-     "不要",
-     "纸巾",
-     "贵重物品"
+     "原来",
+     "孔子",
+     "不姓"
     ]
    },
    {
@@ -1416,16 +1395,37 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Broncos",
+    "title": "Good Saturday",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 2,
-    "url": "https://twitter.com/search?q=Broncos",
+    "url": "https://twitter.com/search?q=Good%20Saturday",
     "board": "X Trending (24h)",
     "tokens": [
-     "Broncos"
+     "Good",
+     "Saturday"
+    ]
+   },
+   {
+    "title": "合力稳市！“国家队”护盘过程中各类机构均为净买入，股票型ETF十月以来净申购近8000亿",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 0,
+    "rank": 2,
+    "url": "https://www.thepaper.cn/newsDetail_forward_34576889",
+    "board": "澎湃新闻",
+    "tokens": [
+     "合力",
+     "稳市",
+     "国家队",
+     "护盘",
+     "过程",
+     "各类",
+     "机构",
+     "买入"
     ]
    },
    {
@@ -1449,23 +1449,6 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "我国知识产权创造量质齐升",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 8083000,
-    "rank": 3,
-    "url": "https://so.toutiao.com/search?keyword=%23%E6%88%91%E5%9B%BD%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E5%88%9B%E9%80%A0%E9%87%8F%E8%B4%A8%E9%BD%90%E5%8D%87%23",
-    "board": "今日头条热榜",
-    "tokens": [
-     "我国",
-     "知识产权",
-     "创造",
-     "量质",
-     "齐升"
-    ]
-   },
-   {
     "title": "商务部：坚决反对美对中国加征关税",
     "platform": "news",
     "platformName": "新闻",
@@ -1485,38 +1468,56 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "如何评价冯骥在《后 AI 时代最重要的问题》一文中的思考和想法？",
-    "platform": "zhihu",
-    "platformName": "知乎",
-    "emoji": "💡",
-    "heat": 1490000,
+    "title": "冰雪+”释放消费热动能",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 5230000,
     "rank": 3,
-    "url": "https://www.zhihu.com/question/2109705664087816135",
-    "board": "知乎热榜",
+    "url": "https://so.toutiao.com/search?keyword=%23%E2%80%9C%E5%86%B0%E9%9B%AA%2B%E2%80%9D%E9%87%8A%E6%94%BE%E6%B6%88%E8%B4%B9%E7%83%AD%E5%8A%A8%E8%83%BD%23",
+    "board": "今日头条热榜",
     "tokens": [
-     "评价",
-     "冯骥",
-     "AI",
-     "时代",
-     "重要",
-     "问题",
-     "一文",
-     "思考"
+     "冰雪",
+     "释放",
+     "消费",
+     "动能"
     ]
    },
    {
-    "title": "180秒回顾神24发射任务",
+    "title": "安徽、上海等地借助 AI 抓贪官，具体是怎么抓的？有哪些优点和局限性？该如何应对不断变化的作案手法？",
+    "platform": "zhihu",
+    "platformName": "知乎",
+    "emoji": "💡",
+    "heat": 4580000,
+    "rank": 3,
+    "url": "https://www.zhihu.com/question/2109199188017635797",
+    "board": "知乎热榜",
+    "tokens": [
+     "安徽",
+     "上海",
+     "借助",
+     "AI",
+     "贪官",
+     "具体",
+     "优点",
+     "局限性"
+    ]
+   },
+   {
+    "title": "三重变化勾勒消费市场新图景",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 350000,
+    "heat": 660000,
     "rank": 3,
-    "url": "https://s.weibo.com/weibo?q=180%E7%A7%92%E5%9B%9E%E9%A1%BE%E7%A5%9E24%E5%8F%91%E5%B0%84%E4%BB%BB%E5%8A%A1",
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E9%87%8D%E5%8F%98%E5%8C%96%E5%8B%BE%E5%8B%92%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%96%B0%E5%9B%BE%E6%99%AF",
     "board": "微博热搜榜",
     "tokens": [
-     "回顾",
-     "发射",
-     "任务"
+     "三重",
+     "变化",
+     "勾勒",
+     "消费市场",
+     "图景"
     ]
    },
    {
@@ -1569,36 +1570,34 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Steelers",
+    "title": "Luka",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 3,
-    "url": "https://twitter.com/search?q=Steelers",
+    "url": "https://twitter.com/search?q=Luka",
     "board": "X Trending (24h)",
     "tokens": [
-     "Steelers"
+     "Luka"
     ]
    },
    {
-    "title": "合力稳市！“国家队”护盘过程中各类机构均为净买入，股票型ETF十月以来净申购近8000亿",
+    "title": "新华社评国少队大胜出线：时隔21年，这痛快久违了！",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 3,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34576889",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34576720",
     "board": "澎湃新闻",
     "tokens": [
-     "合力",
-     "稳市",
-     "国家队",
-     "护盘",
-     "过程",
-     "各类",
-     "机构",
-     "买入"
+     "国少队",
+     "大胜",
+     "出线",
+     "时隔",
+     "痛快",
+     "久违"
     ]
    },
    {
@@ -1638,56 +1637,57 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "媒体：跳槽不是“偷人”",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 7314000,
-    "rank": 4,
-    "url": "https://so.toutiao.com/search?keyword=%23%E5%AA%92%E4%BD%93%EF%BC%9A%E8%B7%B3%E6%A7%BD%E4%B8%8D%E6%98%AF%E2%80%9C%E5%81%B7%E4%BA%BA%E2%80%9D%23",
-    "board": "今日头条热榜",
-    "tokens": [
-     "媒体",
-     "跳槽",
-     "偷人"
-    ]
-   },
-   {
-    "title": "模特七海发博表示 「我的脸已经成 AI 短剧里的赛博恶役」，AI 融脸为什么维权难？",
+    "title": "如何看待省文科状元石松称同窗年薪百万，自己月光，普通人参加文科高考的出路是什么?",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1390000,
+    "heat": 2990000,
     "rank": 4,
-    "url": "https://www.zhihu.com/question/2109242936701478494",
+    "url": "https://www.zhihu.com/question/2109360222162764060",
     "board": "知乎热榜",
     "tokens": [
-     "模特",
-     "七海",
-     "发博",
-     "AI",
-     "短剧",
-     "赛博恶役",
-     "AI",
-     "融脸"
+     "看待",
+     "文科",
+     "状元",
+     "石松",
+     "同窗",
+     "年薪",
+     "百万",
+     "自己"
     ]
    },
    {
-    "title": "30万级唯一四激光千伏奕境X9",
+    "title": "珠海籍歼-10C飞行员郭晓军排面拉满",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 2870000,
+    "rank": 4,
+    "url": "https://so.toutiao.com/search?keyword=%23%E7%8F%A0%E6%B5%B7%E7%B1%8D%E6%AD%BC-10C%E9%A3%9E%E8%A1%8C%E5%91%98%E9%83%AD%E6%99%93%E5%86%9B%E6%8E%92%E9%9D%A2%E6%8B%89%E6%BB%A1%23",
+    "board": "今日头条热榜",
+    "tokens": [
+     "珠海",
+     "10C",
+     "飞行员",
+     "郭晓军",
+     "排面",
+     "拉满"
+    ]
+   },
+   {
+    "title": "一键停洗充用车更轻松",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 200000,
+    "heat": 580000,
     "rank": 4,
-    "url": "https://s.weibo.com/weibo?q=30%E4%B8%87%E7%BA%A7%E5%94%AF%E4%B8%80%E5%9B%9B%E6%BF%80%E5%85%89%E5%8D%83%E4%BC%8F%E5%A5%95%E5%A2%83X9",
+    "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E9%94%AE%E5%81%9C%E6%B4%97%E5%85%85%E7%94%A8%E8%BD%A6%E6%9B%B4%E8%BD%BB%E6%9D%BE",
     "board": "微博热搜榜",
     "tokens": [
-     "万级",
-     "唯一",
-     "激光",
-     "千伏",
-     "奕境",
-     "X9"
+     "一键",
+     "洗充",
+     "用车",
+     "轻松"
     ]
    },
    {
@@ -1748,37 +1748,34 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "Black Friday",
+    "title": "#MacysParade",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 4,
-    "url": "https://twitter.com/search?q=Black%20Friday",
+    "url": "https://twitter.com/search?q=%23MacysParade",
     "board": "X Trending (24h)",
     "tokens": [
-     "Black",
-     "Friday"
+     "MacysParade"
     ]
    },
    {
-    "title": "受贿5.87亿余元，广西自治区政府原主席蓝天立一审被判死缓",
+    "title": "经济日报刊文：“399元羽绒服卖断货”是消费降级吗？",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 4,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34574989",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34579821",
     "board": "澎湃新闻",
     "tokens": [
-     "受贿",
-     "5.87",
-     "亿余元",
-     "广西",
-     "自治区",
-     "政府",
-     "主席",
-     "蓝天"
+     "经济日报",
+     "刊文",
+     "羽绒服",
+     "卖断",
+     "消费",
+     "降级"
     ]
    },
    {
@@ -1819,55 +1816,49 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "哈尔滨清雪大军执行力拉满",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 6618000,
-    "rank": 5,
-    "url": "https://so.toutiao.com/search?keyword=%23%E5%93%88%E5%B0%94%E6%BB%A8%E6%B8%85%E9%9B%AA%E5%A4%A7%E5%86%9B%E6%89%A7%E8%A1%8C%E5%8A%9B%E6%8B%89%E6%BB%A1%23",
-    "board": "今日头条热榜",
-    "tokens": [
-     "哈尔滨",
-     "清雪",
-     "大军",
-     "执行力",
-     "拉满"
-    ]
-   },
-   {
-    "title": "A 股迎史诗级暴涨，沪深两市成交额重回 2 万亿，创业板指放量大涨超 11%，超 400 只个股涨停，发生了什么？",
+    "title": "如果把天山凿一个洞，让大西洋水汽进来，能否让新疆变成塞上江南？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1390000,
+    "heat": 2820000,
     "rank": 5,
-    "url": "https://www.zhihu.com/question/2109643924381726663",
+    "url": "https://www.zhihu.com/question/2109560773571777098",
     "board": "知乎热榜",
     "tokens": [
-     "股迎",
-     "史诗",
-     "暴涨",
-     "两市",
-     "成交额",
-     "重回",
-     "万亿",
-     "创业板"
+     "如果",
+     "天山",
+     "大西洋",
+     "水汽",
+     "进来",
+     "能否",
+     "新疆",
+     "变成"
     ]
    },
    {
-    "title": "许飞 天娱前员工",
+    "title": "男子花42元买彩票中625万",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 2597000,
+    "rank": 5,
+    "url": "https://so.toutiao.com/search?keyword=%23%E7%94%B7%E5%AD%90%E8%8A%B142%E5%85%83%E4%B9%B0%E5%BD%A9%E7%A5%A8%E4%B8%AD625%E4%B8%87%23",
+    "board": "今日头条热榜",
+    "tokens": [
+     "彩票"
+    ]
+   },
+   {
+    "title": "白小纯的19岁好苦",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 100000,
+    "heat": 520000,
     "rank": 5,
-    "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E+%E5%A4%A9%E5%A8%B1%E5%89%8D%E5%91%98%E5%B7%A5",
+    "url": "https://s.weibo.com/weibo?q=%E7%99%BD%E5%B0%8F%E7%BA%AF%E7%9A%8419%E5%B2%81%E5%A5%BD%E8%8B%A6",
     "board": "微博热搜榜",
     "tokens": [
-     "许飞",
-     "天娱",
-     "员工"
+     "白小纯"
     ]
    },
    {
@@ -1919,36 +1910,37 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "#HereWeGo",
+    "title": "Small Business Saturday",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 5,
-    "url": "https://twitter.com/search?q=%23HereWeGo",
+    "url": "https://twitter.com/search?q=Small%20Business%20Saturday",
     "board": "X Trending (24h)",
     "tokens": [
-     "HereWeGo"
+     "Small",
+     "Business",
+     "Saturday"
     ]
    },
    {
-    "title": "雅迪、台铃、爱玛、小牛等15家电动自行车企业被集中约谈",
+    "title": "歼-35A飞抵珠海，将首次真机进馆展出",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 5,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34574923",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34581386",
     "board": "澎湃新闻",
     "tokens": [
-     "雅迪",
-     "台铃",
-     "爱玛",
-     "小牛",
-     "电动",
-     "自行车",
-     "企业",
-     "集中"
+     "35A",
+     "飞抵",
+     "珠海",
+     "首次",
+     "真机",
+     "进馆",
+     "展出"
     ]
    },
    {
@@ -1968,56 +1960,56 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "武契奇称一旦绝食将不接受救治",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 5988000,
-    "rank": 6,
-    "url": "https://so.toutiao.com/search?keyword=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E7%A7%B0%E4%B8%80%E6%97%A6%E7%BB%9D%E9%A3%9F%E5%B0%86%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%95%91%E6%B2%BB%23",
-    "board": "今日头条热榜",
-    "tokens": [
-     "武契奇",
-     "一旦",
-     "绝食",
-     "接受",
-     "救治"
-    ]
-   },
-   {
-    "title": "特斯拉和 SpaceX 冲刺年底合并，将成人类史上最大并购案，马斯克为何要合并两家公司？",
+    "title": "如何看待济南医保官方视频号工作人员误以为直播结束，骂咨询者脑子有病，医保局回应称已批评教育并要求道歉？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1360000,
+    "heat": 2650000,
     "rank": 6,
-    "url": "https://www.zhihu.com/question/2109592384853861548",
+    "url": "https://www.zhihu.com/question/2109655670127605450",
     "board": "知乎热榜",
     "tokens": [
-     "特斯拉",
-     "SpaceX",
-     "冲刺",
-     "年底",
-     "合并",
-     "将成",
-     "人类史上",
-     "最大"
+     "看待",
+     "济南",
+     "医保",
+     "工作人员",
+     "误以为",
+     "结束",
+     "咨询者",
+     "脑子"
     ]
    },
    {
-    "title": "见到真正的非暴力沟通了",
+    "title": "法国为何要欢迎中国车企建厂",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 2126000,
+    "rank": 6,
+    "url": "https://so.toutiao.com/search?keyword=%23%E6%B3%95%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E6%AC%A2%E8%BF%8E%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E5%BB%BA%E5%8E%82%23",
+    "board": "今日头条热榜",
+    "tokens": [
+     "法国",
+     "为何",
+     "欢迎",
+     "中国",
+     "车企",
+     "建厂"
+    ]
+   },
+   {
+    "title": "大额存单10万元就能买了",
     "platform": "weibo",
     "platformName": "微博",
     "emoji": "🐦",
-    "heat": 100000,
+    "heat": 510000,
     "rank": 6,
-    "url": "https://s.weibo.com/weibo?q=%E8%A7%81%E5%88%B0%E7%9C%9F%E6%AD%A3%E7%9A%84%E9%9D%9E%E6%9A%B4%E5%8A%9B%E6%B2%9F%E9%80%9A%E4%BA%86",
+    "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%9510%E4%B8%87%E5%85%83%E5%B0%B1%E8%83%BD%E4%B9%B0%E4%BA%86",
     "board": "微博热搜榜",
     "tokens": [
-     "见到",
-     "真正",
-     "非暴力",
-     "沟通"
+     "大额",
+     "存单",
+     "万元"
     ]
    },
    {
@@ -2071,36 +2063,35 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "#DENvsPIT",
+    "title": "#Caturday",
     "platform": "x",
     "platformName": "X",
     "emoji": "✳️",
     "heat": 0,
     "rank": 6,
-    "url": "https://twitter.com/search?q=%23DENvsPIT",
+    "url": "https://twitter.com/search?q=%23Caturday",
     "board": "X Trending (24h)",
     "tokens": [
-     "DENvsPIT"
+     "Caturday"
     ]
    },
    {
-    "title": "四川德阳一体校回应“教练当学生面连摔多部手机”：可能处理问题比较简单粗暴",
+    "title": "当美国民众在抗议数据中心建设浪潮时，他们在抗议些什么",
     "platform": "news",
     "platformName": "新闻",
     "emoji": "📰",
     "heat": 0,
     "rank": 6,
-    "url": "https://www.thepaper.cn/newsDetail_forward_34572642",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34556228",
     "board": "澎湃新闻",
     "tokens": [
-     "四川",
-     "德阳",
-     "体校",
-     "教练",
-     "学生",
-     "面连",
-     "部手机",
-     "可能"
+     "美国",
+     "民众",
+     "抗议",
+     "数据中心",
+     "建设",
+     "浪潮",
+     "抗议"
     ]
    },
    {
@@ -2122,47 +2113,48 @@ window.CATCH_DATA = {
     ]
    },
    {
-    "title": "国家队抄底力度已超“924”",
-    "platform": "news",
-    "platformName": "新闻",
-    "emoji": "📰",
-    "heat": 4436000,
-    "rank": 7,
-    "url": "https://so.toutiao.com/search?keyword=%23%E5%9B%BD%E5%AE%B6%E9%98%9F%E6%8A%84%E5%BA%95%E5%8A%9B%E5%BA%A6%E5%B7%B2%E8%B6%85%E2%80%9C924%E2%80%9D%23",
-    "board": "今日头条热榜",
-    "tokens": [
-     "国家队",
-     "抄底",
-     "力度",
-     "已超"
-    ]
-   },
-   {
-    "title": "商务部开新闻发布会称机关单位带头过紧日子，透露了什么信号？可能有哪些影响？",
+    "title": "央行《大额存单管理办法》公布，个人投资人认购大额存单起点降为不低于 10 万元，如何解读？将带来哪些影响？",
     "platform": "zhihu",
     "platformName": "知乎",
     "emoji": "💡",
-    "heat": 1210000,
+    "heat": 2580000,
     "rank": 7,
-    "url": "https://www.zhihu.com/question/2109592991497189095",
+    "url": "https://www.zhihu.com/question/2109719982065940065",
     "board": "知乎热榜",
     "tokens": [
-     "商务部",
-     "新闻",
-     "发布会",
-     "机关",
-     "单位",
-     "带头",
-     "紧日子",
-     "透露"
+     "央行",
+     "大额",
+     "存单",
+     "管理",
+     "办法",
+     "公布",
+     "个人",
+     "投资人"
+    ]
+   },
+   {
+    "title": "张怡宁久违露面出席活动",
+    "platform": "news",
+    "platformName": "新闻",
+    "emoji": "📰",
+    "heat": 1924000,
+    "rank": 7,
+    "url": "https://so.toutiao.com/search?keyword=%23%E5%BC%A0%E6%80%A1%E5%AE%81%E4%B9%85%E8%BF%9D%E9%9C%B2%E9%9D%A2%E5%87%BA%E5%B8%AD%E6%B4%BB%E5%8A%A8%23",
+    "board": "今日头条热榜",
+    "tokens": [
+     "张怡宁",
+     "久违",
+     "露面",
+     "出席",
+     "活动"
     ]
    }
   ],
   "resonance": [
    {
-    "token": "商务部",
+    "token": "十五日",
     "platforms": [
-     "news",
+     "weibo",
      "zhihu"
     ],
     "count": 2
@@ -2377,11 +2369,11 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "news": 10027000,
-    "zhihu": 570000,
-    "weibo": 120000
+    "weibo": 500000,
+    "zhihu": 560000,
+    "news": 12177000
    },
-   "heat": 10717000,
+   "heat": 13237000,
    "members": [
     {
      "platform": "news",
@@ -3107,25 +3099,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 0,
-    "videos_skipped": 0,
-    "collected": 1010,
-    "want": 1000,
-    "queries": [
-     "世界杯",
-     "U17",
-     "亚洲区",
-     "预选赛",
-     "淘汰赛"
-    ],
-    "cached": 1010,
-    "fresh": 0,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "cached_rejected": 192,
-    "complete": true,
-    "target": 1000
+    "collected": 1000,
+    "reused": true,
+    "target": 1000,
+    "complete": true
    },
    "sentiment": {
     "positive": 13.8,
@@ -3439,13 +3416,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-21T08:00:00+08:00",
-      "label": "08:00",
-      "total": 0,
-      "platforms": {},
-      "type": "measured"
-     },
-     {
       "t": "2026-11-21T10:00:00+08:00",
       "label": "10:00",
       "total": 0,
@@ -3673,16 +3643,27 @@ window.CATCH_DATA = {
        "weibo": 120000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-28T21:00:00+08:00",
+      "label": "21:00",
+      "total": 13237000,
+      "platforms": {
+       "weibo": 500000,
+       "zhihu": 560000,
+       "news": 12177000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-28T08:34:10.771734+08:00",
+    "updatedAt": "2026-11-28T21:55:10.431866+08:00",
     "measuredPoints": 24
    },
    "risk": {
     "score": 32,
     "level": "中"
    },
-   "summary": "本事件由 3 个平台共振（news / weibo / zhihu），综合热度约 10,717,000，各平台分项为 news 10027000 + zhihu 570000 + weibo 120000。本轮触发条目共 5 条，热度居前的是「U17世界杯亚洲9队出战7队晋级」等。系统抓取的真实热评样本 1000 条，其中 1000 条与本事件相关，近 30 天内发布的有 1000 条；情绪分布为积极 13.8%、中性 81.1%、消极 5.1%、愤怒 0.0%，风险等级 中。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
+   "summary": "本事件由 3 个平台共振（news / weibo / zhihu），综合热度约 13,237,000，各平台分项为 weibo 500000 + zhihu 560000 + news 12177000。本轮触发条目共 5 条，热度居前的是「U17世界杯亚洲9队出战7队晋级」等。系统抓取的真实热评样本 1000 条，其中 1000 条与本事件相关，近 30 天内发布的有 1000 条；情绪分布为积极 13.8%、中性 81.1%、消极 5.1%、愤怒 0.0%，风险等级 中。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
@@ -3694,7 +3675,7 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 10,717,000（news 10027000 + zhihu 570000 + weibo 120000）"
+     "value": "约 13,237,000（weibo 500000 + zhihu 560000 + news 12177000）"
     },
     {
      "label": "触发条目",
@@ -3760,11 +3741,10 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "news": 4446000,
-    "zhihu": 1970000,
-    "weibo": 50000
+    "zhihu": 570000,
+    "news": 10000
    },
-   "heat": 6466000,
+   "heat": 580000,
    "members": [
     {
      "platform": "news",
@@ -4490,22 +4470,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 36,
-    "videos_skipped": 182,
     "collected": 846,
-    "want": 1000,
-    "queries": [
-     "国家队",
-     "国务院",
-     "常务会议"
-    ],
-    "cached": 0,
-    "fresh": 846,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 9.6,
@@ -4819,16 +4787,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-20T14:00:00+08:00",
-      "label": "14:00",
-      "total": 8235000,
-      "platforms": {
-       "weibo": 210000,
-       "news": 8025000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-20T17:00:00+08:00",
       "label": "17:00",
       "total": 0,
@@ -5048,16 +5006,26 @@ window.CATCH_DATA = {
        "weibo": 50000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-28T21:00:00+08:00",
+      "label": "21:00",
+      "total": 580000,
+      "platforms": {
+       "zhihu": 570000,
+       "news": 10000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-28T08:34:10.950945+08:00",
+    "updatedAt": "2026-11-28T21:55:10.634663+08:00",
     "measuredPoints": 24
    },
    "risk": {
     "score": 25,
     "level": "低"
    },
-   "summary": "本事件由 3 个平台共振（news / weibo / zhihu），综合热度约 6,466,000，各平台分项为 news 4446000 + zhihu 1970000 + weibo 50000。本轮触发条目共 5 条，热度居前的是「国家队抄底力度已超“924”」等。系统抓取的真实热评样本 846 条，其中 846 条与本事件相关，近 30 天内发布的有 167 条；情绪分布为积极 9.6%、中性 88.0%、消极 2.4%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
+   "summary": "本事件由 3 个平台共振（news / weibo / zhihu），综合热度约 580,000，各平台分项为 zhihu 570000 + news 10000。本轮触发条目共 5 条，热度居前的是「国家队抄底力度已超“924”」等。系统抓取的真实热评样本 846 条，其中 846 条与本事件相关，近 30 天内发布的有 167 条；情绪分布为积极 9.6%、中性 88.0%、消极 2.4%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
@@ -5069,7 +5037,7 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 6,466,000（news 4446000 + zhihu 1970000 + weibo 50000）"
+     "value": "约 580,000（zhihu 570000 + news 10000）"
     },
     {
      "label": "触发条目",
@@ -5132,10 +5100,9 @@ window.CATCH_DATA = {
     "weibo"
    ],
    "platformHeat": {
-    "news": 800000000000,
-    "weibo": 50000
+    "news": 800000005000
    },
-   "heat": 800000050000,
+   "heat": 800000005000,
    "members": [
     {
      "platform": "news",
@@ -5837,21 +5804,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 48,
-    "videos_skipped": 91,
     "collected": 833,
-    "want": 1000,
-    "queries": [
-     "人民币",
-     "存贷款"
-    ],
-    "cached": 0,
-    "fresh": 833,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 13.2,
@@ -6165,16 +6121,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-20T14:00:00+08:00",
-      "label": "14:00",
-      "total": 1343000,
-      "platforms": {
-       "weibo": 360000,
-       "news": 983000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-20T17:00:00+08:00",
       "label": "17:00",
       "total": 0,
@@ -6390,16 +6336,25 @@ window.CATCH_DATA = {
        "weibo": 50000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-28T21:00:00+08:00",
+      "label": "21:00",
+      "total": 800000005000,
+      "platforms": {
+       "news": 800000005000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-28T08:34:11.115500+08:00",
+    "updatedAt": "2026-11-28T21:55:10.796246+08:00",
     "measuredPoints": 24
    },
    "risk": {
     "score": 24,
     "level": "低"
    },
-   "summary": "本事件由 2 个平台共振（news / weibo），综合热度约 800,000,050,000，各平台分项为 news 800000000000 + weibo 50000。本轮触发条目共 2 条，热度居前的是「央行发布人民币存贷款利率管理新规：取消贷款罚息利率的上下限」等。系统抓取的真实热评样本 833 条，其中 833 条与本事件相关，近 30 天内发布的有 242 条；情绪分布为积极 13.2%、中性 83.9%、消极 2.9%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
+   "summary": "本事件由 2 个平台共振（news / weibo），综合热度约 800,000,005,000，各平台分项为 news 800000005000。本轮触发条目共 2 条，热度居前的是「央行发布人民币存贷款利率管理新规：取消贷款罚息利率的上下限」等。系统抓取的真实热评样本 833 条，其中 833 条与本事件相关，近 30 天内发布的有 242 条；情绪分布为积极 13.2%、中性 83.9%、消极 2.9%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
@@ -6411,7 +6366,7 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 800,000,050,000（news 800000000000 + weibo 50000）"
+     "value": "约 800,000,005,000（news 800000005000）"
     },
     {
      "label": "触发条目",
@@ -6447,11 +6402,11 @@ window.CATCH_DATA = {
    "resonance": 2,
    "commentRelevance": {
     "tokens": [
-     "存贷款利率管",
      "币存贷款利率",
-     "贷款利率管理",
+     "民币存贷款利",
      "人民币存贷款",
-     "民币存贷款利"
+     "存贷款利率管",
+     "贷款利率管理"
     ],
     "total": 833,
     "relevant": 833,
@@ -6478,10 +6433,10 @@ window.CATCH_DATA = {
     "weibo"
    ],
    "platformHeat": {
-    "news": 3870000,
-    "weibo": 590000
+    "weibo": 240000,
+    "zhihu": 2370000
    },
-   "heat": 4460000,
+   "heat": 2610000,
    "members": [
     {
      "platform": "news",
@@ -7191,21 +7146,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 54,
-    "videos_skipped": 82,
     "collected": 628,
-    "want": 1000,
-    "queries": [
-     "董明珠",
-     "留学生"
-    ],
-    "cached": 0,
-    "fresh": 628,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 8.3,
@@ -7519,16 +7463,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-20T14:00:00+08:00",
-      "label": "14:00",
-      "total": 33041000,
-      "platforms": {
-       "weibo": 380000,
-       "news": 32661000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-20T17:00:00+08:00",
       "label": "17:00",
       "total": 0,
@@ -7735,16 +7669,26 @@ window.CATCH_DATA = {
        "weibo": 590000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-28T21:00:00+08:00",
+      "label": "21:00",
+      "total": 2610000,
+      "platforms": {
+       "weibo": 240000,
+       "zhihu": 2370000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-28T08:34:11.262678+08:00",
+    "updatedAt": "2026-11-28T21:55:10.942719+08:00",
     "measuredPoints": 24
    },
    "risk": {
     "score": 27,
     "level": "低"
    },
-   "summary": "本事件由 2 个平台共振（news / weibo），综合热度约 4,460,000，各平台分项为 news 3870000 + weibo 590000。本轮触发条目共 3 条，热度居前的是「董明珠当魏建军面数次训斥员工」等。系统抓取的真实热评样本 628 条，其中 628 条与本事件相关，近 30 天内发布的有 532 条；情绪分布为积极 8.3%、中性 88.7%、消极 3.0%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
+   "summary": "本事件由 2 个平台共振（news / weibo），综合热度约 2,610,000，各平台分项为 weibo 240000 + zhihu 2370000。本轮触发条目共 3 条，热度居前的是「董明珠当魏建军面数次训斥员工」等。系统抓取的真实热评样本 628 条，其中 628 条与本事件相关，近 30 天内发布的有 532 条；情绪分布为积极 8.3%、中性 88.7%、消极 3.0%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
@@ -7756,7 +7700,7 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 4,460,000（news 3870000 + weibo 590000）"
+     "value": "约 2,610,000（weibo 240000 + zhihu 2370000）"
     },
     {
      "label": "触发条目",
@@ -7820,10 +7764,9 @@ window.CATCH_DATA = {
     "zhihu"
    ],
    "platformHeat": {
-    "news": 600000,
-    "zhihu": 570000
+    "zhihu": 6840000
    },
-   "heat": 1170000,
+   "heat": 6840000,
    "members": [
     {
      "platform": "news",
@@ -8525,20 +8468,10 @@ window.CATCH_DATA = {
     }
    ],
    "commentStats": {
-    "source": "B站公开评论接口（热度排序 + 二级回复）+ 小红书评论",
-    "videos_scanned": 30,
-    "videos_skipped": 41,
     "collected": 450,
-    "want": 1000,
-    "queries": [
-     "脏乱差"
-    ],
-    "cached": 0,
-    "fresh": 450,
-    "relevanceGate": "仅采集标题与该事件相关的源视频评论",
-    "relevanceBasis": "标题含事件关键词，或与事件触发条目共享 ≥4 字连续片段",
-    "complete": false,
-    "target": 1000
+    "reused": true,
+    "target": 1000,
+    "complete": false
    },
    "sentiment": {
     "positive": 8.9,
@@ -8836,16 +8769,6 @@ window.CATCH_DATA = {
    "trend": {
     "series": [
      {
-      "t": "2026-11-19T12:00:00+08:00",
-      "label": "12:00",
-      "total": 325000,
-      "platforms": {
-       "weibo": 320000,
-       "douyin": 5000
-      },
-      "type": "measured"
-     },
-     {
       "t": "2026-11-19T13:00:00+08:00",
       "label": "13:00",
       "total": 7797000,
@@ -9054,16 +8977,25 @@ window.CATCH_DATA = {
        "zhihu": 570000
       },
       "type": "measured"
+     },
+     {
+      "t": "2026-11-28T21:00:00+08:00",
+      "label": "21:00",
+      "total": 6840000,
+      "platforms": {
+       "zhihu": 6840000
+      },
+      "type": "measured"
      }
     ],
-    "updatedAt": "2026-11-28T08:34:11.369955+08:00",
+    "updatedAt": "2026-11-28T21:55:11.060232+08:00",
     "measuredPoints": 24
    },
    "risk": {
     "score": 30,
     "level": "低"
    },
-   "summary": "本事件由 2 个平台共振（news / zhihu），综合热度约 1,170,000，各平台分项为 news 600000 + zhihu 570000。本轮触发条目共 2 条，热度居前的是「三只松鼠就员工宿舍脏乱差致歉」等。系统抓取的真实热评样本 450 条，其中 450 条与本事件相关，近 30 天内发布的有 123 条；情绪分布为积极 8.9%、中性 85.4%、消极 5.7%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
+   "summary": "本事件由 2 个平台共振（news / zhihu），综合热度约 6,840,000，各平台分项为 zhihu 6840000。本轮触发条目共 2 条，热度居前的是「三只松鼠就员工宿舍脏乱差致歉」等。系统抓取的真实热评样本 450 条，其中 450 条与本事件相关，近 30 天内发布的有 123 条；情绪分布为积极 8.9%、中性 85.4%、消极 5.7%、愤怒 0.0%，风险等级 低。本段仅陈述本轮可核验的数据事实，不含对传播机制的解释；完整的传播阶段梳理与研判要点将在分析层撰写后补入。",
    "facts": [
     {
      "label": "事件类型",
@@ -9075,7 +9007,7 @@ window.CATCH_DATA = {
     },
     {
      "label": "综合热度",
-     "value": "约 1,170,000（news 600000 + zhihu 570000）"
+     "value": "约 6,840,000（zhihu 6840000）"
     },
     {
      "label": "触发条目",
@@ -9111,10 +9043,10 @@ window.CATCH_DATA = {
    "resonance": 2,
    "commentRelevance": {
     "tokens": [
-     "鼠就员工宿舍",
-     "三只松鼠就员",
-     "松鼠就员工宿",
      "只松鼠就员工",
+     "鼠就员工宿舍",
+     "松鼠就员工宿",
+     "三只松鼠就员",
      "脏乱差致歉"
     ],
     "total": 450,
@@ -9133,5 +9065,5 @@ window.CATCH_DATA = {
    "commentsFile": "assets/data/comments/E05.json"
   }
  ],
- "builtAt": "2026-11-28T08:35:58.875552+08:00"
+ "builtAt": "2026-11-28T21:55:12.820720+08:00"
 };
